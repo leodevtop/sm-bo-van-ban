@@ -1,0 +1,17 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  "html.format.enable": false,
+
+  "editor.detectIndentation": false,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+
+  "prettier.configPath": ".prettierrc",
+
+  "files.exclude": {
+    "dist": true,
+    "node_modules": true
+  }
+}
