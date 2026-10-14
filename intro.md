@@ -1,6 +1,6 @@
 # Mục tiêu hệ thống Văn bản & Hồ sơ
 
-Đối chiếu lại luật hiện hành đến ngày 13/10/2026
+Đối chiếu lại luật hiện hành đến ngày 13/10/2026, bộ / hệ thống văn bản cho công ty lắp dựng, gồm vật tư, chỉ thi công.
 
 ## 1. Thay đổi pháp lý ảnh hưởng đến bộ văn bản
 
