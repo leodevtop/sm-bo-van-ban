@@ -1,6 +1,13 @@
 # Mục tiêu hệ thống Văn bản & Hồ sơ
 
-Đối chiếu lại luật hiện hành đến ngày 13/10/2026, bộ / hệ thống văn bản cho công ty lắp dựng, gồm vật tư, chỉ thi công.
+Đối chiếu lại luật hiện hành đến ngày 13/10/2026, bộ / hệ thống văn bản cho công ty lắp dựng kết cấu thép - nhà xưởng, gồm vật tư, chỉ thi công.
+
+- Loại hình và quy mô: công ty TNHH, khối văn phòng và NS dài hạn ~ 10,
+- Cách thuê công nhân thời vụ: thời vụ theo công trình.
+- Công việc nguy hiểm: có làm việc trên cao, cẩu lắp, hàn cắt, giàn giáo, điện: là lắp dựng kết cấu thép, nhưng đơn giản hóa tránh phức tạp. Cần HS tai nạn
+- Vai trò trong dự án: Chủ yếu thầu phụ, có ISO 45001, HSE (chúng tôi có)
+- Hiện trạng: công ty đã có những văn bản (HĐLĐ, nội quy, thang bảng lương, hồ sơ ATVSLĐ), đã có nhưng chưa đầy đủ, chưa nhất quán, nên làm lại, do cty mới chưa kịp xây dựng. Chuẩn bị thành lập công đoàn.
+- Địa bàn hoạt động: Vùng 1, trụ sở HCM, công trình cả nước, tuyển CN tại địa phương và ký HDLD.
 
 ## 1. Thay đổi pháp lý ảnh hưởng đến bộ văn bản
 
