@@ -1,3 +1,8 @@
+> [!NOTE]
+> **TÀI LIỆU LƯU TRỮ LỊCH SỬ (NĂM 2025):** 
+> Mẫu HĐLĐ này áp dụng mức lương tối thiểu vùng theo Nghị định 74/2024/NĐ-CP (4.960.000 đồng/tháng). 
+> Kể từ ngày 01/01/2026, toàn bộ hợp đồng mới áp dụng mẫu chuẩn 2026 tại file `01_HDLD_Xac_Dinh_Thoi_Han_Cong_Nhan_2026.md` (áp dụng Nghị định 293/2025/NĐ-CP: 5.310.000 đồng/tháng và Luật BHXH 2024).
+
 <div align="center">
 
 **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
@@ -19,7 +24,7 @@
 - Luật Việc làm số 38/2013/QH13 và các văn bản hướng dẫn về bảo hiểm thất nghiệp;
 - Luật An toàn, vệ sinh lao động số 84/2015/QH13;
 - Luật Thuế thu nhập cá nhân số 04/2007/QH12 (sửa đổi, bổ sung) và Nghị quyết số 954/2020/UBTVQH14 về mức giảm trừ gia cảnh;
-- Quy chế tài chính, Quy chế tiền lương Công ty TNHH ………………………………………
+- Quy chế tài chính, Quy chế tiền lương Công ty TNHH SAMIN.
 
 ---
 
@@ -35,7 +40,7 @@
 **Chúng tôi, một bên là:**
 - Ông/Bà: ………………………………… &emsp; Quốc tịch: Việt Nam
 - Chức vụ: Giám đốc
-- Đại diện cho: **CÔNG TY TNHH ………………………………………**
+- Đại diện cho: **CÔNG TY TNHH SAMIN**
 - Địa chỉ: ………………………………………………………………………………………
 
 **Và một bên là:**
@@ -113,12 +118,10 @@ Thỏa thuận ký kết hợp đồng lao động và cam kết thực hiện �
 
 ---
 
-*Hợp đồng này làm tại ……………………………………………………, ngày …… tháng …… năm 2025.*
+*Hợp đồng này làm tại TP. Hồ Chí Minh, ngày …… tháng …… năm 2025.*
 
 <br>
 
-| **NGƯỜI LAO ĐỘNG (BÊN B)**<br>*(Ký, ghi rõ họ tên)* | | **ĐẠI DIỆN NGƯỜI SỬ DỤNG LAO ĐỘNG (BÊN A)**<br>*(Ký, ghi rõ họ tên và đóng dấu)* |
+| **NGƯỜI LAO ĐỘNG (BÊN B)**<br>*(Ký, ghi rõ họ tên)* | | **CÔNG TY TNHH SAMIN (BÊN A)**<br>**GIÁM ĐỐC**<br>*(Ký, ghi rõ họ tên và đóng dấu)* |
 |:---:|:---:|:---:|
-| | | |
-| | | |
-| ……………………………… | | ……………………………… |
+| <br><br><br><br>……………………………… | | <br><br><br><br>……………………………… |

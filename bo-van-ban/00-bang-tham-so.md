@@ -30,11 +30,13 @@
 |---|---|---|---|
 | Lương tối thiểu vùng I (làm **sàn chung** cho mọi công nhân của công ty) | 5.310.000 đồng/tháng (từ 01/01/2026) | Nghị định 293/2025/NĐ-CP | ✔ |
 | Lương tối thiểu vùng II / III / IV (chỉ để tham khảo, công ty dùng sàn vùng I) | 4.730.000 / 4.140.000 / 3.700.000 đồng/tháng | Nghị định 293/2025/NĐ-CP | ◐ |
-| Lao động đã qua học nghề, đào tạo | Trả cao hơn mức tối thiểu ít nhất 7% | Bộ luật Lao động 2019 và nghị định lương tối thiểu vùng | ◐ |
+| Lao động đã qua học nghề, đào tạo | Pháp luật hiện hành (từ BLLĐ 2019, NĐ 38/2022, NĐ 293/2025) không còn bắt buộc cứng sàn +7%; Công ty tự thỏa thuận theo tay nghề và cam kết trong HĐLĐ/Thang bảng lương (khuyến khích ≥ sàn vùng I + 7%) | BLLĐ 2019, Nghị định 293/2025/NĐ-CP | ✔ |
 | Người lao động đóng BHXH 8% + BHYT 1,5% + BHTN 1% | 10,5% | Luật BHXH 2024, Luật BHYT, Luật Việc làm 2025 | ◐ |
 | Công ty đóng (gồm BHXH, TNLĐ-BNN, BHYT, BHTN) | 21,5% (TNLĐ-BNN 0,5% nằm trong BHXH) | như trên | ◐ |
 | Kinh phí công đoàn | 2% quỹ lương làm căn cứ đóng BHXH | Luật Công đoàn 2024 | ◐ |
 | Ngưỡng bắt buộc đóng BHXH theo hợp đồng lao động | Từ đủ 1 tháng trở lên | Luật BHXH 2024 | ✔ |
+| Hình thức chi trả tiền lương | Bắt buộc chuyển khoản qua tài khoản ngân hàng của người lao động (áp dụng thanh toán không dùng tiền mặt) | Luật Thuế TNDN, Luật Quản lý thuế | ✔ |
+| Chế độ kế toán áp dụng | Thông tư 133/2016/TT-BTC (Chế độ kế toán Doanh nghiệp nhỏ và vừa) | Bộ Tài chính | ✔ |
 
 ### II.2. Thuế thu nhập cá nhân (lương, tiền công)
 
@@ -147,8 +149,8 @@
 | Tham số | Giá trị |
 |---|---|
 | Quỹ KPI công trình (% tiền thực nhận của công trình) | `{{KPI_QUY_PCT}}` **ĐIỀN** |
-| Tỷ lệ quỹ chia cho phòng Thi công / Dự án / Kinh doanh / Kế toán | `{{KPI_PCT_THI_CONG}}` / `{{KPI_PCT_DU_AN}}` / `{{KPI_PCT_KINH_DOANH}}` / `{{KPI_PCT_KE_TOAN}}` **ĐIỀN** (tổng 100%) |
-| Tỷ lệ ưu tiên của sale chính trong phần của phòng Kinh doanh | 40% (mặc định) |
+| Tỷ lệ quỹ chia cho 03 phòng tham gia KPI (Thi công / Dự án kiêm KD / Kế toán - TC) | `{{KPI_PCT_THI_CONG}}` / `{{KPI_PCT_DU_AN}}` / `{{KPI_PCT_KE_TOAN}}` **ĐIỀN** (tổng 100%). *Ghi chú: Phòng HCNS không tham gia chia quỹ KPI dự án theo cơ cấu thực tế.* |
+| Tỷ lệ ưu tiên của sale/phụ trách dự án chính trong phần của phòng Dự án (kiêm KD) | 40% (mặc định) |
 | Trọng số điểm KPI cá nhân | Tiến độ 20%; chất lượng nghiệm thu 20%; an toàn 30%; chi phí 15%; tuân thủ quy trình, hồ sơ 15% |
 | Thời hạn khiếu nại bảng KPI | 07 ngày kể từ ngày công bố |
 | Phụ cấp công trường (ở xa, lưu trú, đi lại) | `{{PHU_CAP_CONG_TRUONG}}` đồng/ngày **ĐIỀN** |

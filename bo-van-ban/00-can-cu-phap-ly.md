@@ -37,6 +37,7 @@
 | Luật Xây dựng 2025, **Điều 61**: các trường hợp nhà thầu thi công có quyền dừng thi công | B4 | ◐ (đọc nguyên văn) |
 | Quy định hợp đồng xây dựng hiện hành (kiểm tra văn bản hướng dẫn sau Luật Xây dựng 2025) | D2 | ◐ |
 | Luật Kế toán, Luật Quản lý thuế, Luật Thuế GTGT, Luật Thuế TNDN hiện hành; quy định hóa đơn điện tử | D3 | ◐ |
+| Thông tư 133/2016/TT-BTC (chế độ kế toán doanh nghiệp nhỏ và vừa; ban hành hệ thống chứng từ kế toán bao gồm Phiếu chi mẫu 02-TT, Bảng thanh toán lương mẫu 02-LĐTL) | D3, Nhóm III | ✔ |
 | TCVN về gia công, lắp ráp, nghiệm thu kết cấu thép (ví dụ TCVN 170:2007) | D1 | ◐ |
 
 ## 4. Dữ liệu cá nhân

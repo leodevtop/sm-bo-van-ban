@@ -115,60 +115,79 @@ Hệ thống HSE riêng; nếu đã có thì chỉ cần đối chiếu và bổ
 
 # Cấu trúc tài liệu Quản lý Samin hiện tại (QL_SM)
 
-Hệ thống tài liệu, hồ sơ biểu mẫu và quy chế quản lý được phân loại theo các nhóm nghiệp vụ chính:
+Hệ thống tài liệu, hồ sơ biểu mẫu và quy chế quản lý được phân loại và chuẩn hóa số hiệu file (STT) theo đúng các nhóm nghiệp vụ trong [bang-doi-chieu.md](bang-doi-chieu.md):
 
 ```text
 QL_SM/
-├── HS_Hop_Dong_Lao_Dong/                       # Nhóm Hợp đồng lao động mẫu
-│   ├── HDLD_Mau_Cong_Ty_Lap_Dung_2025.md       # Mẫu HĐLĐ áp dụng năm 2025
-│   └── HDLD_Mau_Cong_Ty_Lap_Dung_2026.md       # Mẫu HĐLĐ áp dụng năm 2026 (Luật BHXH 2024 mới)
+├── bo-van-ban/                                   # Bộ văn bản quản lý và vận hành khung (00, A1–A4, B1–B4, C1–C2, D1–D4)
+│   ├── 00-bang-tham-so.md                        # Bảng tham số nội bộ & pháp lý
+│   ├── 00-can-cu-phap-ly.md                      # Căn cứ pháp lý chung & mốc rà soát
+│   └── ...
 │
-├── HS_Tai_Chinh_Ke_Toan/                       # Nhóm Tài chính - Kế toán & Lương thưởng
-│   ├── 01_Phieu_Chi.md                         # Mẫu phiếu chi (TT 99/2025/TT-BTC)
-│   ├── 02_Phieu_Thanh_Toan_Tien_Luong.md       # Mẫu phiếu thanh toán ti ền lương
-│   ├── 03_Quy_Che_Luong_2025.md                # Quy chế lương thưởng, phụ cấp 2025
-│   └── 04_Quy_Che_Luong_KPI_Du_An_2025.md      # Quy chế lương KPI dự án 2025
+├── I_Hop_Dong_Nhan_Su/                           # Nhóm I: HỢP ĐỒNG & NHÂN SỰ (A1, A4)
+│   ├── 01_HDLD_Xac_Dinh_Thoi_Han_Cong_Nhan_2026.md # HĐLĐ mẫu năm 2026 (STT 1)
+│   ├── 08_Quy_Che_Dieu_Hanh_Nhan_Su_va_Vong_Doi_Cong_Nhan.md # Quy chế điều hành & vòng đời thợ (STT 8)
+│   ├── 09_Quyet_Dinh_Dieu_Dong_Den_Cong_Truong.md # QĐ điều động công trường (STT 9)
+│   ├── 10_Don_Xin_Nghi_Khong_Huong_Luong.md       # Đơn xin nghỉ không lương (STT 10)
+│   ├── 11_Quyet_Dinh_Cho_Nghi_Khong_Huong_Luong.md # QĐ chấp thuận nghỉ không lương (STT 11)
+│   └── archive/                                  # Thư mục lưu trữ tài liệu lịch sử
+│       └── HDLD_Mau_Cong_Ty_Lap_Dung_2025.md     # Bản lưu lịch sử năm 2025 (NĐ 74/2024 cũ)
 │
-├── HS_Nhan_Su/                                 # Nhóm Hành chính - Nhân sự
-│   ├── 01_Quy_Che_Quan_Ly_Dieu_Hanh_Nhan_Su.md # Quy chế điều hành nhân sự & điều động công trường
-│   ├── 02_Quyet_Dinh_Dieu_Dong_Nhan_Su.md      # Quyết định điều động nhân sự đến công trình
-│   ├── 03_Don_Xin_Nghi_Khong_Luong.md          # Đơn xin nghỉ việc không hưởng lương
-│   └── 04_Quyet_Dinh_Cho_Nghi_Khong_Luong.md   # Quyết định chấp thuận nghỉ không lương
+├── III_Luong_Thuong_Ke_Toan/                     # Nhóm III: LƯƠNG, THƯỞNG, KPI & KẾ TOÁN (A3, D3)
+│   ├── 22_Quy_Che_Tien_Luong_Thuong_Phu_Cap_2026.md # Quy chế tiền lương 2026 (STT 22, tích hợp STT 24 Thang bảng lương)
+│   ├── 23_Quy_Che_Luong_KPI_Du_An_2026.md        # Quy chế lương KPI dự án 2026 (STT 23)
+│   ├── 27_Phieu_Chi_Mau_02_TT.md                 # Phiếu chi Mẫu 02-TT theo TT 133/2016/TT-BTC (STT 27)
+│   └── 28_Phieu_Luong_Ca_Nhan.md                 # Phiếu lương cá nhân Mẫu 02-LĐTL theo TT 133/2016 (STT 28)
 │
-└── HS_TNLD/                                    # Nhóm Hồ sơ Tai nạn lao động (ATVSLĐ & BHXH)
-    ├── 00_Bo_Ho_So_Xac_Dinh_TNLD.md            # Cẩm nang tổng quan & quy trình xử lý TNLĐ
-    ├── 01_Quyet_Dinh_Thanh_Lap_Doan_Dieu_Tra_TNLD.md
-    ├── 02_Bien_Ban_Kham_Nghiem_Hien_Truong.md
-    ├── 03_Ban_Tuong_Trinh_TNLD.md
-    ├── 04_Bien_Ban_Dieu_Tra_TNLD_Phu_Luc_IX_ND39.md
-    ├── 05_Bien_Ban_Hop_Cong_Bo_Dieu_Tra.md
-    ├── 06_Quyet_Dinh_Boi_Thuong_Tro_Cap_TNLD.md
-    └── 07_Checklist_Danh_Muc_Ho_So_TNLD_va_BHXH.md
+├── IV_HSE_An_Toan_TNLD/                          # Nhóm IV: HSE, AN TOÀN & TNLĐ (B1, B2, B3, B4)
+│   ├── 46_Quy_Trinh_Xu_Ly_va_Dieu_Tra_TNLD_Su_Co.md # Quy trình xử lý & điều tra TNLĐ, sự cố (STT 46)
+│   ├── 50_Quyet_Dinh_Thanh_Lap_Doan_Dieu_Tra_TNLD_Co_So.md # QĐ thành lập Đoàn điều tra cơ sở (STT 50)
+│   ├── 51_Bien_Ban_Kham_Nghiem_Hien_Truong.md    # Biên bản khám nghiệm hiện trường kết cấu thép (STT 51)
+│   ├── 52_Ban_Tuong_Trinh_TNLD_Mau_TT01.md       # Bản tường trình tai nạn TT-01 (STT 52)
+│   ├── 54_Bien_Ban_Dieu_Tra_TNLD_Phu_Luc_IX_ND39.md # Biên bản điều tra TNLĐ Phụ lục IX NĐ 39/2016 (STT 54)
+│   ├── 55_Bien_Ban_Hop_Cong_Bo_Bien_Ban_Dieu_Tra_Phu_Luc_XI.md # Biên bản họp công bố Phụ lục XI NĐ 39/2016 (STT 55)
+│   ├── 57_Quyet_Dinh_Boi_Thuong_Tro_Cap_TNLD.md  # QĐ bồi thường / trợ cấp TNLĐ (STT 57)
+│   └── 58_Checklist_Danh_Muc_Ho_So_TNLD_va_BHXH.md # Bảng kiểm tra hồ sơ TNLĐ & BHXH (STT 58)
+│
+└── bang-doi-chieu.md                             # Bảng đối chiếu chi tiết 80 đầu mục văn bản & tiến độ thực hiện
 ```
-
-# Danh mục văn bản cần lập (ban hành) & Bảng đối chiếu mức độ đáp ứng
-
-Bảng dưới đây tổng hợp toàn bộ các **văn bản và hồ sơ có thể ban hành / áp dụng chính thức** (loại bỏ các tài liệu thuần túy là hướng dẫn, sổ theo dõi hoặc căn cứ tra cứu như `00-README`, `00-bang-tham-so`, `00-can-cu-phap-ly`, `00-doi-chieu...`), đối chiếu giữa **Mục tiêu hệ thống văn bản (1) trong `files/`** và **Tài liệu hiện có (2) trong `QL_SM`**.
-
-### Tóm tắt tổng quan mức độ đáp ứng:
-
-- **Tài liệu hiện có trong (2) (`QL_SM/HS_*`)**: Gồm **18 văn bản / biểu mẫu** đã được xây dựng, **đều có giá trị sử dụng và đã đáp ứng trọn vẹn hoặc một phần các mục tiêu tương ứng trong (1)**:
-  - Hoàn chỉnh 100% nhóm Hồ sơ Tai nạn lao động (`HS_TNLD` đáp ứng trọn vẹn nhóm B3).
-  - Có sẵn 2 mẫu HĐLĐ thi công 2025 và 2026 (đáp ứng HĐLĐ thời vụ của nhóm A1).
-  - Có sẵn Quy chế lương 2025 và Quy chế KPI dự án (đáp ứng nhóm A3).
-  - Có sẵn Quy chế điều hành nhân sự, Quyết định điều động, Đơn và Quyết định nghỉ không lương (đáp ứng nhóm A4/C1).
-  - Có sẵn Phiếu chi và Phiếu thanh toán tiền lương chuẩn kế toán (đáp ứng biểu mẫu nhóm D3).
-- **Văn bản cần lập mới / ban hành bổ sung từ `files/`**: Tập trung vào các quy chế/quy trình doanh nghiệp và hồ sơ công trường còn thiếu:
-  - HĐLĐ văn phòng dài hạn, Thư thử việc, Thỏa thuận chấm dứt, Cam kết dữ liệu & bảo mật (A1).
-  - Nội quy lao động đăng ký cơ quan nhà nước, Nội quy công trường (A2).
-  - Sổ tay HSE, Chính sách HSE, Kế hoạch ATVSLĐ năm (B1).
-  - Bộ 13 biểu mẫu hồ sơ an toàn từng công trình (B2).
-  - Điều khoản an toàn và bảo hiểm với Tổng thầu (B4).
-  - Quy chế tổ chức phân quyền công ty (C1) & Quy chế dữ liệu cá nhân (C2).
-  - Quy trình thi công nghiệm thu (D1), Quy trình kinh doanh & mẫu hợp đồng thi công (D2), Quy chế dân chủ cơ sở (D4).
 
 ---
 
-## Bảng đối chiếu chi tiết theo từng nhóm nghiệp vụ
+## Nguyên tắc tổ chức và quản trị hồ sơ của Công ty
 
-Chi tiết tại `./bang-doi-chieu.md`
+1. **Thẩm quyền ký kết:** Thống nhất **Giám đốc** là người có thẩm quyền duy nhất ký toàn bộ quyết định, quy chế, hợp đồng và phê duyệt biểu mẫu cấp Công ty.
+2. **Cơ cấu tổ chức thực tế:** Gồm 04 phòng ban chức năng:
+   - Phòng Thi công (quản lý công trường, chỉ huy trưởng, kỹ thuật, an toàn và tổ thợ);
+   - Phòng Dự án (kiêm Kinh doanh – đàm phán hợp đồng thầu phụ, bóc tách khối lượng, vật tư);
+   - Phòng Kế toán – Tài chính (kế toán, dòng tiền, thanh toán khối lượng, lương và bảo hiểm);
+   - Phòng Hành chính – Nhân sự (hồ sơ lao động, đăng ký người lao động, dữ liệu cá nhân; **không tham gia quỹ thưởng KPI dự án**).
+3. **Vai trò hợp đồng:** Công ty chủ yếu làm **nhà thầu phụ** (soạn điều khoản riêng cho mục 73–74); các dự án trực tiếp với xưởng sẽ bổ sung sau.
+4. **Chế độ kế toán áp dụng:** Áp dụng **Thông tư số 133/2016/TT-BTC** ngày 26/08/2016 của Bộ Tài chính dành cho doanh nghiệp nhỏ và vừa (chứng từ kế toán phiếu chi Mẫu 02-TT, bảng thanh toán tiền lương Mẫu 02-LĐTL).
+5. **Điều tra TNLĐ cơ sở:** Công ty mới lập Công đoàn cơ sở, chưa có chuyên trách y tế và HSE riêng => Đoàn điều tra TNLĐ cấp cơ sở gồm 04 thành viên: **Giám đốc** (Trưởng đoàn), **Người phụ trách an toàn**, **Chỉ huy trưởng công trình** và **Đại diện người lao động** (BCH Công đoàn cơ sở / Đại diện tập thể NLĐ); phối hợp cùng đại diện Ban An toàn Tổng thầu.
+6. **Chính sách lao động & tiền lương năm 2026:**
+   - Bắt buộc trả lương chuyển khoản qua tài khoản ngân hàng chính chủ của người lao động (áp dụng thanh toán không dùng tiền mặt cho các khoản từ 5 triệu đồng trở lên).
+   - Làm thêm giờ áp dụng giới hạn chuẩn **không quá 200 giờ/năm** (Điều 107 BLLĐ 2019).
+   - Tuyệt đối không áp dụng phạt tiền, trừ lương thay kỷ luật lao động (Điều 127 BLLĐ 2019).
+   - Tích hợp hệ thống Thang bảng lương trực tiếp vào Quy chế tiền lương (Điều 5).
+
+---
+
+# Danh mục văn bản cần lập (ban hành) & Bảng đối chiếu mức độ đáp ứng
+
+Bảng đối chiếu chi tiết giữa **Hệ thống văn bản nền tảng (`bo-van-ban/`)** và **Tài liệu hiện có (`I_*`, `III_*`, `IV_*`)** được quản lý tại file [bang-doi-chieu.md](bang-doi-chieu.md).
+
+### Tóm tắt tổng quan mức độ đáp ứng:
+
+- **Tài liệu hiện có trong các thư mục `I_*`, `III_*`, `IV_*`:** Gồm **18 văn bản / biểu mẫu** (17 tài liệu áp dụng năm 2026 + 01 bản lưu lịch sử 2025), đã được tinh chỉnh hoàn thiện 100% nội dung pháp lý và cơ cấu thực tế:
+  - Nhóm I (Hợp đồng & Nhân sự): 05 văn bản hoạt động (HĐLĐ công nhân 2026, Quy chế điều hành nhân sự, QĐ điều động công trường, Đơn và QĐ nghỉ không lương) + 01 bản lưu trữ 2025.
+  - Nhóm III (Lương, Thưởng, Kế toán): 04 văn bản chuẩn (Quy chế tiền lương 2026 tích hợp Thang bảng lương chức danh, Quy chế lương KPI dự án 2026, Phiếu chi Mẫu 02-TT theo TT 133/2016, Phiếu lương cá nhân Mẫu 02-LĐTL theo TT 133/2016).
+  - Nhóm IV (HSE & TNLĐ): 08 văn bản hoàn chỉnh 100% theo các Phụ lục quy chuẩn của Nghị định số 39/2016/NĐ-CP (Quy trình xử lý TNLĐ & sự cố, QĐ thành lập Đoàn điều tra 4 người, Biên bản khám nghiệm hiện trường kết cấu thép, Bản tường trình TT-01, Biên bản điều tra Phụ lục IX, Biên bản họp công bố Phụ lục XI, QĐ bồi thường trợ cấp, Bảng kiểm tra hồ sơ TNLĐ & BHXH).
+- **Văn bản cần lập mới / hoàn thiện tiếp theo (đánh dấu 🟡 trong `bang-doi-chieu.md`):**
+  - Nhóm I: HĐLĐ văn phòng dài hạn (2), Thư thử việc (3), Thỏa thuận chấm dứt HĐLĐ (4), Cam kết bảo mật & dữ liệu NĐ 356/2025 (5), Phụ lục HĐLĐ (6), Checklist hồ sơ nhân sự (7), QĐ chỉ định người phụ trách an toàn/dữ liệu (13), Bộ xử lý kỷ luật (15).
+  - Nhóm II: Bộ Nội quy lao động đăng ký cơ quan nhà nước và Nội quy an toàn công trường (16–21).
+  - Nhóm III: Phiếu đăng ký làm thêm giờ (25), Biên bản chấm thưởng an toàn (26), Quy trình tài chính kế toán công trình (29).
+  - Nhóm IV: Sổ tay HSE (32), Chính sách HSE (33), JSA (34), Kế hoạch ATVSLĐ năm (35), Danh mục thiết bị nghiêm ngặt (37), PTW làm việc trên cao (41), Nhật ký an toàn hằng ngày (42), Phụ lục điều khoản thầu phụ & xác nhận bảo hiểm (59–62).
+  - Nhóm V & VI: Quy chế tổ chức phân quyền (63), Quy chế dữ liệu cá nhân & lưu trữ (64), Quy trình thi công nghiệm thu (67), Hợp đồng thầu phụ chỉ thi công / gồm vật tư (73–74), Quy chế dân chủ cơ sở (78).
+
+Chi tiết tiến độ và phân loại từng mục xem tại: [bang-doi-chieu.md](bang-doi-chieu.md).
