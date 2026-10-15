@@ -1,4 +1,4 @@
-| **CÔNG TY TNHH SAMIN<br>ĐOÀN ĐIỀU TRA TNLĐ CƠ SỞ**<br>Số: ……/2026/BB-CBĐT | | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*……, ngày …… tháng …… năm 2026* |
+| **<<CTY_TEN>><br>ĐOÀN ĐIỀU TRA TNLĐ CƠ SỞ**<br>Số: ……/2026/BB-CBĐT | | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*……, ngày …… tháng …… năm 2026* |
 |---|---|---|
 
 <br>
@@ -26,7 +26,7 @@ Tại: Văn phòng Ban Chỉ huy công trường Dự án: …………………
 ### I. THÀNH PHẦN THAM DỰ CUỘC HỌP:
 
 #### 1. Đại diện Người sử dụng lao động:
-- **Ông/Bà: ……………………………………………** – Chức vụ: **Giám đốc Công ty TNHH SAMIN**.
+- **Ông/Bà: ……………………………………………** – Chức vụ: **Giám đốc <<CTY_TEN>>**.
 
 #### 2. Đoàn điều tra tai nạn lao động cấp cơ sở:
 - **Ông/Bà: ……………………………………………** – Chức vụ: Giám đốc Công ty *(Trưởng đoàn điều tra)*;
@@ -84,4 +84,4 @@ Biên bản họp được lập thành 05 bản, gửi cho Người bị nạn 
 
 | **NGƯỜI BỊ NẠN / ĐẠI DIỆN THÂN NHÂN**<br>*(Ký và ghi rõ họ tên)*<br><br><br><br>**……………………………………** | **ĐẠI DIỆN BCH CÔNG ĐOÀN CƠ SỞ**<br>*(Ký và ghi rõ họ tên)*<br><br><br><br>**……………………………………** |
 |:---:|:---:|
-| **TRƯỞNG ĐOÀN ĐIỀU TRA**<br>*(Ký và ghi rõ họ tên)*<br><br><br><br>**……………………………………** | **ĐẠI DIỆN NGƯỜI SỬ DỤNG LAO ĐỘNG**<br>**GIÁM ĐỐC**<br>*(Ký tên, ghi rõ họ tên và đóng dấu)*<br><br><br><br>**[HỌ VÀ TÊN GIÁM ĐỐC]** |
+| **TRƯỞNG ĐOÀN ĐIỀU TRA**<br>*(Ký và ghi rõ họ tên)*<br><br><br><br>**……………………………………** | **ĐẠI DIỆN NGƯỜI SỬ DỤNG LAO ĐỘNG**<br>**GIÁM ĐỐC**<br>*(Ký tên, ghi rõ họ tên và đóng dấu)*<br><br><br><br>**<<CTY_DAI_DIEN>>** |

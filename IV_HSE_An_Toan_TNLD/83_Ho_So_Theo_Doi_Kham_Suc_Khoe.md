@@ -52,13 +52,11 @@ Người lao động được phép bố trí làm việc lắp dựng kết c�
 |:---:|:---:|---|:---:|:---:|---|:---:|---|:---:|:---:|:---:|:---:|---|
 | *(1)* | *(2)* | *(3)* | *(4)* | *(5)* | *(6)* | *(7)* | *(8)* | *(9)* | *(10)* | *(11)* | *(12)* | *(13)* |
 | 01 | `<<NLD_MA>>` | `<<NLD_HO_TEN>>` | `<<NLD_NGAY_SINH>>` | `<<NLD_CCCD>>` | Thợ lắp dựng kết cấu thép | …/…/2026 | Bệnh viện Đa khoa Tỉnh / TT Y tế | Loại I | $\boxtimes$ Đạt $\square$ Không | `<<NLD_KSK_HAN>>` | …/…/2026 | Đủ thể lực làm việc trên cao |
-| 02 | NV-002 | Nguyễn Văn A | 1988 | 03408800xxxx | Thợ hàn kết cấu thép | …/…/2026 | Phòng khám Đa khoa Quốc tế | Loại II | $\boxtimes$ Đạt $\square$ Không | …/…/2026 | …/…/2026 | Thị lực tốt, chụp X-quang phổi đạt |
-| 03 | NV-003 | Trần Văn B | 1992 | 03609200xxxx | Thợ phụ lắp bu lông móng | …/…/2026 | Bệnh viện Giao thông Vận tải | Loại III | $\square$ Đạt $\boxtimes$ Không | …/…/2026 | …/…/2026 | Tiền sử chóng mặt; **chỉ bố trí việc mặt đất** |
-| 04 | NV-004 | Lê Văn C | 1985 | 03708500xxxx | Thợ lái cần trục bánh lốp | …/…/2026 | Bệnh viện Đa khoa Khu vực | Loại I | $\boxtimes$ Đạt $\square$ Không | …/…/2026 | …/…/2026 | Khám chuyên khoa lái xe/lái cẩu đạt |
-| 05 | NV-005 | Hoàng Văn D | 1995 | 03809500xxxx | Thợ lợp tôn & bắn vít | …/…/2026 | Phòng khám Đa khoa | Loại II | $\boxtimes$ Đạt $\square$ Không | …/…/2026 | …/…/2026 | Thể lực tốt, phản xạ nhanh |
-| 06 | | | | | | | | | $\square$ Đạt $\square$ Không | | | |
-| 07 | | | | | | | | | $\square$ Đạt $\square$ Không | | | |
-| 08 | | | | | | | | | $\square$ Đạt $\square$ Không | | | |
+| 02 | …………… | …………………………………………… | …/…/…… | ………………… | Thợ hàn kết cấu thép | …/…/2026 | …………………………………………… | …… | $\square$ Đạt $\square$ Không | …/…/2026 | …/…/2026 | …………………………………………… |
+| 03 | …………… | …………………………………………… | …/…/…… | ………………… | Thợ phụ lắp bu lông | …/…/2026 | …………………………………………… | …… | $\square$ Đạt $\square$ Không | …/…/2026 | …/…/2026 | …………………………………………… |
+| 04 | …………… | …………………………………………… | …/…/…… | ………………… | Thợ lái cần trục | …/…/2026 | …………………………………………… | …… | $\square$ Đạt $\square$ Không | …/…/2026 | …/…/2026 | …………………………………………… |
+| 05 | …………… | …………………………………………… | …/…/…… | ………………… | Thợ lợp tôn mái | …/…/2026 | …………………………………………… | …… | $\square$ Đạt $\square$ Không | …/…/2026 | …/…/2026 | …………………………………………… |
+| ... | …………… | …………………………………………… | …/…/…… | ………………… | ………………………………… | …/…/2026 | …………………………………………… | …… | $\square$ Đạt $\square$ Không | …/…/2026 | …/…/2026 | …………………………………………… |
 
 ---
 

@@ -104,11 +104,9 @@ Hai bên tự nguyện thỏa thuận giao kết Hợp đồng lao động với
 
 ## Điều 4. Bảo hiểm xã hội, Bảo hiểm y tế và Bảo hiểm thất nghiệp
 
-1. Hai bên trích nộp BHXH, BHYT, BHTN theo đúng quy định của Luật Bảo hiểm xã hội 2024, Luật BHYT và Luật Việc làm 2025.  
-2. Tỷ lệ trích nộp hàng tháng tính trên mức lương làm căn cứ đóng BHXH:  
-   - Người lao động đóng: 10,5% (BHXH 8%, BHYT 1,5%, BHTN 1%).  
-   - Công ty đóng: 21,5% (gồm BHXH, Bảo hiểm TNLĐ-BNN, BHYT, BHTN) theo Bảng tham số hiện hành ◐.  
-3. Công ty thực hiện trích khấu trừ phần người lao động đóng từ tiền lương tháng của Bên B để nộp cho cơ quan BHXH cùng với phần đóng của Công ty.  
+1. Hai bên trích nộp BHXH, BHYT, BHTN, BHTNLĐ-BNN theo đúng quy định của Luật Bảo hiểm xã hội 2024, Luật BHYT, Luật Việc làm 2025 và Luật An toàn, vệ sinh lao động.  
+2. Tỷ lệ trích nộp và mức tiền lương đóng BHXH: Người sử dụng lao động và Người lao động trích nộp các khoản BHXH, BHYT, BHTN, BHTNLĐ-BNN theo đúng tỷ lệ phần trăm và mức tiền lương đóng do pháp luật bảo hiểm xã hội quy định tại từng thời kỳ (chi tiết theo Bảng tham số `00-bang-tham-so.md` ban hành kèm theo).  
+3. Công ty thực hiện trích khấu trừ phần người lao động đóng từ tiền lương tháng của Bên B để nộp cho cơ quan BHXH cùng với phần đóng của Công ty theo quy định.  
 4. Công ty thực hiện thủ tục đăng ký thông tin lao động theo Luật Việc làm 2025 và cập nhật thông tin trong Sổ quản lý lao động của Công ty.
 
 ---

@@ -13,7 +13,7 @@
 <br>
 
 **Kính gửi:**
-- **Ban Giám đốc Công ty TNHH SAMIN;**
+- **Ban Giám đốc <<CTY_TEN>>;**
 - **Phòng Hành chính – Nhân sự;**
 - **Ban Chỉ huy Công trường: ……………………………………………………**
 
@@ -71,4 +71,4 @@ Tôi xin chân thành cảm ơn!
 *(Ký, ghi rõ họ tên và đóng dấu)*
 
 <br><br>
-**[HỌ VÀ TÊN GIÁM ĐỐC]**
+**<<CTY_DAI_DIEN>>**

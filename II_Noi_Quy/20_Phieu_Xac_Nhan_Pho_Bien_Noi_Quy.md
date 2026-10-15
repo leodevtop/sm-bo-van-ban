@@ -1,7 +1,7 @@
 # PHIẾU XÁC NHẬN ĐÃ ĐƯỢC PHỔ BIẾN VÀ CAM KẾT TUÂN THỦ NỘI QUY LAO ĐỘNG & AN TOÀN LAO ĐỘNG
-**Mã văn bản:** `20/XN-PBNQLĐ/<<CTY_MA>>`  
+**Mã văn bản:** `20/XN-PBNQLĐ/<<CTY_TEN_VT>>`  
 **Phiên bản:** `2.0`  
-**Ngày ban hành:** `<<NGAY_BAN_HANH>>`  
+**Ngày ban hành:** `<<VB_NGAY>>/<<VB_THANG>>/<<VB_NAM>>`  
 **Đơn vị quản lý:** Phòng Hành chính – Nhân sự & Ban Chỉ huy công trường `<<CTY_TEN>>`  
 *Biểu mẫu bắt buộc lưu trong Hồ sơ nhân sự cá nhân theo Checklist STT 07*
 
@@ -27,19 +27,19 @@ Số phiếu: `<<SO_PHIEU_XN>>/XN-NQLĐ`
 
 ### I. THÔNG TIN NGƯỜI LAO ĐỘNG
 
-1. Họ và tên: **<<NLĐ_HO_TEN>>**  
-2. Ngày tháng năm sinh: `<<NLĐ_NGAY_SINH>>` | Giới tính: `<<NLĐ_GIOI_TINH>>`
-3. Số CCCD/Thẻ căn cước/Định danh cá nhân: `<<NLĐ_SO_CCCD>>`  
-   - Ngày cấp: `<<NLĐ_NGAY_CAP>>` | Nơi cấp: `<<NLĐ_NOI_CAP>>`
-4. Địa chỉ thường trú: `<<NLĐ_DIA_CHI_THUONG_TRU>>`
-5. Số điện thoại liên hệ: `<<NLĐ_SO_DIEN_THOAI>>`
-6. Số điện thoại người thân khi khẩn cấp: `<<NLĐ_SDT_NGUOI_THAN>>` (Quan hệ: `<<NLĐ_QUAN_HE_NGUOI_THAN>>`)
-7. Vị trí / Chức danh công việc: **<<NLĐ_CHUC_DANH>>**
-8. Đội thi công / Tổ sản xuất: `<<DOI_THI_CONG>>` – Ban Chỉ huy công trường: `<<CT_TEN>>`
+1. Họ và tên: **<<NLD_HO_TEN>>**  
+2. Ngày tháng năm sinh: `<<NLD_NGAY_SINH>>` | Giới tính: `<<NLD_GIOI_TINH>>`
+3. Số CCCD/Thẻ căn cước/Định danh cá nhân: `<<NLD_CCCD>>`  
+   - Ngày cấp: `<<NLD_CCCD_NGAY>>` | Nơi cấp: `<<NLD_CCCD_NOI>>`
+4. Địa chỉ thường trú: `<<NLD_DC_THUONG_TRU>>`
+5. Số điện thoại liên hệ: `<<NLD_DT>>`
+6. Số điện thoại người thân khi khẩn cấp: `<<NLD_LIEN_HE_KC_DT>>` (Quan hệ: `<<NLD_LIEN_HE_KC_TEN>>`)
+7. Vị trí / Chức danh công việc: **<<NLD_CHUC_DANH>>**
+8. Đội thi công / Tổ sản xuất: `<<NLD_BO_PHAN>>` – Ban Chỉ huy công trường: `<<CT_TEN>>`
 9. Loại Hợp đồng lao động đã ký:
-   - [ ] Hợp đồng lao động ngắn hạn dưới 1 tháng (theo ngày/công trình) – Số: `<<HDLD_SO>>`
-   - [ ] Hợp đồng lao động xác định thời hạn 12 tháng (Thợ nòng cốt) – Số: `<<HDLD_SO>>`
-   - [ ] Hợp đồng lao động không xác định thời hạn (Khối Quản lý/Văn phòng) – Số: `<<HDLD_SO>>`
+   - [ ] Hợp đồng lao động ngắn hạn dưới 1 tháng (theo ngày/công trình) – Số: `<<HD_SO>>`
+   - [ ] Hợp đồng lao động xác định thời hạn 12 tháng (Thợ nòng cốt) – Số: `<<HD_SO>>`
+   - [ ] Hợp đồng lao động không xác định thời hạn (Khối Quản lý/Văn phòng) – Số: `<<HD_SO>>`
 
 ---
 
@@ -86,7 +86,7 @@ Phiếu này được lập thành 02 bản: 01 bản Người lao động giữ
 
 ---
 
-*<<TINH_THANH>>, ngày <<NGAY>> tháng <<THANG>> năm <<NAM>>*
+*<<CTY_DIA_DANH>>, ngày <<VB_NGAY>> tháng <<VB_THANG>> năm <<VB_NAM>>*
 
 <table style="width: 100%; border: none;">
   <tr>
@@ -100,7 +100,7 @@ Phiếu này được lập thành 02 bản: 01 bản Người lao động giữ
       <b>NGƯỜI LAO ĐỘNG CAM KẾT</b><br>
       <i>(Tôi đã đọc, hiểu rõ toàn bộ nội dung và cam kết tuân thủ)</i><br>
       <i>(Ký và ghi rõ họ tên)</i><br><br><br><br><br>
-      <b><<NLĐ_HO_TEN>></b>
+      <b><<NLD_HO_TEN>></b>
     </td>
   </tr>
   <tr>
@@ -108,7 +108,7 @@ Phiếu này được lập thành 02 bản: 01 bản Người lao động giữ
       <b>XÁC NHẬN CỦA CHỈ HUY TRƯỞNG CÔNG TRƯỜNG</b><br>
       <i>(Đã kiểm tra kiến thức an toàn cơ bản trước khi cấp thẻ vào công trường)</i><br>
       <i>(Ký và ghi rõ họ tên)</i><br><br><br><br>
-      <b><<CT_CHT>></b>
+      <b><<CT_CHI_HUY_TRUONG>></b>
     </td>
   </tr>
 </table>

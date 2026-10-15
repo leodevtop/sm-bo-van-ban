@@ -1,4 +1,4 @@
-| **CÔNG TY TNHH SAMIN**<br>Địa chỉ: {{DIA_CHI}}<br>Mã số thuế: {{MST}}<br>**Số: ……/2026/QĐ-ĐĐNS** | | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*TP. Hồ Chí Minh, ngày …… tháng …… năm 2026* |
+| **<<CTY_TEN>>**<br>Địa chỉ: <<CTY_DC>><br>Mã số thuế: <<CTY_MST>><br>**Số: ……/2026/QĐ-ĐĐNS** | | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*TP. Hồ Chí Minh, ngày …… tháng …… năm 2026* |
 |---|---|---|
 
 <br>
@@ -11,15 +11,15 @@
 
 ---
 
-**GIÁM ĐỐC CÔNG TY TNHH SAMIN**
+**GIÁM ĐỐC <<CTY_TEN>>**
 
 </div>
 
 *Căn cứ Bộ luật Lao động số 45/2019/QH14 ngày 20/11/2019 của Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam;*
 
-*Căn cứ Hợp đồng lao động số ……/2026/HĐLĐ-SM ký ngày ……/……/2026 giữa Công ty TNHH SAMIN và người lao động;*
+*Căn cứ Hợp đồng lao động số ……/2026/HĐLĐ-SM ký ngày ……/……/2026 giữa <<CTY_TEN>> và người lao động;*
 
-*Căn cứ Quy chế quản lý điều hành nhân sự số 03/2026/QC-SAMIN và Bảng tham số nội bộ của Công ty;*
+*Căn cứ Quy chế quản lý điều hành nhân sự số 03/2026/QC-<<CTY_TEN_VT>> và Bảng tham số nội bộ của Công ty;*
 
 *Xét yêu cầu tiến độ thi công lắp dựng tại Dự án và thỏa thuận thống nhất với người lao động,*
 
@@ -56,5 +56,5 @@ Quyết định này có hiệu lực kể từ ngày ký. Phòng Thi công, Ph�
 
 <br>
 
-| **Ý KIẾN XÁC NHẬN CỦA NGƯỜI LAO ĐỘNG**<br>*(Đã nhận thông báo trước, đồng ý chấp hành điều động)*<br><br><br><br>*(Ký và ghi rõ họ tên)*<br><br>**……………………………………** | **CÔNG TY TNHH SAMIN**<br>**GIÁM ĐỐC**<br>*(Ký tên, ghi rõ họ tên và đóng dấu)*<br><br><br><br>**[HỌ VÀ TÊN GIÁM ĐỐC]** |
+| **Ý KIẾN XÁC NHẬN CỦA NGƯỜI LAO ĐỘNG**<br>*(Đã nhận thông báo trước, đồng ý chấp hành điều động)*<br><br><br><br>*(Ký và ghi rõ họ tên)*<br><br>**……………………………………** | **<<CTY_TEN>>**<br>**GIÁM ĐỐC**<br>*(Ký tên, ghi rõ họ tên và đóng dấu)*<br><br><br><br>**<<CTY_DAI_DIEN>>** |
 |---|---|

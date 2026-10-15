@@ -1,4 +1,4 @@
-| **CÔNG TY TNHH SAMIN**<br>Phòng Hành chính – Nhân sự & Phòng Thi công | | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*TP. Hồ Chí Minh, ngày …… tháng …… năm 2026* |
+| **<<CTY_TEN>>**<br>Phòng Hành chính – Nhân sự & Phòng Thi công | | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*TP. Hồ Chí Minh, ngày …… tháng …… năm 2026* |
 |---|---|---|
 
 <br>
@@ -64,5 +64,5 @@
 
 *Ngày …… tháng …… năm 2026*
 
-| **NGƯỜI LẬP CHECKLIST**<br>*(Chuyên viên Hành chính – Nhân sự)*<br><br><br><br>**……………………………………** | **NGƯỜI PHỤ TRÁCH AN TOÀN**<br>*(Kiểm tra tính đầy đủ của hồ sơ an toàn)*<br><br><br><br>**……………………………………** | **GIÁM ĐỐC CÔNG TY**<br>*(Phê duyệt lưu trữ và giải quyết chế độ)*<br><br><br><br>**[HỌ VÀ TÊN GIÁM ĐỐC]** |
+| **NGƯỜI LẬP CHECKLIST**<br>*(Chuyên viên Hành chính – Nhân sự)*<br><br><br><br>**……………………………………** | **NGƯỜI PHỤ TRÁCH AN TOÀN**<br>*(Kiểm tra tính đầy đủ của hồ sơ an toàn)*<br><br><br><br>**……………………………………** | **GIÁM ĐỐC CÔNG TY**<br>*(Phê duyệt lưu trữ và giải quyết chế độ)*<br><br><br><br>**<<CTY_DAI_DIEN>>** |
 |:---:|:---:|:---:|

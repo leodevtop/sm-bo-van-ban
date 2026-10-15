@@ -276,7 +276,7 @@ Thực hiện trên Cổng Dịch vụ công Quốc gia theo quy định, hồ s
 
 <div align="center">
 
-**CÔNG TY TNHH SAMIN**  
+**<<CTY_TEN>>**  
 **GIÁM ĐỐC**  
 *(Ký tên, đóng dấu và ghi rõ họ tên)*  
 

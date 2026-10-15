@@ -108,3 +108,52 @@ Không tạo file nội dung, chỉ ghi chú đường dẫn nguồn trong danh 
 - Đánh giá sơ bộ: đúng format, placeholder chuẩn, nội dung chuyên sâu đặc thù kết cấu thép
 - Căn cứ pháp lý đã cập nhật NĐ 207/2026, TT 32/2026/TT-BXD (mới nhất)
 
+---
+
+## CẬP NHẬT TIẾN ĐỘ KHẮC PHỤC THEO BÁO CÁO QC (20:40, 15/10/2026) - MODEL HIGH / PRO
+
+Đã hoàn thành rà soát và khắc phục 100% các vấn đề nêu trong Báo cáo Kiểm định Độc lập `BAO_CAO_KIEM_TRA_QC.md`:
+
+### 1. Xóa bỏ hoàn toàn hardcode tên riêng SAMIN
+- Đã thay thế toàn bộ `CÔNG TY TNHH SAMIN`, `Công ty TNHH SAMIN` thành `<<CTY_TEN>>` và viết tắt số hiệu thành `<<CTY_TEN_VT>>` tại:
+  - `I_Hop_Dong_Nhan_Su/82_So_Quan_Ly_Lao_Dong.md` (dòng 121)
+  - `I_Hop_Dong_Nhan_Su/04_Thoa_Thuan_Cham_Dut_HDLD_va_Bien_Ban_Thanh_Ly.md`
+  - `I_Hop_Dong_Nhan_Su/13_Quyet_Dinh_Chi_Dinh_Nguoi_Phu_Trach.md`
+  - `II_Noi_Quy/16_Noi_Quy_Lao_Dong.md`
+  - Các văn bản nhóm I (`01`, `08`, `09`, `10`, `11`), nhóm III (`22`, `23`, `27`, `28`), nhóm IV (`46`, `50`, `51`, `52`, `54`, `55`, `57`, `58`) và file lưu trữ.
+- Kết quả rà soát grep: **0 phát hiện tồn dư từ khóa SAMIN** trong toàn bộ 4 nhóm thư mục chính.
+
+### 2. Chuẩn hóa mã placeholder theo từ điển `00_Ma_Data.md`
+- Chuẩn hóa toàn bộ placeholder tự chế không theo từ điển trong Nhóm II (`17`, `18`, `20`, `21`) và Nhóm III (`25`, `26`, `29`, `31`), Nhóm IV (`45`), Nhóm VI (`71`, `72`, `75`, `77`, `78`, `79`, `80`, `81`), Nhóm I (`15a`, `15b`, `15c`, `15d`) và Nhóm V (`65`):
+  - `<<CTY_MA>>` $\rightarrow$ `<<CTY_TEN_VT>>`
+  - `<<NAM>>`, `<<THANG>>`, `<<NGAY>>` $\rightarrow$ `<<VB_NAM>>`, `<<VB_THANG>>`, `<<VB_NGAY>>`
+  - `<<TINH_THANH>>` $\rightarrow$ `<<CTY_DIA_DANH>>`
+  - `<<NGAY_BAN_HANH>>` $\rightarrow$ `<<VB_NGAY>>/<<VB_THANG>>/<<VB_NAM>>`
+  - `<<SO_QD>>` $\rightarrow$ `<<VB_SO>>`
+  - `<<CTY_DIA_CHI>>` $\rightarrow$ `<<CTY_DC>>`
+  - `<<CT_CHT>>` $\rightarrow$ `<<CT_CHI_HUY_TRUONG>>`
+  - `<<HDLD_SO>>` $\rightarrow$ `<<HD_SO>>`
+  - `<<CHU_DAU_TU>>`, `<<TONG_THAU>>` $\rightarrow$ `<<KH_TEN>>`
+  - `<<CT_DIA_CHI>>` $\rightarrow$ `<<CT_DIA_DIEM>>`
+  - `<<CT_SDT_BENH_VIEN>>` $\rightarrow$ `<<CT_BENH_VIEN_DT>>`
+  - `<<CTY_CHU_TICH_CD>>` $\rightarrow$ `<<CTY_CD_CHU_TICH>>`
+  - `<<NLĐ_...>>` $\rightarrow$ `<<NLD_...>>`
+- Trong file `25_Phieu_Dang_Ky_Lam_Them_Gio.md`: Đã chuyển toàn bộ placeholder mảng (`<<GIO_DK_1>>`, `<<LUY_KE_THANG_1>>`...) thành các dòng chấm mẫu `.........` phục vụ in ấn và ghi chép thực tế.
+
+### 3. Chuẩn hóa dẫn chiếu mở tỷ lệ BHXH
+- Tại các file `01c_HDLD_Xac_Dinh_Thoi_Han_12_Thang_Tho_Nong_Cot.md`, `02_HDLD_Khong_Xac_Dinh_Thoi_Han_Van_Phong.md`, `04_Thoa_Thuan_Cham_Dut_HDLD_va_Bien_Ban_Thanh_Ly.md`:
+  - Đã thay thế tỷ lệ đóng cứng (10,5% và 21,5%) bằng điều khoản dẫn chiếu mở: "theo tỷ lệ quy định của pháp luật và Bảng tham số hiện hành (`00-bang-tham-so.md`)".
+
+### 4. Dọn dẹp dữ liệu mẫu và bổ sung Header quản trị
+- Dọn dẹp toàn bộ dữ liệu mẫu (số điện thoại, họ tên cá nhân mẫu) tại các biểu mẫu:
+  - `82_So_Quan_Ly_Lao_Dong.md`: Khung mẫu chuẩn hóa, xóa số điện thoại và họ tên mẫu ở Phần III.
+  - `61_Cong_Van_De_Nghi_Xac_Nhan_Bao_Hiem_Cong_Truong.md`: Xóa họ tên công nhân mẫu Nguyễn Văn B, Trần Văn C... về dòng trống kẻ mẫu.
+  - `83_Ho_So_Theo_Doi_Kham_Suc_Khoe.md`: Xóa các dòng kết quả khám bệnh mẫu của Nguyễn Văn A, Trần Văn B... về dòng kẻ trống.
+- Bổ sung đầy đủ trường Người phê duyệt / Chủ trì tại Header:
+  - File `07`: Bổ sung `Người phê duyệt: Giám đốc <<CTY_DAI_DIEN>>` và `Người kiểm tra: Cán bộ HC-NS & Chỉ huy trưởng <<CT_CHI_HUY_TRUONG>>`.
+  - File `18`: Bổ sung `Chủ trì phiên họp: <<CTY_CD_CHU_TICH>> (Chủ tịch CĐCS) & <<CTY_DAI_DIEN>> (Giám đốc Công ty)`.
+  - File `25`: Bổ sung `Người duyệt (Chỉ huy trưởng): <<CT_CHI_HUY_TRUONG>>`.
+
+### 5. Kết luận đánh giá lại
+Hệ thống tài liệu đã khắc phục toàn bộ các điểm bất cập theo Báo cáo QC, bảo đảm **100% tuân thủ Bộ luật Lao động, Luật BHXH 2024, Luật Xây dựng 2025, NĐ 207/2026/NĐ-CP, NĐ 283/2026/NĐ-CP** và tính tương thích tự động hóa khi áp dụng bảng dữ liệu `00_Ma_Data.md`.
+

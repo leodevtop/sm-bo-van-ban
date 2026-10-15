@@ -3,6 +3,8 @@
 
 **Mã văn bản:** 07/2026/CK-NS-<<CTY_TEN_VT>> | **Mã hồ sơ nhân sự:** <<NLD_MA>>  
 **Phiên bản:** 2.0 | **Ngày lập kiểm tra:** <<VB_NGAY>>/<<VB_THANG>>/<<VB_NAM>>  
+**Người kiểm tra:** Cán bộ HC-NS & Chỉ huy trưởng `<<CT_CHI_HUY_TRUONG>>`  
+**Người phê duyệt:** Giám đốc `<<CTY_DAI_DIEN>>`  
 **Đơn vị áp dụng:** Phòng Hành chính – Nhân sự & Ban Chỉ huy công trường <<CTY_TEN>>  
 
 ---

@@ -1,4 +1,4 @@
-| **CÔNG TY TNHH SAMIN**<br>**Số: 04/2026/QT-SAMIN** | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*TP. Hồ Chí Minh, ngày 02 tháng 01 năm 2026* |
+| **<<CTY_TEN>>**<br>**Số: 04/2026/QT-<<CTY_TEN_VT>>** | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*TP. Hồ Chí Minh, ngày 02 tháng 01 năm 2026* |
 |---|---|
 
 <br>
@@ -7,7 +7,7 @@
 
 # QUY TRÌNH XỬ LÝ, ĐIỀU TRA TAI NẠN LAO ĐỘNG VÀ SỰ CỐ CÔNG TRƯỜNG
 ### (ÁP DỤNG CHO DOANH NGHIỆP THI CÔNG & LẮP DỰNG KẾT CẤU THÉP)
-*(Ban hành kèm theo Quyết định số 04/2026/QĐ-SAMIN ngày 02/01/2026 của Giám đốc Công ty TNHH SAMIN)*
+*(Ban hành kèm theo Quyết định số 04/2026/QĐ-<<CTY_TEN_VT>> ngày 02/01/2026 của Giám đốc <<CTY_TEN>>)*
 
 ---
 
@@ -102,5 +102,5 @@ Trong vòng **07 ngày** sau cuộc họp công bố, Phòng Thi công và ngư�
 
 <br>
 
-| **NƠI NHẬN:**<br>- Ban Giám đốc (để chỉ đạo);<br>- Ban Chấp hành CĐCS;<br>- Các phòng ban chức năng;<br>- Ban chỉ huy các công trường;<br>- Lưu: VT, HSE, HCNS. | **CÔNG TY TNHH SAMIN**<br>**GIÁM ĐỐC**<br>*(Ký tên, ghi rõ họ tên và đóng dấu)*<br><br><br><br>**[HỌ VÀ TÊN GIÁM ĐỐC]** |
+| **NƠI NHẬN:**<br>- Ban Giám đốc (để chỉ đạo);<br>- Ban Chấp hành CĐCS;<br>- Các phòng ban chức năng;<br>- Ban chỉ huy các công trường;<br>- Lưu: VT, HSE, HCNS. | **<<CTY_TEN>>**<br>**GIÁM ĐỐC**<br>*(Ký tên, ghi rõ họ tên và đóng dấu)*<br><br><br><br>**<<CTY_DAI_DIEN>>** |
 |---|---|

@@ -55,11 +55,12 @@ Kính đề nghị Quý Tổng thầu làm việc với Doanh nghiệp bảo hi�
 | 1 | `<<CT_CHI_HUY_TRUONG>>` | …/…/…… | Nam | ………………… | Chỉ huy trưởng công trình | QĐ bổ nhiệm | $\square$ Đạt |
 | 2 | `<<CT_AT_VIEN>>` | …/…/…… | Nam | ………………… | Cán bộ An toàn (HSE) | Chứng chỉ an toàn | $\square$ Đạt |
 | 3 | `<<NLD_HO_TEN>>` | `<<NLD_NGAY_SINH>>` | `<<NLD_GIOI_TINH>>` | `<<NLD_CCCD>>` | Thợ lắp dựng kết cấu thép | `<<NLD_THE_AT_SO>>` (Hạn: `<<NLD_THE_AT_HAN>>`) | $\square$ Đạt (`<<NLD_KSK_HAN>>`) |
-| 4 | Nguyễn Văn B | …/…/…… | Nam | ………………… | Thợ lái cần trục bánh lốp | Chứng chỉ lái cẩu | $\square$ Đạt |
-| 5 | Trần Văn C | …/…/…… | Nam | ………………… | Thợ xi nhan / Móc cáp cẩu | Thẻ an toàn Nhóm 3 | $\square$ Đạt |
-| 6 | Lê Văn D | …/…/…… | Nam | ………………… | Thợ hàn kết cấu thép 3G/4G | Thẻ an toàn Nhóm 3 | $\square$ Đạt |
-| 7 | Phạm Văn E | …/…/…… | Nam | ………………… | Thợ lắp bu lông trên cao | Thẻ an toàn Nhóm 3 | $\square$ Đạt |
-| 8 | Hoàng Văn F | …/…/…… | Nam | ………………… | Thợ vận hành xe nâng MEWP | Chứng chỉ xe nâng | $\square$ Đạt |
+| 4 | …………………………………………… | …/…/…… | Nam/Nữ | ………………… | Thợ lái cần trục bánh lốp | Chứng chỉ lái cẩu | $\square$ Đạt |
+| 5 | …………………………………………… | …/…/…… | Nam/Nữ | ………………… | Thợ xi nhan / Móc cáp cẩu | Thẻ an toàn Nhóm 3 | $\square$ Đạt |
+| 6 | …………………………………………… | …/…/…… | Nam/Nữ | ………………… | Thợ hàn kết cấu thép 3G/4G | Thẻ an toàn Nhóm 3 | $\square$ Đạt |
+| 7 | …………………………………………… | …/…/…… | Nam/Nữ | ………………… | Thợ lắp bu lông trên cao | Thẻ an toàn Nhóm 3 | $\square$ Đạt |
+| 8 | …………………………………………… | …/…/…… | Nam/Nữ | ………………… | Thợ vận hành xe nâng MEWP | Chứng chỉ xe nâng | $\square$ Đạt |
+| ... | …………………………………………… | …/…/…… | ………… | ………………… | ………………………………… | ……………………… | $\square$ Đạt |
 
 *(Khi có biến động thay đổi, bổ sung nhân sự, `<<CTY_TEN>>` sẽ cập nhật danh sách bổ sung bằng văn bản trước tối thiểu 03 ngày làm việc).*
 

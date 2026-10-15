@@ -1,4 +1,4 @@
-| **CÔNG TY TNHH SAMIN**<br>Địa chỉ: {{DIA_CHI}}<br>Mã số thuế: {{MST}}<br>**Số: ……/2026/QĐ-BTTNLĐ** | | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*TP. Hồ Chí Minh, ngày …… tháng …… năm 2026* |
+| **<<CTY_TEN>>**<br>Địa chỉ: <<CTY_DC>><br>Mã số thuế: <<CTY_MST>><br>**Số: ……/2026/QĐ-BTTNLĐ** | | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*TP. Hồ Chí Minh, ngày …… tháng …… năm 2026* |
 |---|---|---|
 
 <br>
@@ -11,7 +11,7 @@
 
 ---
 
-**GIÁM ĐỐC CÔNG TY TNHH SAMIN**
+**GIÁM ĐỐC <<CTY_TEN>>**
 
 </div>
 
@@ -72,5 +72,5 @@ Quyết định này có hiệu lực kể từ ngày ký. Phòng Kế toán –
 
 <br>
 
-| **NƠI NHẬN:**<br>- Như Điều 4 (để thực hiện);<br>- Ban Chấp hành CĐCS;<br>- Cơ quan BHXH (hồ sơ thanh toán);<br>- Lưu: VT, KTTC, HCNS. | **CÔNG TY TNHH SAMIN**<br>**GIÁM ĐỐC**<br>*(Ký tên, ghi rõ họ tên và đóng dấu)*<br><br><br><br>**[HỌ VÀ TÊN GIÁM ĐỐC]** |
+| **NƠI NHẬN:**<br>- Như Điều 4 (để thực hiện);<br>- Ban Chấp hành CĐCS;<br>- Cơ quan BHXH (hồ sơ thanh toán);<br>- Lưu: VT, KTTC, HCNS. | **<<CTY_TEN>>**<br>**GIÁM ĐỐC**<br>*(Ký tên, ghi rõ họ tên và đóng dấu)*<br><br><br><br>**<<CTY_DAI_DIEN>>** |
 |---|---|

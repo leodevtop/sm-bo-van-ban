@@ -1,7 +1,7 @@
 # NỘI QUY AN TOÀN LAO ĐỘNG VÀ VỆ SINH MÔI TRƯỜNG TẠI CÔNG TRƯỜNG THI CÔNG KẾT CẤU THÉP
-**Mã văn bản:** `21/NQ-ATCT/<<CTY_MA>>`  
+**Mã văn bản:** `21/NQ-ATCT/<<CTY_TEN_VT>>`  
 **Phiên bản:** `2.0`  
-**Ngày ban hành:** `<<NGAY_BAN_HANH>>`  
+**Ngày ban hành:** `<<VB_NGAY>>/<<VB_THANG>>/<<VB_NAM>>`  
 **Người phê duyệt:** Giám đốc `<<CTY_DAI_DIEN>>`  
 **Đơn vị áp dụng:** Ban Chỉ huy công trường `<<CT_TEN>>`, các Nhà thầu phụ, Tổ đội thi công và toàn thể người lao động
 
@@ -16,8 +16,8 @@
 
 **CÔNG TY: <<CTY_TEN>>**  
 **BAN CHỈ HUY CÔNG TRƯỜNG: <<CT_TEN>>**  
-Địa điểm thi công: `<<CT_DIA_CHI>>`  
-Chủ đầu tư / Tổng thầu: `<<CHU_DAU_TU>>` / `<<TONG_THAU>>`
+Địa điểm thi công: `<<CT_DIA_DIEM>>`  
+Chủ đầu tư / Tổng thầu: `<<KH_TEN>>` / `<<KH_TEN>>`
 
 ## NỘI QUY AN TOÀN LAO ĐỘNG VÀ BẢO VỆ MÔI TRƯỜNG
 ### ÁP DỤNG TRONG THI CÔNG GIA CÔNG, VẬN CHUYỂN, CẨU LẮP KẾT CẤU THÉP VÀ LỢP TÔN NHÀ XƯỞNG
@@ -152,9 +152,9 @@ Chủ đầu tư / Tổng thầu: `<<CHU_DAU_TU>>` / `<<TONG_THAU>>`
    - Bước 3: Gọi ngay số điện thoại Khẩn cấp của Đội sơ cấp cứu công trường và Trung tâm cấp cứu 115.
    - Bước 4: Bảo vệ hiện trường để phục vụ công tác điều tra nguyên nhân.
 2. **Đường dây nóng khẩn cấp tại công trường `<<CT_TEN>>`:**
-   - Chỉ huy trưởng công trường: `<<CT_CHT>>` – Điện thoại: `<<CT_SDT_CHT>>`
+   - Chỉ huy trưởng công trường: `<<CT_CHI_HUY_TRUONG>>` – Điện thoại: `<<CT_SDT_CHT>>`
    - Kỹ sư phụ trách An toàn HSE: `<<CT_AT_VIEN>>` – Điện thoại: `<<CT_SDT_AT_VIEN>>`
-   - Bệnh viện/Cơ sở y tế gần nhất: `<<CT_BENH_VIEN>>` – Điện thoại cấp cứu: `<<CT_SDT_BENH_VIEN>>`
+   - Bệnh viện/Cơ sở y tế gần nhất: `<<CT_BENH_VIEN>>` – Điện thoại cấp cứu: `<<CT_BENH_VIEN_DT>>`
    - Cứu thương khẩn cấp: **115** | Cảnh sát PCCC & Cứu nạn cứu hộ: **114** | Công an khu vực: `<<CT_SDT_CONG_AN>>`
 
 #### Điều 12. Xử lý vi phạm nội quy an toàn
@@ -173,7 +173,7 @@ Chủ đầu tư / Tổng thầu: `<<CHU_DAU_TU>>` / `<<TONG_THAU>>`
       <b>XÁC NHẬN CỦA BAN CHỈ HUY CÔNG TRƯỜNG</b><br>
       <b>CHỈ HUY TRƯỞNG</b><br>
       <i>(Ký tên và ghi rõ họ tên)</i><br><br><br><br><br>
-      <b><<CT_CHT>></b>
+      <b><<CT_CHI_HUY_TRUONG>></b>
     </td>
     <td style="width: 50%; text-align: center; vertical-align: top; border: none;">
       <b>CÔNG TY <<CTY_TEN>></b><br>
@@ -197,5 +197,5 @@ Chủ đầu tư / Tổng thầu: `<<CHU_DAU_TU>>` / `<<TONG_THAU>>`
    - **Bộ luật Lao động 2019:** Điều 127 (Nghiêm cấm phạt tiền, cắt lương thay xử lý kỷ luật).
 
 2. **◐ Điểm thẩm định và xác nhận chuyên môn (Safety/Engineering/Legal Checkpoints):**
-   - `◐ [Safety/Site Manager]` **Hiệu chỉnh thông số dự án:** Chỉ huy trưởng và Kỹ sư HSE dự án có trách nhiệm điền chính xác danh bạ khẩn cấp, bệnh viện liên kết tiếp nhận cấp cứu gần nhất `<<CT_BENH_VIEN>>` và thỏa thuận an toàn với Tổng thầu `<<TONG_THAU>>` trước khi mở cổng thi công.
+   - `◐ [Safety/Site Manager]` **Hiệu chỉnh thông số dự án:** Chỉ huy trưởng và Kỹ sư HSE dự án có trách nhiệm điền chính xác danh bạ khẩn cấp, bệnh viện liên kết tiếp nhận cấp cứu gần nhất `<<CT_BENH_VIEN>>` và thỏa thuận an toàn với Tổng thầu `<<KH_TEN>>` trước khi mở cổng thi công.
    - `◐ [Safety]` **Kiểm định thiết bị nâng định kỳ:** Toàn bộ xe cẩu, tời kéo, cáp vải, móc cẩu phải được Kỹ sư an toàn dán tem màu tháng (Color-coding inspection tag) để kiểm soát việc không lọt thiết bị quá hạn kiểm định vào công trường.

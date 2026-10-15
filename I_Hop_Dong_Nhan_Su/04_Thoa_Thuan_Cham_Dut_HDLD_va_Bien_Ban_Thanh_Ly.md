@@ -101,7 +101,7 @@ Phòng Kế toán – Tài chính và Phòng Hành chính – Nhân sự đối 
 | 4 | Phụ cấp công trường, hỗ trợ lưu trú (nếu có) | …………………… | ……………………… | Theo quy chế |
 | 5 | Thưởng / KPI dự án được phê duyệt (nếu có) | …………………… | ……………………… | Theo quyết định |
 | **A** | **TỔNG CÁC KHOẢN ĐƯỢC HƯỞNG** | | **………………………** | |
-| 6 | Trừ: BHXH (8%), BHYT (1,5%), BHTN (1%) phần NLĐ đóng | | ……………………… | Theo luật định |
+| 6 | Trừ: BHXH, BHYT, BHTN phần NLĐ đóng theo tỷ lệ luật định và Bảng tham số | | ……………………… | Theo 00-bang-tham-so.md |
 | 7 | Trừ: Thuế TNCN khấu trừ (nếu có) | | ……………………… | Theo luật định |
 | 8 | Trừ: Các khoản tạm ứng chưa thanh toán | | ……………………… | Giấy đề nghị tạm ứng |
 | **B** | **TỔNG CÁC KHOẢN KHẤU TRỪ THEO LUẬT** | | **………………………** | |
@@ -124,7 +124,7 @@ Phòng Kế toán – Tài chính và Phòng Hành chính – Nhân sự đối 
 
 <br>
 
-| **NGƯỜI LAO ĐỘNG (BÊN B)**<br>*(Ký, ghi rõ họ tên)* | | **CÔNG TY TNHH SAMIN (BÊN A)**<br>**GIÁM ĐỐC**<br>*(Ký tên, đóng dấu, ghi rõ họ tên)* |
+| **NGƯỜI LAO ĐỘNG (BÊN B)**<br>*(Ký, ghi rõ họ tên)* | | **<<CTY_TEN>> (BÊN A)**<br>**GIÁM ĐỐC**<br>*(Ký tên, đóng dấu, ghi rõ họ tên)* |
 | :---: | :---: | :---: |
 | <br><br><br><br> **<<NLD_HO_TEN>>** | | <br><br><br><br> **<<CTY_DAI_DIEN>>** |
 

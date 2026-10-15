@@ -78,30 +78,30 @@
 
 ---
 
-## PHẦN III. BIỂU MẪU MẪU DÒNG DỮ LIỆU ĐIỂN HÌNH
+## PHẦN III. BIỂU MẪU DÒNG DỮ LIỆU ĐIỂN HÌNH
 
 ```text
-[MẪU DÒNG THEO DÕI LAO ĐỘNG KHỐI VĂN PHÒNG]:
-STT: 01 | Mã NV: NV-VP-001 | Họ tên: <<NLD_HO_TEN>> | Giới tính: Nam | Ngày sinh: 15/08/1988
-CCCD: 079088012345 | Ngày cấp: 10/05/2021 | Nơi cấp: Cục Cảnh sát QLHC về TTXH
-Thường trú: Quận 1, TP. Hồ Chí Minh | Điện thoại: 0903123456 | Trình độ: Đại học Kỹ thuật Xây dựng
-Chức danh: Chỉ huy trưởng công trình | Bộ phận: Phòng Thi công
-Loại HĐ: Không xác định thời hạn | Số HĐ: 01/2026/HĐLĐ-SM | Ngày ký: 02/01/2026
-Số lần ký: Không áp dụng (KXDTH) | Ngày vào làm: 02/01/2026 | Ngày kết thúc: Không xác định
-Lương căn cứ BHXH: 15.000.000 VNĐ | Mã BHXH: 7912345678 | MST: 8012345678
-Số TK: 190312345678 tại Techcombank | Trạng thái: Đang làm việc
+[KHUNG DÒNG THEO DÕI LAO ĐỘNG KHỐI VĂN PHÒNG]:
+STT: …… | Mã NV: <<NLD_MA>> | Họ tên: <<NLD_HO_TEN>> | Giới tính: <<NLD_GIOI_TINH>> | Ngày sinh: <<NLD_NGAY_SINH>>
+CCCD: <<NLD_CCCD>> | Ngày cấp: <<NLD_CCCD_NGAY>> | Nơi cấp: <<NLD_CCCD_NOI>>
+Thường trú: <<NLD_DC_THUONG_TRU>> | Điện thoại: <<NLD_DT>> | Trình độ: <<NLD_TRINH_DO>>
+Chức danh: <<NLD_CHUC_DANH>> | Bộ phận: <<NLD_BO_PHAN>>
+Loại HĐ: Không xác định thời hạn | Số HĐ: <<HD_SO>> | Ngày ký: <<HD_NGAY_KY>>
+Số lần ký: Không áp dụng (KXDTH) | Ngày vào làm: <<HD_NGAY_BD>> | Ngày kết thúc: Không xác định
+Lương căn cứ BHXH: <<HD_LUONG_CB>> đồng | Mã BHXH: <<NLD_MA_BHXH>> | MST: <<NLD_MST>>
+Số TK: <<NLD_STK>> tại <<NLD_NGAN_HANG>> | Trạng thái: Đang làm việc
 
-[MẪU DÒNG THEO DÕI THỢ NÒNG CỐT / THỜI VỤ CÔNG TRƯỜNG]:
-STT: 02 | Mã NV: CN-TC-015 | Họ tên: <<NLD_HO_TEN>> | Giới tính: Nam | Ngày sinh: 20/03/1992
-CCCD: 036092009876 | Ngày cấp: 15/09/2022 | Nơi cấp: Cục Cảnh sát QLHC về TTXH
-Thường trú: Nam Định | Điện thoại: 0988765432 | Trình độ: Thợ kết cấu thép Bậc 4/7
-Số thẻ AT Nhóm 3: AT-2025-0988 (Hạn đến: 20/08/2027)
-Chức danh: Thợ lắp dựng kết cấu thép chính | Bộ phận: Tổ lắp ráp - Dự án <<CT_TEN>>
-Loại HĐ: Xác định thời hạn (12 tháng) | Số HĐ: 01c/2026/HĐLĐ-SM | Ngày ký: 15/01/2026
-Số lần ký: LẦN 1 (Cảnh báo: Lần tiếp theo là lần 2; sau lần 2 bắt buộc ký KXDTH)
-Ngày vào làm: 15/01/2026 | Ngày kết thúc: 14/01/2027 | Lương căn cứ BHXH: 7.500.000 VNĐ
-Mã BHXH: 3619876543 | MST: 8598765432 | Số TK: 0071001234567 tại Vietcombank
-Người liên hệ KC: Vợ - Nguyễn Thị B (0977654321) | Trạng thái: Đang làm việc
+[KHUNG DÒNG THEO DÕI THỢ NÒNG CỐT / THỜI VỤ CÔNG TRƯỜNG]:
+STT: …… | Mã NV: <<NLD_MA>> | Họ tên: <<NLD_HO_TEN>> | Giới tính: <<NLD_GIOI_TINH>> | Ngày sinh: <<NLD_NGAY_SINH>>
+CCCD: <<NLD_CCCD>> | Ngày cấp: <<NLD_CCCD_NGAY>> | Nơi cấp: <<NLD_CCCD_NOI>>
+Thường trú: <<NLD_DC_THUONG_TRU>> | Điện thoại: <<NLD_DT>> | Trình độ: <<NLD_TRINH_DO>>
+Số thẻ AT Nhóm 3: <<NLD_THE_AT_SO>> (Hạn đến: <<NLD_THE_AT_HAN>>)
+Chức danh: <<NLD_CHUC_DANH>> | Bộ phận: <<NLD_BO_PHAN>> - Dự án: <<CT_TEN>>
+Loại HĐ: Xác định thời hạn | Số HĐ: <<HD_SO>> | Ngày ký: <<HD_NGAY_KY>>
+Số lần ký: <<HD_LAN_KY>> (Cảnh báo: Tối đa 2 lần ký xác định thời hạn; sau 2 lần bắt buộc chuyển KXDTH)
+Ngày vào làm: <<HD_NGAY_BD>> | Ngày kết thúc: <<HD_NGAY_KT>> | Lương căn cứ BHXH: <<HD_LUONG_CB>> đồng
+Mã BHXH: <<NLD_MA_BHXH>> | MST: <<NLD_MST>> | Số TK: <<NLD_STK>> tại <<NLD_NGAN_HANG>>
+Người liên hệ KC: <<NLD_LIEN_HE_KC_TEN>> (<<NLD_LIEN_HE_KC_DT>>) | Trạng thái: Đang làm việc
 ```
 
 ---
@@ -118,7 +118,7 @@ Người liên hệ KC: Vợ - Nguyễn Thị B (0977654321) | Trạng thái: Đ
 
 <br>
 
-| **NGƯỜI LẬP SỔ (CÁN BỘ HC-NS)**<br>*(Ký, ghi rõ họ tên)* | | **TRƯỞNG PHÒNG HÀNH CHÍNH – NHÂN SỰ**<br>*(Ký, ghi rõ họ tên)* | | **CÔNG TY TNHH SAMIN**<br>**GIÁM ĐỐC DUYỆT**<br>*(Ký tên, đóng dấu và ghi rõ họ tên)* |
+| **NGƯỜI LẬP SỔ (CÁN BỘ HC-NS)**<br>*(Ký, ghi rõ họ tên)* | | **TRƯỞNG PHÒNG HÀNH CHÍNH – NHÂN SỰ**<br>*(Ký, ghi rõ họ tên)* | | **<<CTY_TEN>>**<br>**GIÁM ĐỐC DUYỆT**<br>*(Ký tên, đóng dấu và ghi rõ họ tên)* |
 | :---: | :---: | :---: | :---: | :---: |
 | <br><br><br><br>……………………………… | | <br><br><br><br> **<<CTY_NGUOI_DL>>** | | <br><br><br><br> **<<CTY_DAI_DIEN>>** |
 

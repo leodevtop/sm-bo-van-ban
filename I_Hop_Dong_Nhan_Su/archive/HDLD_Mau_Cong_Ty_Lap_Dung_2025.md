@@ -24,7 +24,7 @@
 - Luật Việc làm số 38/2013/QH13 và các văn bản hướng dẫn về bảo hiểm thất nghiệp;
 - Luật An toàn, vệ sinh lao động số 84/2015/QH13;
 - Luật Thuế thu nhập cá nhân số 04/2007/QH12 (sửa đổi, bổ sung) và Nghị quyết số 954/2020/UBTVQH14 về mức giảm trừ gia cảnh;
-- Quy chế tài chính, Quy chế tiền lương Công ty TNHH SAMIN.
+- Quy chế tài chính, Quy chế tiền lương <<CTY_TEN>>.
 
 ---
 
@@ -40,7 +40,7 @@
 **Chúng tôi, một bên là:**
 - Ông/Bà: ………………………………… &emsp; Quốc tịch: Việt Nam
 - Chức vụ: Giám đốc
-- Đại diện cho: **CÔNG TY TNHH SAMIN**
+- Đại diện cho: **<<CTY_TEN>>**
 - Địa chỉ: ………………………………………………………………………………………
 
 **Và một bên là:**
@@ -122,6 +122,6 @@ Thỏa thuận ký kết hợp đồng lao động và cam kết thực hiện �
 
 <br>
 
-| **NGƯỜI LAO ĐỘNG (BÊN B)**<br>*(Ký, ghi rõ họ tên)* | | **CÔNG TY TNHH SAMIN (BÊN A)**<br>**GIÁM ĐỐC**<br>*(Ký, ghi rõ họ tên và đóng dấu)* |
+| **NGƯỜI LAO ĐỘNG (BÊN B)**<br>*(Ký, ghi rõ họ tên)* | | **<<CTY_TEN>> (BÊN A)**<br>**GIÁM ĐỐC**<br>*(Ký, ghi rõ họ tên và đóng dấu)* |
 |:---:|:---:|:---:|
 | <br><br><br><br>……………………………… | | <br><br><br><br>……………………………… |

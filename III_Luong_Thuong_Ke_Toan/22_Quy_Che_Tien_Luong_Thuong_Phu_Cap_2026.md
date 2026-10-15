@@ -1,4 +1,4 @@
-| **CÔNG TY TNHH SAMIN**<br>**Số: 01/2026/QC-SAMIN** | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*TP. Hồ Chí Minh, ngày 02 tháng 01 năm 2026* |
+| **<<CTY_TEN>>**<br>**Số: 01/2026/QC-<<CTY_TEN_VT>>** | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*TP. Hồ Chí Minh, ngày 02 tháng 01 năm 2026* |
 |---|---|
 
 <br>
@@ -7,7 +7,7 @@
 
 # QUY CHẾ TIỀN LƯƠNG, THƯỞNG VÀ PHỤ CẤP
 ### (TÍCH HỢP HỆ THỐNG THANG BẢNG LƯƠNG NĂM 2026)
-*(Ban hành kèm theo Quyết định số 01/2026/QĐ-SAMIN ngày 02/01/2026 của Giám đốc Công ty TNHH SAMIN)*
+*(Ban hành kèm theo Quyết định số 01/2026/QĐ-<<CTY_TEN_VT>> ngày 02/01/2026 của Giám đốc <<CTY_TEN>>)*
 
 ---
 
@@ -112,7 +112,7 @@ Tổng thu nhập hàng tháng của người lao động gồm:
 
 ### Điều 10. Chế độ khen thưởng
 1. **Thưởng an toàn lao động (HSE) công trình:** Thưởng từ 1.000.000 đến 3.000.000 đồng/tổ/dự án cho tổ đội đạt 100% tiêu chí an toàn, không có tai nạn hay sự cố trong suốt quá trình lắp dựng.
-2. **Thưởng KPI dự án:** Thực hiện theo Quy chế số 02/2026/QC-SAMIN. Quỹ KPI trích theo % dòng tiền thực thu của dự án, chia cho 03 phòng: Thi công, Dự án, Kế toán – Tài chính. Phòng Hành chính – Nhân sự không tham gia.
+2. **Thưởng KPI dự án:** Thực hiện theo Quy chế số 02/2026/QC-<<CTY_TEN_VT>>. Quỹ KPI trích theo % dòng tiền thực thu của dự án, chia cho 03 phòng: Thi công, Dự án, Kế toán – Tài chính. Phòng Hành chính – Nhân sự không tham gia.
 3. **Thưởng Lễ, Tết, Lương tháng 13:** Căn cứ kết quả SXKD của Công ty và mức độ hoàn thành nhiệm vụ theo quyết định của Giám đốc.
 
 ### Điều 11. Khấu trừ tiền lương hợp pháp
@@ -150,5 +150,5 @@ Hồ sơ chi phí lương hợp lý của Công ty bao gồm:
 
 <br>
 
-| **NƠI NHẬN:**<br>- Ban Giám đốc (để chỉ đạo);<br>- Các phòng ban chức năng;<br>- Ban chỉ huy các công trường;<br>- Toàn thể người lao động;<br>- Lưu: VT, KTTC, HCNS. | **CÔNG TY TNHH SAMIN**<br>**GIÁM ĐỐC**<br>*(Ký tên, ghi rõ họ tên và đóng dấu)*<br><br><br><br>**[HỌ VÀ TÊN GIÁM ĐỐC]** |
+| **NƠI NHẬN:**<br>- Ban Giám đốc (để chỉ đạo);<br>- Các phòng ban chức năng;<br>- Ban chỉ huy các công trường;<br>- Toàn thể người lao động;<br>- Lưu: VT, KTTC, HCNS. | **<<CTY_TEN>>**<br>**GIÁM ĐỐC**<br>*(Ký tên, ghi rõ họ tên và đóng dấu)*<br><br><br><br>**<<CTY_DAI_DIEN>>** |
 |---|---|

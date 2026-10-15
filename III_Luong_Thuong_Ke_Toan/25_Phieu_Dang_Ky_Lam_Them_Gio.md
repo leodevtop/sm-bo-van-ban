@@ -1,7 +1,8 @@
 # PHIẾU ĐĂNG KÝ VÀ THỎA THUẬN TỰ NGUYỆN LÀM THÊM GIỜ
-**Mã văn bản:** `25/PĐK-LTG/<<CTY_MA>>`  
+**Mã văn bản:** `25/PĐK-LTG/<<CTY_TEN_VT>>`  
 **Phiên bản:** `2.0`  
-**Ngày ban hành:** `<<NGAY_BAN_HANH>>`  
+**Ngày ban hành:** `<<VB_NGAY>>/<<VB_THANG>>/<<VB_NAM>>`  
+**Người duyệt (Chỉ huy trưởng):** `<<CT_CHI_HUY_TRUONG>>`  
 **Đơn vị áp dụng:** Ban Chỉ huy các công trường, Xưởng chế tạo cơ khí và Khối văn phòng thuộc `<<CTY_TEN>>`
 
 ---
@@ -16,7 +17,7 @@
 **CÔNG TY: <<CTY_TEN>>**  
 Ban Chỉ huy công trường: `<<CT_TEN>>`  
 Số phiếu: `<<SO_PHIEU_LTG>>/PĐK-LTG`  
-*<<TINH_THANH>>, ngày <<NGAY>> tháng <<THANG>> năm <<NAM>>*
+*<<CTY_DIA_DANH>>, ngày <<VB_NGAY>> tháng <<VB_THANG>> năm <<VB_NAM>>*
 
 ## PHIẾU ĐĂNG KÝ VÀ THỎA THUẬN TỰ NGUYỆN LÀM THÊM GIỜ
 ### (VĂN BẢN ĐỒNG Ý CỦA NGƯỜI LAO ĐỘNG THEO ĐIỀU 107 BỘ LUẬT LAO ĐỘNG VÀ ĐIỀU 59 NGHỊ ĐỊNH 145/2020/NĐ-CP)
@@ -72,11 +73,12 @@ Số phiếu: `<<SO_PHIEU_LTG>>/PĐK-LTG`
 
 | STT | Họ và tên người lao động | Mã NV / Số CCCD | Chức danh / Vị trí | Số giờ LTG đợt này | Lũy kế tháng (≤40h) | Lũy kế năm (≤200h) | Xác nhận đủ sức khỏe | Chữ ký tự nguyện của NLĐ |
 |:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | `<<NLĐ_HO_TEN_1>>` | `<<NLĐ_CCCD_1>>` | Thợ lắp dựng | `<<GIO_DK_1>>` | `<<LUY_KE_THANG_1>>` | `<<LUY_KE_NAM_1>>` | [x] Đủ SK | *(Ký và ghi họ tên)* |
-| 2 | `<<NLĐ_HO_TEN_2>>` | `<<NLĐ_CCCD_2>>` | Thợ hàn xì | `<<GIO_DK_2>>` | `<<LUY_KE_THANG_2>>` | `<<LUY_KE_NAM_2>>` | [x] Đủ SK | *(Ký và ghi họ tên)* |
-| 3 | `<<NLĐ_HO_TEN_3>>` | `<<NLĐ_CCCD_3>>` | Lái xe cẩu | `<<GIO_DK_3>>` | `<<LUY_KE_THANG_3>>` | `<<LUY_KE_NAM_3>>` | [x] Đủ SK | *(Ký và ghi họ tên)* |
-| 4 | `<<NLĐ_HO_TEN_4>>` | `<<NLĐ_CCCD_4>>` | Phụ lắp dựng | `<<GIO_DK_4>>` | `<<LUY_KE_THANG_4>>` | `<<LUY_KE_NAM_4>>` | [x] Đủ SK | *(Ký và ghi họ tên)* |
-| 5 | `<<NLĐ_HO_TEN_5>>` | `<<NLĐ_CCCD_5>>` | Thợ xi-nhan | `<<GIO_DK_5>>` | `<<LUY_KE_THANG_5>>` | `<<LUY_KE_NAM_5>>` | [x] Đủ SK | *(Ký và ghi họ tên)* |
+| 1 | ................................... | .................... | Thợ lắp dựng | ......... | ......... | ......... | [ ] Đủ SK | |
+| 2 | ................................... | .................... | Thợ hàn xì | ......... | ......... | ......... | [ ] Đủ SK | |
+| 3 | ................................... | .................... | Lái xe cẩu | ......... | ......... | ......... | [ ] Đủ SK | |
+| 4 | ................................... | .................... | Phụ lắp dựng | ......... | ......... | ......... | [ ] Đủ SK | |
+| 5 | ................................... | .................... | Thợ xi-nhan | ......... | ......... | ......... | [ ] Đủ SK | |
+| ... | ................................... | .................... | .................... | ......... | ......... | ......... | [ ] Đủ SK | |
 
 *(Trường hợp danh sách đông người, đính kèm Danh sách ký tự nguyện làm thêm giờ theo mẫu này).*
 
@@ -112,7 +114,7 @@ Trong đó, mức tỷ lệ % áp dụng cụ thể:
 
 Phiếu đăng ký này được lập thành 03 bản: 01 bản lưu tại Ban Chỉ huy công trường để chấm công; 01 bản gửi Kế toán tiền lương để tính lương; 01 bản gửi Phòng Hành chính – Nhân sự để theo dõi quỹ giờ làm thêm.
 
-*<<TINH_THANH>>, ngày <<NGAY>> tháng <<THANG>> năm <<NAM>>*
+*<<CTY_DIA_DANH>>, ngày <<VB_NGAY>> tháng <<VB_THANG>> năm <<VB_NAM>>*
 
 <table style="width: 100%; border: none;">
   <tr>
@@ -132,7 +134,7 @@ Phiếu đăng ký này được lập thành 03 bản: 01 bản lưu tại Ban 
       <b>CHỈ HUY TRƯỞNG CT</b><br>
       <i>(Kiểm soát quỹ giờ tháng)</i><br>
       <i>(Ký và ghi họ tên)</i><br><br><br><br>
-      <b><<CT_CHT>></b>
+      <b><<CT_CHI_HUY_TRUONG>></b>
     </td>
     <td style="width: 25%; text-align: center; vertical-align: top; border: none;">
       <b>BAN GIÁM ĐỐC DUYỆT</b><br>

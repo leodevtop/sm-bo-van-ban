@@ -34,7 +34,7 @@
 ---
 
 **Chúng tôi, một bên là (Người sử dụng lao động - Bên A):**
-- **CÔNG TY TNHH SAMIN**
+- **<<CTY_TEN>>**
 - Địa chỉ trụ sở: ………………………………………………………………………………………
 - Mã số thuế: ………………………………… &emsp; Điện thoại: …………………………………
 - Đại diện bởi: **Ông/Bà …………………………………** &emsp; Chức vụ: **Giám đốc**
@@ -147,6 +147,6 @@ Hai bên thống nhất ký kết Hợp đồng lao động và cam kết thực
 
 <br>
 
-| **NGƯỜI LAO ĐỘNG (BÊN B)**<br>*(Ký, ghi rõ họ tên)* | | **CÔNG TY TNHH SAMIN (BÊN A)**<br>**GIÁM ĐỐC**<br>*(Ký tên, ghi rõ họ tên và đóng dấu)* |
+| **NGƯỜI LAO ĐỘNG (BÊN B)**<br>*(Ký, ghi rõ họ tên)* | | **<<CTY_TEN>> (BÊN A)**<br>**GIÁM ĐỐC**<br>*(Ký tên, ghi rõ họ tên và đóng dấu)* |
 | :---: | :---: | :---: |
-| <br><br><br><br>……………………………… | | <br><br><br><br>**[HỌ VÀ TÊN GIÁM ĐỐC]** |
+| <br><br><br><br>……………………………… | | <br><br><br><br>**<<CTY_DAI_DIEN>>** |

@@ -1,4 +1,4 @@
-| **CÔNG TY TNHH SAMIN<br>ĐOÀN ĐIỀU TRA TAI NẠN LAO ĐỘNG CƠ SỞ**<br>Số: ……/2026/BB-ĐTTNLĐ | | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*……, ngày …… tháng …… năm 2026* |
+| **<<CTY_TEN>><br>ĐOÀN ĐIỀU TRA TAI NẠN LAO ĐỘNG CƠ SỞ**<br>Số: ……/2026/BB-ĐTTNLĐ | | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*……, ngày …… tháng …… năm 2026* |
 |---|---|---|
 
 <br>
@@ -13,7 +13,7 @@
 
 </div>
 
-*Căn cứ Quyết định số ……/2026/QĐ-ĐTTNLĐ ngày ……/……/2026 của Giám đốc Công ty TNHH SAMIN về việc thành lập Đoàn điều tra tai nạn lao động cấp cơ sở,*
+*Căn cứ Quyết định số ……/2026/QĐ-ĐTTNLĐ ngày ……/……/2026 của Giám đốc <<CTY_TEN>> về việc thành lập Đoàn điều tra tai nạn lao động cấp cơ sở,*
 
 Vào hồi …… giờ …… phút, ngày …… tháng …… năm 2026.
 
@@ -127,4 +127,4 @@ Biên bản này được lập thành 05 bản có giá trị như nhau, lưu h
 
 | **ĐẠI DIỆN BCH CÔNG ĐOÀN / NLĐ**<br>*(Thành viên giám sát – Ký, ghi rõ họ tên)*<br><br><br><br>**……………………………………** | **CHỈ HUY TRƯỞNG CÔNG TRÌNH**<br>*(Thành viên kiêm Thư ký – Ký, ghi rõ họ tên)*<br><br><br><br>**……………………………………** |
 |:---:|:---:|
-| **NGƯỜI PHỤ TRÁCH AN TOÀN LAO ĐỘNG**<br>*(Thành viên kỹ thuật – Ký, ghi rõ họ tên)*<br><br><br><br>**……………………………………** | **TRƯỞNG ĐOÀN ĐIỀU TRA / GIÁM ĐỐC**<br>*(Ký tên, ghi rõ họ tên và đóng dấu)*<br><br><br><br>**[HỌ VÀ TÊN GIÁM ĐỐC]** |
+| **NGƯỜI PHỤ TRÁCH AN TOÀN LAO ĐỘNG**<br>*(Thành viên kỹ thuật – Ký, ghi rõ họ tên)*<br><br><br><br>**……………………………………** | **TRƯỞNG ĐOÀN ĐIỀU TRA / GIÁM ĐỐC**<br>*(Ký tên, ghi rõ họ tên và đóng dấu)*<br><br><br><br>**<<CTY_DAI_DIEN>>** |

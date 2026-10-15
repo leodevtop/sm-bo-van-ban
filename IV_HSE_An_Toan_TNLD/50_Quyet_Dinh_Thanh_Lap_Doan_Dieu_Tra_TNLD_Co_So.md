@@ -1,4 +1,4 @@
-| **CÔNG TY TNHH SAMIN**<br>Địa chỉ: {{DIA_CHI}}<br>Số: ……/2026/QĐ-ĐTTNLĐ | | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*TP. Hồ Chí Minh, ngày …… tháng …… năm 2026* |
+| **<<CTY_TEN>>**<br>Địa chỉ: <<CTY_DC>><br>Số: ……/2026/QĐ-ĐTTNLĐ | | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*TP. Hồ Chí Minh, ngày …… tháng …… năm 2026* |
 |---|---|---|
 
 <br>
@@ -11,7 +11,7 @@
 
 ---
 
-**GIÁM ĐỐC CÔNG TY TNHH SAMIN**
+**GIÁM ĐỐC <<CTY_TEN>>**
 
 </div>
 
@@ -23,7 +23,7 @@
 
 *Căn cứ Quy chuẩn kỹ thuật Quốc gia QCVN 18:2021/BXD về an toàn trong thi công xây dựng;*
 
-*Căn cứ Quy trình xử lý và điều tra tai nạn lao động số 04/2026/QT-SAMIN của Công ty;*
+*Căn cứ Quy trình xử lý và điều tra tai nạn lao động số 04/2026/QT-<<CTY_TEN_VT>> của Công ty;*
 
 *Xét báo cáo sự cố của Ban Chỉ huy công trường và đề nghị của người phụ trách an toàn lao động,*
 
@@ -63,7 +63,7 @@ Căn cứ quy mô tổ chức bộ máy thực tế của Công ty, Đoàn đi�
 2. **Thời hạn hoàn thành:**
    - Đối với vụ tai nạn lao động nhẹ: Hoàn thành trong thời hạn **không quá 04 ngày** kể từ khi xảy ra tai nạn.
    - Đối với vụ tai nạn lao động nặng (01 người): Hoàn thành trong thời hạn **không quá 07 ngày** kể từ khi xảy ra tai nạn.
-3. Chi phí phục vụ công tác điều tra do Công ty TNHH SAMIN chi trả và hạch toán theo quy định pháp luật.
+3. Chi phí phục vụ công tác điều tra do <<CTY_TEN>> chi trả và hạch toán theo quy định pháp luật.
 
 **Điều 4. Điều khoản thi hành:**
 
@@ -71,5 +71,5 @@ Quyết định có hiệu lực kể từ ngày ký. Ban Chỉ huy công trư�
 
 <br>
 
-| **NƠI NHẬN:**<br>- Như Điều 4;<br>- Ban Chấp hành CĐCS;<br>- Ban An toàn Tổng thầu (để phối hợp);<br>- Lưu: VT, HSE, HCNS. | **CÔNG TY TNHH SAMIN**<br>**GIÁM ĐỐC**<br>*(Ký tên, ghi rõ họ tên và đóng dấu)*<br><br><br><br>**[HỌ VÀ TÊN GIÁM ĐỐC]** |
+| **NƠI NHẬN:**<br>- Như Điều 4;<br>- Ban Chấp hành CĐCS;<br>- Ban An toàn Tổng thầu (để phối hợp);<br>- Lưu: VT, HSE, HCNS. | **<<CTY_TEN>>**<br>**GIÁM ĐỐC**<br>*(Ký tên, ghi rõ họ tên và đóng dấu)*<br><br><br><br>**<<CTY_DAI_DIEN>>** |
 |---|---|

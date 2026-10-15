@@ -1,4 +1,4 @@
-| **CÔNG TY TNHH SAMIN<br>ĐOÀN ĐIỀU TRA TNLĐ CƠ SỞ**<br>Số: ……/2026/BB-KNHT | | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*……, ngày …… tháng …… năm 2026* |
+| **<<CTY_TEN>><br>ĐOÀN ĐIỀU TRA TNLĐ CƠ SỞ**<br>Số: ……/2026/BB-KNHT | | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*……, ngày …… tháng …… năm 2026* |
 |---|---|---|
 
 <br>
@@ -23,7 +23,7 @@ Vị trí hiện trường xảy ra tai nạn: Trục: …………… / Gian: �
 
 ### I. THÀNH PHẦN THAM GIA KHÁM NGHIỆM HIỆN TRƯỜNG
 
-Căn cứ Quyết định thành lập Đoàn điều tra TNLĐ cơ sở số ……/2026/QĐ-ĐTTNLĐ của Giám đốc Công ty TNHH SAMIN, thành phần tham gia khám nghiệm gồm:
+Căn cứ Quyết định thành lập Đoàn điều tra TNLĐ cơ sở số ……/2026/QĐ-ĐTTNLĐ của Giám đốc <<CTY_TEN>>, thành phần tham gia khám nghiệm gồm:
 
 1. **Ông/Bà: …………………………………** – Chức vụ: **Giám đốc Công ty** *(Trưởng đoàn điều tra – Chủ trì khám nghiệm)*;
 2. **Ông/Bà: …………………………………** – Chức vụ: **Người phụ trách an toàn lao động** *(Thành viên – Khám nghiệm kỹ thuật an toàn)*;
@@ -78,4 +78,4 @@ Biên bản khám nghiệm kết thúc vào hồi …… giờ …… phút cùn
 
 | **ĐẠI DIỆN TỔNG THẦU / TVGS**<br>*(Đơn vị phối hợp – Ký, họ tên)*<br><br><br><br>**……………………………………** | **ĐẠI DIỆN BCH CÔNG ĐOÀN / NLĐ**<br>*(Thành viên giám sát – Ký, họ tên)*<br><br><br><br>**……………………………………** |
 |:---:|:---:|
-| **NGƯỜI PHỤ TRÁCH AN TOÀN**<br>*(Khám nghiệm kỹ thuật – Ký, họ tên)*<br><br><br><br>**……………………………………** | **CHỦ TRÌ KHÁM NGHIỆM / GIÁM ĐỐC**<br>*(Trưởng đoàn điều tra – Ký, họ tên, đóng dấu)*<br><br><br><br>**[HỌ VÀ TÊN GIÁM ĐỐC]** |
+| **NGƯỜI PHỤ TRÁCH AN TOÀN**<br>*(Khám nghiệm kỹ thuật – Ký, họ tên)*<br><br><br><br>**……………………………………** | **CHỦ TRÌ KHÁM NGHIỆM / GIÁM ĐỐC**<br>*(Trưởng đoàn điều tra – Ký, họ tên, đóng dấu)*<br><br><br><br>**<<CTY_DAI_DIEN>>** |

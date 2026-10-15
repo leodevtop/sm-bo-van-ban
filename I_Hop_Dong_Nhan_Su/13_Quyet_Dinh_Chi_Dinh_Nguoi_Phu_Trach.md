@@ -89,7 +89,7 @@ Chỉ định cán bộ đảm nhận nhiệm vụ **Người phụ trách bảo
 
 <br>
 
-| **Nơi nhận:**<br>- Ban Giám đốc (để chỉ đạo);<br>- Như Điều 5 (để thi hành);<br>- Ban Chỉ huy các công trường;<br>- Ban Chấp hành Công đoàn cơ sở;<br>- Lưu: VT, HC-NS. | | **CÔNG TY TNHH SAMIN**<br>**GIÁM ĐỐC**<br>*(Ký tên, đóng dấu, ghi rõ họ tên)*<br><br><br><br><br> **<<CTY_DAI_DIEN>>** |
+| **Nơi nhận:**<br>- Ban Giám đốc (để chỉ đạo);<br>- Như Điều 5 (để thi hành);<br>- Ban Chỉ huy các công trường;<br>- Ban Chấp hành Công đoàn cơ sở;<br>- Lưu: VT, HC-NS. | | **<<CTY_TEN>>**<br>**GIÁM ĐỐC**<br>*(Ký tên, đóng dấu, ghi rõ họ tên)*<br><br><br><br><br> **<<CTY_DAI_DIEN>>** |
 | :--- | :---: | :---: |
 
 ---

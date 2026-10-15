@@ -14,7 +14,7 @@
 
 <br>
 
-**Kính gửi:** **ĐOÀN ĐIỀU TRA TAI NẠN LAO ĐỘNG CƠ SỞ – CÔNG TY TNHH SAMIN**
+**Kính gửi:** **ĐOÀN ĐIỀU TRA TAI NẠN LAO ĐỘNG CƠ SỞ – <<CTY_TEN>>**
 
 <br>
 

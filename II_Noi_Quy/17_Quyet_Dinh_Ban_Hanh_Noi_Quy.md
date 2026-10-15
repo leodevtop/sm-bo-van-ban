@@ -1,7 +1,7 @@
 # QUYẾT ĐỊNH BAN HÀNH NỘI QUY LAO ĐỘNG
-**Mã văn bản:** `17/QĐ-NQLĐ/<<CTY_MA>>`  
+**Mã văn bản:** `17/QĐ-NQLĐ/<<CTY_TEN_VT>>`  
 **Phiên bản:** `2.0`  
-**Ngày ban hành:** `<<NGAY_BAN_HANH>>`  
+**Ngày ban hành:** `<<VB_NGAY>>/<<VB_THANG>>/<<VB_NAM>>`  
 **Người phê duyệt:** Giám đốc `<<CTY_DAI_DIEN>>`  
 **Đơn vị áp dụng:** Toàn thể cán bộ, nhân viên, chỉ huy trưởng và công nhân các công trường thuộc `<<CTY_TEN>>`
 
@@ -15,8 +15,8 @@
 ---
 
 **CÔNG TY: <<CTY_TEN>>**  
-Số: `<<SO_QD>>/QĐ-<<CTY_MA>>`  
-*<<TINH_THANH>>, ngày <<NGAY>> tháng <<THANG>> năm <<NAM>>*
+Số: `<<VB_SO>>/QĐ-<<CTY_TEN_VT>>`  
+*<<CTY_DIA_DANH>>, ngày <<VB_NGAY>> tháng <<VB_THANG>> năm <<VB_NAM>>*
 
 ## QUYẾT ĐỊNH
 ### V/v Ban hành Nội quy lao động áp dụng tại Văn phòng và các Công trường thi công
@@ -31,7 +31,7 @@ Số: `<<SO_QD>>/QĐ-<<CTY_MA>>`
 - *Căn cứ Nghị định số 145/2020/NĐ-CP ngày 14/12/2020 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Bộ luật Lao động về điều kiện lao động và quan hệ lao động;*
 - *Căn cứ Nghị định số 283/2026/NĐ-CP ngày 10/09/2026 của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội;*
 - *Căn cứ Điều lệ tổ chức và hoạt động của `<<CTY_TEN>>`;*
-- *Căn cứ Biên bản tham khảo ý kiến Ban Chấp hành Công đoàn cơ sở số `18/BB-BCHCD/<<CTY_MA>>` ngày `<<NGAY_HOP_CD>>` về Dự thảo Nội quy lao động;*
+- *Căn cứ Biên bản tham khảo ý kiến Ban Chấp hành Công đoàn cơ sở số `18/BB-BCHCD/<<CTY_TEN_VT>>` ngày `<<NGAY_HOP_CD>>` về Dự thảo Nội quy lao động;*
 - *Theo đề nghị của Trưởng phòng Hành chính – Nhân sự và Trưởng bộ phận An toàn (HSE).*
 
 ---

@@ -1,7 +1,8 @@
 # BIÊN BẢN LẤY Ý KIẾN BAN CHẤP HÀNH CÔNG ĐOÀN CƠ SỞ VỀ DỰ THẢO NỘI QUY LAO ĐỘNG
-**Mã văn bản:** `18/BB-BCHCD/<<CTY_MA>>`  
+**Mã văn bản:** `18/BB-BCHCD/<<CTY_TEN_VT>>`  
 **Phiên bản:** `2.0`  
 **Ngày lập:** `<<NGAY_HOP_CD>>`  
+**Chủ trì phiên họp:** `<<CTY_CD_CHU_TICH>>` (Chủ tịch CĐCS) & `<<CTY_DAI_DIEN>>` (Giám đốc Công ty)  
 **Đơn vị tổ chức:** Ban Chấp hành Công đoàn phối hợp Ban Giám đốc `<<CTY_TEN>>`
 
 ---
@@ -15,8 +16,8 @@
 
 **CÔNG TY <<CTY_TEN>>**  
 **BCH CÔNG ĐOÀN CƠ SỞ**  
-Số: `18/BB-BCHCD/<<CTY_MA>>`  
-*<<TINH_THANH>>, ngày <<NGAY>> tháng <<THANG>> năm <<NAM>>*
+Số: `18/BB-BCHCD/<<CTY_TEN_VT>>`  
+*<<CTY_DIA_DANH>>, ngày <<VB_NGAY>> tháng <<VB_THANG>> năm <<VB_NAM>>*
 
 ## BIÊN BẢN HỌP THAM KHẢO Ý KIẾN
 ### V/v Tham vấn ý kiến của Ban Chấp hành Công đoàn cơ sở đối với Dự thảo Nội quy lao động
@@ -28,7 +29,7 @@ Số: `18/BB-BCHCD/<<CTY_MA>>`
 - *Căn cứ Nghị định số 145/2020/NĐ-CP ngày 14/12/2020 của Chính phủ (Điều 69 về hồ sơ đăng ký nội quy lao động bao gồm ý kiến của tổ chức đại diện NLĐ tại cơ sở);*
 - *Căn cứ Điều lệ Công đoàn Việt Nam.*
 
-Hôm nay, vào lúc `<<GIO_BAT_DAU>>` ngày `<<NGAY_HOP_CD>>`, tại Văn phòng Công ty `<<CTY_TEN>>` (địa chỉ: `<<CTY_DIA_CHI>>`), đã diễn ra cuộc họp tham khảo ý kiến của Ban Chấp hành Công đoàn cơ sở đối với Dự thảo Nội quy lao động sửa đổi, bổ sung (Phiên bản 2.0).
+Hôm nay, vào lúc `<<GIO_BAT_DAU>>` ngày `<<NGAY_HOP_CD>>`, tại Văn phòng Công ty `<<CTY_TEN>>` (địa chỉ: `<<CTY_DC>>`), đã diễn ra cuộc họp tham khảo ý kiến của Ban Chấp hành Công đoàn cơ sở đối với Dự thảo Nội quy lao động sửa đổi, bổ sung (Phiên bản 2.0).
 
 ---
 
@@ -40,7 +41,7 @@ Hôm nay, vào lúc `<<GIO_BAT_DAU>>` ngày `<<NGAY_HOP_CD>>`, tại Văn phòng
 - Ông/Bà: **<<CTY_NGUOI_AT>>** – Chức vụ: Trưởng bộ phận An toàn lao động (HSE)
 
 #### 2. Đại diện Ban Chấp hành Công đoàn cơ sở:
-- Ông/Bà: **<<CTY_CHU_TICH_CD>>** – Chức vụ: Chủ tịch Công đoàn cơ sở (Chủ trì phiên họp phía Công đoàn)
+- Ông/Bà: **<<CTY_CD_CHU_TICH>>** – Chức vụ: Chủ tịch Công đoàn cơ sở (Chủ trì phiên họp phía Công đoàn)
 - Ông/Bà: **<<TEN_PHO_CT_CD>>** – Chức vụ: Phó Chủ tịch Công đoàn cơ sở
 - Các Ủy viên BCH đại diện cho các khối:
   - Khối Kỹ sư và Ban Chỉ huy công trường: `<<UV_CD_KY_SU>>`
@@ -102,7 +103,7 @@ Cuộc họp kết thúc vào lúc `<<GIO_KET_THUC>>` cùng ngày, đã được
       <b>TM. BAN CHẤP HÀNH CÔNG ĐOÀN CƠ SỞ</b><br>
       <b>CHỦ TỊCH CÔNG ĐOÀN</b><br>
       <i>(Ký tên, đóng dấu)</i><br><br><br><br><br>
-      <b><<CTY_CHU_TICH_CD>></b>
+      <b><<CTY_CD_CHU_TICH>></b>
     </td>
   </tr>
   <tr>

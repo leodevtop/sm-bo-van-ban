@@ -1,4 +1,4 @@
-| **CÔNG TY TNHH SAMIN**<br>Địa chỉ: {{DIA_CHI}}<br>Mã số thuế: {{MST}} | | **Mẫu số: 02 - TT**<br>*(Ban hành kèm theo Thông tư số 133/2016/TT-BTC<br>ngày 26/8/2016 của Bộ trưởng Bộ Tài chính)* |
+| **<<CTY_TEN>>**<br>Địa chỉ: <<CTY_DC>><br>Mã số thuế: <<CTY_MST>> | | **Mẫu số: 02 - TT**<br>*(Ban hành kèm theo Thông tư số 133/2016/TT-BTC<br>ngày 26/8/2016 của Bộ trưởng Bộ Tài chính)* |
 |---|---|---|
 
 <br>

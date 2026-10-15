@@ -126,8 +126,8 @@ Hai bên tự nguyện thỏa thuận giao kết Hợp đồng lao động với
 ## Điều 5. Chế độ Bảo hiểm xã hội, Bảo hiểm y tế và Bảo hiểm công trường
 
 1. **Bảo hiểm bắt buộc theo luật:**  
-   - Hai bên tham gia trích nộp Bảo hiểm xã hội, Bảo hiểm y tế, Bảo hiểm thất nghiệp theo đúng quy định của Luật Bảo hiểm xã hội 2024, Luật Việc làm 2025 và Luật BHYT.  
-   - Tỷ lệ trích nộp: Người lao động đóng 10,5% (BHXH 8%, BHYT 1,5%, BHTN 1%); Công ty đóng 21,5% (gồm BHXH, BHTNLĐ-BNN, BHYT, BHTN) trên quỹ tiền lương làm căn cứ đóng BHXH theo Bảng tham số hiện hành ◐.  
+   - Hai bên tham gia trích nộp Bảo hiểm xã hội, Bảo hiểm y tế, Bảo hiểm thất nghiệp, Bảo hiểm tai nạn lao động – bệnh nghề nghiệp theo đúng quy định của Luật Bảo hiểm xã hội 2024, Luật Việc làm 2025, Luật BHYT và Luật An toàn, vệ sinh lao động.  
+   - Người sử dụng lao động và Người lao động trích nộp các khoản BHXH, BHYT, BHTN, BHTNLĐ-BNN theo đúng tỷ lệ phần trăm và mức tiền lương đóng do pháp luật bảo hiểm xã hội quy định tại từng thời kỳ (chi tiết theo Bảng tham số `00-bang-tham-so.md` ban hành kèm theo).  
    - Công ty thực hiện thủ tục đăng ký thông tin người lao động theo Luật Việc làm 2025 và cập nhật thông tin trong Sổ quản lý lao động của Công ty.
 2. **Bảo hiểm công trường:**  
    - Trong suốt thời gian thi công tại hiện trường các dự án, Bên B được Công ty mua (hoặc đảm bảo được mua qua hợp đồng với Tổng thầu) **Bảo hiểm bắt buộc đối với người lao động thi công trên công trường** theo Điều 10 Luật Xây dựng 2025.

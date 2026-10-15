@@ -1,4 +1,4 @@
-| **CÔNG TY TNHH SAMIN**<br>**Số: 02/2026/QC-SAMIN** | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*TP. Hồ Chí Minh, ngày 02 tháng 01 năm 2026* |
+| **<<CTY_TEN>>**<br>**Số: 02/2026/QC-<<CTY_TEN_VT>>** | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*TP. Hồ Chí Minh, ngày 02 tháng 01 năm 2026* |
 |---|---|
 
 <br>
@@ -6,7 +6,7 @@
 <div align="center">
 
 # QUY CHẾ LƯƠNG – PHẦN KPI DỰ ÁN NĂM 2026
-### *(Ban hành kèm theo Quy chế tiền lương số 01/2026/QC-SAMIN ngày 02/01/2026 của Giám đốc Công ty TNHH SAMIN)*
+### *(Ban hành kèm theo Quy chế tiền lương số 01/2026/QC-<<CTY_TEN_VT>> ngày 02/01/2026 của Giám đốc <<CTY_TEN>>)*
 
 ---
 
@@ -102,5 +102,5 @@ Quy chế này có hiệu lực kể từ ngày **01 tháng 01 năm 2026** và �
 
 <br>
 
-| **NƠI NHẬN:**<br>- Ban Giám đốc (để chỉ đạo);<br>- Phòng Thi công;<br>- Phòng Dự án (kiêm KD);<br>- Phòng Kế toán – Tài chính;<br>- Lưu: VT, KTTC. | **CÔNG TY TNHH SAMIN**<br>**GIÁM ĐỐC**<br>*(Ký tên, ghi rõ họ tên và đóng dấu)*<br><br><br><br>**[HỌ VÀ TÊN GIÁM ĐỐC]** |
+| **NƠI NHẬN:**<br>- Ban Giám đốc (để chỉ đạo);<br>- Phòng Thi công;<br>- Phòng Dự án (kiêm KD);<br>- Phòng Kế toán – Tài chính;<br>- Lưu: VT, KTTC. | **<<CTY_TEN>>**<br>**GIÁM ĐỐC**<br>*(Ký tên, ghi rõ họ tên và đóng dấu)*<br><br><br><br>**<<CTY_DAI_DIEN>>** |
 |---|---|

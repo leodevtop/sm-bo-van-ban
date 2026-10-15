@@ -1,4 +1,4 @@
-| **CÔNG TY TNHH SAMIN**<br>Địa chỉ: {{DIA_CHI}}<br>Mã số thuế: {{MST}}<br>**Số: ……/2026/QĐ-NKL** | | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*TP. Hồ Chí Minh, ngày …… tháng …… năm 2026* |
+| **<<CTY_TEN>>**<br>Địa chỉ: <<CTY_DC>><br>Mã số thuế: <<CTY_MST>><br>**Số: ……/2026/QĐ-NKL** | | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*TP. Hồ Chí Minh, ngày …… tháng …… năm 2026* |
 |---|---|---|
 
 <br>
@@ -11,7 +11,7 @@
 
 ---
 
-**GIÁM ĐỐC CÔNG TY TNHH SAMIN**
+**GIÁM ĐỐC <<CTY_TEN>>**
 
 </div>
 
@@ -19,9 +19,9 @@
 
 *Căn cứ Luật Bảo hiểm xã hội số 41/2024/QH15 và Luật Việc làm số 74/2025/QH15;*
 
-*Căn cứ Hợp đồng lao động số ……/2026/HĐLĐ-SM đã ký kết giữa Công ty TNHH SAMIN và người lao động;*
+*Căn cứ Hợp đồng lao động số ……/2026/HĐLĐ-SM đã ký kết giữa <<CTY_TEN>> và người lao động;*
 
-*Căn cứ Quy chế quản lý điều hành nhân sự số 03/2026/QC-SAMIN của Công ty;*
+*Căn cứ Quy chế quản lý điều hành nhân sự số 03/2026/QC-<<CTY_TEN_VT>> của Công ty;*
 
 *Xét Đơn xin nghỉ việc không hưởng lương của ông/bà ………………………………… ngày ……/……/2026 và ý kiến tiếp nhận của Chỉ huy trưởng công trường,*
 
@@ -59,5 +59,5 @@ Quyết định này có hiệu lực kể từ ngày ký. Phòng Thi công, Ph�
 
 <br>
 
-| **Ý KIẾN XÁC NHẬN CỦA NGƯỜI LAO ĐỘNG**<br>*(Đã đọc, đồng ý và cam kết chấp hành)*<br><br><br><br>*(Ký và ghi rõ họ tên)*<br><br>**……………………………………** | **CÔNG TY TNHH SAMIN**<br>**GIÁM ĐỐC**<br>*(Ký tên, ghi rõ họ tên và đóng dấu)*<br><br><br><br>**[HỌ VÀ TÊN GIÁM ĐỐC]** |
+| **Ý KIẾN XÁC NHẬN CỦA NGƯỜI LAO ĐỘNG**<br>*(Đã đọc, đồng ý và cam kết chấp hành)*<br><br><br><br>*(Ký và ghi rõ họ tên)*<br><br>**……………………………………** | **<<CTY_TEN>>**<br>**GIÁM ĐỐC**<br>*(Ký tên, ghi rõ họ tên và đóng dấu)*<br><br><br><br>**<<CTY_DAI_DIEN>>** |
 |---|---|
