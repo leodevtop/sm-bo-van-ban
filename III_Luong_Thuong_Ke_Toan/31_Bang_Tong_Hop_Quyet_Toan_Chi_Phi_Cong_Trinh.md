@@ -72,15 +72,18 @@
 
 ## 4. ĐỀ XUẤT TRÍCH LẬP QUỸ THƯỞNG KPI DỰ ÁN
 
-Căn cứ Quy chế tiền lương thưởng và Quy chế thưởng KPI dự án (`23_Quy_Che_Luong_KPI_Du_An_2026.md` Điều 8), do công trình hoàn thành vượt tiến độ, đảm bảo an toàn tuyệt đối và tiết kiệm chi phí, Hội đồng xét thưởng đề xuất:
-1. **Tổng quỹ thưởng hiệu quả dự án đề xuất trích lập:** `.........` VNĐ *(hoặc trích theo tỷ lệ trên dòng tiền thực thu / lợi nhuận gộp theo Bảng tham số)*.
-2. **Nguyên tắc phân chia quỹ thưởng KPI (khớp chính xác Điều 8 Quy chế 23):**
-   - **Khối công trường trực thuộc Phòng Thi công** (Ban Chỉ huy công trường, giám sát kỹ thuật, an toàn viên HSE và tổ đội công nhân lắp dựng trực tiếp): **45% - 65%** quỹ thưởng (mức áp dụng cụ thể: **65%** hoặc theo phê duyệt của Giám đốc), trong đó:
-     + Ban Chỉ huy công trường, kỹ thuật và an toàn viên HSE: 35% quỹ;
-     + Tổ đội công nhân lắp dựng trực tiếp & thợ hàn nòng cốt: 30% quỹ.
-   - **Phòng Dự án (kiêm Kinh doanh)**: **25% - 45%** quỹ thưởng (mức áp dụng cụ thể: **25%** hoặc theo tỷ lệ Quy chế 23; phân bổ cho bộ phận bóc tách khối lượng, dự toán, thương thảo hợp đồng và mua sắm vật tư thép).
-   - **Phòng Kế toán – Tài chính**: **10%** quỹ thưởng (khung quy định: 5% - 10% theo Quy chế 23; phân bổ cho kế toán công trình, kiểm soát chi phí TK 154 và theo dõi thu hồi công nợ dự án).
-3. **Quy định loại trừ đặc biệt:** **Phòng Hành chính – Nhân sự KHÔNG tham gia trích chia quỹ thưởng KPI dự án này** (tuân thủ nghiêm ngặt theo Điều 2 khoản 2 Quy chế 23 và Điều 3 khoản 4 Quy chế 63 nhằm bảo đảm tính khách quan trong công tác quản trị và giám sát nhân sự).
+Căn cứ Quy chế tiền lương, thưởng (`22_Quy_Che_Tien_Luong_Thuong_Phu_Cap_2026.md`) và Quy chế thưởng KPI dự án (`23_Quy_Che_Luong_KPI_Du_An_2026.md`), do công trình hoàn thành tiến độ, đảm bảo an toàn tuyệt đối và tiết kiệm chi phí, Hội đồng xét thưởng đề xuất:
+1. **Tổng quỹ thưởng hiệu quả dự án đề xuất trích lập:** `.........` VNĐ *(trích 20% lợi nhuận gộp thực tế, trần khống chế không quá 5% giá trị hợp đồng nghiệm thu thanh toán theo Quy chế 23)*.
+2. **Nguyên tắc phân chia quỹ thưởng KPI cho 04 phòng ban (chuẩn hóa theo Quy chế 23):**
+   - **Phòng Thi công (nhiều nhất): 50%** quỹ thưởng KPI, trong đó:
+     + Ban Chỉ huy công trường: 25% quỹ;
+     + Kỹ thuật hiện trường và An toàn viên HSE: 10% quỹ;
+     + Tổ đội công nhân trực tiếp thi công lắp dựng kết cấu thép: 15% quỹ.
+   - **Phòng Dự án (kiêm Kinh doanh): 25%** quỹ thưởng KPI (đàm phán thầu phụ, bóc tách khối lượng kết cấu thép, kiểm soát cung ứng vật tư).
+   - **Phòng Kế toán – Tài chính: 15%** quỹ thưởng KPI (kiểm soát dòng tiền thực thu, lập hồ sơ thanh quyết toán, chi phí và thu hồi công nợ).
+   - **Phòng Hành chính – Nhân sự: 10%** quỹ thưởng KPI (hoàn thiện hồ sơ lao động, đăng ký người lao động, tuyển dụng, điều động và hỗ trợ hành chính dự án).
+   *(Tổng tỷ lệ phân bổ: 50% + 25% + 15% + 10% = 100%).*
+3. **Nguyên tắc chi trả:** Cả 04 phòng ban đều được đánh giá hiệu suất (KPI) và hưởng quỹ thưởng theo tỷ lệ trên gắn với kết quả thu hồi dòng tiền và lợi nhuận gộp dự án.
 
 ---
 

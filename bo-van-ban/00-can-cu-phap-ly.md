@@ -9,6 +9,7 @@
 | Văn bản | Dùng cho | |
 |---|---|---|
 | Bộ luật Lao động 2019 (45/2019/QH14) | A1, A2, A3, A4, D4 | ◐ |
+| Nghị quyết 28/2026/QH16 của Quốc hội: xác lập Ngày Văn hóa Việt Nam (24/11 hằng năm) là ngày nghỉ lễ hưởng nguyên lương (tổng 12 ngày nghỉ lễ, Tết) | A1, A2, A3, D4 | ✔ |
 | Nghị định 145/2020/NĐ-CP (hướng dẫn Bộ luật Lao động) | A1–A4, D4 | ◐ |
 | Luật Việc làm 2025 (74/2025/QH15), hiệu lực 01/01/2026: đăng ký thông tin người lao động | A4 | ✔ |
 | Nghị định 318/2025/NĐ-CP (12/12/2025, hiệu lực 01/01/2026): đăng ký lao động và hệ thống thông tin thị trường lao động; người lao động thuộc diện BHXH bắt buộc đăng ký qua tờ khai đăng ký BHXH có bổ sung thông tin việc làm, người lao động ngoài diện này kê khai tờ khai điện tử | A1, A4 | ✔ / mốc triển khai dữ liệu quốc gia ◐ |

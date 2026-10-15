@@ -158,11 +158,11 @@ QL_SM/
 ## Nguyên tắc tổ chức và quản trị hồ sơ của Công ty
 
 1. **Thẩm quyền ký kết:** Thống nhất **Giám đốc** là người có thẩm quyền duy nhất ký toàn bộ quyết định, quy chế, hợp đồng và phê duyệt biểu mẫu cấp Công ty.
-2. **Cơ cấu tổ chức thực tế:** Gồm 04 phòng ban chức năng:
-   - Phòng Thi công (quản lý công trường, chỉ huy trưởng, kỹ thuật, an toàn và tổ thợ);
-   - Phòng Dự án (kiêm Kinh doanh – đàm phán hợp đồng thầu phụ, bóc tách khối lượng, vật tư);
-   - Phòng Kế toán – Tài chính (kế toán, dòng tiền, thanh toán khối lượng, lương và bảo hiểm);
-   - Phòng Hành chính – Nhân sự (hồ sơ lao động, đăng ký người lao động, dữ liệu cá nhân; **không tham gia quỹ thưởng KPI dự án**).
+2. **Cơ cấu tổ chức thực tế:** Gồm 04 phòng ban chức năng đều tham gia Quỹ thưởng KPI dự án:
+   - Phòng Thi công (quản lý công trường, chỉ huy trưởng, kỹ thuật, an toàn và tổ thợ; tham gia nhiều nhất: 50% quỹ KPI);
+   - Phòng Dự án (kiêm Kinh doanh – đàm phán hợp đồng thầu phụ, bóc tách khối lượng, vật tư; tham gia 25% quỹ KPI);
+   - Phòng Kế toán – Tài chính (kế toán, dòng tiền, thanh toán khối lượng, lương và bảo hiểm; tham gia 15% quỹ KPI);
+   - Phòng Hành chính – Nhân sự (hồ sơ lao động, đăng ký người lao động, tuyển dụng, dữ liệu cá nhân; tham gia 10% quỹ KPI).
 3. **Vai trò hợp đồng:** Công ty chủ yếu làm **nhà thầu phụ** (soạn điều khoản riêng cho mục 73–74); các dự án trực tiếp với xưởng sẽ bổ sung sau.
 4. **Chế độ kế toán áp dụng:** Áp dụng **Thông tư số 133/2016/TT-BTC** ngày 26/08/2016 của Bộ Tài chính dành cho doanh nghiệp nhỏ và vừa (chứng từ kế toán phiếu chi Mẫu 02-TT, bảng thanh toán tiền lương Mẫu 02-LĐTL). Doanh nghiệp nhỏ và vừa được tiếp tục áp dụng hoặc chọn Thông tư 99/2025/TT-BTC từ 01/01/2026 (siêu nhỏ: Thông tư 58/2026/TT-BTC từ 01/07/2026); Kế toán xác nhận chế độ đang dùng và không trộn mẫu giữa các chế độ.
 5. **Điều tra TNLĐ cơ sở:** Công ty mới lập Công đoàn cơ sở, chưa có chuyên trách y tế và HSE riêng => Đoàn điều tra TNLĐ cấp cơ sở gồm 04 thành viên: **Giám đốc** (Trưởng đoàn), **Người phụ trách an toàn**, **Chỉ huy trưởng công trình** và **Đại diện người lao động** (BCH Công đoàn cơ sở / Đại diện tập thể NLĐ); phối hợp cùng đại diện Ban An toàn Tổng thầu.

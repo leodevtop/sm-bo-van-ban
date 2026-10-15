@@ -31,7 +31,7 @@ Qua rà soát độc lập toàn diện 25 file văn bản, kết quả phân lo
 | STT | Mã VB | Thư mục & Tên file văn bản | Mức độ đáp ứng | Đánh giá tóm tắt & Vấn đề chính |
 |:---:|:---:|:---|:---:|:---|
 | **I** | | **V_To_Chuc_Phan_Quyen/** | | |
-| 1 | 63 | `63_Quy_Che_To_Chuc_Phan_Quyen_Chuc_Danh_Bao_Cao.md` | **ĐẠT (PASS)** | Xuất sắc. Đúng cơ cấu 04 phòng ban; Giám đốc là thẩm quyền tối cao; phân định rõ ranh giới duyệt; khẳng định HC-NS không tham gia quỹ KPI dự án. Căn cứ pháp lý ở cuối. |
+| 1 | 63 | `63_Quy_Che_To_Chuc_Phan_Quyen_Chuc_Danh_Bao_Cao.md` | **ĐẠT (PASS)** | Xuất sắc. Đúng cơ cấu 04 phòng ban; Giám đốc là thẩm quyền tối cao; phân định rõ ranh giới duyệt; cả 04 phòng ban đều tham gia Quỹ KPI dự án (Thi công 50%, Dự án 25%, Kế toán 15%, HCNS 10%). Căn cứ pháp lý ở cuối. |
 | 2 | 64 | `64_Quy_Che_Bao_Ve_Du_Lieu_Ca_Nhan_va_Luu_Tru.md` | **ĐẠT (PASS)** | Xuất sắc. Bảng thời hạn lưu trữ chuẩn luật (TNLĐ chết người 15 năm; NLĐ nghỉ việc; kế toán 10 năm); chuẩn Luật BVDLCN 2025 & NĐ 356/2025; mẫu Legal Hold C2-2. |
 | 3 | 65 | `65_Bien_Ban_Tieu_Huy_Ho_So.md` | **PASS (Minor Fix)** | Nội dung pháp lý tiêu hủy chuẩn (Luật Lưu trữ 2024, Luật BVDLCN 2025). Cần chuẩn hóa mã `<<CTY_DAI_DIEN>>`, `<<CTY_KE_TOAN_TRUONG>>` và sửa tên "Phòng Thi công" thay vì "Kỹ thuật - Thi công". |
 | 4 | 66 | `66_Danh_Muc_Van_Ban_va_Nhat_Ky_Ra_Soat.md` | **ĐẠT (PASS)** | Rất tốt. Hệ thống hóa đầy đủ 83 văn bản quản trị; chu kỳ rà soát 06 tháng; sự kiện bắt buộc rà soát khi sửa luật ATVSLĐ; có gắn nhãn `◐` rõ ràng. |

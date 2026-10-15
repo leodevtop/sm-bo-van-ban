@@ -55,7 +55,7 @@ Quy chế này gồm thang bảng lương, trả lương, làm thêm giờ, ph�
 Cơ chế này khớp với hệ thống tính lương KPI của Công ty.
 
 1. **Quỹ KPI của từng công trình** = tỷ lệ quỹ KPI (Bảng tham số Phần III.4) × **tiền thực nhận (tiền về)** của công trình đó, ghi nhận theo từng đợt tiền về. Không tính theo giá trị hợp đồng.
-2. **Phân bổ cho phòng** theo tỷ lệ tại Phụ lục 2 (Thi công; Dự án kiêm Kinh doanh; Kế toán – Tài chính; bổ sung khi thành lập phòng mới; Hành chính – Nhân sự không tham gia quỹ KPI dự án). Chủ trì sale chính hưởng phần ưu tiên theo Bảng tham số (mặc định 40% phần của phòng Dự án kiêm Kinh doanh).
+2. **Phân bổ cho 04 phòng** theo tỷ lệ chuẩn hóa tại Phụ lục 2 (Phòng Thi công chiếm nhiều nhất 50%; Phòng Dự án kiêm Kinh doanh 25%; Phòng Kế toán – Tài chính 15%; Phòng Hành chính – Nhân sự 10%). Chủ trì sale chính hưởng phần ưu tiên theo Bảng tham số (mặc định 40% phần của phòng Dự án kiêm Kinh doanh).
 3. **Phân bổ trong phòng** theo điểm KPI cá nhân (Phụ lục 3).
 4. Phòng hỗ trợ nhiều công trình cùng lúc (Kế toán – Tài chính, Dự án kiêm Kinh doanh) được **gộp quỹ** của các công trình có tiền về trong tháng.
 5. **Điều kiện hưởng KPI:** không vi phạm an toàn nghiêm trọng; không bị xử lý kỷ luật trong kỳ; công trình đạt nghiệm thu theo D1.
@@ -109,10 +109,10 @@ Thang bảng lương do Công ty xây dựng, công khai cho người lao độn
 
 | Phòng                   | Tỷ lệ                | Ghi chú                                                               |
 | ----------------------- | -------------------- | --------------------------------------------------------------------- |
-| Thi công                | {{KPI_PCT_THI_CONG}} | Chia theo điểm KPI                                                    |
-| Dự án (kiêm Kinh doanh) | {{KPI_PCT_DU_AN}}    | Sale chính hưởng phần ưu tiên trước, phần còn lại chia theo điểm KPI  |
-| Kế toán – Tài chính     | {{KPI_PCT_KE_TOAN}}  | Chia theo điểm KPI                                                    |
-| Hành chính – Nhân sự    | 0%                   | Không tham gia quỹ KPI dự án (theo cơ cấu hiện tại)                   |
+| Thi công (nhiều nhất)   | 50% (`{{KPI_PCT_THI_CONG}}`) | BCH công trường 25%, kỹ thuật/an toàn viên 10%, tổ thợ trực tiếp 15% |
+| Dự án (kiêm Kinh doanh) | 25% (`{{KPI_PCT_DU_AN}}`)    | Sale chính hưởng phần ưu tiên 40% trước, phần còn lại chia theo điểm KPI |
+| Kế toán – Tài chính     | 15% (`{{KPI_PCT_KE_TOAN}}`)  | Chia theo điểm KPI (dòng tiền, thanh toán, hồ sơ chi phí)             |
+| Hành chính – Nhân sự    | 10%                  | Chia theo điểm KPI (hồ sơ lao động, đăng ký NLĐ, tuyển dụng, hỗ trợ)  |
 | Phòng mới               | Giám đốc quyết định  | Thêm dòng khi thành lập; điều chỉnh tỷ lệ các phòng để tổng bằng 100% |
 
 ## PHỤ LỤC 3 – THANG ĐIỂM KPI

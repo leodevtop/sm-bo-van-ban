@@ -76,7 +76,7 @@ Hai bên tự nguyện thỏa thuận giao kết Hợp đồng lao động với
    - Tuân thủ nghiêm ngặt giới hạn luật định: Không quá 50% số giờ làm việc bình thường trong 01 ngày (tổng không quá 12 giờ/ngày); không quá 40 giờ/tháng và không quá 200 giờ/năm theo Điều 107 BLLĐ 2019.
 3. **Nghỉ lễ, Tết, phép hằng năm:**  
    - Nghỉ hằng tuần: 02 ngày/tuần (thứ Bảy và Chủ nhật đối với văn phòng).  
-   - Nghỉ lễ, Tết: 12 ngày/năm hưởng nguyên lương theo Điều 112 BLLĐ 2019.  
+   - Nghỉ lễ, Tết: 12 ngày/năm hưởng nguyên lương theo Điều 112 Bộ luật Lao động 2019 và Nghị quyết số 28/2026/QH16 của Quốc hội.  
    - Nghỉ phép hằng năm: 12 ngày làm việc hưởng nguyên lương đối với điều kiện làm việc bình thường; cứ 05 năm làm việc tại Công ty được cộng thêm 01 ngày phép thâm niên theo Điều 114 BLLĐ 2019.
 
 ---
@@ -92,8 +92,7 @@ Hai bên tự nguyện thỏa thuận giao kết Hợp đồng lao động với
    - Phụ cấp công việc (đi lại, điện thoại): Theo Quy chế tiền lương và thỏa thuận riêng: <<HD_PHU_CAP>> đồng/tháng.
 3. **Tiền thưởng và Quỹ KPI:**  
    - Bên B được đánh giá hiệu quả công việc và xét khen thưởng theo Quy chế tiền lương, thưởng và KPI hiện hành của Công ty.  
-   - Đối với nhân sự thuộc Phòng Dự án (kiêm Kinh doanh), Phòng Kế toán – Tài chính, Phòng Thi công: Được tham gia phân chia Quỹ KPI dự án theo đúng tỷ lệ và quy chế được Giám đốc ban hành.  
-   *(Lưu ý: Nhân sự Phòng Hành chính – Nhân sự không tham gia Quỹ KPI dự án theo cơ cấu phân bổ thực tế).*
+   - Cả 04 phòng ban chức năng (Phòng Thi công, Phòng Dự án kiêm Kinh doanh, Phòng Kế toán – Tài chính, Phòng Hành chính – Nhân sự) đều được đánh giá hiệu suất (KPI) và tham gia phân chia Quỹ KPI dự án theo đúng tỷ lệ và quy chế được Giám đốc ban hành tại Quy chế số 23/2026/QC-<<CTY_TEN_VT>>.
 4. **Tiền lương làm thêm giờ, làm việc ban đêm (nếu có):**  
    - Chi trả theo quy định tại Điều 98 BLLĐ 2019: 150% vào ngày thường, 200% vào ngày nghỉ hằng tuần, 300% vào ngày nghỉ lễ, Tết.
 5. **Hình thức và kỳ hạn trả lương:**  

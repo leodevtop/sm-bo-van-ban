@@ -66,7 +66,15 @@
 
 ### Điều 6. Thời giờ nghỉ ngơi và Nghỉ lễ, Tết, Phép năm
 1. **Nghỉ hằng tuần:** Người lao động được nghỉ ít nhất 24 giờ liên tục trong một tuần (văn phòng nghỉ thứ Bảy và Chủ nhật; công trường nghỉ Chủ nhật hoặc bố trí ngày nghỉ luân phiên bù theo tiến độ).
-2. **Nghỉ lễ, Tết:** Người lao động được nghỉ làm việc, hưởng nguyên lương 12 ngày lễ, Tết theo Điều 112 BLLĐ 2019 (Tết Dương lịch 01 ngày, Tết Âm lịch 05 ngày, Giỗ Tổ Hùng Vương 01 ngày, Ngày Chiến thắng 30/4 là 01 ngày, Ngày Quốc tế lao động 01/5 là 01 ngày, Quốc khánh 02 ngày).
+2. **Nghỉ lễ, Tết:** Người lao động được nghỉ làm việc, hưởng nguyên lương 12 ngày lễ, Tết theo quy định tại Điều 112 Bộ luật Lao động 2019 và Nghị quyết số 28/2026/QH16 của Quốc hội, bao gồm:
+   a) Tết Dương lịch (ngày 01 tháng 01 dương lịch): **01 ngày**;
+   b) Tết Âm lịch: **05 ngày**;
+   c) Ngày Chiến thắng (ngày 30 tháng 04 dương lịch): **01 ngày**;
+   d) Ngày Quốc tế lao động (ngày 01 tháng 05 dương lịch): **01 ngày**;
+   đ) Quốc khánh (ngày 02 tháng 09 dương lịch và 01 ngày liền kề trước hoặc sau): **02 ngày**;
+   e) Ngày Giỗ Tổ Hùng Vương (ngày 10 tháng 03 âm lịch): **01 ngày**;
+   g) Ngày Văn hóa Việt Nam (ngày 24 tháng 11 dương lịch hằng năm): **01 ngày** (theo Nghị quyết số 28/2026/QH16 của Quốc hội).
+   *(Tổng cộng: 12 ngày nghỉ lễ, Tết hưởng nguyên lương trong năm. Nếu ngày nghỉ lễ, Tết trùng vào ngày nghỉ hằng tuần thì người lao động được nghỉ bù vào ngày làm việc kế tiếp theo quy định).*
 3. **Nghỉ phép hằng năm (Điều 113 BLLĐ 2019):**
    - Người lao động làm việc đủ 12 tháng tại Công ty được nghỉ 12 ngày làm việc hưởng nguyên lương (đối với điều kiện lao động bình thường);
    - Được nghỉ **14 ngày làm việc hưởng nguyên lương** đối với người làm công việc nặng nhọc, độc hại, nguy hiểm (công nhân thi công lắp dựng kết cấu thép trên cao);
@@ -265,7 +273,8 @@ Thực hiện trên Cổng Dịch vụ công Quốc gia theo quy định, hồ s
 4. Luật Xây dựng số 135/2025/QH15 và Nghị định số 207/2026/NĐ-CP;
 5. Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 và Nghị định số 356/2025/NĐ-CP;
 6. Nghị định số 283/2026/NĐ-CP (xử phạt vi phạm hành chính về lao động, hiệu lực 10/09/2026);
-7. Bảng tham số nội bộ (`00-bang-tham-so.md`) và Căn cứ pháp lý (`00-can-cu-phap-ly.md`).
+7. Nghị quyết số 28/2026/QH16 của Quốc hội về việc xác lập Ngày Văn hóa Việt Nam (24/11 hằng năm);
+8. Bảng tham số nội bộ (`00-bang-tham-so.md`) và Căn cứ pháp lý (`00-can-cu-phap-ly.md`).
 
 ## PHỤ LỤC 4: NỘI QUY AN TOÀN CÔNG TRƯỜNG (MẪU ĐIỀN)
 *(Xem file độc lập STT 21: `21_Noi_Quy_An_Toan_Cong_Truong.md`)*

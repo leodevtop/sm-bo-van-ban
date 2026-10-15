@@ -94,7 +94,7 @@ Nhằm tuân thủ tuyệt đối quy định pháp luật về lao động và 
 2. Khi công trình hoàn thành bàn giao đưa vào sử dụng, Kế toán công trình phối hợp với Chỉ huy trưởng lập **Bảng tổng hợp quyết toán chi phí công trình** theo mẫu `31_Bang_Tong_Hop_Quyet_Toan_Chi_Phi_Cong_Trinh.md` để so sánh giữa:
    - Chi phí dự toán được phê duyệt ban đầu (Budgeted Cost).
    - Chi phí thực tế phát sinh tập hợp trên TK 154 (Actual Cost).
-   - Đánh giá hiệu quả kinh tế và tính thưởng hiệu quả/an toàn dự án cho các bộ phận đủ điều kiện (Phòng Nhân sự không tham gia quỹ thưởng KPI dự án theo quy định).
+   - Đánh giá hiệu quả kinh tế và tính thưởng hiệu quả/an toàn dự án cho cả 04 phòng ban theo tỷ lệ chuẩn hóa tại Quy chế 23.
 
 ---
 

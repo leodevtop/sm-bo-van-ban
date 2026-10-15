@@ -47,7 +47,7 @@
   - Tổ chức tự kiểm tra chất lượng, nghiệm thu nội bộ và phối hợp với Tư vấn giám sát/Tổng thầu nghiệm thu từng giai đoạn (D1);
   - Quản lý kho công trường, bảo quản vật tư cấu kiện và cấp phát phương tiện bảo vệ cá nhân (PPE) chuyên dụng (B2-08);
   - Đảm bảo tuân thủ tuyệt đối quy định an toàn lao động, vệ sinh môi trường, phòng chống cháy nổ trên công trường.
-- **Tham gia Quỹ KPI dự án:** Tham gia theo tỷ lệ phân bổ quy định tại Bảng tham số nội bộ và Quy chế lương thưởng KPI (Mã A3-23).
+- **Tham gia Quỹ KPI dự án:** Tham gia theo tỷ lệ phân bổ cao nhất (50% quỹ KPI dự án) quy định tại Bảng tham số nội bộ và Quy chế lương thưởng KPI (Mã A3-23).
 
 #### 2. Phòng Dự án kiêm Kinh doanh:
 - **Chức năng:** Tìm kiếm thị trường, đàm phán hợp đồng thầu phụ, bóc tách khối lượng, lập biện pháp kỹ thuật, quản lý an toàn chung và trực tiếp thu mua vật tư cho các dự án nhận thầu gồm vật tư.
@@ -58,7 +58,7 @@
   - Lập biện pháp kỹ thuật thi công, biện pháp bảo đảm an toàn cẩu lắp theo Phụ lục III Nghị định 207/2026/NĐ-CP;
   - Tìm kiếm nhà cung cấp thép, bu lông, sơn, tôn; thẩm định năng lực, so sánh giá (D1-06) và phát hành Đơn đặt hàng (Mã 75) đối với các gói thầu Dạng 2 (Gồm vật tư);
   - **Quản lý an toàn chung:** Bộ phận quản lý an toàn chuyên trách của Công ty (`<<CTY_NGUOI_AT>>`) trực thuộc Phòng Dự án, có quyền hạn độc lập giám sát an toàn toàn hệ thống và báo cáo trực tiếp Giám đốc.
-- **Tham gia Quỹ KPI dự án:** Tham gia theo tỷ lệ phân bổ (trong đó nhân sự chủ trì sale/phụ trách chính dự án được hưởng tỷ lệ ưu tiên 40% phần của phòng theo Bảng tham số).
+- **Tham gia Quỹ KPI dự án:** Tham gia theo tỷ lệ phân bổ (25% quỹ KPI dự án; trong đó nhân sự chủ trì sale/phụ trách chính dự án được hưởng tỷ lệ ưu tiên 40% phần của phòng theo Bảng tham số).
 
 #### 3. Phòng Kế toán – Tài chính:
 - **Chức năng:** Quản lý toàn bộ công tác tài chính, dòng tiền, kế toán doanh nghiệp theo Thông tư 133/2016/TT-BTC, quản lý thuế, thanh toán công nợ và chi trả tiền lương.
@@ -69,7 +69,7 @@
   - Tính toán và thực hiện chi trả lương, phụ cấp, thưởng KPI cho người lao động thông qua tài khoản ngân hàng (bắt buộc chuyển khoản không dùng tiền mặt);
   - Thực hiện trích nộp các khoản thuế (TNCN, TNDN, GTGT) và bảo hiểm bắt buộc (BHXH, BHYT, BHTN, KPCĐ) theo đúng thời hạn luật định;
   - Quản lý quỹ tiền mặt không vượt mức tồn quỹ tối đa do Giám đốc phê duyệt tại Bảng tham số.
-- **Tham gia Quỹ KPI dự án:** Tham gia theo tỷ lệ phân bổ quy định tại Bảng tham số nội bộ.
+- **Tham gia Quỹ KPI dự án:** Tham gia theo tỷ lệ phân bổ (15% quỹ KPI dự án) quy định tại Bảng tham số nội bộ và Quy chế lương thưởng KPI (Mã A3-23).
 
 #### 4. Phòng Hành chính – Nhân sự:
 - **Chức năng:** Quản lý tuyển dụng, hồ sơ pháp lý lao động, thực hiện thủ tục đăng ký việc làm, BHXH, bảo vệ dữ liệu cá nhân, văn thư lưu trữ và quản trị hành chính.
@@ -81,7 +81,7 @@
   - Tổ chức khám sức khỏe định kỳ và quản lý hồ sơ sức khỏe người lao động (Mã 83);
   - Quản lý công tác văn thư, con dấu pháp nhân, bảo vệ dữ liệu cá nhân theo Luật Bảo vệ dữ liệu cá nhân 2025;
   - Thường trực tổ chức hội nghị đối thoại định kỳ tại nơi làm việc và tiếp nhận kiến nghị của người lao động (Mã 78, 79, 80).
-- **Quy chế Quỹ KPI dự án:** **Phòng Hành chính – Nhân sự KHÔNG tham gia phân chia Quỹ KPI dự án** (theo đúng quy tắc quản trị thực tế của Công ty quy định tại README và Bảng tham số). Nhân sự phòng này được hưởng chế độ lương ngạch bậc và thưởng hiệu quả hoạt động hành chính chung theo đánh giá định kỳ hằng năm.
+- **Tham gia Quỹ KPI dự án:** Tham gia theo tỷ lệ phân bổ 10% quỹ KPI dự án quy định tại Bảng tham số nội bộ và Quy chế lương thưởng KPI (Mã A3-23) gắn với kết quả thực hiện hồ sơ lao động, đăng ký người lao động, tuyển dụng và hỗ trợ dự án.
 
 ---
 

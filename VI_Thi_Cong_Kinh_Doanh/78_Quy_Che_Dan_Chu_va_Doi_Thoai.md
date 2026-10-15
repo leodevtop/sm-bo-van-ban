@@ -52,7 +52,7 @@ NSDLĐ có trách nhiệm công khai cho toàn thể NLĐ biết các nội dung
 ### Điều 5. Các nội dung người lao động tham gia ý kiến
 NLĐ được quyền tham gia ý kiến trực tiếp hoặc thông qua đại diện Công đoàn trước khi NSDLĐ quyết định:
 1. Xây dựng, sửa đổi, bổ sung Nội quy lao động, Thỏa ước lao động tập thể (TƯLĐTT).
-2. Xây dựng, sửa đổi thang lương, bảng lương, định mức lao động và Quy chế trả lương, thưởng (riêng Phòng Nhân sự không tham gia quỹ thưởng KPI dự án theo quy định).
+2. Xây dựng, sửa đổi thang lương, bảng lương, định mức lao động và Quy chế trả lương, thưởng (cả 04 phòng ban đều tham gia Quỹ thưởng KPI dự án theo Quy chế 23).
 3. Đề xuất các biện pháp cải thiện điều kiện làm việc trên cao, an toàn khi cẩu lắp cấu kiện nặng, giải pháp phòng ngừa tai nạn rơi ngã từ trên cao.
 4. Xây dựng quy chế dân chủ ở cơ sở tại nơi làm việc và các chương trình đối thoại.
 

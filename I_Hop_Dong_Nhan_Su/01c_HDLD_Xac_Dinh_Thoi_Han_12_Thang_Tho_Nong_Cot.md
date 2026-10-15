@@ -90,7 +90,7 @@ Hai bên tự nguyện thỏa thuận giao kết Hợp đồng lao động với
    - Tuân thủ định mức chuẩn pháp luật: Không quá 50% số giờ làm bình thường/ngày (tổng thời gian làm việc bình thường và làm thêm không quá 12 giờ/ngày); không quá 40 giờ/tháng và **áp dụng giới hạn chuẩn không quá 200 giờ/năm** theo Điều 107 BLLĐ 2019.
 3. **Nghỉ ngơi:**  
    - Nghỉ hằng tuần: Ít nhất 01 ngày/tuần (Chủ nhật hoặc bố trí ngày nghỉ bù luân phiên phù hợp với tiến độ lắp dựng).  
-   - Nghỉ lễ, Tết: 12 ngày/năm hưởng nguyên lương theo Điều 112 BLLĐ 2019 và Bảng tham số.  
+   - Nghỉ lễ, Tết: 12 ngày/năm hưởng nguyên lương theo Điều 112 BLLĐ 2019, Nghị quyết số 28/2026/QH16 của Quốc hội và Bảng tham số nội bộ.  
    - Nghỉ phép hằng năm: 14 ngày làm việc hưởng nguyên lương đối với công việc nặng nhọc, độc hại, nguy hiểm (lắp dựng kết cấu thép trên cao) theo quy định pháp luật.
 4. **An toàn lao động và Mười điều "DỪNG NGAY":**  
    - Bên B phải tuyệt đối tuân thủ Sổ tay HSE, quy trình thi công an toàn trên cao, an toàn cẩu lắp, an toàn hàn cắt và quy định PCCC. Luôn mang đầy đủ và đúng cách phương tiện bảo vệ cá nhân (PPE): nón bảo hộ, giày mũi thép chống đinh, áo phản quang, dây đai an toàn toàn thân 2 móc chống sốc (luôn móc vào dây cứu sinh lifeline cố định khi ở độ cao từ 2m trở lên).  

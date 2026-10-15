@@ -26,7 +26,7 @@ Quy chế áp dụng đối với toàn thể người lao động thuộc 04 (b
 1. Phòng Thi công (gồm chỉ huy trưởng, an toàn viên, kỹ thuật hiện trường và công nhân thi công lắp dựng);
 2. Phòng Dự án (kiêm Kinh doanh);
 3. Phòng Kế toán – Tài chính;
-4. Phòng Hành chính – Nhân sự *(Ghi chú nguyên tắc tổ chức: Phòng Hành chính – Nhân sự không tham gia quỹ thưởng KPI dự án)*.
+4. Phòng Hành chính – Nhân sự (tham gia Quỹ thưởng KPI dự án theo Quy chế số 23/2026/QC-<<CTY_TEN_VT>>).
 
 ### Điều 3. Căn cứ pháp lý
 - Bộ luật Lao động số 45/2019/QH14 và Nghị định số 145/2020/NĐ-CP;
@@ -132,7 +132,7 @@ Căn cứ Luật Bảo hiểm xã hội số 41/2024/QH15, Thông tư số 10/20
 
 ### Điều 13. Chế độ khen thưởng
 1. **Thưởng an toàn lao động (HSE):** Thưởng từ 1.000.000 đến 3.000.000 đồng/công trình cho tổ đội hoàn thành tốt mục tiêu không để xảy ra sự cố, tai nạn lao động trong suốt thời gian thi công.
-2. **Thưởng KPI dự án:** Thực hiện theo Quy chế số 23/2026/QC-<<CTY_TEN_VT>>. Quỹ KPI trích 20% lợi nhuận gộp công trình (trần không quá 5% giá trị hợp đồng), phân bổ cho 03 phòng: Khối Thi công 45%, Khối Dự án 45%, Kế toán – Tài chính 10%. Phòng Hành chính – Nhân sự không tham gia.
+2. **Thưởng KPI dự án:** Thực hiện theo Quy chế số 23/2026/QC-<<CTY_TEN_VT>>. Quỹ KPI trích 20% lợi nhuận gộp công trình (trần không quá 5% giá trị hợp đồng), phân bổ chuẩn hóa cho cả 04 phòng ban: Phòng Thi công (nhiều nhất) 50%, Phòng Dự án (kiêm Kinh doanh) 25%, Phòng Kế toán – Tài chính 15%, Phòng Hành chính – Nhân sự 10%.
 3. **Thưởng Lễ, Tết, tháng 13:** Căn cứ kết quả SXKD chung của Công ty do Giám đốc quyết định.
 
 ### Điều 14. Khấu trừ tiền lương hợp pháp

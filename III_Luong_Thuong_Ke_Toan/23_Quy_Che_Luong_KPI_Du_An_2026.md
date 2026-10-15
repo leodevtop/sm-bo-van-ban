@@ -17,8 +17,8 @@
 > **Mô hình cốt lõi:** Quỹ KPI gắn liền với hiệu quả thực tế và phát sinh theo dòng tiền thực thu (tiền về tài khoản công ty theo từng đợt nghiệm thu); chưa thu tiền thì chưa phát sinh chi trả KPI.
 > - **Mức trích quỹ:** **20% lợi nhuận gộp** (sau khi chốt doanh thu và chi phí hợp lệ của đợt).
 > - **Mức trần khống chế:** Tối đa **5% giá trị hợp đồng** được nghiệm thu thanh toán.
-> - **Tỷ lệ phân bổ:** **Khối Thi công: 45%** | **Phòng Dự án (kiêm Kinh doanh): 45%** | **Phòng Kế toán – Tài chính: 10%**.
-> - **Phòng Hành chính – Nhân sự KHÔNG tham gia** quỹ thưởng KPI dự án.
+> - **Tỷ lệ phân bổ chuẩn hóa:** **Phòng Thi công (nhiều nhất): 50%** (Ban Chỉ huy công trường 25%, kỹ thuật/an toàn viên 10%, tổ thợ trực tiếp thi công 15%) | **Phòng Dự án (kiêm Kinh doanh): 25%** | **Phòng Kế toán – Tài chính: 15%** | **Phòng Hành chính – Nhân sự: 10%**.
+> - **Nguyên tắc tham gia:** Tất cả 04 phòng ban chức năng của Công ty đều được đánh giá hiệu suất (KPI) và tham gia trích chia Quỹ thưởng KPI dự án theo tỷ lệ trên gắn với kết quả thu hồi dòng tiền và lợi nhuận gộp dự án.
 
 ---
 
@@ -29,12 +29,14 @@
 2. Căn cứ Điều 104 Bộ luật Lao động 2019, tiền thưởng KPI là khoản chi trả theo kết quả thực hiện công việc và mức độ đóng góp vào hiệu quả kinh doanh của dự án; đây không phải là khoản lương cố định bắt buộc chi trả hàng tháng.
 
 ### Điều 2. Phạm vi điều chỉnh và đối tượng tham gia
-1. **Các bộ phận tham gia quỹ KPI dự án:**
-   - **Khối Thi công (chiếm 45% quỹ KPI):** Gồm Ban chỉ huy công trường (Chỉ huy trưởng, kỹ thuật hiện trường, an toàn viên) và đội ngũ thợ trực tiếp thi công lắp dựng kết cấu thép;
-   - **Phòng Dự án kiêm Kinh doanh (chiếm 45% quỹ KPI):** Cán bộ phụ trách khảo sát, báo giá, thương thảo hợp đồng, bóc tách khối lượng kết cấu thép và kiểm soát tiến độ vật tư;
-   - **Phòng Kế toán – Tài chính (chiếm 10% quỹ KPI):** Kế toán công trình, kế toán thanh toán trực tiếp thực hiện hồ sơ thanh quyết toán và thu hồi công nợ dự án.
-2. **Khẳng định loại trừ đối với Phòng Hành chính – Nhân sự:**  
-   Căn cứ vào tính chất công việc hành chính hỗ trợ gián tiếp và nguyên tắc hạch toán chi phí quản lý chung, **Phòng Hành chính – Nhân sự TUYỆT ĐỐI KHÔNG tham gia chia quỹ thưởng KPI dự án**. Nhân sự thuộc Phòng Hành chính – Nhân sự được hưởng chế độ lương theo vị trí, thưởng hiệu quả công việc định kỳ năm và thưởng Lễ, Tết từ quỹ phúc lợi/kết quả SXKD chung của toàn Công ty.
+1. **Phạm vi áp dụng:** Quy chế này áp dụng đối với tất cả 04 phòng ban chức năng của Công ty tham gia vào chu trình thực hiện dự án thi công lắp dựng kết cấu thép, từ khảo sát, báo giá, đàm phán hợp đồng, bóc tách khối lượng, cung ứng vật tư, huy động nhân lực, tổ chức thi công, an toàn vệ sinh lao động đến nghiệm thu, thu hồi dòng tiền và thanh quyết toán dự án.
+2. **Các phòng ban tham gia trích chia Quỹ thưởng KPI dự án:**
+   Tất cả 04 phòng ban chức năng đều được đánh giá hiệu suất (KPI) và hưởng quỹ thưởng KPI theo tỷ lệ phân bổ chuẩn hóa gắn với kết quả thu hồi dòng tiền và lợi nhuận gộp thực tế của từng dự án:
+   - **Phòng Thi công (nhiều nhất - chiếm 50% quỹ KPI):** Gồm Ban Chỉ huy công trường (25%), Kỹ thuật hiện trường và An toàn viên HSE (10%), Đội ngũ tổ thợ trực tiếp thi công lắp dựng kết cấu thép (15%);
+   - **Phòng Dự án (kiêm Kinh doanh) (chiếm 25% quỹ KPI):** Cán bộ phụ trách khảo sát hiện trường, báo giá, thương thảo đàm phán hợp đồng, bóc tách khối lượng kết cấu thép và kiểm soát tiến độ vật tư;
+   - **Phòng Kế toán – Tài chính (chiếm 15% quỹ KPI):** Kế toán công trình, kế toán thanh toán trực tiếp kiểm soát dòng tiền, lập hồ sơ thanh toán, kiểm soát chi phí TK 154 và đôn đốc thu hồi công nợ dự án;
+   - **Phòng Hành chính – Nhân sự (chiếm 10% quỹ KPI):** Nhân sự phụ trách hoàn thiện hồ sơ lao động, thủ tục đăng ký người lao động, tuyển dụng, điều động nhân lực và hỗ trợ hành chính phục vụ dự án.
+   *(Tổng tỷ lệ phân bổ: 50% + 25% + 15% + 10% = 100%).*
 
 ### Điều 3. Căn cứ pháp lý
 - Bộ luật Lao động số 45/2019/QH14 (Điều 104 về tiền thưởng);
@@ -68,21 +70,22 @@ Giám đốc Công ty quyết định áp dụng hệ số điều chỉnh giả
 
 ## CHƯƠNG III. PHÂN BỔ QUỸ KPI CHO CÁC PHÒNG BAN
 
-### Điều 6. Cơ cấu phân bổ Quỹ KPI giữa các khối (45% - 45% - 10%)
-Số tiền Quỹ KPI sau khi được Giám đốc phê duyệt được phân bổ chính xác theo tỷ lệ sau:
+### Điều 6. Cơ cấu phân bổ Quỹ KPI giữa các phòng ban (50% - 25% - 15% - 10%)
+Số tiền Quỹ KPI sau khi được Giám đốc phê duyệt được phân bổ chuẩn hóa theo tỷ lệ sau:
 
 | STT | Khối / Phòng ban | Tỷ lệ phân bổ | Phạm vi phân chia nội bộ |
 | :---: | :--- | :---: | :--- |
-| 1 | **Khối Thi công (Hiện trường)** | **45%** | Phân bổ cho Ban chỉ huy công trường (Chỉ huy trưởng, Kỹ thuật hiện trường, An toàn viên) và Tổ thợ lắp dựng trực tiếp theo điểm đánh giá hoàn thành nhiệm vụ. |
-| 2 | **Phòng Dự án (kiêm Kinh doanh)** | **45%** | Ưu tiên 40% phần này cho nhân sự phụ trách chính dự án (báo giá, thương thảo, theo sát công nợ); 60% còn lại chia cho các nhân viên kỹ thuật bóc tách và hỗ trợ dự án. |
-| 3 | **Phòng Kế toán – Tài chính** | **10%** | Phân bổ cho Kế toán thanh toán, kế toán công trình trực tiếp lập hồ sơ thanh toán, kiểm soát chi phí và đôn đốc thu hồi dòng tiền về tài khoản. |
-| 4 | **Phòng Hành chính – Nhân sự** | **0%** | **Không tham gia chia quỹ thưởng KPI dự án.** |
+| 1 | **Phòng Thi công (nhiều nhất)** | **50%** | Phân bổ cho Ban Chỉ huy công trường (25%), Kỹ thuật hiện trường/an toàn viên (10%) và Tổ thợ trực tiếp thi công lắp dựng (15%) theo kết quả đánh giá hoàn thành nhiệm vụ và an toàn lao động. |
+| 2 | **Phòng Dự án (kiêm Kinh doanh)** | **25%** | Phân bổ cho công tác khảo sát, đàm phán thầu phụ, bóc tách khối lượng kết cấu thép và kiểm soát vật tư (ưu tiên 40% phần này cho nhân sự chủ trì dự án; 60% chia cho kỹ thuật bóc tách và hỗ trợ). |
+| 3 | **Phòng Kế toán – Tài chính** | **15%** | Phân bổ cho Kế toán thanh toán, kế toán công trình trực tiếp kiểm soát dòng tiền, lập hồ sơ thanh toán, kiểm soát chi phí TK 154 và thu hồi công nợ dự án. |
+| 4 | **Phòng Hành chính – Nhân sự** | **10%** | Phân bổ cho nhân sự thực hiện hồ sơ lao động, đăng ký người lao động, tuyển dụng, điều động và hỗ trợ hành chính phục vụ dự án. |
 
-### Điều 7. Phân bổ chi tiết trong Khối Thi công (45%)
-Phần 45% của Khối Thi công được phân bổ nội bộ dựa trên bảng điểm đánh giá an toàn, chất lượng và tiến độ do Chỉ huy trưởng lập và Giám đốc phê duyệt:
-- Chỉ huy trưởng công trình: 30% – 35% của phần Khối Thi công;
-- Kỹ thuật giám sát và An toàn viên công trình: 25% – 30% của phần Khối Thi công;
-- Tổ trưởng và thợ kỹ thuật lắp dựng trực tiếp (nòng cốt): 35% – 45% của phần Khối Thi công.
+### Điều 7. Phân bổ chi tiết trong Phòng Thi công (50%)
+Phần 50% quỹ KPI của Phòng Thi công được phân bổ nội bộ chuẩn hóa như sau:
+- **Ban Chỉ huy công trường (Chỉ huy trưởng): 25%** tổng quỹ thưởng KPI (tương ứng 50% phần của Phòng Thi công);
+- **Kỹ thuật hiện trường và An toàn viên HSE: 10%** tổng quỹ thưởng KPI (tương ứng 20% phần của Phòng Thi công);
+- **Đội ngũ tổ thợ trực tiếp thi công lắp dựng kết cấu thép: 15%** tổng quỹ thưởng KPI (tương ứng 30% phần của Phòng Thi công).
+Việc phân chia cụ thể cho từng cá nhân căn cứ trên bảng chấm điểm đánh giá an toàn, chất lượng và tiến độ do Chỉ huy trưởng lập và Giám đốc phê duyệt.
 
 ---
 
@@ -90,8 +93,9 @@ Phần 45% của Khối Thi công được phân bổ nội bộ dựa trên b�
 
 ### Điều 8. Điều kiện cá nhân được hưởng tiền thưởng KPI
 1. Không vi phạm Nội quy lao động, quy trình ATLĐ và không bị xử lý kỷ luật trong thời gian thực hiện dự án.
-2. Có mặt làm việc thực tế và tham gia trực tiếp vào các giai đoạn thi công lắp dựng của đợt thanh toán đó.
-3. Đạt điểm đánh giá KPI cá nhân từ 70/100 điểm trở lên theo thang điểm đánh giá: Tiến độ (20%), Chất lượng (20%), An toàn HSE (30%), Kiểm soát chi phí (15%), Hồ sơ nghiệm thu (15%).
+2. Có mặt làm việc thực tế và tham gia trực tiếp hoặc gián tiếp vào các giai đoạn thực hiện của đợt thanh toán đó.
+3. Đối với nhân sự Khối công trường: Đạt điểm đánh giá KPI cá nhân từ 70/100 điểm trở lên theo thang điểm đánh giá: Tiến độ (20%), Chất lượng (20%), An toàn HSE (30%), Kiểm soát chi phí (15%), Hồ sơ nghiệm thu (15%).
+4. Đối với cán bộ, nhân viên thuộc các phòng ban chức năng (Dự án, Kế toán – Tài chính, Hành chính – Nhân sự): Đạt kết quả hoàn thành nhiệm vụ theo chức năng được giao, phục vụ kịp thời tiến độ công trình, hồ sơ pháp lý, dòng tiền thanh toán và không có vi phạm kỷ luật lao động trong kỳ.
 
 ### Điều 9. Thời điểm và phương thức chi trả
 1. Tiền thưởng KPI dự án được giải ngân theo từng đợt dòng tiền thực thu chuyển về tài khoản của Công ty (sau khi đã khấu trừ chi phí hợp lệ và kiểm tra tính hợp lệ của biên bản nghiệm thu A-B).
@@ -106,13 +110,14 @@ Phần 45% của Khối Thi công được phân bổ nội bộ dựa trên b�
 1. **Phòng Dự án:** Cung cấp kịp thời hợp đồng, phụ lục phát sinh, biên bản nghiệm thu khối lượng hoàn thành và tiến độ thu tiền.
 2. **Phòng Thi công:** Đánh giá khối lượng, chất lượng lắp dựng, hồ sơ an toàn và lập bảng chấm điểm KPI cho nhân sự công trường.
 3. **Phòng Kế toán – Tài chính:** Đối soát dòng tiền thực thu, tập hợp toàn bộ chi phí thực tế, tính toán lợi nhuận gộp, xác định Quỹ KPI theo tỷ lệ 20% (trần 5%), lập bảng thanh toán tiền thưởng trình Giám đốc phê duyệt và thực hiện chuyển khoản.
-4. **Giám đốc Công ty:** Phê duyệt Quỹ KPI, tỷ lệ thưởng cụ thể của từng công trình và quyết định phân bổ cuối cùng.
+4. **Phòng Hành chính – Nhân sự:** Kịp thời cung cấp và hoàn thiện hồ sơ lao động, thủ tục đăng ký người lao động, tuyển dụng, huy động và điều động nhân lực theo tiến độ dự án; phối hợp giám sát việc chấp hành nội quy lao động và an toàn vệ sinh lao động tại công trường.
+5. **Giám đốc Công ty:** Phê duyệt Quỹ KPI, tỷ lệ thưởng cụ thể của từng công trình và quyết định phân bổ cuối cùng.
 
 ### Điều 11. Hiệu lực thi hành
 1. Quy chế này có hiệu lực kể từ ngày **01 tháng 01 năm 2026** và áp dụng thống nhất cho toàn bộ các hợp đồng, công trình thi công kết cấu thép của Công ty.
-2. Ban Giám đốc, các Trưởng phòng Thi công, Dự án, Kế toán – Tài chính, Ban chỉ huy các công trường và các cá nhân liên quan chịu trách nhiệm thi hành Quy chế này./.
+2. Ban Giám đốc, các Trưởng phòng Thi công, Dự án, Kế toán – Tài chính, Hành chính – Nhân sự, Ban chỉ huy các công trường và các cá nhân liên quan chịu trách nhiệm thi hành Quy chế này./.
 
 <br>
 
-| **NƠI NHẬN:**<br>- Ban Giám đốc (để chỉ đạo);<br>- Phòng Thi công;<br>- Phòng Dự án (kiêm KD);<br>- Phòng Kế toán – Tài chính;<br>- Lưu: VT, KTTC. | **<<CTY_TEN>>**<br>**GIÁM ĐỐC**<br>*(Ký tên, ghi rõ họ tên và đóng dấu)*<br><br><br><br>**<<CTY_DAI_DIEN>>** |
+| **NƠI NHẬN:**<br>- Ban Giám đốc (để chỉ đạo);<br>- Phòng Thi công;<br>- Phòng Dự án (kiêm KD);<br>- Phòng Kế toán – Tài chính;<br>- Phòng Hành chính – Nhân sự;<br>- Lưu: VT, KTTC, HCNS. | **<<CTY_TEN>>**<br>**GIÁM ĐỐC**<br>*(Ký tên, ghi rõ họ tên và đóng dấu)*<br><br><br><br>**<<CTY_DAI_DIEN>>** |
 |---|---|

@@ -87,7 +87,7 @@ Hai bên tự nguyện thỏa thuận giao kết Hợp đồng lao động với
      + **Tổng số giờ làm thêm không quá 200 giờ trong 01 năm**. Trường hợp đặc biệt áp dụng khung trần đến 300 giờ/năm chỉ được thực hiện khi công việc thuộc danh mục ngành nghề do Chính phủ quy định và Công ty đã hoàn thành thủ tục thông báo bằng văn bản cho cơ quan chuyên môn về lao động cấp tỉnh theo luật định.
 3. **Nghỉ ngơi, nghỉ phép, lễ tết:**  
    - Nghỉ hàng tuần: Ít nhất 01 ngày/tuần (Chủ nhật hoặc ngày nghỉ bù do công trình sắp xếp).  
-   - Nghỉ lễ, Tết, ngày nghỉ có hưởng lương: Theo Điều 112, 113, 115 Bộ luật Lao động 2019.
+   - Nghỉ lễ, Tết: 12 ngày/năm hưởng nguyên lương theo Điều 112 Bộ luật Lao động 2019, Nghị quyết số 28/2026/QH16 của Quốc hội và Bảng tham số nội bộ; các ngày nghỉ phép, việc riêng có hưởng lương theo Điều 113, 115 BLLĐ 2019.
 4. **An toàn, vệ sinh lao động trên công trường:**  
    - Bên B phải được huấn luyện an toàn lao động Nhóm 3 (công việc trên cao, lắp ráp kết cấu, nâng hạ hàng cẩu) đủ ít nhất 24 giờ và có Thẻ an toàn còn hiệu lực trước khi được phép vào hiện trường thi công.  
    - Công ty trang bị đầy đủ, miễn phí phương tiện bảo vệ cá nhân (PPE) đạt chuẩn: dây đai an toàn toàn thân 2 móc giảm chấn, nón bảo hộ đạt chuẩn có quai đeo, giày bảo hộ mũi thép lót thép, áo phản quang, kính bảo hộ, găng tay cơ khí.  

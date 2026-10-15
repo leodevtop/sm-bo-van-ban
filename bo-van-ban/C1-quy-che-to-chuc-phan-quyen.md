@@ -20,7 +20,7 @@ Giám đốc
 └─ Hành chính – Nhân sự (nhân sự, hợp đồng lao động, BHXH, văn thư, IT)
 ```
 
-1. Cơ cấu này khớp với ba phòng tính KPI (Thi công; Dự án kiêm Kinh doanh; Kế toán – Tài chính) cộng Hành chính – Nhân sự (không tham gia quỹ KPI dự án). Công ty **không sản xuất, gia công**; vật tư thép, bu lông, phụ kiện được mua thành phẩm từ nhà cung cấp. Nhiệm vụ mua vật tư thuộc Phòng Dự án, kho và thiết bị tại công trường thuộc Phòng Thi công.
+1. Cơ cấu này khớp với bốn phòng tham gia Quỹ KPI dự án (Thi công 50%; Dự án kiêm Kinh doanh 25%; Kế toán – Tài chính 15%; Hành chính – Nhân sự 10%). Công ty **không sản xuất, gia công**; vật tư thép, bu lông, phụ kiện được mua thành phẩm từ nhà cung cấp. Nhiệm vụ mua vật tư thuộc Phòng Dự án, kho và thiết bị tại công trường thuộc Phòng Thi công.
 2. **Người phụ trách quản lý an toàn** ({{NGUOI_PT_AN_TOAN}}) thuộc Phòng Dự án và có quyền báo cáo trực tiếp Giám đốc về an toàn.
 3. Khi Công ty tách riêng phòng Vật tư – Thiết bị hoặc phòng Kinh doanh, Giám đốc chuyển các nhiệm vụ vật tư, thiết bị hoặc kinh doanh ở mục 2 sang phòng đó, cập nhật tỷ lệ KPI (A3 Phụ lục 2) và ghi vào nhật ký rà soát.
 

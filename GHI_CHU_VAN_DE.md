@@ -237,4 +237,53 @@ Hệ thống tài liệu đã khắc phục toàn bộ các điểm bất cập 
 - **Không tồn dư từ khóa SAMIN:** 0 phát hiện.
 - **Tính đồng bộ:** Đã liên kết đầy đủ đường dẫn các file mẫu Nhà nước vào danh mục tổng `bo-van-ban/00_Danh_Sach_Van_Ban.md`.
 
+---
+
+## CẬP NHẬT QUY CHẾ KPI 23 & 12 NGÀY NGHỈ LỄ, TẾT THEO CHỈ ĐẠO BAN LÃNH ĐẠO (21:45, 15/10/2026) - MODEL HIGH / PRO
+
+Đã hoàn thành 100% việc điều chỉnh và chuẩn hóa trên toàn bộ hệ thống văn bản Công ty theo đúng 02 chỉ đạo mới nhất của Ban Lãnh đạo:
+
+### 1. NỘI DUNG 1: CẬP NHẬT QUY CHẾ KPI 23 & PHÂN BỔ QUỸ KPI DỰ ÁN
+- **Chỉ đạo của Lãnh đạo:** *"Quy chế KPI 23: ko đúng, các phòng đều tham gia quỹ KPI, trong đó Thi công nhiều nhất."*
+- **Tỷ lệ phân bổ chuẩn hóa (Tổng 100%):**
+  1. **Phòng Thi công (nhiều nhất): 50%** quỹ thưởng KPI (Ban Chỉ huy công trường 25%, Kỹ thuật hiện trường & An toàn viên 10%, Tổ thợ trực tiếp thi công lắp dựng 15%).
+  2. **Phòng Dự án (kiêm Kinh doanh): 25%** quỹ thưởng KPI (đàm phán thầu phụ, bóc tách khối lượng, vật tư; ưu tiên 40% phần này cho nhân sự chủ trì).
+  3. **Phòng Kế toán – Tài chính: 15%** quỹ thưởng KPI (kiểm soát dòng tiền thực thu, hồ sơ thanh quyết toán, chi phí TK 154 và thu hồi công nợ).
+  4. **Phòng Hành chính – Nhân sự: 10%** quỹ thưởng KPI (hồ sơ lao động, đăng ký người lao động, tuyển dụng và hỗ trợ dự án).
+- **Xóa bỏ triệt để mọi điều khoản loại trừ Phòng HC-NS:** Toàn bộ cụm từ loại trừ hoặc khẳng định HC-NS không tham gia đã được xóa bỏ hoàn toàn trên toàn bộ hệ thống tài liệu. Thay bằng quy định: Cả 04 phòng ban đều được đánh giá hiệu suất (KPI) và hưởng quỹ thưởng theo tỷ lệ trên gắn với kết quả thu hồi dòng tiền và lợi nhuận gộp dự án.
+- **Danh sách file đã cập nhật:**
+  - `III_Luong_Thuong_Ke_Toan/23_Quy_Che_Luong_KPI_Du_An_2026.md` (Hộp chú thích, Điều 2, Điều 6, Điều 7, Điều 8, Điều 10, Điều 11 và Nơi nhận).
+  - `III_Luong_Thuong_Ke_Toan/31_Bang_Tong_Hop_Quyet_Toan_Chi_Phi_Cong_Trinh.md` (Mục 4.2 & Mục 4.3).
+  - `III_Luong_Thuong_Ke_Toan/22_Quy_Che_Tien_Luong_Thuong_Phu_Cap_2026.md` (Điều 2 khoản 4, Điều 13 khoản 2).
+  - `V_To_Chuc_Phan_Quyen/63_Quy_Che_To_Chuc_Phan_Quyen_Chuc_Danh_Bao_Cao.md` (Điều 3 khoản 1, 2, 3, 4).
+  - `README.md` (Nguyên tắc tổ chức và quản trị - Mục 2).
+  - `I_Hop_Dong_Nhan_Su/08_Quy_Che_Dieu_Hanh_Nhan_Su_va_Vong_Doi_Cong_Nhan.md` (Điều 2 khoản 4).
+  - `I_Hop_Dong_Nhan_Su/02_HDLD_Khong_Xac_Dinh_Thoi_Han_Van_Phong.md` (Điều 3 khoản 3).
+  - `III_Luong_Thuong_Ke_Toan/29_Quy_Trinh_Tai_Chinh_Ke_Toan_Cong_Trinh.md` (Mục 4.2).
+  - `VI_Thi_Cong_Kinh_Doanh/78_Quy_Che_Dan_Chu_va_Doi_Thoai.md` (Điều 5 khoản 2).
+  - `bo-van-ban/00-bang-tham-so.md` (Mục III.4).
+  - `bo-van-ban/C1-quy-che-to-chuc-phan-quyen.md` (Mục 1).
+  - `bo-van-ban/A3-quy-che-luong-thuong-kpi.md` (Điều 4 khoản 2 và Phụ lục 2).
+  - `BAO_CAO_KIEM_TRA_QC_NHOM_C_D.md` (Bảng đánh giá Quy chế 63).
+
+### 2. NỘI DUNG 2: CẬP NHẬT 12 NGÀY NGHỈ LỄ, TẾT HƯỞNG NGUYÊN LƯƠNG
+- **Chỉ đạo của Lãnh đạo:** *"Ngày nghỉ trong năm: lễ tết là 12 (thêm 1 ngày Ngày Văn hóa Việt Nam (24/11 hằng năm) theo Nghị quyết 28/2026/QH16)"*
+- **Liệt kê chính xác đủ 12 ngày nghỉ Lễ, Tết:**
+  1. Tết Dương lịch (ngày 01/01 dương lịch): **01 ngày**;
+  2. Tết Âm lịch: **05 ngày**;
+  3. Ngày Chiến thắng (ngày 30/04 dương lịch): **01 ngày**;
+  4. Ngày Quốc tế lao động (ngày 01/05 dương lịch): **01 ngày**;
+  5. Quốc khánh (ngày 02/09 dương lịch và 01 ngày liền kề): **02 ngày**;
+  6. Ngày Giỗ Tổ Hùng Vương (ngày 10/03 âm lịch): **01 ngày**;
+  7. Ngày Văn hóa Việt Nam (ngày 24/11 dương lịch hằng năm): **01 ngày** (theo Nghị quyết số 28/2026/QH16 của Quốc hội).
+  $\rightarrow$ **Tổng cộng: 12 ngày nghỉ lễ, Tết hưởng nguyên lương trong năm**.
+- **Danh sách file đã cập nhật:**
+  - `bo-van-ban/00-bang-tham-so.md` (Mục II.3 Thời giờ làm việc).
+  - `bo-van-ban/00-can-cu-phap-ly.md` (Mục 1 Lao động - bảo hiểm - việc làm: bổ sung Nghị quyết 28/2026/QH16).
+  - `II_Noi_Quy/16_Noi_Quy_Lao_Dong.md` (Điều 6 khoản 2 liệt kê đủ 7 mục 12 ngày; Phụ lục 3 Căn cứ pháp lý).
+  - `I_Hop_Dong_Nhan_Su/08_Quy_Che_Dieu_Hanh_Nhan_Su_va_Vong_Doi_Cong_Nhan.md` (Điều 8 khoản 4; Điều 4 Căn cứ pháp lý).
+  - `I_Hop_Dong_Nhan_Su/01b_HDLD_Thoi_Vu_Cong_Trinh.md` (Điều 2 khoản 3).
+  - `I_Hop_Dong_Nhan_Su/01c_HDLD_Xac_Dinh_Thoi_Han_12_Thang_Tho_Nong_Cot.md` (Điều 3 khoản 3).
+  - `I_Hop_Dong_Nhan_Su/02_HDLD_Khong_Xac_Dinh_Thoi_Han_Van_Phong.md` (Điều 2 khoản 3).
+
 

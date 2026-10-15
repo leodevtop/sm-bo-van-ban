@@ -24,7 +24,7 @@ Cơ cấu bộ máy điều hành của Công ty tại thời điểm hiện t�
 1. **Phòng Thi công:** Quản lý chỉ huy trưởng, an toàn viên, đội trưởng, tổ đội công nhân lắp dựng; trực tiếp tổ chức thi công, kiểm soát an toàn, biện pháp kỹ thuật và tiến độ hiện trường.
 2. **Phòng Dự án (kiêm Kinh doanh):** Khảo sát hiện trường, báo giá, thương thảo điều khoản hợp đồng thầu phụ, lập tiến độ tổng thể, quản lý tiến độ vật tư và phối hợp nghiệm thu với Chủ đầu tư/Tổng thầu.
 3. **Phòng Kế toán – Tài chính:** Quản lý dòng tiền, hồ sơ thanh toán khối lượng, tạm ứng công trình, tính và chi trả tiền lương qua tài khoản ngân hàng, nghĩa vụ bảo hiểm, thuế và quyết toán chi phí công trình.
-4. **Phòng Hành chính – Nhân sự:** Quản lý hồ sơ nhân sự, hợp đồng lao động, theo dõi số lần ký hợp đồng, thủ tục đăng ký lao động trực tuyến, quản lý dữ liệu cá nhân và bảo mật tài liệu. *(Ghi chú nguyên tắc tài chính: Phòng Hành chính – Nhân sự không tham gia quỹ thưởng KPI dự án)*.
+4. **Phòng Hành chính – Nhân sự:** Quản lý hồ sơ nhân sự, hợp đồng lao động, theo dõi số lần ký hợp đồng, thủ tục đăng ký lao động trực tuyến, quản lý dữ liệu cá nhân và bảo mật tài liệu (tham gia 10% Quỹ thưởng KPI dự án theo Quy chế số 23/2026/QC-<<CTY_TEN_VT>>).
 
 ### Điều 3. Vai trò của Ban Chấp hành Công đoàn cơ sở
 1. **Tổ chức đại diện:** Ban Chấp hành Công đoàn cơ sở (<<CTY_CD_TEN>>) là tổ chức đại diện hợp pháp của tập thể người lao động tại Công ty, thực hiện chức năng đại diện, chăm lo và bảo vệ quyền, lợi ích hợp pháp, chính đáng của người lao động theo Luật Công đoàn 2024 và Bộ luật Lao động 2019.
@@ -44,6 +44,7 @@ Cơ cấu bộ máy điều hành của Công ty tại thời điểm hiện t�
 - Quy chuẩn kỹ thuật Quốc gia QCVN 18:2021/BXD về an toàn trong thi công xây dựng;
 - Luật Bảo hiểm xã hội số 41/2024/QH15, Luật Việc làm số 74/2025/QH15 và Nghị định số 318/2025/NĐ-CP;
 - Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 và Nghị định số 356/2025/NĐ-CP;
+- Nghị quyết số 28/2026/QH16 của Quốc hội về việc xác lập Ngày Văn hóa Việt Nam (24/11 hằng năm) là ngày nghỉ lễ hưởng nguyên lương;
 - Nghị định số 283/2026/NĐ-CP quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội;
 - Bảng tham số nội bộ (`00-bang-tham-so.md`) và Căn cứ pháp lý chung (`00-can-cu-phap-ly.md`).
 
@@ -77,6 +78,7 @@ Cơ cấu bộ máy điều hành của Công ty tại thời điểm hiện t�
 1. Chỉ huy trưởng tổ chức họp an toàn đầu giờ (Toolbox Talk) 10–15 phút trước mỗi ca làm việc để phổ biến nguy cơ, biện pháp thi công và kiểm tra sức khỏe của thợ.
 2. Chấm công hàng ngày tại công trường theo đúng mẫu quy định, phản ánh chính xác ngày công tiêu chuẩn và giờ làm thêm (tăng ca). Khống chế trần làm thêm giờ chuẩn không quá 200 giờ/năm theo Điều 107 Bộ luật Lao động 2019.
 3. Tuân thủ nghiêm ngặt quy định an toàn khi thời tiết xấu: Dừng làm việc trên cao và dừng cẩu lắp khi tốc độ gió từ 8 m/s (khoảng cấp 5) trở lên, hoặc khi có mưa lớn, dông sét (theo `00-bang-tham-so.md`).
+4. **Chế độ nghỉ ngơi và nghỉ lễ, Tết:** Thực hiện theo Nội quy lao động và Bảng tham số nội bộ; người lao động được nghỉ làm việc, hưởng nguyên lương 12 ngày lễ, Tết trong năm theo Điều 112 Bộ luật Lao động 2019 và Nghị quyết số 28/2026/QH16 của Quốc hội.
 
 ### Điều 9. Bước 5: Kết thúc công trình, nghiệm thu và thanh lý hợp đồng
 1. Khi công trình hoàn thành hoặc giai đoạn lắp dựng nghiệm thu bàn giao, Chỉ huy trưởng thông báo trước ít nhất 15 ngày bằng văn bản cho người lao động về thời điểm kết thúc hợp đồng.

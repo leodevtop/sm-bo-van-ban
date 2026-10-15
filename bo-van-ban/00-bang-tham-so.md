@@ -55,7 +55,7 @@
 | Làm thêm giờ | ≤ 50% số giờ làm bình thường trong 1 ngày; nếu quy định giờ làm theo tuần thì tổng giờ bình thường và làm thêm ≤ 12 giờ/ngày; ≤ 40 giờ/tháng; ≤ 200 giờ/năm (≤ 300 giờ/năm chỉ với ngành thuộc danh mục của Chính phủ) | ◐ |
 | Hệ số làm thêm | 150% ngày thường, 200% ngày nghỉ hằng tuần, 300% ngày lễ, Tết (chưa kể lương ngày lễ) | ◐ |
 | Lương làm đêm | Thêm ít nhất 30% lương ngày làm việc bình thường; làm thêm ban đêm cộng thêm 20% | ◐ |
-| Nghỉ lễ | 12 ngày/năm | ◐ |
+| Nghỉ lễ | 12 ngày/năm (bổ sung ngày 24/11 Ngày Văn hóa Việt Nam theo Nghị quyết số 28/2026/QH16) | ◐ |
 | Nghỉ phép năm | 12 ngày (14 ngày nếu công việc nặng nhọc, độc hại, nguy hiểm), cộng thêm theo thâm niên | ◐ |
 
 ### II.4. An toàn, vệ sinh lao động
@@ -152,7 +152,7 @@
 | Tham số | Giá trị |
 |---|---|
 | Quỹ KPI công trình (% tiền thực nhận của công trình) | `{{KPI_QUY_PCT}}` **ĐIỀN** |
-| Tỷ lệ quỹ chia cho 03 phòng tham gia KPI (Thi công / Dự án kiêm KD / Kế toán - TC) | `{{KPI_PCT_THI_CONG}}` / `{{KPI_PCT_DU_AN}}` / `{{KPI_PCT_KE_TOAN}}` **ĐIỀN** (tổng 100%). *Ghi chú: Phòng HCNS không tham gia chia quỹ KPI dự án theo cơ cấu thực tế.* |
+| Tỷ lệ quỹ chia cho 04 phòng tham gia KPI (Thi công / Dự án kiêm KD / Kế toán - TC / HC - NS) | 50% / 25% / 15% / 10% (tổng 100%). Cả 04 phòng ban đều tham gia trích chia Quỹ thưởng KPI, trong đó Phòng Thi công chiếm tỷ lệ cao nhất. |
 | Tỷ lệ ưu tiên của sale/phụ trách dự án chính trong phần của phòng Dự án (kiêm KD) | 40% (mặc định) |
 | Trọng số điểm KPI cá nhân | Tiến độ 20%; chất lượng nghiệm thu 20%; an toàn 30%; chi phí 15%; tuân thủ quy trình, hồ sơ 15% |
 | Thời hạn khiếu nại bảng KPI | 07 ngày kể từ ngày công bố |
