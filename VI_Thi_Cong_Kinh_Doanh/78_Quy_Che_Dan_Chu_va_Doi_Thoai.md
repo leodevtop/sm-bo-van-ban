@@ -1,3 +1,47 @@
+| **<<CTY_TEN>>**<br>Số: 78/2026/QĐ-<<CTY_TEN_VT>> | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*<<CTY_DIA_DANH>>, ngày <<VB_NGAY>> tháng <<VB_THANG>> năm <<VB_NAM>>* |
+|---|---|
+
+<br>
+
+<div align="center">
+
+# QUYẾT ĐỊNH
+### Về việc ban hành Quy chế thực hiện dân chủ ở cơ sở và đối thoại tại nơi làm việc
+
+**GIÁM ĐỐC CÔNG TY <<CTY_TEN>>**
+
+</div>
+
+- *Căn cứ Luật Doanh nghiệp số 59/2020/QH14 ngày 17/06/2020 của Quốc hội;*
+- *Căn cứ Bộ luật Lao động số 45/2019/QH14 ngày 20/11/2019 của Quốc hội và Nghị định số 145/2020/NĐ-CP;*
+- *Căn cứ Luật Thực hiện dân chủ ở cơ sở số 10/2022/QH15 ngày 10/11/2022 của Quốc hội;*
+- *Căn cứ Luật Công đoàn số 50/2024/QH15 ngày 27/11/2024 của Quốc hội;*
+- *Căn cứ Biên bản lấy ý kiến Ban Chấp hành Công đoàn cơ sở <<CTY_TEN>> ngày <<VB_NGAY>>/<<VB_THANG>>/<<VB_NAM>>;*
+- *Căn cứ Điều lệ tổ chức và hoạt động của <<CTY_TEN>>;*
+- *Theo đề nghị của Trưởng phòng Hành chính – Nhân sự và Ban Chấp hành Công đoàn cơ sở.*
+
+<div align="center">
+
+### QUYẾT ĐỊNH:
+
+</div>
+
+**Điều 1. Ban hành kèm theo Quyết định này**
+Ban hành kèm theo Quyết định này bản **“Quy chế thực hiện dân chủ ở cơ sở và đối thoại tại nơi làm việc”** của <<CTY_TEN>>.
+
+**Điều 2. Hiệu lực thi hành**
+Quyết định này có hiệu lực thi hành kể từ ngày ký. Các văn bản, quy định trước đây của Công ty về thực hiện dân chủ và đối thoại trái với Quy chế này đều bãi bỏ.
+
+**Điều 3. Trách nhiệm thi hành**
+Các Phó Giám đốc, Trưởng các Phòng ban chức năng, Ban Chấp hành Công đoàn cơ sở, Chỉ huy trưởng các công trường và toàn thể người lao động thuộc **<<CTY_TEN>>** chịu trách nhiệm thi hành Quyết định này./.
+
+<br>
+
+| **Nơi nhận:**<br>- Ban Giám đốc (để chỉ đạo);<br>- BCH Công đoàn cơ sở (để phối hợp);<br>- Các Phòng ban, Ban Chỉ huy CT (để t/h);<br>- Toàn thể người lao động (để t/h);<br>- Lưu: VT, HC-NS. | **CÔNG TY <<CTY_TEN>>**<br>**GIÁM ĐỐC**<br>*(Ký tên, đóng dấu)*<br><br><br><br><br>**<<CTY_DAI_DIEN>>** |
+|---|---|
+
+---
+
 # QUY CHẾ THỰC HIỆN DÂN CHỦ Ở CƠ SỞ VÀ ĐỐI THOẠI TẠI NƠI LÀM VIỆC
 *(Ban hành kèm theo Quyết định số 78/2026/QĐ-<<CTY_TEN_VT>> ngày <<VB_NGAY>>/<<VB_THANG>>/<<VB_NAM>> của Giám đốc <<CTY_TEN>>)*
 
@@ -23,8 +67,7 @@
 5. Nghị định số 283/2026/NĐ-CP ngày 15/06/2026 của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội (thay thế Nghị định 12/2022/NĐ-CP);
 6. Điều lệ Công đoàn Việt Nam hiện hành;
 7. Biên bản lấy ý kiến Ban Chấp hành Công đoàn cơ sở **<<CTY_TEN>>** ngày `<<VB_NGAY>>/<<VB_THANG>>/<<VB_NAM>>`;
-8. Bảng tham số nội bộ (`00-bang-tham-so.md`) và Căn cứ pháp lý chung (`00-can-cu-phap-ly.md`);
-9. Điều lệ tổ chức và hoạt động hiện hành của **<<CTY_TEN>>**.
+8. Điều lệ tổ chức và hoạt động hiện hành của **<<CTY_TEN>>**.
 
 ### Điều 2. Mục đích và nguyên tắc thực hiện
 1. **Mục đích:** Xây dựng quan hệ lao động hài hòa, ổn định và tiến bộ tại **<<CTY_TEN>>**; phát huy quyền làm chủ của người lao động (NLĐ), bảo đảm quyền được biết, được bàn, được làm, được kiểm tra, giám sát của NLĐ đối với các vấn đề liên quan trực tiếp đến quyền lợi, nghĩa vụ và điều kiện an toàn thi công lắp dựng kết cấu thép trên cao.
@@ -104,7 +147,7 @@ NLĐ có quyền kiểm tra, giám sát việc:
 3. **Bước 3: Tiến hành phiên đối thoại**
    - Chủ trì: Đại diện NSDLĐ và Đại diện Công đoàn đồng chủ trì.
    - Các bên thảo luận trên tinh thần dân chủ, lắng nghe, làm rõ nguyên nhân của các vấn đề khúc mắc và thống nhất giải pháp khắc phục.
-   - Thư ký lập **Biên bản cuộc họp đối thoại** theo mẫu `79_Bien_Ban_Doi_Thoai_Dinh_Ky.md`.
+   - Thư ký lập **Biên bản cuộc họp đối thoại định kỳ (Mẫu số 79/BB-ĐT)**.
 4. **Bước 4: Ký kết và công bố kết quả đối thoại (Trong vòng 03 ngày làm việc)**
    - Biên bản đối thoại phải được đại diện có thẩm quyền của NSDLĐ và đại diện Công đoàn ký xác nhận.
    - Niêm yết công khai Biên bản đối thoại tại bảng tin công ty, công trường và lưu hồ sơ theo dõi.

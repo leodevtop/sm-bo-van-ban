@@ -82,7 +82,7 @@
    - Đối với công nhân thời vụ làm việc theo công trình: Số ngày phép năm được tính theo tỷ lệ thời gian làm việc thực tế; phần ngày phép chưa nghỉ được thanh toán bằng tiền khi chấm dứt hợp đồng lao động.
 
 ### Điều 7. Tiền lương ngừng việc
-Khi phải tạm ngừng việc do sự cố kỹ thuật, thời tiết xấu (mưa dông, gió bão vượt ngưỡng an toàn) hoặc chờ mặt bằng/vật tư mà không do lỗi của người lao động: Việc chi trả tiền lương ngừng việc được thực hiện theo đúng Điều 99 Bộ luật Lao động 2019 và Quy chế tiền lương hiện hành của Công ty (bảo đảm không thấp hơn mức lương tối thiểu vùng quy định tại Bảng tham số nội bộ).
+Khi phải tạm ngừng việc do sự cố kỹ thuật, thời tiết xấu (mưa dông, gió bão vượt ngưỡng an toàn) hoặc chờ mặt bằng/vật tư mà không do lỗi của người lao động: Việc chi trả tiền lương ngừng việc được thực hiện theo đúng Điều 99 Bộ luật Lao động 2019 và Quy chế tiền lương hiện hành của Công ty (bảo đảm không thấp hơn mức lương tối thiểu vùng theo Nghị định 293/2025/NĐ-CP).
 
 ---
 
@@ -236,7 +236,7 @@ Không được xử lý kỷ luật lao động đối với người lao độ
 ### Điều 24. Trách nhiệm vật chất và Bồi thường thiệt hại
 *(Căn cứ Điều 129, 130 Bộ luật Lao động 2019)*
 1. Người lao động làm hư hỏng dụng cụ, thiết bị thi công hoặc làm mất mát tài sản, tiêu hao vật tư quá định mức do lỗi thiếu trách nhiệm thì phải bồi thường thiệt hại theo giá trị thực tế của tài sản hoặc theo quy định tại Hợp đồng trách nhiệm.
-2. Nếu thiệt hại không quá 10 tháng lương tối thiểu vùng quy định tại Bảng tham số nội bộ do sơ suất thì mức bồi thường tối đa không quá 03 tháng tiền lương của người lao động.
+2. Nếu thiệt hại không quá 10 tháng lương tối thiểu vùng theo quy định pháp luật do sơ suất thì mức bồi thường tối đa không quá 03 tháng tiền lương của người lao động.
 3. **Phương thức khấu trừ bồi thường:** Thực hiện khấu trừ dần vào tiền lương hằng tháng của người lao động sau khi trừ các khoản đóng nộp bảo hiểm, thuế; **mức khấu trừ mỗi tháng tuyệt đối không được vượt quá 30% tiền lương thực nhận hàng tháng** của người lao động (theo khoản 3 Điều 102 BLLĐ 2019).
 
 ---
@@ -256,7 +256,7 @@ Không được xử lý kỷ luật lao động đối với người lao độ
 ---
 
 ## PHỤ LỤC 1: PHIẾU XÁC NHẬN ĐÃ NHẬN VÀ HIỂU NỘI QUY LAO ĐỘNG
-*(Xem file độc lập STT 20: `20_Phieu_Xac_Nhan_Pho_Bien_Noi_Quy.md`)*
+*(Chi tiết xem Phiếu xác nhận đã được phổ biến, tiếp nhận và cam kết tuân thủ Nội quy lao động - Mẫu số 20/XN-NQLĐ)*
 
 ## PHỤ LỤC 2: HỒ SƠ ĐĂNG KÝ NỘI QUY LAO ĐỘNG
 Thực hiện trên Cổng Dịch vụ công Quốc gia theo quy định, hồ sơ gồm:
@@ -264,7 +264,7 @@ Thực hiện trên Cổng Dịch vụ công Quốc gia theo quy định, hồ s
 2. Bản Nội quy lao động có chữ ký, đóng dấu của Giám đốc Công ty;
 3. Biên bản lấy ý kiến của Ban Chấp hành Công đoàn cơ sở về dự thảo Nội quy lao động;
 4. Quyết định ban hành Nội quy lao động của Giám đốc;
-5. Các văn bản, quy chế liên quan của Công ty quy định về kỷ luật lao động và trách nhiệm vật chất (Quy chế tiền lương, Bảng tham số nội bộ).
+5. Các văn bản, quy chế liên quan của Công ty quy định về kỷ luật lao động và trách nhiệm vật chất (Quy chế tiền lương, Quy định tham số và định mức quản trị nội bộ).
 
 ## PHỤ LỤC 3: CĂN CỨ PHÁP LÝ
 1. Bộ luật Lao động số 45/2019/QH14 (Điều 118 đến Điều 134);
@@ -274,10 +274,10 @@ Thực hiện trên Cổng Dịch vụ công Quốc gia theo quy định, hồ s
 5. Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 và Nghị định số 356/2025/NĐ-CP;
 6. Nghị định số 283/2026/NĐ-CP (xử phạt vi phạm hành chính về lao động, hiệu lực 10/09/2026);
 7. Nghị quyết số 28/2026/QH16 của Quốc hội về việc xác lập Ngày Văn hóa Việt Nam (24/11 hằng năm);
-8. Bảng tham số nội bộ (`00-bang-tham-so.md`) và Căn cứ pháp lý (`00-can-cu-phap-ly.md`).
+8. Quy định tham số và định mức quản trị nội bộ hiện hành của Công ty.
 
 ## PHỤ LỤC 4: NỘI QUY AN TOÀN CÔNG TRƯỜNG (MẪU ĐIỀN)
-*(Xem file độc lập STT 21: `21_Noi_Quy_An_Toan_Cong_Truong.md`)*
+*(Chi tiết xem Nội quy an toàn vệ sinh lao động trên công trường - Mẫu số 21/NQ-ATCT)*
 
 ---
 

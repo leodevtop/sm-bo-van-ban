@@ -1,3 +1,47 @@
+| **<<CTY_TEN>>**<br>Số: 22/2026/QĐ-<<CTY_TEN_VT>> | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*<<CTY_DIA_DANH>>, ngày <<VB_NGAY>> tháng <<VB_THANG>> năm <<VB_NAM>>* |
+|---|---|
+
+<br>
+
+<div align="center">
+
+# QUYẾT ĐỊNH
+### Về việc ban hành Quy chế tiền lương, thưởng và phụ cấp năm 2026
+
+**GIÁM ĐỐC CÔNG TY <<CTY_TEN>>**
+
+</div>
+
+- *Căn cứ Luật Doanh nghiệp số 59/2020/QH14 ngày 17/06/2020 của Quốc hội;*
+- *Căn cứ Bộ luật Lao động số 45/2019/QH14 ngày 20/11/2019 của Quốc hội và Nghị định số 145/2020/NĐ-CP;*
+- *Căn cứ Nghị định số 293/2025/NĐ-CP của Chính phủ quy định mức lương tối thiểu đối với người lao động làm việc theo hợp đồng lao động;*
+- *Căn cứ Luật Bảo hiểm xã hội số 41/2024/QH15 và Luật Việc làm số 74/2025/QH15;*
+- *Căn cứ Luật Kế toán số 88/2015/QH13 và Thông tư số 133/2016/TT-BTC;*
+- *Căn cứ Điều lệ tổ chức và hoạt động của <<CTY_TEN>>;*
+- *Theo đề nghị của Trưởng phòng Hành chính – Nhân sự và Trưởng phòng Kế toán – Tài chính.*
+
+<div align="center">
+
+### QUYẾT ĐỊNH:
+
+</div>
+
+**Điều 1. Ban hành kèm theo Quyết định này**
+Ban hành kèm theo Quyết định này bản **“Quy chế tiền lương, thưởng và phụ cấp năm 2026”** (tích hợp hệ thống thang bảng lương năm 2026 áp dụng cho toàn thể cán bộ, nhân viên khối văn phòng và công nhân các công trường thi công lắp dựng kết cấu thép trực thuộc Công ty).
+
+**Điều 2. Hiệu lực thi hành**
+Quyết định này có hiệu lực thi hành kể từ ngày ký. Các quy định trước đây của Công ty về tiền lương, thưởng và phụ cấp trái với Quy chế ban hành kèm theo Quyết định này đều bãi bỏ.
+
+**Điều 3. Trách nhiệm thi hành**
+Các Phó Giám đốc, Trưởng phòng Hành chính – Nhân sự, Trưởng phòng Kế toán – Tài chính, Trưởng phòng Thi công, Trưởng phòng Dự án, Chỉ huy trưởng các công trường và toàn thể người lao động thuộc **<<CTY_TEN>>** chịu trách nhiệm thi hành Quyết định này./.
+
+<br>
+
+| **Nơi nhận:**<br>- Ban Giám đốc (để chỉ đạo);<br>- BCH Công đoàn cơ sở (để phối hợp);<br>- Các Phòng ban, Ban Chỉ huy CT (để t/h);<br>- Toàn thể người lao động (để biết);<br>- Lưu: VT, HC-NS, KT. | **CÔNG TY <<CTY_TEN>>**<br>**GIÁM ĐỐC**<br>*(Ký tên, đóng dấu)*<br><br><br><br><br>**<<CTY_DAI_DIEN>>** |
+|---|---|
+
+---
+
 | **<<CTY_TEN>>**<br>**Số: 22/2026/QC-<<CTY_TEN_VT>>** | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*<<CTY_DIA_DANH>>, ngày <<VB_NGAY>> tháng <<VB_THANG>> năm <<VB_NAM>>* |
 |---|---|
 
@@ -25,7 +69,6 @@
 - Luật Thuế thu nhập doanh nghiệp và Luật Quản lý thuế;
 - Luật Thuế thu nhập cá nhân số 109/2025/QH15 và Nghị quyết số 110/2025/UBTVQH15 (giảm trừ gia cảnh bản thân 15,5 triệu đồng/tháng, người phụ thuộc 6,2 triệu đồng/tháng);
 - Nghị định số 283/2026/NĐ-CP quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội;
-- Bảng tham số nội bộ (`00-bang-tham-so.md`) và Căn cứ pháp lý chung (`00-can-cu-phap-ly.md`).
 
 ### Điều 2. Mục đích và nguyên tắc phân phối thu nhập
 1. Quy định thống nhất nguyên tắc, tiêu chuẩn, thang bảng lương, chế độ làm việc ngoài giờ, phụ cấp công trường, tiền thưởng và chế độ đãi ngộ đối với người lao động làm việc tại văn phòng Công ty và các công trường thi công lắp dựng kết cấu thép trên toàn quốc.

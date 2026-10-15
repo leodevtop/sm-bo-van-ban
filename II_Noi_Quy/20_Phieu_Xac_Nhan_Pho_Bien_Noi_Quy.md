@@ -47,7 +47,7 @@ Số phiếu: `<<SO_PHIEU_XN>>/XN-NQLĐ`
 
 Tôi xác nhận trước khi bắt đầu ngày làm việc đầu tiên tại Công ty/Công trường, tôi đã được Cán bộ Hành chính – Nhân sự / Cán bộ An toàn lao động (HSE) / Chỉ huy trưởng công trường phổ biến trực tiếp, cung cấp bản sao (hoặc tóm tắt) và hướng dẫn rõ ràng các tài liệu sau:
 
-- [x] **1. Nội quy lao động của <<CTY_TEN>> (Mã hiệu: `16_Noi_Quy_Lao_Dong`, Phiên bản 2.0):** Nắm rõ thời giờ làm việc, thời giờ nghỉ ngơi, trình tự xin nghỉ ốm/nghỉ việc riêng; quy tắc ứng xử văn minh và phòng chống quấy rối tình dục tại nơi làm việc.
+- [x] **1. Nội quy lao động của <<CTY_TEN>> (Mã văn bản: 16/2026/NQLĐ-<<CTY_TEN_VT>>, Phiên bản 2.0):** Nắm rõ thời giờ làm việc, thời giờ nghỉ ngơi, trình tự xin nghỉ ốm/nghỉ việc riêng; quy tắc ứng xử văn minh và phòng chống quấy rối tình dục tại nơi làm việc.
 - [x] **2. Trách nhiệm bắt buộc về Trang bị Phương tiện bảo vệ cá nhân (PPE):**
   - Mũ bảo hộ lao động có quai cài đúng tiêu chuẩn trong suốt thời gian có mặt tại công trường;
   - Dây an toàn toàn thân loại 02 móc lớn có bộ giảm chấn giật, móc vào điểm neo an toàn chịu tải ≥22 kN hoặc dây cứu sinh (lifeline) khi làm việc từ độ cao 2,0m trở lên;

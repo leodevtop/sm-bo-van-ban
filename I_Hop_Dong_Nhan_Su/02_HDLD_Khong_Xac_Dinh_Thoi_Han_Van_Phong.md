@@ -89,7 +89,7 @@ Hai bên tự nguyện thỏa thuận giao kết Hợp đồng lao động với
 
 1. **Tiền lương cơ bản:**  
    - Mức lương chính thức: **<<HD_LUONG_CB>> đồng/tháng** (Bằng chữ: <<HD_LUONG_CB_CHU>>).  
-   - Mức lương cơ bản này không thấp hơn mức lương tối thiểu Vùng 1 quy định tại Nghị định 293/2025/NĐ-CP và Bảng tham số nội bộ `00-bang-tham-so.md`.  
+   - Mức lương cơ bản này không thấp hơn mức lương tối thiểu Vùng 1 quy định tại Nghị định 293/2025/NĐ-CP và Quy chế tiền lương hiện hành của Công ty.  
    - Mức lương cơ bản là căn cứ đóng nộp BHXH, BHYT, BHTN và làm cơ sở tính tiền lương ngừng việc, làm thêm giờ và các chế độ bảo hiểm theo luật định.
 2. **Các khoản phụ cấp lương (nếu có):**  
    - Phụ cấp chức vụ / trách nhiệm: Chi trả theo chức danh quản lý được bổ nhiệm.  
@@ -108,7 +108,7 @@ Hai bên tự nguyện thỏa thuận giao kết Hợp đồng lao động với
 ## Điều 4. Bảo hiểm xã hội, Bảo hiểm y tế và Bảo hiểm thất nghiệp
 
 1. Hai bên trích nộp BHXH, BHYT, BHTN, BHTNLĐ-BNN theo đúng quy định của Luật Bảo hiểm xã hội 2024, Luật BHYT, Luật Việc làm 2025 và Luật An toàn, vệ sinh lao động.  
-2. Tỷ lệ trích nộp và mức tiền lương đóng BHXH: Người sử dụng lao động và Người lao động trích nộp các khoản BHXH, BHYT, BHTN, BHTNLĐ-BNN theo đúng tỷ lệ phần trăm và mức tiền lương đóng do pháp luật bảo hiểm xã hội quy định tại từng thời kỳ (chi tiết theo Bảng tham số `00-bang-tham-so.md` ban hành kèm theo).  
+2. Tỷ lệ trích nộp và mức tiền lương đóng BHXH: Người sử dụng lao động và Người lao động trích nộp các khoản BHXH, BHYT, BHTN, BHTNLĐ-BNN theo đúng tỷ lệ phần trăm và mức tiền lương đóng theo quy định của Luật Bảo hiểm xã hội 2024, Luật Việc làm 2025 và pháp luật hiện hành.  
 3. Công ty thực hiện trích khấu trừ phần người lao động đóng từ tiền lương tháng của Bên B để nộp cho cơ quan BHXH cùng với phần đóng của Công ty theo quy định.  
 4. Công ty thực hiện thủ tục đăng ký thông tin lao động theo Luật Việc làm 2025 và cập nhật thông tin trong Sổ quản lý lao động của Công ty.
 
@@ -182,5 +182,5 @@ Hai bên tự nguyện thỏa thuận giao kết Hợp đồng lao động với
 3. **Nghị định số 293/2025/NĐ-CP:** Mức lương tối thiểu vùng áp dụng từ 01/01/2026.
 4. **Nghị định số 356/2025/NĐ-CP:** Hướng dẫn thi hành Luật Bảo vệ dữ liệu cá nhân 2025.
 5. **Nghị định số 283/2026/NĐ-CP:** Xử phạt vi phạm hành chính trong lĩnh vực lao động, BHXH.
-6. **Bảng tham số hiện hành (`00-bang-tham-so.md`) và Căn cứ pháp lý (`00-can-cu-phap-ly.md`) của Công ty.**
+6. **Quy định tham số và định mức quản trị nội bộ hiện hành của Công ty.**
 7. **◐ Điểm cần lưu ý/xác nhận:** Kế toán xác nhận tỷ lệ đóng BHXH, BHYT, BHTN thực tế áp dụng tại địa bàn quản lý của Công ty.

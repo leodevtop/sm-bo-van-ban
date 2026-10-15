@@ -8,7 +8,7 @@
 | **Số biên bản** | `........./BB-VP/<<VB_NAM>>` |
 | **Ngày lập biên bản** | Vào lúc `.........` ngày `<<VB_NGAY>>/<<VB_THANG>>/<<VB_NAM>>` |
 | **Địa điểm lập biên bản** | Tại công trường **<<CT_TEN>>** *(hoặc Văn phòng Công ty)* |
-| **Tài liệu tham chiếu** | Nội quy lao động & Sổ tay HSE (`32_So_Tay_HSE.md`) |
+| **Tài liệu tham chiếu** | Nội quy lao động & Sổ tay An toàn - Sức khỏe - Môi trường (Sổ tay HSE - Mẫu số 32/ST-HSE) |
 
 ---
 
@@ -47,7 +47,7 @@ Vào thời điểm trên, trong quá trình tuần tra, kiểm tra và giám s�
    *(Ví dụ: Người lao động đang thao tác căn chỉnh xà gồ mái tại độ cao +16.0m nhưng đã tự ý tháo cả 02 móc của dây an toàn toàn thân ra khỏi dây cứu sinh (lifeline) để di chuyển tự do trên thanh xà gồ mà không có điểm neo giữ an toàn; đồng thời không cài quai mũ bảo hộ theo quy định; có mùi rượu bia trong hơi thở...).*
 2. **Hành vi trên đã vi phạm các quy định hiện hành:**
    - Điều `.........` của Nội quy lao động Công ty **<<CTY_TEN>>**.
-   - Mục `.........` của Sổ tay An toàn - Sức khỏe - Môi trường (`32_So_Tay_HSE.md`).
+   - Mục `.........` của Sổ tay An toàn - Sức khỏe - Môi trường (Sổ tay HSE - Mẫu số 32/ST-HSE).
    - Quy chuẩn kỹ thuật quốc gia về An toàn trong thi công xây dựng QCVN 18:2021/BXD.
 3. **Tang vật, chứng cứ ghi nhận tại hiện trường:**
    - Ảnh chụp và video ghi lại hành vi vi phạm lúc `.........` (đính kèm biên bản).

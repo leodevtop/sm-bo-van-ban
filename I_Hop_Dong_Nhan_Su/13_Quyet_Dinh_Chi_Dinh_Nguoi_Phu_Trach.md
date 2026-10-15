@@ -27,7 +27,7 @@
 - *Căn cứ Luật An toàn, vệ sinh lao động số 84/2015/QH13 và các văn bản hướng dẫn thi hành;*  
 - *Căn cứ Luật Xây dựng số 135/2025/QH15 và Nghị định số 207/2026/NĐ-CP ngày 15/06/2026 của Chính phủ quy định chi tiết về quản lý an toàn lao động trong thi công xây dựng;*  
 - *Căn cứ Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 và Điều 13 Nghị định số 356/2025/NĐ-CP ngày 31/12/2025 của Chính phủ;*  
-- *Căn cứ Bảng tham số nội bộ (`00-bang-tham-so.md`) và yêu cầu tổ chức bộ máy quản lý, vận hành các dự án thi công lắp dựng kết cấu thép;*  
+- *Căn cứ Quy định tham số và định mức quản trị nội bộ hiện hành của Công ty và yêu cầu tổ chức bộ máy quản lý, vận hành các dự án thi công lắp dựng kết cấu thép;*  
 - *Xét năng lực, trình độ chuyên môn của các cán bộ và đề nghị của Phòng Hành chính – Nhân sự,*
 
 ---
@@ -103,5 +103,5 @@ Chỉ định cán bộ đảm nhận nhiệm vụ **Người phụ trách bảo
    - Điều 13, Điều 15: Trách nhiệm của nhà thầu thi công về quản lý an toàn lao động trong thi công xây dựng công trình; người phụ trách công tác an toàn lao động của nhà thầu phải được đào tạo chuyên ngành an toàn lao động hoặc chuyên ngành kỹ thuật xây dựng.
 3. **Nghị định số 356/2025/NĐ-CP (ngày 31/12/2025, hiệu lực từ 01/01/2026):**
    - Điều 13: Quy định về nhân sự và bộ phận bảo vệ dữ liệu cá nhân (DPO); điều kiện chỉ định và nhiệm vụ của người phụ trách bảo vệ dữ liệu.
-4. **Bảng tham số hiện hành (`00-bang-tham-so.md` mục I và II.7).**
+4. **Quy định tham số và định mức quản trị nội bộ hiện hành của Công ty.**
 5. **◐ Điểm cần lưu ý/xác nhận:** Luật sư rà soát các điều kiện miễn trừ chỉ định bộ phận chuyên trách đối với doanh nghiệp nhỏ và vừa theo Điều 13 Nghị định số 356/2025/NĐ-CP (tuy nhiên việc chỉ định một nhân sự kiêm nhiệm phụ trách là giải pháp an toàn pháp lý tuyệt đối).

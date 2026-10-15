@@ -39,7 +39,7 @@ Số: `<<VB_SO>>/QĐ-<<CTY_TEN_VT>>`
 ### QUYẾT ĐỊNH:
 
 #### Điều 1. Ban hành Nội quy lao động
-Ban hành kèm theo Quyết định này bản **“Nội quy lao động của <<CTY_TEN>>”** (Mã hiệu: `16_Noi_Quy_Lao_Dong`, Phiên bản 2.0 gồm 9 Chương, 26 Điều và 04 Phụ lục kèm theo). Nội quy điều chỉnh quan hệ lao động, kỷ luật lao động, trách nhiệm vật chất và văn hóa an toàn thi công lắp dựng kết cấu thép tại toàn bộ văn phòng và các dự án/công trường trực thuộc Công ty.
+Ban hành kèm theo Quyết định này bản **“Nội quy lao động của <<CTY_TEN>>”** (Mã văn bản: 16/2026/NQLĐ-<<CTY_TEN_VT>>, Phiên bản 2.0 gồm 9 Chương, 26 Điều và 04 Phụ lục kèm theo). Nội quy điều chỉnh quan hệ lao động, kỷ luật lao động, trách nhiệm vật chất và văn hóa an toàn thi công lắp dựng kết cấu thép tại toàn bộ văn phòng và các dự án/công trường trực thuộc Công ty.
 
 #### Điều 2. Thủ tục đăng ký và Hiệu lực thi hành
 1. **Thủ tục đăng ký Nhà nước:**  

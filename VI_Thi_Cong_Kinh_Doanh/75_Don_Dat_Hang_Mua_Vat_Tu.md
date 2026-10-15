@@ -83,7 +83,7 @@ Bên Mua đồng ý đặt hàng và Bên Bán đồng ý cung cấp các chủn
    - Bên Mua bố trí xe cẩu và công nhân bốc dỡ cấu kiện từ xe rơ-moóc của Bên Bán xuống bãi tập kết vật tư tại công trường.
    - Thời gian hạ hàng tối đa không quá 03 giờ/xe kể từ khi xe vào vị trí bốc dỡ an toàn.
 3. **Nghiệm thu vật tư đầu vào:**
-   - Hai bên tiến hành kiểm tra số lượng, ngoại quan, mã hiệu, độ dày sơn và lập **Biên bản giao nhận và nghiệm thu vật tư** theo mẫu `68_Bien_Ban_Giao_Nhan_va_Quyet_Toan_Vat_Tu.md`.
+   - Hai bên tiến hành kiểm tra số lượng, ngoại quan, mã hiệu, độ dày sơn và lập **Biên bản giao nhận và quyết toán vật tư (Mẫu số 68/BB-VT)**.
    - Mọi cấu kiện bị móp méo, cong vênh quá dung sai, rách mối hàn hoặc sai lệch lỗ bu lông sẽ bị Bên Mua từ chối nhận. Bên Bán có trách nhiệm sửa chữa hoặc thay thế trong vòng 48 giờ bằng chi phí của Bên Bán.
 
 ---

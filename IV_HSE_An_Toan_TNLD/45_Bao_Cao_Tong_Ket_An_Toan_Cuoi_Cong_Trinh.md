@@ -45,7 +45,7 @@
 ## 3. ĐÁNH GIÁ CHI TIẾT CÁC BIỆN PHÁP QUẢN LÝ AN TOÀN ĐÃ TRIỂN KHAI
 
 ### 3.1. Kiểm soát an toàn thiết bị nâng hạ và cẩu lắp cấu kiện
-- 100% xe cẩu chính, cẩu phụ và xe nâng người Boom lift đều có Chứng chỉ kiểm định kỹ thuật an toàn còn hiệu lực, thợ lái cẩu có chứng chỉ nghề và giấy khám sức khỏe phù hợp (`37_Danh_Muc_Thiet_Bi_Kiem_Dinh.md`).
+- 100% xe cẩu chính, cẩu phụ và xe nâng người Boom lift đều có Chứng chỉ kiểm định kỹ thuật an toàn còn hiệu lực, thợ lái cẩu có chứng chỉ nghề và giấy khám sức khỏe phù hợp theo Danh mục thiết bị yêu cầu nghiêm ngặt kiểm định (Mẫu số 37/DM-TB).
 - Trước mỗi ca làm việc, Kỹ sư HSE và thợ lái cẩu thực hiện kiểm tra tình trạng cáp cẩu, phanh nâng, ma-nê, chân chống thủy lực và độ chặt của mặt bằng kê lót tà vẹt gỗ chịu lực.
 - Lập và thẩm duyệt Bản vẽ biện pháp cẩu (Lifting Plan) chi tiết cho tất cả các mã cấu kiện nặng trên 10 tấn hoặc kèo khẩu độ vượt nhịp lớn trước khi cẩu. Thiết lập ranh giới an toàn, căng dây cảnh báo cấm người không phận sự di chuyển trong bán kính quay cần cẩu.
 
@@ -55,7 +55,7 @@
 - Kéo lưới hứng rơi an toàn Polyester dệt đôi phủ kín toàn bộ các khoang khung cứng đang lắp dựng theo quy chuẩn QCVN 18:2021/BXD.
 
 ### 3.3. Huấn luyện an toàn và quản lý sức khỏe người lao động
-- 100% công nhân trước khi bước vào công trường được huấn luyện an toàn định hướng (Safety Induction), kiểm tra hồ sơ khám sức khỏe đủ điều kiện làm việc trên cao (`83_Ho_So_Theo_Doi_Kham_Suc_Khoe.md`) và cấp phát đầy đủ PPE theo sổ theo dõi (`43_So_Cap_Phat_PPE.md`).
+- 100% công nhân trước khi bước vào công trường được huấn luyện an toàn định hướng (Safety Induction), kiểm tra hồ sơ khám sức khỏe đủ điều kiện làm việc trên cao (theo Hồ sơ theo dõi khám sức khỏe - Mẫu số 83/SK) và cấp phát đầy đủ PPE theo Sổ cấp phát phương tiện bảo vệ cá nhân (Sổ số 43/ST-PPE).
 - Duy trì việc đo nồng độ cồn ngẫu nhiên và đo huyết áp đầu giờ sáng cho công nhân làm việc ở các vị trí rủi ro cao. Kiên quyết không bố trí công nhân có dấu hiệu mệt mỏi, sốt hoặc huyết áp cao lên thi công trên cao.
 
 ### 3.4. Vệ sinh môi trường và phòng chống cháy nổ
@@ -71,9 +71,9 @@
 2. Một số thợ phụ thời vụ mới vào còn thói quen tháo quai nón bảo hộ khi nghỉ giải lao, đã được Kỹ sư HSE nhắc nhở và chấn chỉnh ngay.
 
 ### 4.2. Bài học kinh nghiệm cho các dự án tiếp theo
-1. **Khảo sát kỹ mặt bằng và đường di chuyển:** Cần đưa điều kiện nghiệm thu độ chặt nền đường di chuyển của cẩu vào Checklist thẩm định hợp đồng ngay từ đầu (`76_Checklist_Tham_Dinh_Rui_Ro_HD_va_Dieu_Kien_Huy_Dong.md`).
+1. **Khảo sát kỹ mặt bằng và đường di chuyển:** Cần đưa điều kiện nghiệm thu độ chặt nền đường di chuyển của cẩu vào Bảng thẩm định rủi ro hợp đồng (Biểu mẫu số 76/CK-HĐ) ngay từ đầu.
 2. **Lắp đặt trước hệ thống dây cứu sinh Lifeline và sàn thao tác dưới mặt đất:** Tối đa hóa việc bắt bu lông định vị, luồn dây cáp cứu sinh và giáp nối cụm giàn giáo treo ngay tại bãi tập kết trước khi cẩu lên không trung, nhằm giảm thiểu tối đa thời gian công nhân phải thao tác trực tiếp ở vị trí cheo leo trên cao.
-3. **Duy trì cơ chế khen thưởng an toàn trực tiếp:** Việc tổ chức chấm thưởng an toàn định kỳ hàng tháng theo biên bản `26_Bien_Ban_Danh_Gia_Cham_Thuong_An_Toan.md` đã tạo động lực thi đua rất lớn, giúp công nhân tự giác nhắc nhở nhau tuân thủ an toàn.
+3. **Duy trì cơ chế khen thưởng an toàn trực tiếp:** Việc tổ chức chấm thưởng an toàn định kỳ hàng tháng theo Biên bản đánh giá và chấm thưởng an toàn (Mẫu số 26/BB-KT) đã tạo động lực thi đua rất lớn, giúp công nhân tự giác nhắc nhở nhau tuân thủ an toàn.
 
 ---
 
@@ -91,7 +91,7 @@ Bộ phận An toàn HSE kính đề nghị Ban Giám đốc Công ty xem xét k
 2. Nghị định số 39/2016/NĐ-CP của Chính phủ quy định chi tiết thi hành một số điều của Luật An toàn, vệ sinh lao động.
 3. Quy chuẩn kỹ thuật quốc gia về An toàn trong thi công xây dựng QCVN 18:2021/BXD ban hành kèm Thông tư số 16/2021/TT-BXD.
 4. Nghị định số 207/2026/NĐ-CP của Chính phủ về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng (thay thế Nghị định 06/2021/NĐ-CP từ 01/07/2026).
-5. Sổ tay HSE số `32_So_Tay_HSE.md` và Kế hoạch ATVSLĐ của **<<CTY_TEN>>**.
+5. Sổ tay Quản lý HSE số 32/2026/ST-HSE-<<CTY_TEN_VT>> và Kế hoạch ATVSLĐ của **<<CTY_TEN>>**.
 
 ---
 

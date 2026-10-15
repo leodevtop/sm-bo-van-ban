@@ -24,7 +24,7 @@ Hôm nay, vào hồi ......... ngày <<VB_NGAY>> tháng <<VB_THANG>> năm <<VB_N
 
 ## 2. NỘI DUNG VÀ DANH MỤC HỒ SƠ TIÊU HỦY
 
-Hội đồng đã kiểm tra thực tế, đối chiếu với Quy định thời hạn bảo quản hồ sơ tại Quy chế `64/QC-BVDL-<<CTY_TEN_VT>>` và Danh mục văn bản số `66_Danh_Muc_Van_Ban_va_Nhat_Ky_Ra_Soat.md`. Các tập hồ sơ dưới đây đã hết thời hạn bảo quản theo quy định pháp luật, không còn giá trị sử dụng thực tế và không liên quan đến bất kỳ vụ tranh chấp, khiếu nại, tố tụng hay thanh tra kiểm tra nào:
+Hội đồng đã kiểm tra thực tế, đối chiếu với Quy định thời hạn bảo quản hồ sơ tại Quy chế bảo vệ dữ liệu cá nhân số 64/2026/QC-<<CTY_TEN_VT>> và Danh mục văn bản và nhật ký rà soát nội bộ (Mã số 66/DM-VB). Các tập hồ sơ dưới đây đã hết thời hạn bảo quản theo quy định pháp luật, không còn giá trị sử dụng thực tế và không liên quan đến bất kỳ vụ tranh chấp, khiếu nại, tố tụng hay thanh tra kiểm tra nào:
 
 ### DANH MỤC HỒ SƠ, TÀI LIỆU TIÊU HỦY CHI TIẾT:
 

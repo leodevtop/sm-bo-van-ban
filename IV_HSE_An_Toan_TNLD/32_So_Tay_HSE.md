@@ -1,3 +1,46 @@
+| **<<CTY_TEN>>**<br>Số: 32/2026/QĐ-<<CTY_TEN_VT>> | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*<<CTY_DIA_DANH>>, ngày <<VB_NGAY>> tháng <<VB_THANG>> năm <<VB_NAM>>* |
+|---|---|
+
+<br>
+
+<div align="center">
+
+# QUYẾT ĐỊNH
+### Về việc ban hành Sổ tay Quản lý An toàn – Sức khỏe – Môi trường (HSE)
+
+**GIÁM ĐỐC CÔNG TY <<CTY_TEN>>**
+
+</div>
+
+- *Căn cứ Luật Doanh nghiệp số 59/2020/QH14 ngày 17/06/2020 của Quốc hội;*
+- *Căn cứ Luật An toàn, vệ sinh lao động số 84/2015/QH13 ngày 25/06/2015 của Quốc hội và Nghị định số 39/2016/NĐ-CP;*
+- *Căn cứ Luật Xây dựng số 135/2025/QH15 và Nghị định số 207/2026/NĐ-CP ngày 15/06/2026 của Chính phủ về quản lý chất lượng, thi công xây dựng và an toàn lao động trong thi công xây dựng công trình;*
+- *Căn cứ Thông tư số 32/2026/TT-BXD ngày 22/06/2026 của Bộ Xây dựng và Quy chuẩn kỹ thuật Quốc gia QCVN 18:2021/BXD;*
+- *Căn cứ Điều lệ tổ chức và hoạt động của <<CTY_TEN>>;*
+- *Theo đề nghị của Trưởng bộ phận An toàn (HSE) và Trưởng phòng Thi công.*
+
+<div align="center">
+
+### QUYẾT ĐỊNH:
+
+</div>
+
+**Điều 1. Ban hành kèm theo Quyết định này**
+Ban hành kèm theo Quyết định này bản **“Sổ tay An toàn – Sức khỏe – Môi trường (HSE)”** (Mã hiệu: 32/2026/ST-HSE-<<CTY_TEN_VT>>, áp dụng bắt buộc cho hoạt động thi công và lắp dựng kết cấu thép trên tất cả các công trường của Công ty trên phạm vi toàn quốc).
+
+**Điều 2. Hiệu lực thi hành**
+Quyết định này có hiệu lực thi hành kể từ ngày ký. Các văn bản, quy định nội bộ về HSE trước đây trái với Sổ tay này đều bãi bỏ.
+
+**Điều 3. Trách nhiệm thi hành**
+Các Phó Giám đốc, Trưởng bộ phận HSE, Trưởng phòng Thi công, Chỉ huy trưởng các công trường, Kỹ sư an toàn, Đội trưởng các tổ đội thi công và toàn thể người lao động làm việc tại văn phòng và công trường thuộc **<<CTY_TEN>>** chịu trách nhiệm thi hành Quyết định này./.
+
+<br>
+
+| **Nơi nhận:**<br>- Ban Giám đốc (để chỉ đạo);<br>- BCH Công đoàn cơ sở (để phối hợp);<br>- Ban Chỉ huy các công trường (để t/h);<br>- Các Phòng ban chức năng (để t/h);<br>- Toàn thể NLĐ công trường (để t/h);<br>- Lưu: VT, HSE. | **CÔNG TY <<CTY_TEN>>**<br>**GIÁM ĐỐC**<br>*(Ký tên, đóng dấu)*<br><br><br><br><br>**<<CTY_DAI_DIEN>>** |
+|---|---|
+
+---
+
 # SỔ TAY AN TOÀN – SỨC KHỎE – MÔI TRƯỜNG (HSE)
 ### (ÁP DỤNG CHO HOẠT ĐỘNG THI CÔNG & LẮP DỰNG KẾT CẤU THÉP)
 *(Ban hành kèm theo Quyết định số 32/2026/QĐ-<<CTY_TEN_VT>> ngày <<VB_NGAY>>/<<VB_THANG>>/<<VB_NAM>> của Giám đốc <<CTY_TEN>>)*
@@ -24,7 +67,6 @@
 - Thông tư số 32/2026/TT-BXD ngày 22 tháng 06 năm 2026 của Bộ Xây dựng hướng dẫn về quản lý an toàn lao động trong thi công xây dựng (bãi bỏ Điều 2-9 và Điều 19 Thông tư 10/2021/TT-BXD);
 - Quy chuẩn kỹ thuật Quốc gia QCVN 18:2021/BXD về An toàn trong thi công xây dựng;
 - Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ năm 2024 và các văn bản hướng dẫn;
-- Căn cứ pháp lý chung (`00-can-cu-phap-ly.md`) và Bảng tham số nội bộ (`00-bang-tham-so.md`).
 
 ### Điều 2. Mục đích
 1. Sổ tay An toàn – Sức khỏe – Môi trường (sau đây gọi tắt là **Sổ tay HSE**) là tài liệu quản lý nền tảng quy định các nguyên tắc, tiêu chuẩn kỹ thuật an toàn, quy trình vận hành và trách nhiệm của mọi cá nhân, bộ phận thuộc `<<CTY_TEN>>` trong hoạt động thi công, lắp dựng kết cấu thép nhà xưởng và công trình công nghiệp.

@@ -19,7 +19,7 @@
 
 *Căn cứ Hợp đồng lao động số <<HD_SO>> ký ngày <<HD_NGAY_KY>> giữa <<CTY_TEN>> và người lao động <<NLD_HO_TEN>>;*
 
-*Căn cứ Quy chế quản lý điều hành nhân sự số 08/2026/QC-<<CTY_TEN_VT>> và Bảng tham số nội bộ của Công ty;*
+*Căn cứ Quy chế quản lý điều hành nhân sự số 08/2026/QC-<<CTY_TEN_VT>> và Quy định tham số, định mức quản trị nội bộ của Công ty;*
 
 *Xét yêu cầu tiến độ thi công lắp dựng thực tế tại công trình mới và sự thỏa thuận, đồng ý bằng văn bản của người lao động;*
 
@@ -47,7 +47,7 @@
    - Thời gian bắt đầu làm việc tại công trình mới: Từ ngày <<VB_NGAY>>/<<VB_THANG>>/<<VB_NAM>>.  
    - Thời hạn điều động: Căn cứ tiến độ thi công giai đoạn lắp dựng tại công trình mới hoặc đến khi có quyết định phân công tiếp theo của Giám đốc Công ty.
 3. **Thực hiện thông báo trước và ký kết Phụ lục Hợp đồng lao động:**  
-   - Công ty đã thực hiện thông báo bằng văn bản cho người lao động trước ít nhất **03 (ba) ngày làm việc** theo quy định tại Bảng tham số nội bộ `00-bang-tham-so.md`.  
+   - Công ty đã thực hiện thông báo bằng văn bản cho người lao động trước ít nhất **03 (ba) ngày làm việc** theo Quy chế quản lý điều hành nhân sự của Công ty.  
    - Người lao động đã đồng ý chấp hành điều động. Hai bên lập và ký kết **Phụ lục Hợp đồng lao động số <<HD_PHU_LUC_SO>>** (kèm theo HĐLĐ số <<HD_SO>>) để xác nhận địa điểm làm việc mới và các chế độ phụ cấp công trường xa tương ứng.
 
 **Điều 2. Chế độ chính sách và trách nhiệm trong thời gian làm việc tại công trình mới:**

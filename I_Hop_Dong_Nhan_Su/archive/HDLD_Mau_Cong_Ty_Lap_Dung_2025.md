@@ -1,7 +1,7 @@
 > [!NOTE]
 > **TÀI LIỆU LƯU TRỮ LỊCH SỬ (NĂM 2025):** 
 > Mẫu HĐLĐ này áp dụng mức lương tối thiểu vùng theo Nghị định 74/2024/NĐ-CP (4.960.000 đồng/tháng). 
-> Kể từ ngày 01/01/2026, toàn bộ hợp đồng mới áp dụng mẫu chuẩn 2026 tại file `01b_HDLD_Thoi_Vu_Cong_Trinh.md` (áp dụng Nghị định 293/2025/NĐ-CP: 5.310.000 đồng/tháng và Luật BHXH 2024).
+> Kể từ ngày 01/01/2026, toàn bộ hợp đồng mới áp dụng mẫu chuẩn 2026 tại Hợp đồng lao động thời vụ công trình (Mẫu số 01b/HĐLĐ-TV) (áp dụng Nghị định 293/2025/NĐ-CP: 5.310.000 đồng/tháng và Luật BHXH 2024).
 
 <div align="center">
 

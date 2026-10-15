@@ -1,3 +1,46 @@
+| **<<CTY_TEN>>**<br>Số: 23/2026/QĐ-<<CTY_TEN_VT>> | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*<<CTY_DIA_DANH>>, ngày <<VB_NGAY>> tháng <<VB_THANG>> năm <<VB_NAM>>* |
+|---|---|
+
+<br>
+
+<div align="center">
+
+# QUYẾT ĐỊNH
+### Về việc ban hành Quy chế Lương – KPI dự án năm 2026
+
+**GIÁM ĐỐC CÔNG TY <<CTY_TEN>>**
+
+</div>
+
+- *Căn cứ Luật Doanh nghiệp số 59/2020/QH14 ngày 17/06/2020 của Quốc hội;*
+- *Căn cứ Bộ luật Lao động số 45/2019/QH14 ngày 20/11/2019 của Quốc hội (Điều 104 về tiền thưởng);*
+- *Căn cứ Luật Kế toán số 88/2015/QH13 và Thông tư số 133/2016/TT-BTC ngày 26/08/2016 của Bộ Tài chính hướng dẫn Chế độ kế toán doanh nghiệp nhỏ và vừa;*
+- *Căn cứ Quy chế tiền lương, thưởng và phụ cấp số 22/2026/QC-<<CTY_TEN_VT>> của Công ty;*
+- *Căn cứ Điều lệ tổ chức và hoạt động của <<CTY_TEN>>;*
+- *Theo đề nghị của Trưởng phòng Dự án (kiêm Kinh doanh), Trưởng phòng Thi công và Trưởng phòng Kế toán – Tài chính.*
+
+<div align="center">
+
+### QUYẾT ĐỊNH:
+
+</div>
+
+**Điều 1. Ban hành kèm theo Quyết định này**
+Ban hành kèm theo Quyết định này bản **“Quy chế Lương – Phần KPI dự án năm 2026”** (áp dụng cho các dự án thi công lắp dựng kết cấu thép và tôn bao che nhà xưởng công nghiệp trực thuộc Công ty).
+
+**Điều 2. Hiệu lực thi hành**
+Quyết định này có hiệu lực thi hành kể từ ngày ký. Các quy định, hướng dẫn trước đây về thưởng hiệu quả dự án trái với Quy chế này đều bãi bỏ.
+
+**Điều 3. Trách nhiệm thi hành**
+Các Phó Giám đốc, Trưởng phòng Thi công, Trưởng phòng Dự án (kiêm Kinh doanh), Trưởng phòng Kế toán – Tài chính, Trưởng phòng Hành chính – Nhân sự, Chỉ huy trưởng các công trường và các bộ phận, cá nhân liên quan thuộc **<<CTY_TEN>>** chịu trách nhiệm thi hành Quyết định này./.
+
+<br>
+
+| **Nơi nhận:**<br>- Ban Giám đốc (để chỉ đạo);<br>- BCH Công đoàn cơ sở (để phối hợp);<br>- Các Phòng ban, Ban Chỉ huy CT (để t/h);<br>- Cán bộ nhân viên liên quan (để t/h);<br>- Lưu: VT, KT, DA. | **CÔNG TY <<CTY_TEN>>**<br>**GIÁM ĐỐC**<br>*(Ký tên, đóng dấu)*<br><br><br><br><br>**<<CTY_DAI_DIEN>>** |
+|---|---|
+
+---
+
 | **<<CTY_TEN>>**<br>**Số: 23/2026/QC-<<CTY_TEN_VT>>** | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*<<CTY_DIA_DANH>>, ngày <<VB_NGAY>> tháng <<VB_THANG>> năm <<VB_NAM>>* |
 |---|---|
 
@@ -29,7 +72,6 @@
 - Luật Kế toán số 88/2015/QH13 và **Thông tư số 133/2016/TT-BTC** ngày 26/08/2016 của Bộ Tài chính hướng dẫn Chế độ kế toán doanh nghiệp nhỏ và vừa;
 - Luật Thuế thu nhập cá nhân số 109/2025/QH15 và Nghị quyết số 110/2025/UBTVQH15;
 - Quy chế tiền lương, thưởng và phụ cấp số 22/2026/QC-<<CTY_TEN_VT>> của Công ty;
-- Bảng tham số nội bộ (`00-bang-tham-so.md` mục III.4) và Căn cứ pháp lý chung (`00-can-cu-phap-ly.md`).
 
 ### Điều 2. Mục đích và bản chất khoản KPI
 1. Quy chế này quy định nguyên tắc trích lập, quản lý và phân bổ quỹ thưởng KPI cho từng hợp đồng/dự án thi công lắp dựng kết cấu thép nhằm gắn kết thu nhập của các bộ phận trực tiếp với tiến độ, chất lượng, kiểm soát chi phí, an toàn lao động và dòng tiền thực thu của dự án.

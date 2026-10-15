@@ -1,3 +1,46 @@
+| **<<CTY_TEN>>**<br>Số: 64/2026/QĐ-<<CTY_TEN_VT>> | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*<<CTY_DIA_DANH>>, ngày <<VB_NGAY>> tháng <<VB_THANG>> năm <<VB_NAM>>* |
+|---|---|
+
+<br>
+
+<div align="center">
+
+# QUYẾT ĐỊNH
+### Về việc ban hành Quy chế bảo vệ dữ liệu cá nhân, phân quyền hệ thống và thời hạn lưu trữ hồ sơ
+
+**GIÁM ĐỐC CÔNG TY <<CTY_TEN>>**
+
+</div>
+
+- *Căn cứ Luật Doanh nghiệp số 59/2020/QH14 ngày 17/06/2020 của Quốc hội;*
+- *Căn cứ Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 ngày 25/06/2025 của Quốc hội và Nghị định số 356/2025/NĐ-CP;*
+- *Căn cứ Bộ luật Lao động số 45/2019/QH14 ngày 20/11/2019 của Quốc hội;*
+- *Căn cứ Luật Kế toán số 88/2015/QH13 và Luật Lưu trữ;*
+- *Căn cứ Điều lệ tổ chức và hoạt động của <<CTY_TEN>>;*
+- *Theo đề nghị của Người phụ trách bảo vệ dữ liệu và Trưởng phòng Hành chính – Nhân sự.*
+
+<div align="center">
+
+### QUYẾT ĐỊNH:
+
+</div>
+
+**Điều 1. Ban hành kèm theo Quyết định này**
+Ban hành kèm theo Quyết định này bản **“Quy chế bảo vệ dữ liệu cá nhân, phân quyền hệ thống và thời hạn lưu trữ hồ sơ”** của <<CTY_TEN>>.
+
+**Điều 2. Hiệu lực thi hành**
+Quyết định này có hiệu lực thi hành kể từ ngày ký. Các văn bản, hướng dẫn trước đây về bảo mật thông tin và lưu trữ hồ sơ trái với Quy chế này đều bãi bỏ.
+
+**Điều 3. Trách nhiệm thi hành**
+Các Phó Giám đốc, Trưởng các Phòng ban chức năng, Người phụ trách bảo vệ dữ liệu cá nhân, Chỉ huy trưởng các công trường và toàn thể cán bộ nhân viên, người lao động thuộc **<<CTY_TEN>>** chịu trách nhiệm thi hành Quyết định này./.
+
+<br>
+
+| **Nơi nhận:**<br>- Ban Giám đốc (để chỉ đạo);<br>- Người phụ trách bảo vệ DL (để t/h);<br>- Các Phòng ban, Ban Chỉ huy CT (để t/h);<br>- Toàn thể cán bộ nhân viên (để t/h);<br>- Lưu: VT, HC-NS. | **CÔNG TY <<CTY_TEN>>**<br>**GIÁM ĐỐC**<br>*(Ký tên, đóng dấu)*<br><br><br><br><br>**<<CTY_DAI_DIEN>>** |
+|---|---|
+
+---
+
 # QUY CHẾ BẢO VỆ DỮ LIỆU CÁ NHÂN, PHÂN QUYỀN HỆ THỐNG VÀ THỜI HẠN LƯU TRỮ HỒ SƠ
 *(Ban hành kèm theo Quyết định số 64/2026/QĐ-<<CTY_TEN_VT>> ngày <<VB_NGAY>>/<<VB_THANG>>/<<VB_NAM>> của Giám đốc <<CTY_TEN>>)*
 
@@ -24,7 +67,6 @@
 - Luật Kế toán số 88/2015/QH13 và Thông tư số 133/2016/TT-BTC;
 - Luật Bảo hiểm xã hội số 41/2024/QH15 và Luật Việc làm số 74/2025/QH15;
 - Luật Xây dựng số 135/2025/QH15 và Nghị định số 207/2026/NĐ-CP về quản lý an toàn trong thi công xây dựng;
-- Căn cứ pháp lý chung (`00-can-cu-phap-ly.md`) và Bảng tham số nội bộ (`00-bang-tham-so.md`).
 
 ### Điều 2. Mục đích và Phạm vi thu thập dữ liệu
 1. Quy chế này quy định các biện pháp tổ chức, kỹ thuật và quy trình quản trị nội bộ nhằm bảo vệ dữ liệu cá nhân của người lao động, đối tác, khách hàng và thầu phụ; quy định phân quyền khai thác dữ liệu và thời hạn lưu trữ hồ sơ tài liệu tại `<<CTY_TEN>>`.
@@ -124,15 +166,15 @@ Người lao động và các đối tác có quyền gửi yêu cầu thực hi
 |---|---|---|---|
 | **1** | **Hồ sơ Tai nạn lao động chết người** | **15 (mười lăm) năm** | Khoản 8 Điều 18 Nghị định số 39/2016/NĐ-CP |
 | **2** | **Hồ sơ Tai nạn lao động khác (nặng, nhẹ)** | **Đến khi người bị nạn nghỉ hưu** | Khoản 8 Điều 18 Nghị định số 39/2016/NĐ-CP |
-| **3** | **Hợp đồng lao động, phụ lục, QĐ kỷ luật** | **10 (mười) năm** sau khi chấm dứt HĐ | Theo Bảng tham số nội bộ & Cam kết A1-05 |
-| **4** | **Hồ sơ, chứng từ đóng nộp BHXH, BHYT, BHTN** | **10 (mười) năm** | Luật Bảo hiểm xã hội 2024 & Bảng tham số |
+| **3** | **Hợp đồng lao động, phụ lục, QĐ kỷ luật** | **10 (mười) năm** sau khi chấm dứt HĐ | Theo quy định nội bộ Công ty & Cam kết bảo vệ dữ liệu cá nhân |
+| **4** | **Hồ sơ, chứng từ đóng nộp BHXH, BHYT, BHTN** | **10 (mười) năm** | Luật Bảo hiểm xã hội 2024 & Quy định nội bộ |
 | **5** | **Hồ sơ kế toán, sổ cái, hóa đơn, chứng từ chi** | **10 (mười) năm** | Điều 41 Luật Kế toán 2015 |
 | **6** | **Dữ liệu bảng chấm công, phiếu lương cá nhân** | **05 (năm) năm** | Luật Kế toán & Quản trị lao động nội bộ |
 | **7** | **Hồ sơ khám sức khỏe định kỳ người lao động** | **Xóa ngay sau khi NLĐ nghỉ việc** *(trừ trường hợp liên quan hồ sơ TNLĐ)* | Luật Bảo vệ dữ liệu cá nhân 2025 |
 | **8** | **Hồ sơ an toàn công trình (B2), giấy phép PTW** | **05 (năm) năm** sau khi kết thúc dự án *(giữ lâu hơn nếu có tranh chấp/sự cố)* | Quy định quản trị rủi ro thi công xây dựng |
 | **9** | **Nhật ký thi công, hồ sơ hoàn công kết cấu thép** | **Hết thời hạn bảo hành công trình** | Nghị định 207/2026/NĐ-CP & Luật Xây dựng |
 | **10**| **Hợp đồng kinh tế, hồ sơ báo giá dự thầu** | **10 (mười) năm** kể từ ngày thanh lý | Luật Doanh nghiệp & Luật Thương mại |
-| **11**| **Hồ sơ ứng viên tuyển dụng không trúng tuyển** | **06 (sáu) tháng**, sau đó xóa bỏ | Bảng tham số nội bộ (bảo đảm quyền riêng tư) |
+| **11**| **Hồ sơ ứng viên tuyển dụng không trúng tuyển** | **06 (sáu) tháng**, sau đó xóa bỏ | Quy định nội bộ Công ty (bảo đảm quyền riêng tư) |
 | **12**| **Dữ liệu hình ảnh CCCD, ảnh chân dung NLĐ** | **Xóa ngay sau khi chấm dứt HĐLĐ** *(khi đã hoàn thành thủ tục chốt sổ BHXH)* | Luật Bảo vệ dữ liệu cá nhân 2025 |
 
 ### Điều 10. Nguyên tắc tiêu hủy và Lệnh tạm dừng hủy hồ sơ

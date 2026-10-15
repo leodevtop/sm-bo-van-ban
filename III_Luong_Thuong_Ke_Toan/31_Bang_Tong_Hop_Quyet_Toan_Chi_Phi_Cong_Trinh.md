@@ -72,7 +72,7 @@
 
 ## 4. ĐỀ XUẤT TRÍCH LẬP QUỸ THƯỞNG KPI DỰ ÁN
 
-Căn cứ Quy chế tiền lương, thưởng (`22_Quy_Che_Tien_Luong_Thuong_Phu_Cap_2026.md`) và Quy chế thưởng KPI dự án (`23_Quy_Che_Luong_KPI_Du_An_2026.md`), do công trình hoàn thành tiến độ, đảm bảo an toàn tuyệt đối và tiết kiệm chi phí, Hội đồng xét thưởng đề xuất:
+Căn cứ Quy chế Tiền lương, thưởng và phụ cấp số 22/2026/QC-<<CTY_TEN_VT>> và Quy chế Lương – KPI dự án số 23/2026/QC-<<CTY_TEN_VT>>, do công trình hoàn thành tiến độ, đảm bảo an toàn tuyệt đối và tiết kiệm chi phí, Hội đồng xét thưởng đề xuất:
 1. **Tổng quỹ thưởng hiệu quả dự án đề xuất trích lập:** `.........` VNĐ *(trích 20% lợi nhuận gộp thực tế, trần khống chế không quá 5% giá trị hợp đồng nghiệm thu thanh toán theo Quy chế 23)*.
 2. **Nguyên tắc phân chia quỹ thưởng KPI cho 04 phòng ban (chuẩn hóa theo Quy chế 23):**
    - **Phòng Thi công (nhiều nhất): 50%** quỹ thưởng KPI, trong đó:

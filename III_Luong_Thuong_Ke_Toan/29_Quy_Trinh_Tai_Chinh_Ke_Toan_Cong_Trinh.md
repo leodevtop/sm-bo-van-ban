@@ -21,8 +21,7 @@
 4. Luật Thuế thu nhập doanh nghiệp và các văn bản hướng dẫn thi hành;
 5. Bộ luật Lao động số 45/2019/QH14 (Điều 96 về hình thức trả lương qua tài khoản);
 6. Luật Xây dựng số 135/2025/QH15 và Nghị định số 210/2026/NĐ-CP (quy định hồ sơ quyết toán hợp đồng xây dựng);
-7. Bảng tham số nội bộ (`00-bang-tham-so.md`) và Căn cứ pháp lý chung (`00-can-cu-phap-ly.md`);
-8. Quy chế tài chính nội bộ hiện hành của **<<CTY_TEN>>**.
+7. Quy chế tài chính nội bộ hiện hành của **<<CTY_TEN>>**.
 
 ---
 
@@ -36,10 +35,10 @@
 ### 2.2. Nguyên tắc hạch toán kế toán theo Thông tư 133/2016/TT-BTC
 1. Công ty áp dụng phương pháp tập hợp chi phí sản xuất kinh doanh dở dang trên **Tài khoản 154 - Chi phí sản xuất, kinh doanh dở dang**, mở chi tiết theo từng Công trình/Dự án cụ thể (`TK 154 - <<CT_MA>>`).
 2. Các tiểu khoản chi tiết phục vụ bóc tách giá thành công trình lắp dựng:
-   - **TK 1541 - Chi phí nguyên vật liệu trực tiếp:** Tập hợp chi phí vật tư phụ lắp dựng (que hàn, dây hàn, sơn dặm vá, bu lông phụ trợ, giẻ lau, oxy-gas...). Đối với hợp đồng trọn gói cung cấp kết cấu thép, tài khoản này theo dõi chi phí cấu kiện thép mua từ nhà máy gia công theo đơn đặt hàng `75_Don_Dat_Hang_Mua_Vat_Tu.md`.
+   - **TK 1541 - Chi phí nguyên vật liệu trực tiếp:** Tập hợp chi phí vật tư phụ lắp dựng (que hàn, dây hàn, sơn dặm vá, bu lông phụ trợ, giẻ lau, oxy-gas...). Đối với hợp đồng trọn gói cung cấp kết cấu thép, tài khoản này theo dõi chi phí cấu kiện thép mua từ nhà máy gia công theo Đơn đặt hàng mua vật tư (Mẫu số 75/ĐH-VT).
    - **TK 1542 - Chi phí nhân công trực tiếp:** Lương công nhân lắp dựng, thợ hàn, thợ phụ, phụ cấp độc hại, phụ cấp làm việc trên cao và phụ cấp công trình xa nhà gắn liền với công trình đó.
    - **TK 1543 - Chi phí máy thi công:** Chi phí thuê ca máy/tháng xe cẩu bánh lốp (50T - 200T), cẩu bánh xích, xe nâng người tự hành (Boom lift, Scissor lift), chi phí vận chuyển huy động/giải tỏa thiết bị, dầu diesel và nhân công lái cẩu/vận hành máy.
-   - **TK 1547 - Chi phí chung công trình:** Chi phí lán trại tạm, điện nước thi công, trang cấp bảo hộ lao động PPE (`43_So_Cap_Phat_PPE.md`), phí kiểm định an toàn máy móc thiết bị (`37_Danh_Muc_Thiet_Bi_Kiem_Dinh.md`), bảo hiểm công trình CAR/TNDS bên thứ ba (`59_Phu_Luc_Dieu_Khoan_AT_Bao_Hiem_Tong_Thau.md`), chi phí văn phòng phẩm và phụ cấp điện thoại, tiếp khách của Ban Chỉ huy công trường.
+   - **TK 1547 - Chi phí chung công trình:** Chi phí lán trại tạm, điện nước thi công, trang cấp bảo hộ lao động PPE theo Sổ cấp phát phương tiện bảo vệ cá nhân (Sổ số 43/ST-PPE), phí kiểm định an toàn máy móc thiết bị theo Danh mục thiết bị yêu cầu nghiêm ngặt kiểm định (Mẫu số 37/DM-TB), bảo hiểm công trình CAR/TNDS bên thứ ba theo Phụ lục điều khoản an toàn và bảo hiểm công trường (Phụ lục số 59/PL-AT), chi phí văn phòng phẩm và phụ cấp điện thoại, tiếp khách của Ban Chỉ huy công trường.
 
 ---
 
@@ -63,7 +62,7 @@
 
 ### 3.1. Hạn mức và điều kiện tạm ứng quỹ công trường (Petty Cash)
 1. Chỉ huy trưởng công trường `<<CT_CHI_HUY_TRUONG>>` được cấp một hạn mức quỹ tiền mặt công trường để giải quyết các chi phí khẩn cấp, mua vật tư phụ phát sinh đột xuất, tiếp khách tại hiện trường hoặc chi trả công bốc vác nhỏ lẻ tại địa phương.
-2. Hạn mức tạm ứng tối đa: Thực hiện **theo Bảng tham số hiện hành** của Công ty (thông thường từ **20.000.000 VNĐ đến 50.000.000 VNĐ** tùy thuộc quy mô dự án và khoảng cách địa lý).
+2. Hạn mức tạm ứng tối đa: Thực hiện **theo hạn mức phân quyền tại Quy chế tổ chức, phân quyền và báo cáo nội bộ của Công ty** (thông thường từ **20.000.000 VNĐ đến 50.000.000 VNĐ** tùy thuộc quy mô dự án và khoảng cách địa lý).
 3. Hình thức giải ngân: Chuyển khoản 100% từ tài khoản công ty sang tài khoản ngân hàng cá nhân chính chủ của Chỉ huy trưởng. Tuyệt đối không giao tiền mặt trực tiếp.
 
 ### 3.2. Quy định về chứng từ hợp lệ để hoàn ứng
@@ -85,18 +84,18 @@ Nhằm tuân thủ tuyệt đối quy định pháp luật về lao động và 
 1. **Mở tài khoản ngân hàng:** 100% người lao động khi tiếp nhận vào làm việc tại công trường bắt buộc phải cung cấp số tài khoản ngân hàng chính chủ mang tên mình (Phòng Nhân sự hỗ trợ liên kết ngân hàng mở thẻ ATM miễn phí tại công trường nếu NLĐ chưa có tài khoản).
 2. **Chấm công và thẩm duyệt bảng lương:**
    - Ngày 01 - 02 hàng tháng: Chỉ huy trưởng công trường rà soát, ký xác nhận Bảng chấm công thực tế tại công trường gửi về Phòng Hành chính - Nhân sự.
-   - Ngày 03 - 05 hàng tháng: Phòng Nhân sự kiểm tra ngày công, đối chiếu Phiếu đăng ký làm thêm giờ (`25_Phieu_Dang_Ky_Lam_Them_Gio.md`), tính toán các khoản phụ cấp và lập Bảng thanh toán tiền lương toàn công ty.
+   - Ngày 03 - 05 hàng tháng: Phòng Nhân sự kiểm tra ngày công, đối chiếu Phiếu đăng ký làm thêm giờ (Mẫu số 25/ĐK-TG), tính toán các khoản phụ cấp và lập Bảng thanh toán tiền lương toàn công ty.
    - Ngày 06 - 07 hàng tháng: Kế toán trưởng thẩm tra tính chính xác và trình Giám đốc Công ty ký duyệt Bảng lương.
 3. **Chi trả lương qua dịch vụ Ngân hàng điện tử (Internet Banking / Payroll):**
    - Vào ngày 10 hàng tháng: Kế toán thanh toán lập Lệnh chuyển tiền chi lương lô (Batch Payroll Transfer) qua cổng ngân hàng trực tuyến của công ty chuyển thẳng vào số tài khoản của từng người lao động.
-   - Phòng Nhân sự gửi Phiếu lương cá nhân điện tử (`28_Phieu_Luong_Ca_Nhan.md`) qua email/Zalo cá nhân cho từng người lao động để đối soát. Mọi thắc mắc về tiền lương được tiếp nhận và giải quyết theo Quy chế dân chủ (`80_So_Theo_Doi_Tiep_Nhan_Kien_Nghi.md`).
+   - Phòng Nhân sự gửi Phiếu lương cá nhân (Mẫu số 28/PL-CN) điện tử qua email/Zalo cá nhân cho từng người lao động để đối soát. Mọi thắc mắc về tiền lương được tiếp nhận và giải quyết theo Quy chế dân chủ và ghi nhận tại Sổ theo dõi tiếp nhận kiến nghị (Sổ số 80/ST-KN).
 
 ---
 
 ## ĐIỀU 5. THEO DÕI DOANH THU, CÔNG NỢ VÀ QUYẾT TOÁN CÔNG TRÌNH
 
 ### 5.1. Hóa đơn và ghi nhận doanh thu
-1. Căn cứ Biên bản nghiệm thu khối lượng hoàn thành giai đoạn (`69_Phieu_Yeu_Cau_va_Bien_Ban_Nghiem_Thu_Lap_Dung.md`) được ký xác nhận bởi Tổng thầu và Đơn vị tư vấn giám sát, Phòng Kế toán tiến hành phát hành Hóa đơn GTGT điện tử gửi cho Tổng thầu.
+1. Căn cứ Biên bản nghiệm thu lắp dựng kết cấu thép (Mẫu số 69/BBNT) hoàn thành giai đoạn được ký xác nhận bởi Tổng thầu và Đơn vị tư vấn giám sát, Phòng Kế toán tiến hành phát hành Hóa đơn GTGT điện tử gửi cho Tổng thầu.
 2. Ghi nhận doanh thu xây lắp tương ứng:
    - Nợ TK 131 - Phải thu của khách hàng (`<<KH_TEN>>`).
    - Có TK 5112 - Doanh thu hoạt động xây lắp.
@@ -105,7 +104,7 @@ Nhằm tuân thủ tuyệt đối quy định pháp luật về lao động và 
 
 ### 5.2. Quản lý công nợ và quyết toán chi phí công trình
 1. Kế toán công nợ theo dõi sát hạn thanh toán của từng đợt theo hợp đồng.
-2. Khi công trình hoàn thành bàn giao đưa vào sử dụng, Kế toán công trình phối hợp với Chỉ huy trưởng lập **Bảng tổng hợp quyết toán chi phí công trình** theo mẫu `31_Bang_Tong_Hop_Quyet_Toan_Chi_Phi_Cong_Trinh.md` để so sánh giữa:
+2. Khi công trình hoàn thành bàn giao đưa vào sử dụng, Kế toán công trình phối hợp với Chỉ huy trưởng lập **Bảng tổng hợp quyết toán chi phí công trình (Mẫu số 31/QTCP)** để so sánh giữa:
    - Chi phí dự toán được phê duyệt ban đầu (Budgeted Cost).
    - Chi phí thực tế phát sinh tập hợp trên TK 154 (Actual Cost).
    - Đánh giá hiệu quả kinh tế và tính thưởng hiệu quả/an toàn dự án cho cả 04 phòng ban theo tỷ lệ chuẩn hóa tại Quy chế 23.

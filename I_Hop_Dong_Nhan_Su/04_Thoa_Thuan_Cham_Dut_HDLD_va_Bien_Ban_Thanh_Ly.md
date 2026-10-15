@@ -101,7 +101,7 @@ Phòng Kế toán – Tài chính và Phòng Hành chính – Nhân sự đối 
 | 4 | Phụ cấp công trường, hỗ trợ lưu trú (nếu có) | …………………… | ……………………… | Theo quy chế |
 | 5 | Thưởng / KPI dự án được phê duyệt (nếu có) | …………………… | ……………………… | Theo quyết định |
 | **A** | **TỔNG CÁC KHOẢN ĐƯỢC HƯỞNG** | | **………………………** | |
-| 6 | Trừ: BHXH, BHYT, BHTN phần NLĐ đóng theo tỷ lệ luật định và Bảng tham số | | ……………………… | Theo 00-bang-tham-so.md |
+| 6 | Trừ: BHXH, BHYT, BHTN phần NLĐ đóng theo quy định của Luật Bảo hiểm xã hội 2024, Luật Việc làm 2025 và pháp luật hiện hành | | ……………………… | Theo luật định |
 | 7 | Trừ: Thuế TNCN khấu trừ (nếu có) | | ……………………… | Theo luật định |
 | 8 | Trừ: Các khoản tạm ứng chưa thanh toán | | ……………………… | Giấy đề nghị tạm ứng |
 | **B** | **TỔNG CÁC KHOẢN KHẤU TRỪ THEO LUẬT** | | **………………………** | |

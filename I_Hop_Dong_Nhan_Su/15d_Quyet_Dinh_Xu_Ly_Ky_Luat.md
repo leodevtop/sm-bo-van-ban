@@ -47,7 +47,7 @@ Thi hành kỷ luật lao động đối với:
 > *(Hoặc: KÉO DÀI THỜI HẠN NÂNG LƯƠNG ... THÁNG / CÁCH CHỨC / SA THẢI - tùy theo tính chất mức độ đã kết luận tại phiên họp)*
 
 ### Điều 2. Lý do kỷ luật
-Ông/Bà **<<NLD_HO_TEN>>** đã có hành vi vi phạm: Không chấp hành quy chuẩn an toàn lao động làm việc trên cao, tháo móc dây an toàn khi đang di chuyển trên xà gồ mái tại công trình **<<CT_TEN>>** vào ngày `.........`, vi phạm Điều `.........` Nội quy lao động và quy định tại Sổ tay HSE (`32_So_Tay_HSE.md`) của Công ty.
+Ông/Bà **<<NLD_HO_TEN>>** đã có hành vi vi phạm: Không chấp hành quy chuẩn an toàn lao động làm việc trên cao, tháo móc dây an toàn khi đang di chuyển trên xà gồ mái tại công trình **<<CT_TEN>>** vào ngày `.........`, vi phạm Điều `.........` Nội quy lao động và quy định tại Sổ tay An toàn - Sức khỏe - Môi trường (Sổ tay HSE - Mẫu số 32/ST-HSE) của Công ty.
 
 ### Điều 3. Thời hiệu và xóa kỷ luật lao động
 1. Quyết định thi hành kỷ luật có hiệu lực thi hành kể từ ngày ký.

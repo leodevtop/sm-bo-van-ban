@@ -102,7 +102,7 @@ Hai bên tự nguyện thỏa thuận giao kết Hợp đồng lao động với
 ## Điều 3. Tiền lương, phụ cấp, bảo hiểm và chế độ đãi ngộ
 
 1. **Tiền lương chính:**  
-   - Mức lương chính: **<<HD_LUONG_CB>>** đồng/tháng (bằng chữ: <<HD_LUONG_CB_CHU>>), tối thiểu không thấp hơn mức lương tối thiểu Vùng 1 là <<TS_LUONG_TOI_THIEU_V1>> đồng/tháng theo Nghị định 293/2025/NĐ-CP và Bảng tham số nội bộ `00-bang-tham-so.md`.  
+   - Mức lương chính: **<<HD_LUONG_CB>>** đồng/tháng (bằng chữ: <<HD_LUONG_CB_CHU>>), tối thiểu không thấp hơn mức lương tối thiểu Vùng 1 là <<TS_LUONG_TOI_THIEU_V1>> đồng/tháng theo Nghị định 293/2025/NĐ-CP và Quy chế tiền lương hiện hành của Công ty.  
    - Hoặc đơn giá ngày công: **<<HD_DON_GIA_CONG>>** đồng/ngày công chuẩn (áp dụng tính lương theo ngày công thực tế ghi nhận tại Bảng chấm công công trường).  
    - Mức lương trên là căn cứ đóng BHXH, BHYT, BHTN theo quy định pháp luật.
 2. **Phụ cấp và các khoản hỗ trợ:**  
@@ -118,7 +118,7 @@ Hai bên tự nguyện thỏa thuận giao kết Hợp đồng lao động với
    - **Bắt buộc trả lương qua chuyển khoản ngân hàng:** Tiền lương được chuyển 100% vào tài khoản ngân hàng chính chủ của Bên B (<<NLD_STK>> - Ngân hàng <<NLD_NGAN_HANG>>). Công ty không chi trả tiền mặt đối với các khoản chi lương nhằm tuân thủ quy định quản lý thuế và pháp luật lao động.  
    - Kỳ hạn trả lương: Vào ngày **<<HD_NGAY_TRA_LUONG>>** hàng tháng (từ ngày 05 đến ngày 10 của tháng kế tiếp).
 5. **Bảo hiểm xã hội, bảo hiểm y tế, thất nghiệp và bảo hiểm công trường:**  
-   - Trích nộp BHXH bắt buộc: Áp dụng đối với hợp đồng từ đủ 01 tháng trở lên theo Luật Bảo hiểm xã hội 2024 và Luật Việc làm 2025. Tỷ lệ đóng: Người lao động đóng 10,5% (BHXH 8%, BHYT 1,5%, BHTN 1%); Người sử dụng lao động đóng 21,5% theo quy định tại Bảng tham số.  
+   - Trích nộp BHXH bắt buộc: Áp dụng đối với hợp đồng từ đủ 01 tháng trở lên theo Luật Bảo hiểm xã hội 2024 và Luật Việc làm 2025. Tỷ lệ đóng: Người lao động đóng 10,5% (BHXH 8%, BHYT 1,5%, BHTN 1%); Người sử dụng lao động đóng 21,5% theo quy định của Luật Bảo hiểm xã hội 2024, Luật Việc làm 2025 và pháp luật hiện hành.  
    - **Bảo hiểm công trường:** Công ty có trách nhiệm mua (hoặc phối hợp với Tổng thầu mua) bảo hiểm bắt buộc đối với người lao động thi công trên công trường và bảo hiểm trách nhiệm dân sự đối với bên thứ ba theo đúng Điều 10 Luật Xây dựng 2025 và Nghị định hiện hành.
 
 ---
@@ -198,4 +198,4 @@ Hai bên tự nguyện thỏa thuận giao kết Hợp đồng lao động với
 5. **Nghị định số 293/2025/NĐ-CP:** Mức lương tối thiểu vùng áp dụng từ 01/01/2026.
 6. **Nghị định số 356/2025/NĐ-CP:** Hướng dẫn Luật Bảo vệ dữ liệu cá nhân 2025.
 7. **Nghị định số 283/2026/NĐ-CP:** Xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội (từ 10/09/2026).
-8. **◐ Điểm cần lưu ý/xác nhận:** Rà soát lại tỷ lệ đóng nộp BHXH theo Bảng tham số và xác nhận hợp đồng bảo hiểm thi công với Tổng thầu trước khi bố trí công nhân vào công trường.
+8. **◐ Điểm cần lưu ý/xác nhận:** Rà soát lại tỷ lệ đóng nộp BHXH theo quy định hiện hành và xác nhận hợp đồng bảo hiểm thi công với Tổng thầu trước khi bố trí công nhân vào công trường.

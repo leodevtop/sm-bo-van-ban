@@ -102,5 +102,5 @@ Hai bên thống nhất sửa đổi, bổ sung một số điều khoản của
    - Điều 22: Phụ lục hợp đồng lao động quy định chi tiết một số điều khoản hoặc để sửa đổi, bổ sung hợp đồng lao động; phụ lục không được sửa đổi thời hạn hợp đồng lao động.
 2. **Nghị định số 145/2020/NĐ-CP:** Hướng dẫn thi hành một số điều của Bộ luật Lao động.
 3. **Nghị định số 283/2026/NĐ-CP:** Quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội (xử phạt nếu dùng phụ lục kéo dài thời hạn HĐLĐ nhằm trốn tránh ký HĐLĐ không xác định thời hạn).
-4. **Bảng tham số hiện hành (`00-bang-tham-so.md`) của Công ty.**
-5. **◐ Điểm cần lưu ý/xác nhận:** Khi điều chuyển công nhân sang công trình khác, Công ty phải thông báo trước ít nhất 03 ngày làm việc theo Bảng tham số nội bộ.
+4. **Quy định tham số và định mức quản trị nội bộ hiện hành của Công ty.**
+5. **◐ Điểm cần lưu ý/xác nhận:** Khi điều chuyển công nhân sang công trình khác, Công ty phải thông báo trước ít nhất 03 ngày làm việc theo Quy chế quản lý điều hành nhân sự của Công ty.

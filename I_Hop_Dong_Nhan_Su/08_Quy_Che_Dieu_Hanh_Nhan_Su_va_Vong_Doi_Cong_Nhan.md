@@ -1,3 +1,45 @@
+| **<<CTY_TEN>>**<br>Số: 08/2026/QĐ-<<CTY_TEN_VT>> | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*<<CTY_DIA_DANH>>, ngày <<VB_NGAY>> tháng <<VB_THANG>> năm <<VB_NAM>>* |
+|---|---|
+
+<br>
+
+<div align="center">
+
+# QUYẾT ĐỊNH
+### Về việc ban hành Quy chế quản lý điều hành nhân sự và Quy trình vòng đời lao động công trường
+
+**GIÁM ĐỐC CÔNG TY <<CTY_TEN>>**
+
+</div>
+
+- *Căn cứ Luật Doanh nghiệp số 59/2020/QH14 ngày 17/06/2020 của Quốc hội;*  
+- *Căn cứ Bộ luật Lao động số 45/2019/QH14 ngày 20/11/2019 của Quốc hội;*  
+- *Căn cứ Điều lệ tổ chức và hoạt động của <<CTY_TEN>>;*  
+- *Xét yêu cầu thực tế trong công tác quản lý, điều hành nhân sự và tổ chức thi công xây dựng kết cấu thép;*  
+- *Theo đề nghị của Trưởng phòng Hành chính – Nhân sự.*
+
+<div align="center">
+
+### QUYẾT ĐỊNH:
+
+</div>
+
+**Điều 1. Ban hành kèm theo Quyết định này**
+Ban hành kèm theo Quyết định này bản **“Quy chế quản lý điều hành nhân sự và Quy trình vòng đời lao động công trường”** của <<CTY_TEN>>.
+
+**Điều 2. Hiệu lực thi hành**
+Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế các quy định trước đây về quản lý điều hành nhân sự của Công ty.
+
+**Điều 3. Trách nhiệm thi hành**
+Ban Giám đốc, Ban Chấp hành Công đoàn cơ sở, Trưởng các phòng ban chức năng (Phòng Thi công, Phòng Dự án kiêm Kinh doanh, Phòng Kế toán – Tài chính, Phòng Hành chính – Nhân sự), Ban chỉ huy các công trường và toàn thể người lao động thuộc **<<CTY_TEN>>** chịu trách nhiệm thi hành Quyết định này./.
+
+<br>
+
+| **Nơi nhận:**<br>- Ban Giám đốc (để chỉ đạo);<br>- Ban Chấp hành Công đoàn cơ sở;<br>- Các phòng ban chức năng;<br>- Ban chỉ huy các công trường;<br>- Toàn thể người lao động;<br>- Lưu: VT, HC-NS. | **CÔNG TY <<CTY_TEN>>**<br>**GIÁM ĐỐC**<br>*(Ký tên, đóng dấu)*<br><br><br><br><br>**<<CTY_DAI_DIEN>>** |
+|---|---|
+
+---
+
 | **<<CTY_TEN>>**<br>**Số: 08/2026/QC-<<CTY_TEN_VT>>** | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*<<CTY_DIA_DANH>>, ngày <<VB_NGAY>> tháng <<VB_THANG>> năm <<VB_NAM>>* |
 |---|---|
 
@@ -26,7 +68,7 @@
 - Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 và Nghị định số 356/2025/NĐ-CP;
 - Nghị quyết số 28/2026/QH16 của Quốc hội về việc xác lập Ngày Văn hóa Việt Nam (24/11 hằng năm) là ngày nghỉ lễ hưởng nguyên lương;
 - Nghị định số 283/2026/NĐ-CP quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội;
-- Bảng tham số nội bộ (`00-bang-tham-so.md`) và Căn cứ pháp lý chung (`00-can-cu-phap-ly.md`).
+- Quy định tham số và định mức quản trị nội bộ hiện hành của Công ty.
 
 ### Điều 2. Mục đích và phạm vi áp dụng
 1. Quy chế này quy định nguyên tắc tuyển dụng, quản lý, điều động, luân chuyển công tác, kỷ luật lao động và quy trình vòng đời lao động thi công lắp dựng kết cấu thép từ lúc tiếp nhận đến khi kết thúc dự án.
@@ -77,8 +119,8 @@ Cơ cấu bộ máy điều hành của Công ty tại thời điểm hiện t�
 ### Điều 8. Bước 4: Điều hành thi công, chấm công và an toàn hằng ngày
 1. Chỉ huy trưởng tổ chức họp an toàn đầu giờ (Toolbox Talk) 10–15 phút trước mỗi ca làm việc để phổ biến nguy cơ, biện pháp thi công và kiểm tra sức khỏe của thợ.
 2. Chấm công hàng ngày tại công trường theo đúng mẫu quy định, phản ánh chính xác ngày công tiêu chuẩn và giờ làm thêm (tăng ca). Khống chế trần làm thêm giờ chuẩn không quá 200 giờ/năm theo Điều 107 Bộ luật Lao động 2019.
-3. Tuân thủ nghiêm ngặt quy định an toàn khi thời tiết xấu: Dừng làm việc trên cao và dừng cẩu lắp khi tốc độ gió từ 8 m/s (khoảng cấp 5) trở lên, hoặc khi có mưa lớn, dông sét (theo `00-bang-tham-so.md`).
-4. **Chế độ nghỉ ngơi và nghỉ lễ, Tết:** Thực hiện theo Nội quy lao động và Bảng tham số nội bộ; người lao động được nghỉ làm việc, hưởng nguyên lương 12 ngày lễ, Tết trong năm theo Điều 112 Bộ luật Lao động 2019 và Nghị quyết số 28/2026/QH16 của Quốc hội.
+3. Tuân thủ nghiêm ngặt quy định an toàn khi thời tiết xấu: Dừng làm việc trên cao và dừng cẩu lắp khi tốc độ gió từ 8 m/s (khoảng cấp 5) trở lên, hoặc khi có mưa lớn, dông sét (theo quy chuẩn kỹ thuật an toàn và định mức nội bộ của Công ty).
+4. **Chế độ nghỉ ngơi và nghỉ lễ, Tết:** Thực hiện theo Nội quy lao động và quy định nội bộ của Công ty; người lao động được nghỉ làm việc, hưởng nguyên lương 12 ngày lễ, Tết trong năm theo Điều 112 Bộ luật Lao động 2019 và Nghị quyết số 28/2026/QH16 của Quốc hội.
 
 ### Điều 9. Bước 5: Kết thúc công trình, nghiệm thu và thanh lý hợp đồng
 1. Khi công trình hoàn thành hoặc giai đoạn lắp dựng nghiệm thu bàn giao, Chỉ huy trưởng thông báo trước ít nhất 15 ngày bằng văn bản cho người lao động về thời điểm kết thúc hợp đồng.
@@ -99,12 +141,12 @@ Cơ cấu bộ máy điều hành của Công ty tại thời điểm hiện t�
 2. **Nguyên tắc thỏa thuận và ký Phụ lục HĐLĐ:** Việc điều động người lao động sang làm việc tại công trình/dự án khác phải căn cứ vào sự đồng ý của người lao động. Hai bên phải tiến hành ký kết **Phụ lục Hợp đồng lao động** ghi nhận rõ địa điểm làm việc mới, thời gian điều động và mức phụ cấp công trường xa áp dụng.
 
 ### Điều 12. Thời hạn thông báo trước
-1. Thời hạn thông báo trước bằng văn bản cho người lao động là **ít nhất 03 (ba) ngày làm việc** (theo Bảng tham số nội bộ `00-bang-tham-so.md`), trừ trường hợp hai bên có thỏa thuận thời hạn ngắn hơn.
+1. Thời hạn thông báo trước bằng văn bản cho người lao động là **ít nhất 03 (ba) ngày làm việc** (theo Quy chế quản lý điều hành nhân sự của Công ty), trừ trường hợp hai bên có thỏa thuận thời hạn ngắn hơn.
 2. Đối với trường hợp điều động đi công trình ngoại tỉnh xa nhà, Công ty nêu rõ địa điểm, điều kiện ăn ở lán trại, phương tiện di chuyển và các khoản hỗ trợ trong Quyết định điều động.
 
 ### Điều 13. Chế độ chính sách khi điều động công trường
 1. Người lao động được bảo lưu nguyên vẹn mức tiền lương ghi trong HĐLĐ hiện hành và đóng BHXH, BHYT, BHTN đầy đủ.
-2. Được hưởng các khoản phụ cấp công trường xa, phụ cấp lưu động, tiền tàu xe và hỗ trợ nhà ở theo Bảng tham số và Quy chế tiền lương hiện hành.
+2. Được hưởng các khoản phụ cấp công trường xa, phụ cấp lưu động, tiền tàu xe và hỗ trợ nhà ở theo Quy chế tiền lương và định mức quản trị nội bộ hiện hành.
 
 ---
 

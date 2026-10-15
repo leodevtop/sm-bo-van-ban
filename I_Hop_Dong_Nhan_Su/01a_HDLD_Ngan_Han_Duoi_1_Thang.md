@@ -195,5 +195,5 @@ Bên B tự nguyện đồng ý cho Bên A thu thập, lưu trữ và xử lý c
    - Quy định chi tiết thi hành Luật Bảo vệ dữ liệu cá nhân 2025.
 6. **Nghị định số 283/2026/NĐ-CP:**
    - Quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội (hiệu lực từ 10/09/2026).
-7. **Bảng tham số hiện hành (`00-bang-tham-so.md`) và Căn cứ pháp lý (`00-can-cu-phap-ly.md`) của Công ty.**
+7. **Quy định tham số và định mức quản trị nội bộ hiện hành của Công ty.**
 8. **◐ Điểm cần lưu ý/xác nhận:** Thủ tục đăng ký thông tin lao động trực tuyến đối với hợp đồng dưới 01 tháng theo Nghị định 318/2025/NĐ-CP cần được kiểm tra khi cơ quan quản lý lao động địa phương chính thức triển khai phần mềm trực tuyến.

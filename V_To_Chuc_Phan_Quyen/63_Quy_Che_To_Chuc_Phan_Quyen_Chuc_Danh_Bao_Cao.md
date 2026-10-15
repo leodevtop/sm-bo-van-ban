@@ -1,3 +1,46 @@
+| **<<CTY_TEN>>**<br>Số: 63/2026/QĐ-<<CTY_TEN_VT>> | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*<<CTY_DIA_DANH>>, ngày <<VB_NGAY>> tháng <<VB_THANG>> năm <<VB_NAM>>* |
+|---|---|
+
+<br>
+
+<div align="center">
+
+# QUYẾT ĐỊNH
+### Về việc ban hành Quy chế tổ chức, phân quyền, chức danh công trường và chế độ báo cáo nội bộ
+
+**GIÁM ĐỐC CÔNG TY <<CTY_TEN>>**
+
+</div>
+
+- *Căn cứ Luật Doanh nghiệp số 59/2020/QH14 ngày 17/06/2020 của Quốc hội;*
+- *Căn cứ Bộ luật Dân sự số 91/2015/QH13 ngày 24/11/2015 của Quốc hội;*
+- *Căn cứ Bộ luật Lao động số 45/2019/QH14 ngày 20/11/2019 của Quốc hội;*
+- *Căn cứ Luật Xây dựng số 135/2025/QH15 và Nghị định số 207/2026/NĐ-CP ngày 15/06/2026 của Chính phủ;*
+- *Căn cứ Điều lệ tổ chức và hoạt động của <<CTY_TEN>>;*
+- *Theo đề nghị của Trưởng phòng Hành chính – Nhân sự và Trưởng phòng Kế toán – Tài chính.*
+
+<div align="center">
+
+### QUYẾT ĐỊNH:
+
+</div>
+
+**Điều 1. Ban hành kèm theo Quyết định này**
+Ban hành kèm theo Quyết định này bản **“Quy chế tổ chức, phân quyền, chức danh công trường và chế độ báo cáo nội bộ”** của <<CTY_TEN>>.
+
+**Điều 2. Hiệu lực thi hành**
+Quyết định này có hiệu lực thi hành kể từ ngày ký. Các văn bản, quy định nội bộ về tổ chức bộ máy và phân quyền trước đây trái với Quy chế này đều bãi bỏ.
+
+**Điều 3. Trách nhiệm thi hành**
+Các Phó Giám đốc, Trưởng các Phòng ban chức năng, Chỉ huy trưởng các công trường và toàn thể cán bộ nhân viên, người lao động thuộc **<<CTY_TEN>>** chịu trách nhiệm thi hành Quyết định này./.
+
+<br>
+
+| **Nơi nhận:**<br>- Ban Giám đốc (để chỉ đạo);<br>- BCH Công đoàn cơ sở (để phối hợp);<br>- Các Phòng ban, Ban Chỉ huy CT (để t/h);<br>- Toàn thể người lao động (để biết);<br>- Lưu: VT, HC-NS, KT. | **CÔNG TY <<CTY_TEN>>**<br>**GIÁM ĐỐC**<br>*(Ký tên, đóng dấu)*<br><br><br><br><br>**<<CTY_DAI_DIEN>>** |
+|---|---|
+
+---
+
 # QUY CHẾ TỔ CHỨC, PHÂN QUYỀN, CHỨC DANH CÔNG TRƯỜNG VÀ CHẾ ĐỘ BÁO CÁO NỘI BỘ
 *(Ban hành kèm theo Quyết định số 63/2026/QĐ-<<CTY_TEN_VT>> ngày <<VB_NGAY>>/<<VB_THANG>>/<<VB_NAM>> của Giám đốc <<CTY_TEN>>)*
 
@@ -26,7 +69,6 @@
 - Nghị định số 207/2026/NĐ-CP ngày 15/06/2026 của Chính phủ quy định chi tiết về quản lý an toàn và chất lượng trong thi công xây dựng công trình;
 - Thông tư số 32/2026/TT-BXD ngày 22/06/2026 của Bộ Xây dựng hướng dẫn Nghị định 207/2026/NĐ-CP;
 - Thông tư số 133/2016/TT-BTC ngày 26/08/2016 của Bộ Tài chính hướng dẫn chế độ kế toán doanh nghiệp nhỏ và vừa;
-- Căn cứ pháp lý chung (`00-can-cu-phap-ly.md`) và Bảng tham số nội bộ (`00-bang-tham-so.md`);
 - Điều lệ tổ chức và hoạt động của `<<CTY_TEN>>`.
 
 ### Điều 2. Mục đích và Phạm vi điều chỉnh
@@ -62,7 +104,7 @@
   - Tổ chức tự kiểm tra chất lượng, nghiệm thu nội bộ và phối hợp với Tư vấn giám sát/Tổng thầu nghiệm thu từng giai đoạn (D1);
   - Quản lý kho công trường, bảo quản vật tư cấu kiện và cấp phát phương tiện bảo vệ cá nhân (PPE) chuyên dụng (B2-08);
   - Đảm bảo tuân thủ tuyệt đối quy định an toàn lao động, vệ sinh môi trường, phòng chống cháy nổ trên công trường.
-- **Tham gia Quỹ KPI dự án:** Tham gia theo tỷ lệ phân bổ cao nhất (50% quỹ KPI dự án) quy định tại Bảng tham số nội bộ và Quy chế lương thưởng KPI (Mã A3-23).
+- **Tham gia Quỹ KPI dự án:** Tham gia theo tỷ lệ phân bổ cao nhất (50% quỹ KPI dự án) quy định tại Quy chế Lương – KPI dự án số 23/2026/QC-<<CTY_TEN_VT>>.
 
 #### 2. Phòng Dự án kiêm Kinh doanh:
 - **Chức năng:** Tìm kiếm thị trường, đàm phán hợp đồng thầu phụ, bóc tách khối lượng, lập biện pháp kỹ thuật, quản lý an toàn chung và trực tiếp thu mua vật tư cho các dự án nhận thầu gồm vật tư.
@@ -73,7 +115,7 @@
   - Lập biện pháp kỹ thuật thi công, biện pháp bảo đảm an toàn cẩu lắp theo Phụ lục III Nghị định 207/2026/NĐ-CP;
   - Tìm kiếm nhà cung cấp thép, bu lông, sơn, tôn; thẩm định năng lực, so sánh giá (D1-06) và phát hành Đơn đặt hàng (Mã 75) đối với các gói thầu Dạng 2 (Gồm vật tư);
   - **Quản lý an toàn chung:** Bộ phận quản lý an toàn chuyên trách của Công ty (`<<CTY_NGUOI_AT>>`) trực thuộc Phòng Dự án, có quyền hạn độc lập giám sát an toàn toàn hệ thống và báo cáo trực tiếp Giám đốc.
-- **Tham gia Quỹ KPI dự án:** Tham gia theo tỷ lệ phân bổ (25% quỹ KPI dự án; trong đó nhân sự chủ trì sale/phụ trách chính dự án được hưởng tỷ lệ ưu tiên 40% phần của phòng theo Bảng tham số).
+- **Tham gia Quỹ KPI dự án:** Tham gia theo tỷ lệ phân bổ (25% quỹ KPI dự án; trong đó nhân sự chủ trì sale/phụ trách chính dự án được hưởng tỷ lệ ưu tiên 40% phần của phòng theo Quy chế Lương – KPI dự án số 23/2026/QC-<<CTY_TEN_VT>>).
 
 #### 3. Phòng Kế toán – Tài chính:
 - **Chức năng:** Quản lý toàn bộ công tác tài chính, dòng tiền, kế toán doanh nghiệp theo Thông tư 133/2016/TT-BTC, quản lý thuế, thanh toán công nợ và chi trả tiền lương.
@@ -83,8 +125,8 @@
   - Đối chiếu công nợ phải thu từ Tổng thầu và công nợ phải trả Nhà cung cấp vật tư/dịch vụ cẩu;
   - Tính toán và thực hiện chi trả lương, phụ cấp, thưởng KPI cho người lao động thông qua tài khoản ngân hàng (bắt buộc chuyển khoản không dùng tiền mặt);
   - Thực hiện trích nộp các khoản thuế (TNCN, TNDN, GTGT) và bảo hiểm bắt buộc (BHXH, BHYT, BHTN, KPCĐ) theo đúng thời hạn luật định;
-  - Quản lý quỹ tiền mặt không vượt mức tồn quỹ tối đa do Giám đốc phê duyệt tại Bảng tham số.
-- **Tham gia Quỹ KPI dự án:** Tham gia theo tỷ lệ phân bổ (15% quỹ KPI dự án) quy định tại Bảng tham số nội bộ và Quy chế lương thưởng KPI (Mã A3-23).
+  - Quản lý quỹ tiền mặt không vượt mức tồn quỹ tối đa do Giám đốc phê duyệt theo quy định quản trị tài chính của Công ty.
+- **Tham gia Quỹ KPI dự án:** Tham gia theo tỷ lệ phân bổ (15% quỹ KPI dự án) quy định tại Quy chế Lương – KPI dự án số 23/2026/QC-<<CTY_TEN_VT>>.
 
 #### 4. Phòng Hành chính – Nhân sự:
 - **Chức năng:** Quản lý tuyển dụng, hồ sơ pháp lý lao động, thực hiện thủ tục đăng ký việc làm, BHXH, bảo vệ dữ liệu cá nhân, văn thư lưu trữ và quản trị hành chính.
@@ -96,7 +138,7 @@
   - Tổ chức khám sức khỏe định kỳ và quản lý hồ sơ sức khỏe người lao động (Mã 83);
   - Quản lý công tác văn thư, con dấu pháp nhân, bảo vệ dữ liệu cá nhân theo Luật Bảo vệ dữ liệu cá nhân 2025;
   - Thường trực tổ chức hội nghị đối thoại định kỳ tại nơi làm việc và tiếp nhận kiến nghị của người lao động (Mã 78, 79, 80).
-- **Tham gia Quỹ KPI dự án:** Tham gia theo tỷ lệ phân bổ 10% quỹ KPI dự án quy định tại Bảng tham số nội bộ và Quy chế lương thưởng KPI (Mã A3-23) gắn với kết quả thực hiện hồ sơ lao động, đăng ký người lao động, tuyển dụng và hỗ trợ dự án.
+- **Tham gia Quỹ KPI dự án:** Tham gia theo tỷ lệ phân bổ 10% quỹ KPI dự án quy định tại Quy chế Lương – KPI dự án số 23/2026/QC-<<CTY_TEN_VT>> gắn với kết quả thực hiện hồ sơ lao động, đăng ký người lao động, tuyển dụng và hỗ trợ dự án.
 
 ---
 
@@ -107,15 +149,15 @@ Giám đốc là Người đại diện theo pháp luật duy nhất của `<<CT
 1. Ký kết các Hợp đồng kinh tế giao nhận thầu phụ, Hợp đồng thi công trực tiếp với Tổng thầu/Chủ đầu tư (kèm Phụ lục điều khoản an toàn B4-59 và Phụ lục vật tư D2-74);
 2. Ký ban hành các văn bản quy phạm nội bộ: Nội quy lao động, Quy chế lương thưởng KPI, Sổ tay HSE, Quy chế tổ chức phân quyền, Quy chế dữ liệu cá nhân;
 3. Ký duyệt hồ sơ báo giá dự thầu, quyết định giảm giá hoặc điều chỉnh đơn giá có giá trị vượt ngưỡng phê duyệt của Trưởng phòng;
-4. Ký Hợp đồng mua vật tư thép, hợp đồng thuê thiết bị cẩu hạng nặng có giá trị vượt ngưỡng quy định tại Bảng tham số;
+4. Ký Hợp đồng mua vật tư thép, hợp đồng thuê thiết bị cẩu hạng nặng có giá trị vượt hạn mức phân quyền của Trưởng phòng;
 5. Ký ban hành Quyết định tuyển dụng, Hợp đồng lao động, Quyết định bổ nhiệm/miễn nhiệm chức danh Chỉ huy trưởng, Quyết định xử lý kỷ luật lao động, Quyết định bồi thường tai nạn lao động;
 6. Phê duyệt chi tài chính cho các khoản chi vượt hạn mức duyệt của Trưởng phòng hoặc các khoản thanh toán công nợ chuyển khoản lớn;
 7. Ký duyệt các báo cáo chính thức gửi Cơ quan Quản lý Nhà nước (Sở Xây dựng, Sở Nội vụ, Sở Lao động - Thương binh và Xã hội, Cơ quan Thuế, BHXH).
 
 ### Điều 6. Thẩm quyền phê duyệt nội bộ của Trưởng phòng nghiệp vụ
-Các Trưởng phòng được Giám đốc trao quyền chủ động điều hành nghiệp vụ và phê duyệt trong phạm vi giới hạn định mức quy định tại Bảng tham số hiện hành (`00-bang-tham-so.md`):
+Các Trưởng phòng được Giám đốc trao quyền chủ động điều hành nghiệp vụ và phê duyệt trong phạm vi giới hạn định mức phân quyền như sau:
 
-| Nghiệp vụ phê duyệt | Người thẩm tra / Đề xuất | Người phê duyệt nội bộ | Ngưỡng giá trị áp dụng (theo Bảng tham số) | Ghi chú & Trách nhiệm báo cáo |
+| Nghiệp vụ phê duyệt | Người thẩm tra / Đề xuất | Người phê duyệt nội bộ | Ngưỡng giá trị áp dụng | Ghi chú & Trách nhiệm báo cáo |
 |---|---|---|---|---|
 | **Báo giá & Dự toán thầu** | Chuyên viên Kinh doanh / Kỹ sư dự án | Trưởng phòng Dự án (kiêm Kinh doanh) | Giá trị nhỏ hơn hoặc bằng `<<TS_NGUONG_BAO_GIA>>` | Báo cáo Giám đốc trong cuộc họp giao ban tuần |
 | **Báo giá & Dự toán thầu** | Trưởng phòng Dự án | **Giám đốc phê duyệt** | Giá trị vượt trên `<<TS_NGUONG_BAO_GIA>>` | Bắt buộc Giám đốc ký nháy/ký chính thức |

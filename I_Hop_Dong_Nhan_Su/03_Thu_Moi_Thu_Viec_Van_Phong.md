@@ -127,5 +127,5 @@ Thư mời này được lập thành 02 bản, Công ty giữ 01 bản, Ông/B�
    - Quy định xử phạt vi phạm hành chính trong lĩnh vực lao động (xử phạt nghiêm khắc hành vi giữ bản chính giấy tờ tùy thân, văn bằng, chứng chỉ của người lao động).
 3. **Nghị định số 356/2025/NĐ-CP:**
    - Hướng dẫn thu thập, xử lý dữ liệu cá nhân nhân sự tuyển dụng.
-4. **Bảng tham số hiện hành (`00-bang-tham-so.md`) của Công ty.**
+4. **Quy định tham số và định mức quản trị nội bộ hiện hành của Công ty.**
 5. **◐ Điểm cần lưu ý/xác nhận:** Thỏa thuận thử việc có thể được giao kết dưới hình thức Thư mời thử việc hoặc Hợp đồng thử việc độc lập; nếu hai bên không ký hợp đồng thử việc riêng thì nội dung Thư mời này có giá trị ràng buộc cam kết thử việc theo quy định tại khoản 1 Điều 24 BLLĐ 2019.

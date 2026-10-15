@@ -119,7 +119,7 @@ Hai bên tự nguyện thỏa thuận giao kết Hợp đồng lao động với
    - Làm thêm ngày Lễ, Tết: Trả bằng 300% tiền lương giờ thực trả (chưa kể lương ngày nghỉ Lễ, Tết có hưởng lương).  
    - Làm việc ban đêm (22h00 – 06h00): Được trả thêm ít nhất 30% tiền lương giờ ban ngày; làm thêm ban đêm cộng thêm 20% theo Điều 98 BLLĐ 2019.
 4. **Thưởng an toàn và thưởng hiệu quả:**  
-   - Được xét hưởng Thưởng an toàn lao động định kỳ theo Bảng tham số nội bộ khi tổ đội hoàn thành giai đoạn lắp dựng không để xảy ra sự cố, tai nạn.  
+   - Được xét hưởng Thưởng an toàn lao động định kỳ theo Quy chế khen thưởng và định mức quản trị nội bộ của Công ty khi tổ đội hoàn thành giai đoạn lắp dựng không để xảy ra sự cố, tai nạn.  
    - Hưởng tiền thưởng lễ, tết, tháng 13 căn cứ vào kết quả hoạt động sản xuất kinh doanh của Công ty và mức độ hoàn thành nhiệm vụ.
 5. **Hình thức và kỳ hạn chi trả lương:**  
    - **Bắt buộc trả lương qua chuyển khoản ngân hàng:** Tiền lương được chi trả 100% qua tài khoản ngân hàng chính chủ của Bên B (<<NLD_STK>> tại <<NLD_NGAN_HANG>>). Công ty thực hiện nghiêm ngặt quy định thanh toán không dùng tiền mặt đối với các khoản chi lương từ 05 triệu đồng trở lên.  
@@ -131,7 +131,7 @@ Hai bên tự nguyện thỏa thuận giao kết Hợp đồng lao động với
 
 1. **Bảo hiểm bắt buộc theo luật:**  
    - Hai bên tham gia trích nộp Bảo hiểm xã hội, Bảo hiểm y tế, Bảo hiểm thất nghiệp, Bảo hiểm tai nạn lao động – bệnh nghề nghiệp theo đúng quy định của Luật Bảo hiểm xã hội 2024, Luật Việc làm 2025, Luật BHYT và Luật An toàn, vệ sinh lao động.  
-   - Người sử dụng lao động và Người lao động trích nộp các khoản BHXH, BHYT, BHTN, BHTNLĐ-BNN theo đúng tỷ lệ phần trăm và mức tiền lương đóng do pháp luật bảo hiểm xã hội quy định tại từng thời kỳ (chi tiết theo Bảng tham số `00-bang-tham-so.md` ban hành kèm theo).  
+   - Người sử dụng lao động và Người lao động trích nộp các khoản BHXH, BHYT, BHTN, BHTNLĐ-BNN theo đúng tỷ lệ phần trăm và mức tiền lương đóng theo quy định của Luật Bảo hiểm xã hội 2024, Luật Việc làm 2025 và pháp luật hiện hành.  
    - Công ty thực hiện thủ tục đăng ký thông tin người lao động theo Luật Việc làm 2025 và cập nhật thông tin trong Sổ quản lý lao động của Công ty.
 2. **Bảo hiểm công trường:**  
    - Trong suốt thời gian thi công tại hiện trường các dự án, Bên B được Công ty mua (hoặc đảm bảo được mua qua hợp đồng với Tổng thầu) **Bảo hiểm bắt buộc đối với người lao động thi công trên công trường** theo Điều 10 Luật Xây dựng 2025.

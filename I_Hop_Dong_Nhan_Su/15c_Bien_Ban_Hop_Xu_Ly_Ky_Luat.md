@@ -82,7 +82,7 @@ Sau khi xem xét toàn diện tính chất, mức độ vi phạm, chứng cứ,
 1. **Xác định hành vi vi phạm:** Hành vi của Ông/Bà **<<NLD_HO_TEN>>** đã vi phạm Nội quy lao động và quy định an toàn làm việc trên cao tại công trường.
 2. **Quyết định hình thức xử lý kỷ luật:**
    - Áp dụng hình thức kỷ luật: **KHIỂN TRÁCH BẰNG VĂN BẢN** *(Thời hiệu kỷ luật là 03 tháng kể từ ngày ban hành quyết định)*.
-   - Giao Phòng Hành chính - Nhân sự soạn thảo Quyết định xử lý kỷ luật theo mẫu `15d_Quyet_Dinh_Xu_Ly_Ky_Luat.md` trình Giám đốc ký ban hành.
+   - Giao Phòng Hành chính - Nhân sự soạn thảo Quyết định xử lý kỷ luật lao động (Mẫu số 15d/QĐ-KL) trình Giám đốc ký ban hành.
 3. **Biện pháp khắc phục kèm theo:**
    - Người lao động phải tham gia khóa huấn luyện lại quy chuẩn an toàn trên cao trong vòng 01 ngày do Bộ phận HSE tổ chức và đạt bài kiểm tra sát hạch mới được phân công làm việc trên cao trở lại.
    - Hồ sơ kỷ luật được lưu vào hồ sơ nhân sự của người lao động.

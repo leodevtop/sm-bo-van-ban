@@ -21,7 +21,6 @@
 - Thông tư số 32/2026/TT-BXD ngày 22/06/2026 của Bộ Xây dựng hướng dẫn một số nội dung về quản lý an toàn và chất lượng thi công xây dựng (bãi bỏ Điều 2-9 và Điều 19 Thông tư 10/2021/TT-BXD);
 - Tiêu chuẩn quốc gia TCVN 170:2007 về Kết cấu thép – Gia công, lắp ráp và nghiệm thu – Yêu cầu kỹ thuật;
 - Quy chuẩn kỹ thuật quốc gia QCVN 18:2021/BXD về An toàn trong thi công xây dựng;
-- Căn cứ pháp lý chung (`00-can-cu-phap-ly.md`) và Bảng tham số nội bộ (`00-bang-tham-so.md`).
 
 ### Điều 2. Phạm vi áp dụng và Mục tiêu chất lượng
 1. Quy trình này quy định các bước chuẩn hóa từ khâu chuẩn bị, tiếp nhận mặt bằng, quy trình kỹ thuật cẩu lắp, kiểm soát sai số dung sai hình học đến công tác nghiệm thu các cấp đối với công trình nhà xưởng kết cấu thép do `<<CTY_TEN>>` thực hiện.

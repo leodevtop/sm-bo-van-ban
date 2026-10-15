@@ -40,7 +40,7 @@
 1. **Kết quả sản xuất kinh doanh:** Năm qua công ty đã triển khai thi công an toàn `.........` dự án nhà xưởng công nghiệp lớn, sản lượng lắp dựng đạt `.........` tấn kết cấu thép; hoàn thành đúng tiến độ các gói thầu với Tổng thầu.
 2. **Thực hiện chế độ cho người lao động:**
    - 100% người lao động ký hợp đồng xác định thời hạn từ 01 tháng trở lên được tham gia BHXH, BHYT, BHTN đầy đủ theo quy định.
-   - Tiền lương bình quân của thợ lắp dựng và thợ hàn đạt mức theo Bảng tham số hiện hành; lương được chi trả đúng hạn định kỳ vào ngày 10 hàng tháng qua tài khoản ngân hàng cá nhân.
+   - Tiền lương bình quân của thợ lắp dựng và thợ hàn đạt mức theo Quy chế tiền lương, thưởng và phụ cấp hiện hành của Công ty; lương được chi trả đúng hạn định kỳ vào ngày 10 hàng tháng qua tài khoản ngân hàng cá nhân.
    - Đảm bảo an toàn không xảy ra tai nạn lao động chết người hay sự cố sập đổ kết cấu trong suốt quá trình thi công.
 3. **Định hướng năm tới:** Mở rộng thị trường thi công các nhà xưởng FDI khẩu độ lớn, đầu tư bổ sung trang thiết bị máy móc cẩu lắp hiện đại và nâng cao chất lượng đời sống thợ cơ hữu.
 
@@ -51,7 +51,7 @@ Chủ tịch Công đoàn **<<CTY_CD_CHU_TICH>>** tổng hợp và trình bày c
 | :--- | :--- | :--- |
 | **1. An toàn & Bảo hộ lao động (PPE)** | Đề nghị cấp bổ sung găng tay da chuyên dụng chống cắt cho thợ siết bu lông; dây an toàn 2 móc có bộ giảm chấn tại công trường cần được kiểm tra thay thế định kỳ khi có dấu hiệu sờn rách; bố trí quạt làm mát công suất lớn tại khu vực nghỉ giải lao của công nhân mùa nắng nóng. | **Chấp thuận:** Ban Giám đốc giao Bộ phận HSE rà soát 100% dây an toàn hiện có, thu hồi tiêu hủy các dây không đạt chuẩn và cấp mới đợt bổ sung ngay trong tuần tới. Trang bị quạt hơi nước công nghiệp cho lán nghỉ giữa ca tại toàn bộ các công trường. |
 | **2. Điều kiện lán trại công trường** | Một số công trường xa, chất lượng nước sinh hoạt chưa đảm bảo và khu vực vệ sinh lán trại tạm còn bất tiện. | **Chấp thuận:** Yêu cầu các Chỉ huy trưởng công trường phải khảo sát kỹ lưỡng và ký hợp đồng cung cấp nước lọc uống đóng bình đạt chuẩn ATVSTP; lắp đặt thêm bồn chứa nước sạch và nhà tắm lưu động có vách ngăn kín đáo tại công trường. |
-| **3. Tiền lương & Phụ cấp** | Đề nghị xem xét điều chỉnh mức phụ cấp làm việc trên cao đối với các vị trí lắp dựng kèo mái vượt khẩu độ trên 24m và phụ cấp công trình xa nhà trong mùa mưa bão. | **Ghi nhận & Cập nhật:** Ban Giám đốc thống nhất giao Phòng Nhân sự phối hợp Kế toán rà soát lại Bảng tham số phụ cấp hiện hành, nâng mức phụ cấp công trình xa nhà thêm theo định mức mới được phê duyệt vào kỳ lương tháng tới. |
+| **3. Tiền lương & Phụ cấp** | Đề nghị xem xét điều chỉnh mức phụ cấp làm việc trên cao đối với các vị trí lắp dựng kèo mái vượt khẩu độ trên 24m và phụ cấp công trình xa nhà trong mùa mưa bão. | **Ghi nhận & Cập nhật:** Ban Giám đốc thống nhất giao Phòng Nhân sự phối hợp Kế toán rà soát lại định mức phụ cấp tại Quy chế tiền lương, thưởng và phụ cấp hiện hành của Công ty, nâng mức phụ cấp công trình xa nhà thêm theo định mức mới được phê duyệt vào kỳ lương tháng tới. |
 | **4. Huấn luyện đào tạo** | Đề xuất tổ chức huấn luyện bồi dưỡng nâng cao tay nghề thợ hàn vị trí 4G và chứng chỉ vận hành sàn nâng người (MEWP). | **Chấp thuận:** Công ty sẽ đài thọ 100% kinh phí đào tạo và sát hạch cấp chứng chỉ cho 10 thợ hàn nòng cốt trong Quý tới. |
 
 ### Phần III. Các nội dung hai bên đã thống nhất
@@ -67,10 +67,10 @@ Chủ tịch Công đoàn **<<CTY_CD_CHU_TICH>>** tổng hợp và trình bày c
 ## 3. KẾT LUẬN VÀ PHÂN CÔNG THỰC HIỆN
 
 1. **Phòng Hành chính – Nhân sự:**
-   - Hoàn thiện thủ tục điều chỉnh Bảng tham số phụ cấp công trình theo kết luận đối thoại trình Giám đốc ký trước ngày `.........`.
+   - Hoàn thiện thủ tục điều chỉnh định mức phụ cấp công trình trong Quy chế tiền lương, thưởng và phụ cấp theo kết luận đối thoại trình Giám đốc ký trước ngày `.........`.
    - Lập kế hoạch và danh sách công nhân tham gia khóa đào tạo chứng chỉ an toàn nhóm 3 và thợ hàn kỹ thuật cao.
 2. **Bộ phận An toàn HSE & Ban Chỉ huy công trường:**
-   - Thu hồi toàn bộ trang thiết bị PPE cũ hỏng, cấp phát thiết bị mới có ghi chép vào `43_So_Cap_Phat_PPE.md` trước ngày `.........`.
+   - Thu hồi toàn bộ trang thiết bị PPE cũ hỏng, cấp phát thiết bị mới có ghi chép vào Sổ cấp phát phương tiện bảo vệ cá nhân (Sổ số 43/ST-PPE) trước ngày `.........`.
    - Cải tạo khu lán trại công trình đúng tiêu chuẩn an toàn vệ sinh.
 3. **Ban Chấp hành Công đoàn:**
    - Niêm yết công khai Biên bản này tại bảng tin công ty và gửi cho công nhân các tổ đội trước ngày `.........`.

@@ -32,7 +32,7 @@ Số phiếu: `<<SO_PHIEU_LTG>>/PĐK-LTG`
    - Căn cứ Điều 98, Điều 107 Bộ luật Lao động số 45/2019/QH14;
    - Căn cứ Điều 59, 60, 61, 62 và Điều 64 Nghị định số 145/2020/NĐ-CP ngày 14/12/2020 của Chính phủ;
    - Căn cứ Nghị định số 283/2026/NĐ-CP ngày 10/09/2026 về xử phạt vi phạm hành chính lĩnh vực lao động;
-   - Căn cứ Quy chế tiền lương, tiền thưởng và phụ cấp công ty (Mã hiệu: `22_Quy_Che_Tien_Luong_Thuong_Phu_Cap_2026`);
+   - Căn cứ Quy chế tiền lương, tiền thưởng và phụ cấp công ty (Số: 22/2026/QC-<<CTY_TEN_VT>>);
    - Căn cứ tiến độ thi công lắp dựng kết cấu thép dự án: `<<CT_TEN>>`.
 
 2. **Nguyên tắc thỏa thuận tự nguyện:**
@@ -55,7 +55,7 @@ Số phiếu: `<<SO_PHIEU_LTG>>/PĐK-LTG`
    - Khung giờ làm thêm dự kiến: Từ `<<GIO_BAT_DAU>>` đến `<<GIO_KET_THUC>>` (Tổng số giờ làm thêm: `<<SO_GIO_TRONG_NGAY>>` giờ/ngày)
    - Thời gian nghỉ giải lao giữa ca làm thêm: `<<SO_PHUT_NGHI>>` phút (nghỉ giải lao tính vào giờ làm việc theo luật định).
 5. **Chế độ ăn ca / Phúc lợi làm thêm giờ:**
-   - Cung cấp bữa ăn ca/bữa ăn nhẹ trị giá: theo Bảng tham số hiện hành (`00-bang-tham-so.md`);
+   - Cung cấp bữa ăn ca/bữa ăn nhẹ trị giá: theo Quy chế tiền lương, thưởng và phụ cấp hiện hành của Công ty;
    - Bố trí đầy đủ nước uống, trà đường/nước khoáng điện giải tại vị trí làm việc.
 
 ---
