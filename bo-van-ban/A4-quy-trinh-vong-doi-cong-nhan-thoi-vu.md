@@ -1,12 +1,12 @@
 # A4 – QUY TRÌNH VÒNG ĐỜI CÔNG NHÂN THỜI VỤ
 
-| | |
-|---|---|
-| **Đơn vị ban hành** | {{TEN_CONG_TY}} |
-| **Mã văn bản / Phiên bản** | A4 / 2.0 |
-| **Ngày ban hành** | {{NGAY_BAN_HANH}} |
-| **Người ký ban hành** | Giám đốc {{GIAM_DOC}} |
-| **Rà soát kế tiếp** | 6 tháng kể từ ngày ban hành, hoặc khi có sự kiện tại Sổ đăng ký văn bản |
+|                            |                                                                         |
+| -------------------------- | ----------------------------------------------------------------------- |
+| **Đơn vị ban hành**        | {{TEN_CONG_TY}}                                                         |
+| **Mã văn bản / Phiên bản** | A4 / 2.0                                                                |
+| **Ngày ban hành**          | {{NGAY_BAN_HANH}}                                                       |
+| **Người ký ban hành**      | Giám đốc {{GIAM_DOC}}                                                   |
+| **Rà soát kế tiếp**        | 6 tháng kể từ ngày ban hành, hoặc khi có sự kiện tại Sổ đăng ký văn bản |
 
 ## 1. Mục đích và phạm vi
 
@@ -24,17 +24,17 @@ Nhu cầu nhân công (D1) → Tuyển → Nhận việc (hồ sơ, khám sức 
 
 ## 3. Bước 2 – Tuyển và nhận việc (trước khi vào công trường)
 
-| # | Việc | Người làm | Tài liệu |
-|---|---|---|---|
-| 1 | Kiểm tra độ tuổi, giấy tờ; **không giữ bản chính** | Hành chính – Nhân sự | A1 mục 9 |
-| 2 | **Khám sức khỏe** phù hợp công việc (làm việc trên cao, nặng nhọc) | Hành chính – Nhân sự | Giấy khám còn hạn |
-| 3 | Phổ biến **Nội quy** và Sổ tay HSE; ký Phụ lục 1 của A2 | Hành chính – Nhân sự, an toàn viên | A2, B1 |
-| 4 | **Ký hợp đồng lao động riêng từng người** và Văn bản đồng ý dữ liệu cá nhân | Giám đốc | A1 Mẫu 2, Mẫu 5 |
-| 5 | **Huấn luyện an toàn** (nhóm 3 trước khi làm việc yêu cầu nghiêm ngặt; các nhóm khác theo B1), cấp thẻ, ghi sổ | An toàn viên | B1 mục 4 |
-| 6 | Cấp phát phương tiện bảo vệ cá nhân; ký nhận | An toàn viên, thủ kho | B2-08 |
-| 7 | **Khai tăng BHXH** khi hợp đồng từ đủ 01 tháng; đăng ký thông tin người lao động theo Luật Việc làm 2025 (thủ tục trực tuyến theo hướng dẫn của Bộ Nội vụ) | Kế toán, Hành chính – Nhân sự | Bảng tham số |
-| 8 | Mở hoặc đối chiếu tài khoản trả lương | Kế toán | |
-| 9 | Lập hồ sơ nhân sự và đưa vào danh sách nhân sự của công trình | Hành chính – Nhân sự | B2-02 |
+| #   | Việc                                                                                                                                                                                                                                                  | Người làm                          | Tài liệu          |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ----------------- |
+| 1   | Kiểm tra độ tuổi, giấy tờ; **không giữ bản chính**                                                                                                                                                                                                    | Hành chính – Nhân sự               | A1 mục 9          |
+| 2   | **Khám sức khỏe** phù hợp công việc (làm việc trên cao, nặng nhọc)                                                                                                                                                                                    | Hành chính – Nhân sự               | Giấy khám còn hạn |
+| 3   | Phổ biến **Nội quy** và Sổ tay HSE; ký Phụ lục 1 của A2                                                                                                                                                                                               | Hành chính – Nhân sự, an toàn viên | A2, B1            |
+| 4   | **Ký hợp đồng lao động riêng từng người** và Văn bản đồng ý dữ liệu cá nhân                                                                                                                                                                           | Giám đốc                           | A1 Mẫu 2, Mẫu 5   |
+| 5   | **Huấn luyện an toàn** (nhóm 3 trước khi làm việc yêu cầu nghiêm ngặt; các nhóm khác theo B1), cấp thẻ, ghi sổ                                                                                                                                        | An toàn viên                       | B1 mục 4          |
+| 6   | Cấp phát phương tiện bảo vệ cá nhân; ký nhận                                                                                                                                                                                                          | An toàn viên, thủ kho              | B2-08             |
+| 7   | **Khai tăng BHXH** khi hợp đồng từ đủ 01 tháng; đăng ký lao động theo Luật Việc làm 2025 và Nghị định 318/2025/NĐ-CP (hợp đồng dưới 01 tháng: người lao động tự kê khai trực tuyến); cập nhật Sổ quản lý lao động (`00_Danh_Sach_Van_Ban.md`, mục 82) | Kế toán, Hành chính – Nhân sự      | Bảng tham số      |
+| 8   | Mở hoặc đối chiếu tài khoản trả lương                                                                                                                                                                                                                 | Kế toán                            |                   |
+| 9   | Lập hồ sơ nhân sự và đưa vào danh sách nhân sự của công trình                                                                                                                                                                                         | Hành chính – Nhân sự               | B2-02             |
 
 > **Quy tắc cứng:** không có hợp đồng lao động + không có thẻ an toàn còn hạn (đối với việc yêu cầu nghiêm ngặt) + không có xác nhận bảo hiểm công trường = **không vào công trường**. Công nhân chưa có thẻ chỉ được làm việc không yêu cầu nghiêm ngặt, có người giám sát. Công ty lập sẵn **tổ nòng cốt có thẻ còn hiệu lực** để huy động nhanh.
 
@@ -48,15 +48,15 @@ Nhu cầu nhân công (D1) → Tuyển → Nhận việc (hồ sơ, khám sức 
 
 ## 5. Bước 4 – Kết thúc công trình
 
-| # | Việc | Thời hạn |
-|---|---|---|
-| 1 | Chốt công, tính lương, KPI | Theo kỳ lương |
-| 2 | Thu hồi phương tiện bảo vệ cá nhân, dụng cụ; đối chiếu (Mẫu A4-04) | Ngày cuối |
-| 3 | Hợp đồng hết hạn: **thanh toán đầy đủ** trong thời hạn pháp luật quy định (Bảng tham số); hoàn thành sớm: ký **A1 Mẫu 4** nếu người lao động đồng ý | Theo luật |
-| 4 | **Khai giảm BHXH**; xác nhận thời gian đóng; trả sổ hoặc xác nhận | Theo luật |
-| 5 | Trả lại giấy tờ gốc (nếu có); thông báo kết thúc bằng văn bản | Ngày chấm dứt |
-| 6 | Phiếu đánh giá cuối đợt (chất lượng, an toàn, **có thể mời lại hay không**) (Mẫu A4-03) | Theo Bảng tham số |
-| 7 | Lưu hồ sơ (C2); đưa vào danh sách "thợ có thể mời lại" | Theo Bảng tham số |
+| #   | Việc                                                                                                                                                | Thời hạn          |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| 1   | Chốt công, tính lương, KPI                                                                                                                          | Theo kỳ lương     |
+| 2   | Thu hồi phương tiện bảo vệ cá nhân, dụng cụ; đối chiếu (Mẫu A4-04)                                                                                  | Ngày cuối         |
+| 3   | Hợp đồng hết hạn: **thanh toán đầy đủ** trong thời hạn pháp luật quy định (Bảng tham số); hoàn thành sớm: ký **A1 Mẫu 4** nếu người lao động đồng ý | Theo luật         |
+| 4   | **Khai giảm BHXH**; xác nhận thời gian đóng; trả sổ hoặc xác nhận                                                                                   | Theo luật         |
+| 5   | Trả lại giấy tờ gốc (nếu có); thông báo kết thúc bằng văn bản                                                                                       | Ngày chấm dứt     |
+| 6   | Phiếu đánh giá cuối đợt (chất lượng, an toàn, **có thể mời lại hay không**) (Mẫu A4-03)                                                             | Theo Bảng tham số |
+| 7   | Lưu hồ sơ (C2); đưa vào danh sách "thợ có thể mời lại"                                                                                              | Theo Bảng tham số |
 
 Công ty thông báo bằng văn bản ngày kết thúc hợp đồng hoặc công trình trước thời hạn tại Bảng tham số.
 
@@ -64,16 +64,17 @@ Công ty thông báo bằng văn bản ngày kết thúc hợp đồng hoặc c�
 
 **Vấn đề:** hợp đồng xác định thời hạn chỉ được ký liên tiếp tối đa 02 lần; công nhân quay lại nhiều công trình có thể chuyển thành hợp đồng không xác định thời hạn nếu tiếp tục làm việc. Đây là rủi ro pháp lý lớn nhất của việc sử dụng lao động theo công trình.
 
-| Việc | Người | Thời điểm |
-|---|---|---|
-| Lập **Danh sách thợ nòng cốt** (thẻ an toàn còn hiệu lực, tay nghề tốt, hay quay lại) | Hành chính – Nhân sự, Chỉ huy trưởng | Hằng quý |
-| Theo dõi số lần ký, ngày hết hạn trong Bảng theo dõi hợp đồng | Hành chính – Nhân sự | Nhắc trước hạn theo Bảng tham số |
-| Quyết định từng người: (a) chuyển sang hợp đồng không xác định thời hạn kèm quy định rõ về ngừng việc, điều chuyển; hoặc (b) kết thúc theo luật | Giám đốc, **sau khi tham vấn luật sư lao động** | Trước lần ký hợp đồng thứ 2 |
-| Rà soát lương thợ nòng cốt | Hành chính – Nhân sự | Hằng năm |
+| Việc                                                                                                                                            | Người                                           | Thời điểm                        |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | -------------------------------- |
+| Lập **Danh sách thợ nòng cốt** (thẻ an toàn còn hiệu lực, tay nghề tốt, hay quay lại)                                                           | Hành chính – Nhân sự, Chỉ huy trưởng            | Hằng quý                         |
+| Theo dõi số lần ký, ngày hết hạn trong Bảng theo dõi hợp đồng                                                                                   | Hành chính – Nhân sự                            | Nhắc trước hạn theo Bảng tham số |
+| Quyết định từng người: (a) chuyển sang hợp đồng không xác định thời hạn kèm quy định rõ về ngừng việc, điều chuyển; hoặc (b) kết thúc theo luật | Giám đốc, **sau khi tham vấn luật sư lao động** | Trước lần ký hợp đồng thứ 2      |
+| Rà soát lương thợ nòng cốt                                                                                                                      | Hành chính – Nhân sự                            | Hằng năm                         |
 
 Trước khi mời lại một công nhân: kiểm tra số lần đã ký (A1 mục 1), cập nhật giấy khám sức khỏe, thẻ an toàn và hồ sơ.
 
 **Điều cần tránh.**
+
 1. Né quy định bằng cách ngắt quãng giả tạo hoặc dùng hợp đồng dân sự thay cho hợp đồng lao động.
 2. Giữ bản chính giấy tờ, thu tiền đặt cọc.
 3. Cho làm việc không có hợp đồng, chưa huấn luyện, hoặc chưa tham gia BHXH khi đủ điều kiện.
@@ -88,47 +89,47 @@ Trước khi mời lại một công nhân: kiểm tra số lần đã ký (A1 m
 
 ## 8. Ma trận trách nhiệm (R = thực hiện, A = phê duyệt, C = phối hợp)
 
-| Bước | Chỉ huy trưởng | Hành chính – Nhân sự | An toàn viên | Thủ kho | Kế toán | Giám đốc |
-|---|---|---|---|---|---|---|
-| Nhu cầu | R | C | C | | C | A |
-| Tuyển, hợp đồng | C | R | | | | A |
-| Huấn luyện | C | C | R | | | A |
-| Phương tiện bảo vệ cá nhân | C | | C | R | | |
-| Chấm công | R | C | C | | | |
-| Trả lương | A | C | | | R | |
-| Kết thúc, BHXH | C | R | | C | C | A |
-| Thợ nòng cốt | C | R | | | | A |
+| Bước                       | Chỉ huy trưởng | Hành chính – Nhân sự | An toàn viên | Thủ kho | Kế toán | Giám đốc |
+| -------------------------- | -------------- | -------------------- | ------------ | ------- | ------- | -------- |
+| Nhu cầu                    | R              | C                    | C            |         | C       | A        |
+| Tuyển, hợp đồng            | C              | R                    |              |         |         | A        |
+| Huấn luyện                 | C              | C                    | R            |         |         | A        |
+| Phương tiện bảo vệ cá nhân | C              |                      | C            | R       |         |          |
+| Chấm công                  | R              | C                    | C            |         |         |          |
+| Trả lương                  | A              | C                    |              |         | R       |          |
+| Kết thúc, BHXH             | C              | R                    |              | C       | C       | A        |
+| Thợ nòng cốt               | C              | R                    |              |         |         | A        |
 
 ## 9. Biểu mẫu
 
 **A4-01 – Phiếu nhu cầu nhân công**
 
 | Công trình | Nghề/bậc | Số lượng | Từ ngày – đến ngày | Việc nghiêm ngặt (có/không) | Người đề xuất | Người duyệt |
-|---|---|---|---|---|---|---|
-| | | | | | | |
+| ---------- | -------- | -------- | ------------------ | --------------------------- | ------------- | ----------- |
+|            |          |          |                    |                             |               |             |
 
 **A4-02 – Bảng chấm công công trường:** các cột STT, họ tên, tổ, nghề/bậc, ngày 1 đến 31, tổng ngày công, giờ làm thêm (kèm Mẫu A3-1), ghi chú an toàn, chữ ký. Tổ trưởng lập; người lao động ký xác nhận hằng tuần; Chỉ huy trưởng duyệt; Kế toán đối chiếu.
 
 **A4-03 – Phiếu đánh giá cuối đợt**
 
 | Họ tên | Công trình | Chất lượng (1–5) | An toàn (1–5) | Vi phạm | Mời lại? (có/không) | Người đánh giá |
-|---|---|---|---|---|---|---|
-| | | | | | | |
+| ------ | ---------- | ---------------- | ------------- | ------- | ------------------- | -------------- |
+|        |            |                  |               |         |                     |                |
 
 **A4-04 – Biên bản bàn giao phương tiện bảo vệ cá nhân, dụng cụ khi kết thúc**
 
 | Họ tên | Hạng mục đã cấp | Số lượng đã cấp | Số lượng trả lại | Tình trạng | Bồi thường (nếu lỗi của người lao động) | Ký (người lao động, thủ kho) |
-|---|---|---|---|---|---|---|
-| | | | | | | |
+| ------ | --------------- | --------------- | ---------------- | ---------- | --------------------------------------- | ---------------------------- |
+|        |                 |                 |                  |            |                                         |                              |
 
 ## 10. Biểu mẫu chính thức của Nhà nước áp dụng cùng văn bản này
 
-| Việc | Biểu mẫu |
-|---|---|
+| Việc                             | Biểu mẫu                                        |
+| -------------------------------- | ----------------------------------------------- |
 | Đăng ký thông tin người lao động | Thủ tục trực tuyến theo hướng dẫn của Bộ Nội vụ |
-| Báo cáo sử dụng lao động | Theo Nghị định 145/2020/NĐ-CP |
-| Khai tăng, giảm BHXH | Theo thủ tục của cơ quan bảo hiểm xã hội |
-| Sổ huấn luyện, thẻ an toàn | Do đơn vị huấn luyện đủ điều kiện cấp |
+| Báo cáo sử dụng lao động         | Theo Nghị định 145/2020/NĐ-CP                   |
+| Khai tăng, giảm BHXH             | Theo thủ tục của cơ quan bảo hiểm xã hội        |
+| Sổ huấn luyện, thẻ an toàn       | Do đơn vị huấn luyện đủ điều kiện cấp           |
 
 ## 11. Căn cứ
 

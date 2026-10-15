@@ -1,12 +1,12 @@
 # D4 – QUY CHẾ DÂN CHỦ VÀ ĐỐI THOẠI TẠI NƠI LÀM VIỆC
 
-| | |
-|---|---|
-| **Đơn vị ban hành** | {{TEN_CONG_TY}} |
-| **Mã văn bản / Phiên bản** | D4 / 2.0 |
-| **Ngày ban hành** | {{NGAY_BAN_HANH}} |
-| **Người ký ban hành** | Giám đốc {{GIAM_DOC}} |
-| **Rà soát kế tiếp** | 6 tháng kể từ ngày ban hành, hoặc khi có sự kiện tại Sổ đăng ký văn bản |
+|                            |                                                                         |
+| -------------------------- | ----------------------------------------------------------------------- |
+| **Đơn vị ban hành**        | {{TEN_CONG_TY}}                                                         |
+| **Mã văn bản / Phiên bản** | D4 / 2.0                                                                |
+| **Ngày ban hành**          | {{NGAY_BAN_HANH}}                                                       |
+| **Người ký ban hành**      | Giám đốc {{GIAM_DOC}}                                                   |
+| **Rà soát kế tiếp**        | 6 tháng kể từ ngày ban hành, hoặc khi có sự kiện tại Sổ đăng ký văn bản |
 
 Quy chế này thực hiện yêu cầu của Bộ luật Lao động 2019 và Nghị định 145/2020/NĐ-CP về dân chủ ở cơ sở: công khai thông tin, người lao động tham gia ý kiến, đối thoại định kỳ, giải quyết khiếu nại. Quy chế được giữ ngắn gọn, phù hợp quy mô Công ty.
 
@@ -27,11 +27,11 @@ Xây dựng và sửa đổi nội quy, quy chế lương, thưởng, KPI, kế 
 
 ## 3. Đối thoại tại nơi làm việc
 
-| Loại | Tần suất | Ghi chú |
-|---|---|---|
-| **Đối thoại định kỳ** | Ít nhất **01 lần/năm** | Giám đốc và đại diện người lao động (đại diện nhóm công nhân nếu chưa có tổ chức đại diện) |
-| **Đối thoại khi có yêu cầu** | Khi một bên đề nghị | Về điều kiện làm việc, tiền lương, an toàn |
-| **Họp đầu ca, giao ban** | Hằng ngày, hằng tuần | Thu ý kiến nhanh (B2-07) |
+| Loại                         | Tần suất               | Ghi chú                                                                                    |
+| ---------------------------- | ---------------------- | ------------------------------------------------------------------------------------------ |
+| **Đối thoại định kỳ**        | Ít nhất **01 lần/năm** | Giám đốc và đại diện người lao động (đại diện nhóm công nhân nếu chưa có tổ chức đại diện) |
+| **Đối thoại khi có yêu cầu** | Khi một bên đề nghị    | Về điều kiện làm việc, tiền lương, an toàn                                                 |
+| **Họp đầu ca, giao ban**     | Hằng ngày, hằng tuần   | Thu ý kiến nhanh (B2-07)                                                                   |
 
 **Biên bản đối thoại** (Mẫu D4-01) được **gửi công khai** cho người lao động.
 
@@ -56,21 +56,21 @@ Nếu Công ty chưa có công đoàn cơ sở, Công ty **không cản trở** 
 
 **Mẫu D4-01 – Biên bản đối thoại**
 
-| Mục | Nội dung |
-|---|---|
-| Ngày, địa điểm | |
-| Thành phần tham dự | |
-| Nội dung đối thoại | |
-| Đề xuất của người lao động | |
-| Trả lời, cam kết của Công ty (kèm thời hạn) | |
-| Ý kiến chưa thống nhất | |
-| Hai bên ký | Đại diện Công ty: ______  Đại diện người lao động: ______ |
+| Mục                                         | Nội dung                                                     |
+| ------------------------------------------- | ------------------------------------------------------------ |
+| Ngày, địa điểm                              |                                                              |
+| Thành phần tham dự                          |                                                              |
+| Nội dung đối thoại                          |                                                              |
+| Đề xuất của người lao động                  |                                                              |
+| Trả lời, cam kết của Công ty (kèm thời hạn) |                                                              |
+| Ý kiến chưa thống nhất                      |                                                              |
+| Hai bên ký                                  | Đại diện Công ty: **\_\_** Đại diện người lao động: **\_\_** |
 
 **Mẫu D4-02 – Sổ tiếp nhận kiến nghị**
 
 | Ngày | Người gửi (hoặc ẩn danh) | Nội dung | Người nhận | Hướng giải quyết | Ngày phản hồi | Kết quả |
-|---|---|---|---|---|---|---|
-| | | | | | | |
+| ---- | ------------------------ | -------- | ---------- | ---------------- | ------------- | ------- |
+|      |                          |          |            |                  |               |         |
 
 ## 8. Căn cứ
 
@@ -78,7 +78,7 @@ Bộ luật Lao động 2019; Nghị định 145/2020/NĐ-CP; Luật Công đoà
 
 ---
 
-{{DIA_DANH}}, ngày ___ tháng ___ năm ______
+{{DIA_DANH}}, ngày **_ tháng _** năm **\_\_**
 
 **GIÁM ĐỐC**
 (ký, đóng dấu, ghi rõ họ tên: {{GIAM_DOC}})

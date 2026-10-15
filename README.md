@@ -11,9 +11,10 @@
 
 ## 1. Thay đổi pháp lý ảnh hưởng đến bộ văn bản
 
-- **ATLĐ trong thi công đã đổi căn cứ** ✔. Các Điều 2-9 của Thông tư 10/2021/TT-BXD bị bãi bỏ từ 1/7/2026 bởi Thông tư 32/2026/TT-BXD. Nghị định 06/2021 cũng hết hiệu lực từ ngày đó. Căn cứ mới là Luật Xây dựng 135/2025, Nghị định 207/2026 và Thông tư 32/2026. Nếu tài liệu HSE/ISO của bạn hoặc của tổng thầu còn trích dẫn văn bản cũ, cần cập nhật.
+- **ATLĐ trong thi công đã đổi căn cứ** ✔. Các Điều 2-9 và Điều 19 của Thông tư 10/2021/TT-BXD bị bãi bỏ từ 1/7/2026 bởi Thông tư 32/2026/TT-BXD. Nghị định 06/2021 cũng hết hiệu lực từ ngày đó. Căn cứ mới là Luật Xây dựng 135/2025, Nghị định 207/2026 và Thông tư 32/2026. Nếu tài liệu HSE/ISO của bạn hoặc của tổng thầu còn trích dẫn văn bản cũ, cần cập nhật.
 - **Luật ATVSLĐ 2015 vẫn còn hiệu lực** ✔ (văn bản hợp nhất 2024). Luật sửa đổi mới chỉ mới được đưa vào chương trình lập pháp 2026. Bộ văn bản nên có một mốc "rà soát khi luật mới ban hành".
 - **Xử phạt**: Nghị định 283/2026 có hiệu lực từ 10/9/2026 ✔, nên các lỗi lao động và BHXH đang bị xử phạt theo mức mới.
+- **Bổ sung ngày 15/10/2026** ✔: Nghị định 318/2025/NĐ-CP (đăng ký lao động, hiệu lực 01/01/2026); Sổ quản lý lao động vẫn phải lập (Nghị định 283/2026 xử phạt nếu thiếu) ◐; Thông tư 99/2025/TT-BTC thay Thông tư 200/2014 nhưng **không thay** Thông tư 133/2016 (doanh nghiệp nhỏ và vừa chọn một trong hai; doanh nghiệp siêu nhỏ: Thông tư 58/2026/TT-BTC từ 01/07/2026); bảo hiểm bắt buộc trong xây dựng: Nghị định 67/2023/NĐ-CP sửa đổi bởi Nghị định 220/2026/NĐ-CP ◐.
 
 ## 2. Danh mục tối ưu: 10 văn bản lõi và 4 văn bản làm sau
 
@@ -71,7 +72,7 @@
 - Người phụ trách quản lý an toàn của nhà thầu phải được đào tạo chuyên ngành ATLĐ hoặc kỹ thuật xây dựng. Với công ty nhỏ, cách thực tế là cử một kỹ sư xây dựng đi học thêm hoặc thuê một cán bộ HSE bán thời gian.
 - Nội dung chính của biện pháp bảo đảm an toàn quy định tại Phụ lục III Nghị định 207/2026. B2 nên theo đúng cấu trúc này để tổng thầu và cơ quan kiểm tra dễ chấp nhận.
 - Huấn luyện: nhóm 3 (công việc yêu cầu nghiêm ngặt như làm việc trên cao, cẩu) cần tổng thời gian ít nhất 24 giờ. Định kỳ ngắn hơn lần đầu và thẻ an toàn có thời hạn ◐. Hãy thuê đơn vị huấn luyện đủ điều kiện và lập sẵn một **tổ nòng cốt** có thẻ còn hiệu lực. Chỉ cần huấn luyện bổ sung khi huy động thêm người, nên không phải huấn luyện lại hàng loạt mỗi công trình.
-- **Bảo hiểm** ✔: Luật Xây dựng 2025 yêu cầu nhà thầu thi công mua bảo hiểm cho người lao động thi công trên công trường và bảo hiểm trách nhiệm dân sự với bên thứ ba. Bạn là thầu phụ nên phải có văn bản xác nhận công nhân của bạn nằm trong hợp đồng bảo hiểm (của bạn hoặc của tổng thầu). Mức tối thiểu và điều kiện cần kiểm tra theo nghị định bảo hiểm bắt buộc hiện hành ◐.
+- **Bảo hiểm** ✔: Luật Xây dựng 2025 yêu cầu nhà thầu thi công mua bảo hiểm cho người lao động thi công trên công trường và bảo hiểm trách nhiệm dân sự với bên thứ ba. Bạn là thầu phụ nên phải có văn bản xác nhận công nhân của bạn nằm trong hợp đồng bảo hiểm (của bạn hoặc của tổng thầu). Mức tối thiểu và điều kiện cần kiểm tra theo Nghị định 67/2023/NĐ-CP (sửa đổi bởi Nghị định 220/2026/NĐ-CP) ◐.
 
 **Tai nạn lao động (B3)**
 
@@ -115,7 +116,7 @@ Hệ thống HSE riêng; nếu đã có thì chỉ cần đối chiếu và bổ
 
 # Cấu trúc tài liệu Quản lý Samin hiện tại (QL_SM)
 
-Hệ thống tài liệu, hồ sơ biểu mẫu và quy chế quản lý được phân loại và chuẩn hóa số hiệu file (STT) theo đúng các nhóm nghiệp vụ trong [bang-doi-chieu.md](bang-doi-chieu.md):
+Hệ thống tài liệu, hồ sơ biểu mẫu và quy chế quản lý được phân loại và chuẩn hóa số hiệu file (STT) theo đúng các nhóm nghiệp vụ trong [bo-van-ban/00_Danh_Sach_Van_Ban.md](bo-van-ban/00_Danh_Sach_Van_Ban.md):
 
 ```text
 QL_SM/
@@ -137,7 +138,7 @@ QL_SM/
 │   ├── 22_Quy_Che_Tien_Luong_Thuong_Phu_Cap_2026.md # Quy chế tiền lương 2026 (STT 22, tích hợp STT 24 Thang bảng lương)
 │   ├── 23_Quy_Che_Luong_KPI_Du_An_2026.md        # Quy chế lương KPI dự án 2026 (STT 23)
 │   ├── 27_Phieu_Chi_Mau_02_TT.md                 # Phiếu chi Mẫu 02-TT theo TT 133/2016/TT-BTC (STT 27)
-│   └── 28_Phieu_Luong_Ca_Nhan.md                 # Phiếu lương cá nhân Mẫu 02-LĐTL theo TT 133/2016 (STT 28)
+│   └── 28_Phieu_Luong_Ca_Nhan.md                 # Phiếu lương cá nhân (STT 28; không phải Mẫu 02-LĐTL, đó là Bảng thanh toán tiền lương)
 │
 ├── IV_HSE_An_Toan_TNLD/                          # Nhóm IV: HSE, AN TOÀN & TNLĐ (B1, B2, B3, B4)
 │   ├── 46_Quy_Trinh_Xu_Ly_va_Dieu_Tra_TNLD_Su_Co.md # Quy trình xử lý & điều tra TNLĐ, sự cố (STT 46)
@@ -149,7 +150,7 @@ QL_SM/
 │   ├── 57_Quyet_Dinh_Boi_Thuong_Tro_Cap_TNLD.md  # QĐ bồi thường / trợ cấp TNLĐ (STT 57)
 │   └── 58_Checklist_Danh_Muc_Ho_So_TNLD_va_BHXH.md # Bảng kiểm tra hồ sơ TNLĐ & BHXH (STT 58)
 │
-└── bang-doi-chieu.md                             # Bảng đối chiếu chi tiết 80 đầu mục văn bản & tiến độ thực hiện
+└── bo-van-ban/00_Danh_Sach_Van_Ban.md            # Danh sách và bảng đối chiếu 83 đầu mục văn bản (thay cho bang-doi-chieu.md, không có trong gói)
 ```
 
 ---
@@ -163,7 +164,7 @@ QL_SM/
    - Phòng Kế toán – Tài chính (kế toán, dòng tiền, thanh toán khối lượng, lương và bảo hiểm);
    - Phòng Hành chính – Nhân sự (hồ sơ lao động, đăng ký người lao động, dữ liệu cá nhân; **không tham gia quỹ thưởng KPI dự án**).
 3. **Vai trò hợp đồng:** Công ty chủ yếu làm **nhà thầu phụ** (soạn điều khoản riêng cho mục 73–74); các dự án trực tiếp với xưởng sẽ bổ sung sau.
-4. **Chế độ kế toán áp dụng:** Áp dụng **Thông tư số 133/2016/TT-BTC** ngày 26/08/2016 của Bộ Tài chính dành cho doanh nghiệp nhỏ và vừa (chứng từ kế toán phiếu chi Mẫu 02-TT, bảng thanh toán tiền lương Mẫu 02-LĐTL).
+4. **Chế độ kế toán áp dụng:** Áp dụng **Thông tư số 133/2016/TT-BTC** ngày 26/08/2016 của Bộ Tài chính dành cho doanh nghiệp nhỏ và vừa (chứng từ kế toán phiếu chi Mẫu 02-TT, bảng thanh toán tiền lương Mẫu 02-LĐTL). Doanh nghiệp nhỏ và vừa được tiếp tục áp dụng hoặc chọn Thông tư 99/2025/TT-BTC từ 01/01/2026 (siêu nhỏ: Thông tư 58/2026/TT-BTC từ 01/07/2026); Kế toán xác nhận chế độ đang dùng và không trộn mẫu giữa các chế độ.
 5. **Điều tra TNLĐ cơ sở:** Công ty mới lập Công đoàn cơ sở, chưa có chuyên trách y tế và HSE riêng => Đoàn điều tra TNLĐ cấp cơ sở gồm 04 thành viên: **Giám đốc** (Trưởng đoàn), **Người phụ trách an toàn**, **Chỉ huy trưởng công trình** và **Đại diện người lao động** (BCH Công đoàn cơ sở / Đại diện tập thể NLĐ); phối hợp cùng đại diện Ban An toàn Tổng thầu.
 6. **Chính sách lao động & tiền lương năm 2026:**
    - Bắt buộc trả lương chuyển khoản qua tài khoản ngân hàng chính chủ của người lao động (áp dụng thanh toán không dùng tiền mặt cho các khoản từ 5 triệu đồng trở lên).
@@ -175,19 +176,14 @@ QL_SM/
 
 # Danh mục văn bản cần lập (ban hành) & Bảng đối chiếu mức độ đáp ứng
 
-Bảng đối chiếu chi tiết giữa **Hệ thống văn bản nền tảng (`bo-van-ban/`)** và **Tài liệu hiện có (`I_*`, `III_*`, `IV_*`)** được quản lý tại file [bang-doi-chieu.md](bang-doi-chieu.md).
+Bảng đối chiếu chi tiết giữa **Hệ thống văn bản nền tảng (`bo-van-ban/`)** và **Tài liệu hiện có (`I_*`, `III_*`, `IV_*`)** được quản lý tại file [bo-van-ban/00_Danh_Sach_Van_Ban.md](bo-van-ban/00_Danh_Sach_Van_Ban.md).
 
 ### Tóm tắt tổng quan mức độ đáp ứng:
 
 - **Tài liệu hiện có trong các thư mục `I_*`, `III_*`, `IV_*`:** Gồm **18 văn bản / biểu mẫu** (17 tài liệu áp dụng năm 2026 + 01 bản lưu lịch sử 2025), đã được tinh chỉnh hoàn thiện 100% nội dung pháp lý và cơ cấu thực tế:
   - Nhóm I (Hợp đồng & Nhân sự): 05 văn bản hoạt động (HĐLĐ công nhân 2026, Quy chế điều hành nhân sự, QĐ điều động công trường, Đơn và QĐ nghỉ không lương) + 01 bản lưu trữ 2025.
-  - Nhóm III (Lương, Thưởng, Kế toán): 04 văn bản chuẩn (Quy chế tiền lương 2026 tích hợp Thang bảng lương chức danh, Quy chế lương KPI dự án 2026, Phiếu chi Mẫu 02-TT theo TT 133/2016, Phiếu lương cá nhân Mẫu 02-LĐTL theo TT 133/2016).
+  - Nhóm III (Lương, Thưởng, Kế toán): 04 văn bản chuẩn (Quy chế tiền lương 2026 tích hợp Thang bảng lương chức danh, Quy chế lương KPI dự án 2026, Phiếu chi Mẫu 02-TT theo TT 133/2016, Phiếu lương cá nhân).
   - Nhóm IV (HSE & TNLĐ): 08 văn bản hoàn chỉnh 100% theo các Phụ lục quy chuẩn của Nghị định số 39/2016/NĐ-CP (Quy trình xử lý TNLĐ & sự cố, QĐ thành lập Đoàn điều tra 4 người, Biên bản khám nghiệm hiện trường kết cấu thép, Bản tường trình TT-01, Biên bản điều tra Phụ lục IX, Biên bản họp công bố Phụ lục XI, QĐ bồi thường trợ cấp, Bảng kiểm tra hồ sơ TNLĐ & BHXH).
-- **Văn bản cần lập mới / hoàn thiện tiếp theo (đánh dấu 🟡 trong `bang-doi-chieu.md`):**
-  - Nhóm I: HĐLĐ văn phòng dài hạn (2), Thư thử việc (3), Thỏa thuận chấm dứt HĐLĐ (4), Cam kết bảo mật & dữ liệu NĐ 356/2025 (5), Phụ lục HĐLĐ (6), Checklist hồ sơ nhân sự (7), QĐ chỉ định người phụ trách an toàn/dữ liệu (13), Bộ xử lý kỷ luật (15).
-  - Nhóm II: Bộ Nội quy lao động đăng ký cơ quan nhà nước và Nội quy an toàn công trường (16–21).
-  - Nhóm III: Phiếu đăng ký làm thêm giờ (25), Biên bản chấm thưởng an toàn (26), Quy trình tài chính kế toán công trình (29).
-  - Nhóm IV: Sổ tay HSE (32), Chính sách HSE (33), JSA (34), Kế hoạch ATVSLĐ năm (35), Danh mục thiết bị nghiêm ngặt (37), PTW làm việc trên cao (41), Nhật ký an toàn hằng ngày (42), Phụ lục điều khoản thầu phụ & xác nhận bảo hiểm (59–62).
-  - Nhóm V & VI: Quy chế tổ chức phân quyền (63), Quy chế dữ liệu cá nhân & lưu trữ (64), Quy trình thi công nghiệm thu (67), Hợp đồng thầu phụ chỉ thi công / gồm vật tư (73–74), Quy chế dân chủ cơ sở (78).
+- **Văn bản cần lập mới / hoàn thiện tiếp theo:** xem ký hiệu ▲ và cột Đợt trong danh sách (Đợt 1: 53 file; Đợt 2: 20 file; tổng 73 file cần tạo hoặc sửa).
 
-Chi tiết tiến độ và phân loại từng mục xem tại: [bang-doi-chieu.md](bang-doi-chieu.md).
+Chi tiết tiến độ và phân loại từng mục xem tại: [bo-van-ban/00_Danh_Sach_Van_Ban.md](bo-van-ban/00_Danh_Sach_Van_Ban.md).

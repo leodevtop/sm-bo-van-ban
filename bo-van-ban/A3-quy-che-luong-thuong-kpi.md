@@ -1,12 +1,12 @@
 # A3 – QUY CHẾ LƯƠNG, THƯỞNG VÀ KPI
 
-| | |
-|---|---|
-| **Đơn vị ban hành** | {{TEN_CONG_TY}} |
-| **Mã văn bản / Phiên bản** | A3 / 2.0 |
-| **Ngày ban hành** | {{NGAY_BAN_HANH}} |
-| **Người ký ban hành** | Giám đốc {{GIAM_DOC}} |
-| **Rà soát kế tiếp** | 6 tháng kể từ ngày ban hành; ngay khi đổi lương tối thiểu vùng (xem Chương VII) |
+|                            |                                                                                 |
+| -------------------------- | ------------------------------------------------------------------------------- |
+| **Đơn vị ban hành**        | {{TEN_CONG_TY}}                                                                 |
+| **Mã văn bản / Phiên bản** | A3 / 2.0                                                                        |
+| **Ngày ban hành**          | {{NGAY_BAN_HANH}}                                                               |
+| **Người ký ban hành**      | Giám đốc {{GIAM_DOC}}                                                           |
+| **Rà soát kế tiếp**        | 6 tháng kể từ ngày ban hành; ngay khi đổi lương tối thiểu vùng (xem Chương VII) |
 
 Quy chế này gồm thang bảng lương, trả lương, làm thêm giờ, phụ cấp công trường, ngừng việc, thưởng, quỹ KPI và trách nhiệm vật chất. Quy chế được **công bố công khai** cho người lao động và lấy ý kiến tổ chức đại diện người lao động tại cơ sở (nếu có) khi xây dựng, sửa đổi (D4). Các con số về lương tối thiểu, hệ số làm thêm, thuế, bảo hiểm thực hiện **theo Bảng tham số hiện hành**.
 
@@ -19,15 +19,15 @@ Quy chế này gồm thang bảng lương, trả lương, làm thêm giờ, ph�
 
 ## CHƯƠNG II. CƠ CẤU THU NHẬP
 
-| Thành phần | Công thức, quy định | Đối tượng |
-|---|---|---|
-| Lương cứng | Theo thang bảng lương (Phụ lục 1) | Nhân sự văn phòng, nòng cốt |
-| Phụ cấp | Chức vụ, trách nhiệm, độc hại – nguy hiểm, xăng xe, điện thoại | Theo bảng phụ cấp được Giám đốc phê duyệt |
-| **Lương theo công** | Số công thực tế × đơn giá công | Công nhân theo công trình |
-| **Lương khoán** (nếu có) | Khối lượng nghiệm thu (tấn kết cấu, m², bộ liên kết) × đơn giá khoán | Tổ thi công |
-| **Phụ cấp công trường** | Mức theo Bảng tham số (Phần III.4), cho công trình ngoài tỉnh nơi người lao động ở | Công nhân, cán bộ đi công trình |
-| Thưởng KPI | Từ quỹ KPI (Chương IV) | Theo hệ số của phòng |
-| Làm thêm giờ, làm đêm | Theo Bảng tham số | Mọi đối tượng |
+| Thành phần               | Công thức, quy định                                                                | Đối tượng                                 |
+| ------------------------ | ---------------------------------------------------------------------------------- | ----------------------------------------- |
+| Lương cứng               | Theo thang bảng lương (Phụ lục 1)                                                  | Nhân sự văn phòng, nòng cốt               |
+| Phụ cấp                  | Chức vụ, trách nhiệm, độc hại – nguy hiểm, xăng xe, điện thoại                     | Theo bảng phụ cấp được Giám đốc phê duyệt |
+| **Lương theo công**      | Số công thực tế × đơn giá công                                                     | Công nhân theo công trình                 |
+| **Lương khoán** (nếu có) | Khối lượng nghiệm thu (tấn kết cấu, m², bộ liên kết) × đơn giá khoán               | Tổ thi công                               |
+| **Phụ cấp công trường**  | Mức theo Bảng tham số (Phần III.4), cho công trình ngoài tỉnh nơi người lao động ở | Công nhân, cán bộ đi công trình           |
+| Thưởng KPI               | Từ quỹ KPI (Chương IV)                                                             | Theo hệ số của phòng                      |
+| Làm thêm giờ, làm đêm    | Theo Bảng tham số                                                                  | Mọi đối tượng                             |
 
 **Điều kiện của lương khoán.** Đơn giá khoán gắn với **điều kiện nghiệm thu chất lượng** và **điều kiện an toàn**. Phần khoán liên quan không được hưởng khi công việc không đạt nghiệm thu hoặc khi có vi phạm an toàn nghiêm trọng; việc này xử lý bằng điều khoản hợp đồng, không phải phạt tiền.
 
@@ -41,8 +41,8 @@ Quy chế này gồm thang bảng lương, trả lương, làm thêm giờ, ph�
 **Mẫu A3-1 – Phiếu đăng ký làm thêm giờ**
 
 | Ngày | Công trình | Họ tên | Giờ bắt đầu – kết thúc | Công việc | Lý do | Chỉ huy trưởng duyệt | Người lao động đồng ý (ký) |
-|---|---|---|---|---|---|---|---|
-| | | | | | | | |
+| ---- | ---------- | ------ | ---------------------- | --------- | ----- | -------------------- | -------------------------- |
+|      |            |        |                        |           |       |                      |                            |
 
 ## CHƯƠNG III. CÁC KHOẢN KHẤU TRỪ VÀ THUẾ
 
@@ -55,9 +55,9 @@ Quy chế này gồm thang bảng lương, trả lương, làm thêm giờ, ph�
 Cơ chế này khớp với hệ thống tính lương KPI của Công ty.
 
 1. **Quỹ KPI của từng công trình** = tỷ lệ quỹ KPI (Bảng tham số Phần III.4) × **tiền thực nhận (tiền về)** của công trình đó, ghi nhận theo từng đợt tiền về. Không tính theo giá trị hợp đồng.
-2. **Phân bổ cho phòng** theo tỷ lệ tại Phụ lục 2 (Thi công, Dự án, Kinh doanh, Kế toán; bổ sung khi thành lập phòng mới). Chủ trì sale chính hưởng phần ưu tiên theo Bảng tham số (mặc định 40% phần của phòng Kinh doanh).
+2. **Phân bổ cho phòng** theo tỷ lệ tại Phụ lục 2 (Thi công; Dự án kiêm Kinh doanh; Kế toán – Tài chính; bổ sung khi thành lập phòng mới; Hành chính – Nhân sự không tham gia quỹ KPI dự án). Chủ trì sale chính hưởng phần ưu tiên theo Bảng tham số (mặc định 40% phần của phòng Dự án kiêm Kinh doanh).
 3. **Phân bổ trong phòng** theo điểm KPI cá nhân (Phụ lục 3).
-4. Phòng hỗ trợ nhiều công trình cùng lúc (Kế toán, Kinh doanh) được **gộp quỹ** của các công trình có tiền về trong tháng.
+4. Phòng hỗ trợ nhiều công trình cùng lúc (Kế toán – Tài chính, Dự án kiêm Kinh doanh) được **gộp quỹ** của các công trình có tiền về trong tháng.
 5. **Điều kiện hưởng KPI:** không vi phạm an toàn nghiêm trọng; không bị xử lý kỷ luật trong kỳ; công trình đạt nghiệm thu theo D1.
 6. Công ty công bố bảng KPI cho người lao động trước khi chốt. Người lao động khiếu nại trong thời hạn tại Bảng tham số.
 7. **Điều chỉnh khi tiền về thấp hơn kế hoạch:** quỹ KPI giảm theo tỷ lệ; không bù từ lương cứng.
@@ -65,12 +65,12 @@ Cơ chế này khớp với hệ thống tính lương KPI của Công ty.
 
 ## CHƯƠNG V. NGỪNG VIỆC, THỜI TIẾT, CHỜ VIỆC
 
-| Trường hợp | Trả lương |
-|---|---|
-| Ngừng việc do lỗi của Công ty | 100% tiền lương |
-| Ngừng việc do lỗi của người lao động | Không trả lương cho thời gian ngừng việc của người đó |
+| Trường hợp                                                                                                    | Trả lương                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ngừng việc do lỗi của Công ty                                                                                 | 100% tiền lương                                                                                                                                                                  |
+| Ngừng việc do lỗi của người lao động                                                                          | Không trả lương cho thời gian ngừng việc của người đó                                                                                                                            |
 | Ngừng việc do thời tiết (mưa bão, gió lớn), chủ đầu tư hoặc tổng thầu dừng thi công, chờ mặt bằng, chờ vật tư | Hai bên thỏa thuận, **không thấp hơn mức lương tối thiểu theo Bảng tham số** nếu ngừng việc từ 14 ngày làm việc trở xuống; trên 14 ngày thỏa thuận riêng theo quy định pháp luật |
-| Công ty cho người lao động về nghỉ chờ công trình mới | Theo hợp đồng và Quy chế này; Công ty không để người lao động chờ không lương mà không có thỏa thuận bằng văn bản |
+| Công ty cho người lao động về nghỉ chờ công trình mới                                                         | Theo hợp đồng và Quy chế này; Công ty không để người lao động chờ không lương mà không có thỏa thuận bằng văn bản                                                                |
 
 ## CHƯƠNG VI. CHẾ ĐỘ CÔNG TRÌNH
 
@@ -88,42 +88,42 @@ Cơ chế này khớp với hệ thống tính lương KPI của Công ty.
 **Mẫu A3-2 – Biên bản chấm thưởng an toàn tháng**
 
 | Tổ/đội | Số công nhân | Vi phạm PPE | Vi phạm khác | Tai nạn | Đạt thưởng? | Số tiền |
-|---|---|---|---|---|---|---|
-| | | | | | | |
+| ------ | ------------ | ----------- | ------------ | ------- | ----------- | ------- |
+|        |              |             |              |         |             |         |
 
-Người lập (an toàn viên): ______  Chỉ huy trưởng: ______  Kế toán: ______
+Người lập (an toàn viên): **\_\_** Chỉ huy trưởng: **\_\_** Kế toán: **\_\_**
 
 ## PHỤ LỤC 1 – THANG BẢNG LƯƠNG
 
 Thang bảng lương do Công ty xây dựng, công khai cho người lao động, và là căn cứ trả lương, đóng bảo hiểm. Lao động đã qua đào tạo nghề được trả cao hơn mức lương tối thiểu theo quy định hiện hành.
 
-| Nhóm | Bậc | Chức danh/nghề | Lương cơ bản (đồng/tháng) | Ghi chú |
-|---|---|---|---|---|
-| Quản lý | 1–3 | Giám đốc, trưởng phòng | Theo bảng lương được Giám đốc phê duyệt | |
-| Kỹ thuật | 1–5 | Kỹ sư công trường, Chỉ huy trưởng, an toàn viên | Theo bảng lương được Giám đốc phê duyệt | |
-| Văn phòng | 1–5 | Kế toán, hành chính, kinh doanh | Theo bảng lương được Giám đốc phê duyệt | |
-| **Thợ chính** | 1–5 | Thợ lắp dựng, thợ hàn, thợ cẩu, thợ điện | Không thấp hơn sàn vùng I cộng chênh lệch tay nghề | Cần chứng chỉ nghề |
-| **Phụ việc** | 1–2 | Lao động phổ thông | Không thấp hơn sàn vùng I | |
+| Nhóm          | Bậc | Chức danh/nghề                                  | Lương cơ bản (đồng/tháng)                          | Ghi chú            |
+| ------------- | --- | ----------------------------------------------- | -------------------------------------------------- | ------------------ |
+| Quản lý       | 1–3 | Giám đốc, trưởng phòng                          | Theo bảng lương được Giám đốc phê duyệt            |                    |
+| Kỹ thuật      | 1–5 | Kỹ sư công trường, Chỉ huy trưởng, an toàn viên | Theo bảng lương được Giám đốc phê duyệt            |                    |
+| Văn phòng     | 1–5 | Kế toán, hành chính, kinh doanh                 | Theo bảng lương được Giám đốc phê duyệt            |                    |
+| **Thợ chính** | 1–5 | Thợ lắp dựng, thợ hàn, thợ cẩu, thợ điện        | Không thấp hơn sàn vùng I cộng chênh lệch tay nghề | Cần chứng chỉ nghề |
+| **Phụ việc**  | 1–2 | Lao động phổ thông                              | Không thấp hơn sàn vùng I                          |                    |
 
 ## PHỤ LỤC 2 – TỶ LỆ PHÂN BỔ QUỸ KPI MẶC ĐỊNH
 
-| Phòng | Tỷ lệ | Ghi chú |
-|---|---|---|
-| Thi công | {{KPI_PCT_THI_CONG}} | Chia theo điểm KPI |
-| Dự án | {{KPI_PCT_DU_AN}} | Chia theo điểm KPI |
-| Kinh doanh | {{KPI_PCT_KINH_DOANH}} | Sale chính hưởng phần ưu tiên trước, phần còn lại chia theo điểm KPI |
-| Kế toán | {{KPI_PCT_KE_TOAN}} | Chia theo điểm KPI |
-| Phòng mới | Giám đốc quyết định | Thêm dòng khi thành lập; điều chỉnh tỷ lệ các phòng để tổng bằng 100% |
+| Phòng                   | Tỷ lệ                | Ghi chú                                                               |
+| ----------------------- | -------------------- | --------------------------------------------------------------------- |
+| Thi công                | {{KPI_PCT_THI_CONG}} | Chia theo điểm KPI                                                    |
+| Dự án (kiêm Kinh doanh) | {{KPI_PCT_DU_AN}}    | Sale chính hưởng phần ưu tiên trước, phần còn lại chia theo điểm KPI  |
+| Kế toán – Tài chính     | {{KPI_PCT_KE_TOAN}}  | Chia theo điểm KPI                                                    |
+| Hành chính – Nhân sự    | 0%                   | Không tham gia quỹ KPI dự án (theo cơ cấu hiện tại)                   |
+| Phòng mới               | Giám đốc quyết định  | Thêm dòng khi thành lập; điều chỉnh tỷ lệ các phòng để tổng bằng 100% |
 
 ## PHỤ LỤC 3 – THANG ĐIỂM KPI
 
-| Tiêu chí | Trọng số | Cách chấm |
-|---|---|---|
-| Tiến độ | 20% | So với tiến độ hợp đồng đã điều chỉnh hợp lệ |
-| Chất lượng nghiệm thu | 20% | Đạt nghiệm thu lần đầu, số lỗi phải làm lại |
-| **An toàn (không tai nạn, tuân thủ HSE)** | 30% | Có vi phạm nghiêm trọng thì tiêu chí này bằng 0 |
-| Chi phí | 15% | Thực tế so với dự toán |
-| Tuân thủ quy trình, hồ sơ | 15% | Đủ hồ sơ B2, D1, nhật ký, báo cáo đúng hạn |
+| Tiêu chí                                  | Trọng số | Cách chấm                                       |
+| ----------------------------------------- | -------- | ----------------------------------------------- |
+| Tiến độ                                   | 20%      | So với tiến độ hợp đồng đã điều chỉnh hợp lệ    |
+| Chất lượng nghiệm thu                     | 20%      | Đạt nghiệm thu lần đầu, số lỗi phải làm lại     |
+| **An toàn (không tai nạn, tuân thủ HSE)** | 30%      | Có vi phạm nghiêm trọng thì tiêu chí này bằng 0 |
+| Chi phí                                   | 15%      | Thực tế so với dự toán                          |
+| Tuân thủ quy trình, hồ sơ                 | 15%      | Đủ hồ sơ B2, D1, nhật ký, báo cáo đúng hạn      |
 
 ## PHỤ LỤC 4 – ĐƠN GIÁ KHẤU HAO DỤNG CỤ, PHƯƠNG TIỆN BẢO VỆ CÁ NHÂN
 
@@ -135,7 +135,7 @@ Bộ luật Lao động 2019 (các điều về tiền lương, thời giờ là
 
 ---
 
-{{DIA_DANH}}, ngày ___ tháng ___ năm ______
+{{DIA_DANH}}, ngày **_ tháng _** năm **\_\_**
 
 **GIÁM ĐỐC**
 (ký, đóng dấu, ghi rõ họ tên: {{GIAM_DOC}})

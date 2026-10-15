@@ -1,12 +1,12 @@
 # A1 – BỘ HỢP ĐỒNG VÀ HỒ SƠ NHÂN SỰ
 
-| | |
-|---|---|
-| **Đơn vị ban hành** | {{TEN_CONG_TY}} |
-| **Mã văn bản / Phiên bản** | A1 / 2.0 |
-| **Ngày ban hành** | {{NGAY_BAN_HANH}} |
-| **Người ký ban hành** | Giám đốc {{GIAM_DOC}} |
-| **Rà soát kế tiếp** | 6 tháng kể từ ngày ban hành, hoặc khi có sự kiện tại Sổ đăng ký văn bản |
+|                            |                                                                         |
+| -------------------------- | ----------------------------------------------------------------------- |
+| **Đơn vị ban hành**        | {{TEN_CONG_TY}}                                                         |
+| **Mã văn bản / Phiên bản** | A1 / 2.0                                                                |
+| **Ngày ban hành**          | {{NGAY_BAN_HANH}}                                                       |
+| **Người ký ban hành**      | Giám đốc {{GIAM_DOC}}                                                   |
+| **Rà soát kế tiếp**        | 6 tháng kể từ ngày ban hành, hoặc khi có sự kiện tại Sổ đăng ký văn bản |
 
 ## 1. Phạm vi và nguyên tắc
 
@@ -21,14 +21,14 @@
 
 ## 2. Chọn loại hợp đồng
 
-| Đối tượng | Loại hợp đồng | Mẫu |
-|---|---|---|
-| Nhân sự dài hạn (văn phòng, chỉ huy, kỹ thuật) | Không xác định thời hạn (hoặc xác định thời hạn lần đầu) | Mẫu 1 |
-| Công nhân theo công trình | Xác định thời hạn, ngày kết thúc dự kiến có cộng dự phòng tiến độ | Mẫu 2 |
-| Thợ nòng cốt hay quay lại nhiều công trình | Xem xét chuyển sang không xác định thời hạn, kèm quy định rõ về ngừng việc và điều chuyển (Giám đốc quyết định sau khi tham vấn luật sư lao động, theo A4 mục 6) | Mẫu 1 (biến thể) |
-| Thử việc | Thư mời thử việc | Mẫu 3 |
-| Hoàn thành công trình trước hạn | Thỏa thuận chấm dứt hợp đồng | Mẫu 4 |
-| Đổi lương, chức danh, công trình | Phụ lục hợp đồng | Mẫu 6 |
+| Đối tượng                                      | Loại hợp đồng                                                                                                                                                    | Mẫu              |
+| ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| Nhân sự dài hạn (văn phòng, chỉ huy, kỹ thuật) | Không xác định thời hạn (hoặc xác định thời hạn lần đầu)                                                                                                         | Mẫu 1            |
+| Công nhân theo công trình                      | Xác định thời hạn, ngày kết thúc dự kiến có cộng dự phòng tiến độ                                                                                                | Mẫu 2            |
+| Thợ nòng cốt hay quay lại nhiều công trình     | Xem xét chuyển sang không xác định thời hạn, kèm quy định rõ về ngừng việc và điều chuyển (Giám đốc quyết định sau khi tham vấn luật sư lao động, theo A4 mục 6) | Mẫu 1 (biến thể) |
+| Thử việc                                       | Thư mời thử việc                                                                                                                                                 | Mẫu 3            |
+| Hoàn thành công trình trước hạn                | Thỏa thuận chấm dứt hợp đồng                                                                                                                                     | Mẫu 4            |
+| Đổi lương, chức danh, công trình               | Phụ lục hợp đồng                                                                                                                                                 | Mẫu 6            |
 
 Nếu công trình kéo dài quá ngày kết thúc ghi trong hợp đồng, phải ký hợp đồng mới (tính vào số lần ký). Vì vậy ngày kết thúc dự kiến phải **cộng dự phòng tiến độ** (khuyến nghị thêm 01 đến 02 tháng), và dùng Mẫu 4 khi hoàn thành sớm.
 
@@ -37,23 +37,23 @@ Nếu công trình kéo dài quá ngày kết thúc ghi trong hợp đồng, ph�
 **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
 **Độc lập – Tự do – Hạnh phúc**
 
-**HỢP ĐỒNG LAO ĐỘNG** – Số: ____/20__/HĐLĐ
+**HỢP ĐỒNG LAO ĐỘNG** – Số: \_**\_/20**/HĐLĐ
 
-Hôm nay, ngày ___ tháng ___ năm ______, tại {{DIA_DANH}}, chúng tôi gồm:
+Hôm nay, ngày **_ tháng _** năm **\_\_**, tại {{DIA_DANH}}, chúng tôi gồm:
 
 **Bên A – Người sử dụng lao động:** {{TEN_CONG_TY}}; mã số thuế: {{MST}}; địa chỉ: {{DIA_CHI}}; điện thoại: {{DIEN_THOAI}}; đại diện: {{GIAM_DOC}}, chức danh Giám đốc.
 
-**Bên B – Người lao động:** họ tên: ____________; giới tính: ______; sinh ngày: ______; căn cước công dân số: ____________ cấp ngày ______ tại ____________; địa chỉ thường trú: ______________; chỗ ở hiện nay: ______________; điện thoại: ______________; mã số BHXH: ______________; trình độ chuyên môn/nghề: ______________.
+**Bên B – Người lao động:** họ tên: ****\_\_\_\_****; giới tính: **\_\_**; sinh ngày: **\_\_**; căn cước công dân số: ****\_\_\_\_**** cấp ngày **\_\_** tại ****\_\_\_\_****; địa chỉ thường trú: ******\_\_******; chỗ ở hiện nay: ******\_\_******; điện thoại: ******\_\_******; mã số BHXH: ******\_\_******; trình độ chuyên môn/nghề: ******\_\_******.
 
 Hai bên thỏa thuận ký hợp đồng lao động với các điều khoản sau:
 
-**Điều 1. Loại hợp đồng và thời hạn.** Hợp đồng không xác định thời hạn, có hiệu lực từ ngày ___/___/______.
+**Điều 1. Loại hợp đồng và thời hạn.** Hợp đồng không xác định thời hạn, có hiệu lực từ ngày **_/_**/**\_\_**.
 
-**Điều 2. Công việc và địa điểm làm việc.** Chức danh: ______________. Nhiệm vụ: theo bản mô tả công việc đính kèm. Địa điểm làm việc: trụ sở Công ty và các công trình do Công ty thi công khi có phân công. Khi phân công làm việc tại công trình ngoài tỉnh, Công ty thông báo trước ít nhất 03 ngày và hỗ trợ đi lại, lưu trú theo Quy chế lương, thưởng, KPI (A3).
+**Điều 2. Công việc và địa điểm làm việc.** Chức danh: ******\_\_******. Nhiệm vụ: theo bản mô tả công việc đính kèm. Địa điểm làm việc: trụ sở Công ty và các công trình do Công ty thi công khi có phân công. Khi phân công làm việc tại công trình ngoài tỉnh, Công ty thông báo trước ít nhất 03 ngày và hỗ trợ đi lại, lưu trú theo Quy chế lương, thưởng, KPI (A3).
 
 **Điều 3. Thời giờ làm việc, nghỉ ngơi.** Theo Nội quy lao động (A2).
 
-**Điều 4. Tiền lương.** Lương cơ bản: ____________ đồng/tháng. Phụ cấp: ______________. Thưởng, KPI và các khoản bổ sung: theo Quy chế lương, thưởng, KPI (A3). Hình thức trả lương: chuyển khoản vào tài khoản của Bên B vào ngày ___ hằng tháng. Mức lương không thấp hơn mức tối thiểu theo quy định pháp luật.
+**Điều 4. Tiền lương.** Lương cơ bản: ****\_\_\_\_**** đồng/tháng. Phụ cấp: ******\_\_******. Thưởng, KPI và các khoản bổ sung: theo Quy chế lương, thưởng, KPI (A3). Hình thức trả lương: chuyển khoản vào tài khoản của Bên B vào ngày \_\_\_ hằng tháng. Mức lương không thấp hơn mức tối thiểu theo quy định pháp luật.
 
 **Điều 5. Bảo hộ lao động và an toàn.** Công ty cấp phát miễn phí phương tiện bảo vệ cá nhân theo công việc. Bên B tuân thủ Sổ tay HSE (B1) và các quy định an toàn của Công ty, của tổng thầu và chủ đầu tư tại nơi làm việc. Bên B có quyền từ chối làm việc hoặc rời khỏi nơi làm việc khi thấy rõ có nguy cơ đe dọa tính mạng, sức khỏe và phải báo ngay cho người quản lý; Bên B không bị xử lý kỷ luật vì việc đó.
 
@@ -68,22 +68,22 @@ Hai bên thỏa thuận ký hợp đồng lao động với các điều khoản
 **Điều 10. Điều khoản chung.** Hợp đồng được lập thành 02 bản có giá trị như nhau, mỗi bên giữ 01 bản. Những vấn đề không ghi trong hợp đồng thực hiện theo Nội quy lao động, các quy chế của Công ty và quy định pháp luật.
 
 | NGƯỜI LAO ĐỘNG (ký, ghi rõ họ tên) | NGƯỜI SỬ DỤNG LAO ĐỘNG (ký, đóng dấu) |
-|---|---|
-| | |
+| ---------------------------------- | ------------------------------------- |
+|                                    |                                       |
 
 ## 4. Mẫu 2 – Hợp đồng lao động xác định thời hạn (công nhân theo công trình)
 
 Mẫu 2 dùng khung của Mẫu 1 (phần Quốc hiệu, thông tin hai bên, các Điều 3, 6, 8, 10), thay các điều sau:
 
-**Điều 1. Loại hợp đồng và thời hạn.** Hợp đồng xác định thời hạn từ ngày ___/___/______ đến ngày ___/___/______ (không quá 36 tháng), gắn với công trình: ______________ (tên công trình, địa điểm). Đây là hợp đồng xác định thời hạn lần thứ ___ (1 hoặc 2) giữa hai bên. Bên B đã được **thông báo bằng văn bản**: sau lần ký thứ hai, nếu tiếp tục làm việc thì hợp đồng tiếp theo là hợp đồng không xác định thời hạn.
+**Điều 1. Loại hợp đồng và thời hạn.** Hợp đồng xác định thời hạn từ ngày **_/_**/**\_\_** đến ngày **_/_**/**\_\_** (không quá 36 tháng), gắn với công trình: ******\_\_****** (tên công trình, địa điểm). Đây là hợp đồng xác định thời hạn lần thứ \_\_\_ (1 hoặc 2) giữa hai bên. Bên B đã được **thông báo bằng văn bản**: sau lần ký thứ hai, nếu tiếp tục làm việc thì hợp đồng tiếp theo là hợp đồng không xác định thời hạn.
 
-**Điều 2. Công việc và địa điểm.** Chức danh/nghề: ______________ (thợ lắp dựng, thợ hàn, thợ điện, thợ cẩu, phụ việc). Địa điểm làm việc: công trình nêu tại Điều 1. Khi cần làm việc tại công trình khác của Công ty, Công ty thông báo trước ít nhất 03 ngày; việc chuyển thực hiện khi Bên B đồng ý và được ghi nhận bằng Phụ lục hợp đồng (Mẫu 6); Công ty hỗ trợ chi phí đi lại, lưu trú theo A3.
+**Điều 2. Công việc và địa điểm.** Chức danh/nghề: ******\_\_****** (thợ lắp dựng, thợ hàn, thợ điện, thợ cẩu, phụ việc). Địa điểm làm việc: công trình nêu tại Điều 1. Khi cần làm việc tại công trình khác của Công ty, Công ty thông báo trước ít nhất 03 ngày; việc chuyển thực hiện khi Bên B đồng ý và được ghi nhận bằng Phụ lục hợp đồng (Mẫu 6); Công ty hỗ trợ chi phí đi lại, lưu trú theo A3.
 
 **Điều 2a. Công việc đặc thù.** Bên B xác nhận đã được thông báo công việc có thể gồm **làm việc trên cao, cẩu lắp, hàn cắt, điện thi công**; đã khám sức khỏe phù hợp; sẽ được huấn luyện an toàn **trước** khi bố trí vào các công việc này.
 
-**Điều 4. Tiền lương.** Lương cơ bản: ____________ đồng/ngày công hoặc đồng/tháng, không thấp hơn mức tối thiểu theo quy định pháp luật. Đơn giá khoán theo khối lượng (nếu có): theo phụ lục đơn giá kèm theo, áp dụng điều kiện nghiệm thu và an toàn tại A3. Kỳ trả lương: ______________, **trả qua tài khoản ngân hàng**. Ngừng việc do thời tiết, chờ mặt bằng, chờ vật tư: theo Chương V của A3.
+**Điều 4. Tiền lương.** Lương cơ bản: ****\_\_\_\_**** đồng/ngày công hoặc đồng/tháng, không thấp hơn mức tối thiểu theo quy định pháp luật. Đơn giá khoán theo khối lượng (nếu có): theo phụ lục đơn giá kèm theo, áp dụng điều kiện nghiệm thu và an toàn tại A3. Kỳ trả lương: ******\_\_******, **trả qua tài khoản ngân hàng**. Ngừng việc do thời tiết, chờ mặt bằng, chờ vật tư: theo Chương V của A3.
 
-**Điều 5. Chỗ ở, đi lại, bữa ăn.** Công ty hỗ trợ: ______________ (ghi rõ nếu có; nếu không có ghi "không").
+**Điều 5. Chỗ ở, đi lại, bữa ăn.** Công ty hỗ trợ: ******\_\_****** (ghi rõ nếu có; nếu không có ghi "không").
 
 **Điều 5a. Bảo hộ lao động và an toàn.** Bên B phải tham gia huấn luyện, dùng đúng phương tiện bảo vệ cá nhân, tuân thủ giấy phép làm việc nguy hiểm, báo ngay nguy cơ mất an toàn. Bên B **có quyền từ chối làm việc hoặc rời khỏi nơi làm việc khi thấy rõ có nguy cơ đe dọa tính mạng, sức khỏe** (báo ngay cho người quản lý) và không bị xử lý kỷ luật vì việc đó. Bên B xác nhận đã được phổ biến Nội quy lao động, nội quy công trường, và đã được xác nhận nằm trong hợp đồng **bảo hiểm công trường** của Công ty hoặc của tổng thầu.
 
@@ -93,35 +93,35 @@ Mẫu 2 dùng khung của Mẫu 1 (phần Quốc hiệu, thông tin hai bên, c�
 
 **THƯ MỜI THỬ VIỆC**
 
-Kính gửi: Ông/Bà ______________
+Kính gửi: Ông/Bà ******\_\_******
 
 {{TEN_CONG_TY}} mời Ông/Bà thử việc với các nội dung sau:
 
-| Nội dung | Thỏa thuận |
-|---|---|
-| Vị trí, bộ phận, địa điểm | ______________ |
-| Thời gian thử việc | Từ ___/___/______ đến ___/___/______ |
-| Lương thử việc | ____________ đồng, không thấp hơn 85% mức lương chính thức (____________ đồng) |
-| Tiêu chí đánh giá | ______________ |
-| Thông báo kết quả | Trước ngày kết thúc thử việc |
+| Nội dung                  | Thỏa thuận                                                                             |
+| ------------------------- | -------------------------------------------------------------------------------------- |
+| Vị trí, bộ phận, địa điểm | ******\_\_******                                                                       |
+| Thời gian thử việc        | Từ **_/_**/**\_\_** đến **_/_**/**\_\_**                                               |
+| Lương thử việc            | ****\_\_\_\_**** đồng, không thấp hơn 85% mức lương chính thức (****\_\_\_\_**** đồng) |
+| Tiêu chí đánh giá         | ******\_\_******                                                                       |
+| Thông báo kết quả         | Trước ngày kết thúc thử việc                                                           |
 
 Thời gian thử việc tối đa theo Bảng tham số: không quá 60 ngày (cao đẳng trở lên), 30 ngày (trung cấp, công nhân kỹ thuật), 06 ngày làm việc (công việc khác); công nhân công trường tối đa 06 ngày làm việc. Chỉ thử việc một lần đối với một công việc.
 
 Thử việc đạt: hai bên ký hợp đồng lao động. Thử việc không đạt: chấm dứt thỏa thuận thử việc, không bên nào phải bồi thường. Mỗi bên có quyền hủy thỏa thuận thử việc mà không cần báo trước và không phải bồi thường.
 
-Xác nhận đồng ý của người được mời (ký, ghi rõ họ tên): ______________  Ngày ___/___/______
+Xác nhận đồng ý của người được mời (ký, ghi rõ họ tên): ******\_\_****** Ngày **_/_**/**\_\_**
 
 ## 6. Mẫu 4 – Thỏa thuận chấm dứt hợp đồng lao động khi hoàn thành công trình
 
 **THỎA THUẬN CHẤM DỨT HỢP ĐỒNG LAO ĐỘNG**
 
-Căn cứ Bộ luật Lao động 2019, hai bên: {{TEN_CONG_TY}} (Bên A) và Ông/Bà ______________, CCCD số ______________ (Bên B) **tự nguyện** thỏa thuận:
+Căn cứ Bộ luật Lao động 2019, hai bên: {{TEN_CONG_TY}} (Bên A) và Ông/Bà ******\_\_******, CCCD số ******\_\_****** (Bên B) **tự nguyện** thỏa thuận:
 
-1. Chấm dứt hợp đồng lao động số ______ ký ngày ___/___/______ kể từ ngày ___/___/______ do công trình ______________ đã hoàn thành.
+1. Chấm dứt hợp đồng lao động số **\_\_** ký ngày **_/_**/**\_\_** kể từ ngày **_/_**/**\_\_** do công trình ******\_\_****** đã hoàn thành.
 2. Bên A thanh toán đầy đủ tiền lương và các khoản phải trả (kể cả ngày phép chưa nghỉ), chốt bảo hiểm xã hội và trả lại giấy tờ của Bên B trong thời hạn pháp luật quy định.
 3. Hai bên không còn khiếu nại về hợp đồng này, trừ quyền lợi mà pháp luật bảo đảm không thể thỏa thuận khác (bảo hiểm xã hội, bồi thường tai nạn lao động).
 
-Bên A ký, đóng dấu: ______________   Bên B ký, ghi rõ họ tên: ______________
+Bên A ký, đóng dấu: ******\_\_****** Bên B ký, ghi rõ họ tên: ******\_\_******
 
 Chỉ dùng Mẫu 4 khi người lao động đồng ý. Nếu người lao động không đồng ý thì để hợp đồng hết hạn theo thời hạn đã ký.
 
@@ -133,7 +133,7 @@ Căn cứ: Luật Bảo vệ dữ liệu cá nhân 91/2025/QH15 và Nghị đị
 
 **Bên kiểm soát dữ liệu:** {{TEN_CONG_TY}}, MST {{MST}}. Người phụ trách bảo vệ dữ liệu cá nhân: {{NGUOI_PT_DU_LIEU}}; liên hệ: {{DIEN_THOAI}}, {{EMAIL}}.
 
-**Người lao động:** ______________, CCCD số ______________.
+**Người lao động:** ******\_\_******, CCCD số ******\_\_******.
 
 **1. Dữ liệu được xử lý:** họ tên, ngày sinh, CCCD, địa chỉ, điện thoại, ảnh, tài khoản ngân hàng, mã số thuế, mã số BHXH, người phụ thuộc, trình độ, chứng chỉ, thẻ an toàn, kết quả khám sức khỏe, thông tin liên hệ khẩn cấp, dữ liệu chấm công, hồ sơ tai nạn (nếu có).
 
@@ -153,44 +153,44 @@ Căn cứ: Luật Bảo vệ dữ liệu cá nhân 91/2025/QH15 và Nghị đị
 
 ☐ Tôi đồng ý cho Công ty chụp ảnh, quay video tại công trường để quản lý an toàn và nghiệm thu.
 
-Ngày ___/___/______   Người lao động ký, ghi rõ họ tên: ______________
+Ngày **_/_**/**\_\_** Người lao động ký, ghi rõ họ tên: ******\_\_******
 
 Khi Công ty dùng chấm công bằng vân tay hoặc khuôn mặt (dữ liệu sinh trắc học), phải lập văn bản đồng ý riêng và đánh giá tác động theo quy định trước khi áp dụng.
 
 ## 8. Mẫu 6 – Phụ lục hợp đồng lao động
 
-**PHỤ LỤC HỢP ĐỒNG LAO ĐỘNG** số ____ của Hợp đồng lao động số ______ ký ngày ___/___/______
+**PHỤ LỤC HỢP ĐỒNG LAO ĐỘNG** số \_**\_ của Hợp đồng lao động số \_\_\_\_** ký ngày **_/_**/**\_\_**
 
-Hai bên thỏa thuận sửa đổi, bổ sung: Điều ____ của hợp đồng nay được thay bằng: ______________________________.
+Hai bên thỏa thuận sửa đổi, bổ sung: Điều \_**\_ của hợp đồng nay được thay bằng: ************\_\_\_\_**************.
 
-Hiệu lực từ ngày ___/___/______. Các nội dung khác giữ nguyên. **Phụ lục này không sửa đổi thời hạn của hợp đồng.**
+Hiệu lực từ ngày **_/_**/**\_\_**. Các nội dung khác giữ nguyên. **Phụ lục này không sửa đổi thời hạn của hợp đồng.**
 
-Bên A ký, đóng dấu: ______________   Bên B ký, ghi rõ họ tên: ______________
+Bên A ký, đóng dấu: ******\_\_****** Bên B ký, ghi rõ họ tên: ******\_\_******
 
 ## 9. Checklist hồ sơ nhân sự
 
 Mỗi người có **một hồ sơ số duy nhất**, dùng xuyên suốt các công trình. Hành chính – Nhân sự kiểm tra trước khi cho vào làm việc.
 
-| # | Hồ sơ | Công nhân | Văn phòng |
-|---|---|---|---|
-| 1 | CCCD (bản chụp, đối chiếu bản gốc) | ☐ | ☐ |
-| 2 | Sơ yếu lý lịch, ảnh | ☐ | ☐ |
-| 3 | Mã số BHXH, mã số thuế, người phụ thuộc | ☐ | ☐ |
-| 4 | Giấy khám sức khỏe còn hạn, đúng nhóm công việc (làm việc trên cao) | ☐ | ☐ |
-| 5 | Chứng chỉ nghề, bậc thợ, chứng chỉ vận hành (hàn, cẩu, điện) | ☐ | – |
-| 6 | Thẻ an toàn nhóm 3 còn hạn (nếu làm việc yêu cầu nghiêm ngặt) | ☐ | – |
-| 7 | Hợp đồng lao động đã ký hai bên | ☐ | ☐ |
-| 8 | Mẫu 5 (đồng ý dữ liệu) đã ký | ☐ | ☐ |
-| 9 | Phiếu xác nhận phổ biến nội quy (A2 Phụ lục 1) | ☐ | ☐ |
-| 10 | Sổ cấp phát phương tiện bảo vệ cá nhân (B2-08) | ☐ | – |
-| 11 | Số tài khoản ngân hàng | ☐ | ☐ |
-| 12 | Cam kết của người lao động về sức khỏe, không có bệnh chống chỉ định | ☐ | – |
-| 13 | Đăng ký thông tin người lao động theo Luật Việc làm 2025 | ☐ | ☐ |
-| 14 | Xác nhận nằm trong hợp đồng bảo hiểm công trường (B4) | ☐ | – |
-| 15 | Số lần đã ký hợp đồng xác định thời hạn với Công ty (cảnh báo khi đã đủ 02 lần) | ☐ | – |
-| 16 | Liên hệ khẩn cấp (người thân) | ☐ | ☐ |
+| #   | Hồ sơ                                                                           | Công nhân | Văn phòng |
+| --- | ------------------------------------------------------------------------------- | --------- | --------- |
+| 1   | CCCD (bản chụp, đối chiếu bản gốc)                                              | ☐         | ☐         |
+| 2   | Sơ yếu lý lịch, ảnh                                                             | ☐         | ☐         |
+| 3   | Mã số BHXH, mã số thuế, người phụ thuộc                                         | ☐         | ☐         |
+| 4   | Giấy khám sức khỏe còn hạn, đúng nhóm công việc (làm việc trên cao)             | ☐         | ☐         |
+| 5   | Chứng chỉ nghề, bậc thợ, chứng chỉ vận hành (hàn, cẩu, điện)                    | ☐         | –         |
+| 6   | Thẻ an toàn nhóm 3 còn hạn (nếu làm việc yêu cầu nghiêm ngặt)                   | ☐         | –         |
+| 7   | Hợp đồng lao động đã ký hai bên                                                 | ☐         | ☐         |
+| 8   | Mẫu 5 (đồng ý dữ liệu) đã ký                                                    | ☐         | ☐         |
+| 9   | Phiếu xác nhận phổ biến nội quy (A2 Phụ lục 1)                                  | ☐         | ☐         |
+| 10  | Sổ cấp phát phương tiện bảo vệ cá nhân (B2-08)                                  | ☐         | –         |
+| 11  | Số tài khoản ngân hàng                                                          | ☐         | ☐         |
+| 12  | Cam kết của người lao động về sức khỏe, không có bệnh chống chỉ định            | ☐         | –         |
+| 13  | Đăng ký thông tin người lao động theo Luật Việc làm 2025                        | ☐         | ☐         |
+| 14  | Xác nhận nằm trong hợp đồng bảo hiểm công trường (B4)                           | ☐         | –         |
+| 15  | Số lần đã ký hợp đồng xác định thời hạn với Công ty (cảnh báo khi đã đủ 02 lần) | ☐         | –         |
+| 16  | Liên hệ khẩn cấp (người thân)                                                   | ☐         | ☐         |
 
-Người kiểm tra: ______________  Ngày: ___/___/______  Kết luận: ☐ Đủ  ☐ Thiếu: ______________
+Người kiểm tra: ******\_\_****** Ngày: **_/_**/**\_\_** Kết luận: ☐ Đủ ☐ Thiếu: ******\_\_******
 
 ## 10. Kiểm soát nội bộ
 
@@ -202,11 +202,11 @@ Người kiểm tra: ______________  Ngày: ___/___/______  Kết luận: ☐ Đ
 
 ## 11. Biểu mẫu chính thức của Nhà nước áp dụng cùng văn bản này
 
-| Việc | Biểu mẫu |
-|---|---|
-| Biểu mẫu bảo vệ dữ liệu cá nhân | Phụ lục Nghị định 356/2025/NĐ-CP (dùng mẫu của Nhà nước khi phù hợp) |
+| Việc                             | Biểu mẫu                                                             |
+| -------------------------------- | -------------------------------------------------------------------- |
+| Biểu mẫu bảo vệ dữ liệu cá nhân  | Phụ lục Nghị định 356/2025/NĐ-CP (dùng mẫu của Nhà nước khi phù hợp) |
 | Đăng ký thông tin người lao động | Thủ tục trực tuyến theo hướng dẫn của Bộ Nội vụ (Luật Việc làm 2025) |
-| Báo cáo sử dụng lao động | Theo Nghị định 145/2020/NĐ-CP, thực hiện trực tuyến |
+| Báo cáo sử dụng lao động         | Theo Nghị định 145/2020/NĐ-CP, thực hiện trực tuyến                  |
 
 ## 12. Căn cứ
 

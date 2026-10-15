@@ -1,12 +1,12 @@
 # C1 – QUY CHẾ TỔ CHỨC VÀ PHÂN QUYỀN
 
-| | |
-|---|---|
-| **Đơn vị ban hành** | {{TEN_CONG_TY}} |
-| **Mã văn bản / Phiên bản** | C1 / 2.0 |
-| **Ngày ban hành** | {{NGAY_BAN_HANH}} |
-| **Người ký ban hành** | Giám đốc {{GIAM_DOC}} |
-| **Rà soát kế tiếp** | Hằng năm, hoặc khi thay đổi tổ chức |
+|                            |                                     |
+| -------------------------- | ----------------------------------- |
+| **Đơn vị ban hành**        | {{TEN_CONG_TY}}                     |
+| **Mã văn bản / Phiên bản** | C1 / 2.0                            |
+| **Ngày ban hành**          | {{NGAY_BAN_HANH}}                   |
+| **Người ký ban hành**      | Giám đốc {{GIAM_DOC}}               |
+| **Rà soát kế tiếp**        | Hằng năm, hoặc khi thay đổi tổ chức |
 
 Quy chế này thay thế các văn bản riêng về tổ chức, ủy quyền, thẩm quyền ký duyệt, nhiệm vụ ban chỉ huy công trường, con dấu và văn thư.
 
@@ -15,44 +15,42 @@ Quy chế này thay thế các văn bản riêng về tổ chức, ủy quyền,
 ```
 Giám đốc
 ├─ Phòng Thi công (Chỉ huy trưởng, kỹ sư công trường, an toàn viên, tổ thợ, thủ kho công trường)
-├─ Phòng Dự án (kế hoạch, kỹ thuật, hồ sơ chất lượng, vật tư)
-├─ Phòng Kinh doanh (báo giá, hợp đồng, khách hàng, công nợ)
-├─ Phòng Kế toán (kế toán, tài chính, thuế, thủ quỹ)
+├─ Phòng Dự án kiêm Kinh doanh (kế hoạch, kỹ thuật, hồ sơ chất lượng, vật tư; báo giá, hợp đồng, khách hàng, công nợ)
+├─ Phòng Kế toán – Tài chính (kế toán, tài chính, thuế, thủ quỹ)
 └─ Hành chính – Nhân sự (nhân sự, hợp đồng lao động, BHXH, văn thư, IT)
 ```
 
-1. Cơ cấu này khớp với bốn phòng tính KPI (Thi công, Dự án, Kinh doanh, Kế toán) cộng Hành chính – Nhân sự. Công ty **không sản xuất, gia công**; vật tư thép, bu lông, phụ kiện được mua thành phẩm từ nhà cung cấp. Nhiệm vụ mua vật tư thuộc Phòng Dự án, kho và thiết bị tại công trường thuộc Phòng Thi công.
+1. Cơ cấu này khớp với ba phòng tính KPI (Thi công; Dự án kiêm Kinh doanh; Kế toán – Tài chính) cộng Hành chính – Nhân sự (không tham gia quỹ KPI dự án). Công ty **không sản xuất, gia công**; vật tư thép, bu lông, phụ kiện được mua thành phẩm từ nhà cung cấp. Nhiệm vụ mua vật tư thuộc Phòng Dự án, kho và thiết bị tại công trường thuộc Phòng Thi công.
 2. **Người phụ trách quản lý an toàn** ({{NGUOI_PT_AN_TOAN}}) thuộc Phòng Dự án và có quyền báo cáo trực tiếp Giám đốc về an toàn.
-3. Khi Công ty tách riêng phòng Vật tư – Thiết bị, Giám đốc chuyển các nhiệm vụ vật tư và thiết bị ở mục 2 sang phòng đó, cập nhật tỷ lệ KPI (A3 Phụ lục 2) và ghi vào nhật ký rà soát.
+3. Khi Công ty tách riêng phòng Vật tư – Thiết bị hoặc phòng Kinh doanh, Giám đốc chuyển các nhiệm vụ vật tư, thiết bị hoặc kinh doanh ở mục 2 sang phòng đó, cập nhật tỷ lệ KPI (A3 Phụ lục 2) và ghi vào nhật ký rà soát.
 
 ## 2. Chức năng các phòng
 
-| Phòng | Chức năng chính | Đầu ra | Văn bản |
-|---|---|---|---|
-| **Thi công** | Tổ chức thi công an toàn, đúng tiến độ, chất lượng; thực hiện B2; điều hành công trường; nghiệm thu nội bộ; cấp phát PPE; quản lý thiết bị công trường | Nhật ký thi công, hồ sơ B2 | B1, B2, D1 |
-| **Dự án** | Kế hoạch, biện pháp thi công, hồ sơ chất lượng, hoàn công; **mua vật tư, nhà cung cấp, nghiệm thu vật tư đầu vào (hợp đồng gồm vật tư)**; quản lý an toàn | Hồ sơ công trình, hoàn công, sổ vật tư | D1, B1 |
-| **Kinh doanh** | Tìm khách, báo giá, thương thảo, ký hợp đồng, theo dõi công nợ | Hợp đồng, báo giá, báo cáo công nợ | D2, B4 |
-| **Kế toán** | Tạm ứng, thanh toán, quyết toán công trình, thuế, lương | Báo cáo tài chính, quyết toán | D3, A3 |
-| **Hành chính – Nhân sự** | Tuyển dụng, hợp đồng lao động, chấm công, BHXH, văn thư, lưu trữ, dữ liệu, đối thoại | Hồ sơ nhân sự, sổ văn bản | A1–A4, C2, D4 |
+| Phòng                       | Chức năng chính                                                                                                                                                                                                           | Đầu ra                                                                     | Văn bản        |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------- |
+| **Thi công**                | Tổ chức thi công an toàn, đúng tiến độ, chất lượng; thực hiện B2; điều hành công trường; nghiệm thu nội bộ; cấp phát PPE; quản lý thiết bị công trường                                                                    | Nhật ký thi công, hồ sơ B2                                                 | B1, B2, D1     |
+| **Dự án (kiêm Kinh doanh)** | Kế hoạch, biện pháp thi công, hồ sơ chất lượng, hoàn công; **mua vật tư, nhà cung cấp, nghiệm thu vật tư đầu vào (hợp đồng gồm vật tư)**; quản lý an toàn; tìm khách, báo giá, thương thảo, ký hợp đồng, theo dõi công nợ | Hồ sơ công trình, hoàn công, sổ vật tư, hợp đồng, báo giá, báo cáo công nợ | D1, D2, B1, B4 |
+| **Kế toán – Tài chính**     | Tạm ứng, thanh toán, quyết toán công trình, thuế, lương                                                                                                                                                                   | Báo cáo tài chính, quyết toán                                              | D3, A3         |
+| **Hành chính – Nhân sự**    | Tuyển dụng, hợp đồng lao động, chấm công, BHXH, văn thư, lưu trữ, dữ liệu, đối thoại                                                                                                                                      | Hồ sơ nhân sự, sổ văn bản                                                  | A1–A4, C2, D4  |
 
 ## 3. Thẩm quyền ký, duyệt
 
 Các ngưỡng giá trị lấy theo Bảng tham số (Phần III.5).
 
-| Việc | Người soạn | Người kiểm tra | **Người ký, duyệt** |
-|---|---|---|---|
-| Báo giá, đấu thầu | Kinh doanh | Kế toán, Dự án | Giám đốc (giá trị trên ngưỡng báo giá); dưới ngưỡng: Trưởng phòng Kinh doanh, báo cáo Giám đốc hằng tuần |
-| **Hợp đồng với chủ đầu tư, tổng thầu** (kèm điều khoản B4) | Kinh doanh | Kế toán, người phụ trách an toàn, luật sư (khi cần) | **Giám đốc** |
-| Hợp đồng nhà cung cấp, thầu phụ, thuê thiết bị | Dự án | Kế toán | Giám đốc nếu trên ngưỡng hợp đồng nhà cung cấp; dưới ngưỡng: Trưởng phòng Dự án |
-| Hợp đồng lao động, phụ lục, quyết định tuyển dụng, kỷ luật | Hành chính – Nhân sự | Trưởng phòng | Giám đốc |
-| Biện pháp an toàn công trình (B2-03) | An toàn viên | Người phụ trách quản lý an toàn | **Giám đốc**, kèm chấp thuận của chủ đầu tư hoặc tổng thầu |
-| Giấy phép làm việc nguy hiểm (B2-05) | Tổ trưởng | An toàn viên | Chỉ huy trưởng |
-| Nhật ký thi công, hoàn công | Chỉ huy trưởng | Dự án | Chỉ huy trưởng và đại diện bên giao thầu |
-| Đề nghị thanh toán, quyết toán công trình | Dự án, Kế toán | Trưởng phòng | Giám đốc |
-| Khoản chi không vượt ngưỡng chi của Trưởng phòng | Người đề nghị | Trưởng phòng | Trưởng phòng |
-| Khoản chi vượt ngưỡng chi của Trưởng phòng | Người đề nghị | Kế toán trưởng | Giám đốc |
-| Báo cáo cơ quan nhà nước (lao động, BHXH, thuế, an toàn lao động) | Phòng phụ trách | Trưởng phòng | Giám đốc hoặc người được ủy quyền |
-| **Dừng việc vì an toàn** | Bất kỳ ai | – | Chỉ huy trưởng, an toàn viên **có quyền quyết định ngay** |
+| Việc                                                              | Người soạn              | Người kiểm tra                                      | **Người ký, duyệt**                                                                                 |
+| ----------------------------------------------------------------- | ----------------------- | --------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Báo giá, đấu thầu                                                 | Dự án (kiêm Kinh doanh) | Kế toán                                             | Giám đốc (giá trị trên ngưỡng báo giá); dưới ngưỡng: Trưởng phòng Dự án, báo cáo Giám đốc hằng tuần |
+| **Hợp đồng với chủ đầu tư, tổng thầu** (kèm điều khoản B4)        | Dự án (kiêm Kinh doanh) | Kế toán, người phụ trách an toàn, luật sư (khi cần) | **Giám đốc**                                                                                        |
+| Hợp đồng nhà cung cấp, thầu phụ, thuê thiết bị                    | Dự án                   | Kế toán                                             | Giám đốc nếu trên ngưỡng hợp đồng nhà cung cấp; dưới ngưỡng: Trưởng phòng Dự án                     |
+| Hợp đồng lao động, phụ lục, quyết định tuyển dụng, kỷ luật        | Hành chính – Nhân sự    | Trưởng phòng                                        | Giám đốc                                                                                            |
+| Biện pháp an toàn công trình (B2-03)                              | An toàn viên            | Người phụ trách quản lý an toàn                     | **Giám đốc**, kèm chấp thuận của chủ đầu tư hoặc tổng thầu                                          |
+| Giấy phép làm việc nguy hiểm (B2-05)                              | Tổ trưởng               | An toàn viên                                        | Chỉ huy trưởng                                                                                      |
+| Nhật ký thi công, hoàn công                                       | Chỉ huy trưởng          | Dự án                                               | Chỉ huy trưởng và đại diện bên giao thầu                                                            |
+| Đề nghị thanh toán, quyết toán công trình                         | Dự án, Kế toán          | Trưởng phòng                                        | Giám đốc                                                                                            |
+| Khoản chi không vượt ngưỡng chi của Trưởng phòng                  | Người đề nghị           | Trưởng phòng                                        | Trưởng phòng                                                                                        |
+| Khoản chi vượt ngưỡng chi của Trưởng phòng                        | Người đề nghị           | Kế toán trưởng                                      | Giám đốc                                                                                            |
+| Báo cáo cơ quan nhà nước (lao động, BHXH, thuế, an toàn lao động) | Phòng phụ trách         | Trưởng phòng                                        | Giám đốc hoặc người được ủy quyền                                                                   |
+| **Dừng việc vì an toàn**                                          | Bất kỳ ai               | –                                                   | Chỉ huy trưởng, an toàn viên **có quyền quyết định ngay**                                           |
 
 **Ủy quyền** thực hiện bằng văn bản, nêu phạm vi và thời hạn; không ủy quyền lại trừ khi văn bản ủy quyền nêu rõ; không ủy quyền quyết định đình chỉ vì an toàn cho người không có chuyên môn.
 
@@ -68,16 +66,16 @@ Các ngưỡng giá trị lấy theo Bảng tham số (Phần III.5).
 
 ## 5. Chế độ báo cáo
 
-| Báo cáo | Người lập | Gửi | Tần suất |
-|---|---|---|---|
-| Nhật ký công trường | Chỉ huy trưởng | Dự án | Hằng ngày |
-| Báo cáo an toàn | An toàn viên | Người quản lý an toàn | Hằng tuần |
-| Tiến độ, khối lượng | Chỉ huy trưởng | Giám đốc | Hằng tuần hoặc hằng tháng |
-| Nhân sự, chấm công | Hành chính – Nhân sự | Giám đốc, Kế toán | Hằng tháng |
-| Kho, vật tư | Thủ kho | Dự án, Kế toán | Hằng tháng |
-| Tài chính công trình | Kế toán | Giám đốc | Hằng tháng |
-| Tai nạn, sự cố | Chỉ huy trưởng, an toàn viên | Giám đốc | Ngay (B3) |
-| Cơ quan nhà nước | Phòng phụ trách | Cơ quan nhà nước | Theo luật |
+| Báo cáo              | Người lập                    | Gửi                   | Tần suất                  |
+| -------------------- | ---------------------------- | --------------------- | ------------------------- |
+| Nhật ký công trường  | Chỉ huy trưởng               | Dự án                 | Hằng ngày                 |
+| Báo cáo an toàn      | An toàn viên                 | Người quản lý an toàn | Hằng tuần                 |
+| Tiến độ, khối lượng  | Chỉ huy trưởng               | Giám đốc              | Hằng tuần hoặc hằng tháng |
+| Nhân sự, chấm công   | Hành chính – Nhân sự         | Giám đốc, Kế toán     | Hằng tháng                |
+| Kho, vật tư          | Thủ kho                      | Dự án, Kế toán        | Hằng tháng                |
+| Tài chính công trình | Kế toán                      | Giám đốc              | Hằng tháng                |
+| Tai nạn, sự cố       | Chỉ huy trưởng, an toàn viên | Giám đốc              | Ngay (B3)                 |
+| Cơ quan nhà nước     | Phòng phụ trách              | Cơ quan nhà nước      | Theo luật                 |
 
 ## 6. Con dấu, chữ ký, văn thư
 
@@ -97,7 +95,7 @@ Luật Doanh nghiệp; Điều lệ Công ty; Nghị định 207/2026/NĐ-CP. Xe
 
 ---
 
-{{DIA_DANH}}, ngày ___ tháng ___ năm ______
+{{DIA_DANH}}, ngày **_ tháng _** năm **\_\_**
 
 **GIÁM ĐỐC**
 (ký, đóng dấu, ghi rõ họ tên: {{GIAM_DOC}})

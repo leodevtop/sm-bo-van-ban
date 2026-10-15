@@ -1,12 +1,12 @@
 # D2 – QUY TRÌNH KINH DOANH VÀ HỢP ĐỒNG
 
-| | |
-|---|---|
-| **Đơn vị ban hành** | {{TEN_CONG_TY}} |
-| **Mã văn bản / Phiên bản** | D2 / 2.0 |
-| **Ngày ban hành** | {{NGAY_BAN_HANH}} |
-| **Người ký ban hành** | Giám đốc {{GIAM_DOC}} |
-| **Rà soát kế tiếp** | 6 tháng kể từ ngày ban hành, hoặc khi có văn bản mới về hợp đồng xây dựng |
+|                            |                                                                           |
+| -------------------------- | ------------------------------------------------------------------------- |
+| **Đơn vị ban hành**        | {{TEN_CONG_TY}}                                                           |
+| **Mã văn bản / Phiên bản** | D2 / 2.0                                                                  |
+| **Ngày ban hành**          | {{NGAY_BAN_HANH}}                                                         |
+| **Người ký ban hành**      | Giám đốc {{GIAM_DOC}}                                                     |
+| **Rà soát kế tiếp**        | 6 tháng kể từ ngày ban hành, hoặc khi có văn bản mới về hợp đồng xây dựng |
 
 ## 0. Phạm vi và nguyên tắc
 
@@ -19,12 +19,12 @@ Yêu cầu báo giá → Khảo sát hồ sơ → Dự toán → Phê duyệt gi
 
 ## 1. Xác định dạng hợp đồng
 
-| | **Dạng 1 – Chỉ thi công** | **Dạng 2 – Gồm vật tư** |
-|---|---|---|
-| Giá | Nhân công + máy + chi phí chung + lợi nhuận | Vật tư + nhân công + máy + vận chuyển + chi phí chung + lợi nhuận |
-| Rủi ro | Vật tư bên giao thầu giao sai, chậm; chờ mặt bằng | **Biến động giá thép**, chất lượng vật tư, nhà cung cấp chậm, công nợ |
-| Thanh toán thường gặp | Theo khối lượng, giai đoạn | Tạm ứng vật tư + theo giai đoạn |
-| Điều khoản trọng yếu | Vật tư bên giao thầu, mặt bằng, an toàn, chậm tiến độ | **Điều chỉnh giá vật tư**, bảo hành vật tư, hồ sơ chất lượng |
+|                       | **Dạng 1 – Chỉ thi công**                             | **Dạng 2 – Gồm vật tư**                                               |
+| --------------------- | ----------------------------------------------------- | --------------------------------------------------------------------- |
+| Giá                   | Nhân công + máy + chi phí chung + lợi nhuận           | Vật tư + nhân công + máy + vận chuyển + chi phí chung + lợi nhuận     |
+| Rủi ro                | Vật tư bên giao thầu giao sai, chậm; chờ mặt bằng     | **Biến động giá thép**, chất lượng vật tư, nhà cung cấp chậm, công nợ |
+| Thanh toán thường gặp | Theo khối lượng, giai đoạn                            | Tạm ứng vật tư + theo giai đoạn                                       |
+| Điều khoản trọng yếu  | Vật tư bên giao thầu, mặt bằng, an toàn, chậm tiến độ | **Điều chỉnh giá vật tư**, bảo hành vật tư, hồ sơ chất lượng          |
 
 ## 2. Tiếp nhận cơ hội và sàng lọc
 
@@ -43,45 +43,45 @@ Yêu cầu báo giá → Khảo sát hồ sơ → Dự toán → Phê duyệt gi
 
 ## 4. Mẫu 1 – Điều khoản chính của hợp đồng chỉ thi công (Dạng 1)
 
-| Điều khoản | Nội dung cần có |
-|---|---|
-| Phạm vi | Hạng mục, khối lượng, bản vẽ, tiêu chuẩn |
+| Điều khoản                   | Nội dung cần có                                                                                                             |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Phạm vi                      | Hạng mục, khối lượng, bản vẽ, tiêu chuẩn                                                                                    |
 | **Vật tư bên giao thầu cấp** | Danh mục, tiến độ giao, địa điểm, **giao nhận có biên bản (D1-01)**, hao hụt cho phép, bên giao thầu chịu khuyết tật có sẵn |
-| Mặt bằng | Bàn giao đúng hạn, lối đi, điện, nước, kho bãi |
-| Đơn giá, thanh toán | Theo khối lượng, giai đoạn; tạm ứng; thời hạn thanh toán sau nghiệm thu |
-| Tiến độ | Các mốc; **gia hạn khi bên giao thầu chậm vật tư, mặt bằng hoặc do thời tiết** |
-| An toàn, bảo hiểm | Theo B4 |
-| Nghiệm thu, bảo hành | Quy trình, thời hạn, tỷ lệ giữ lại |
-| Chấm dứt, phạt | Mức phạt cân bằng hai phía; có mức trần |
-| Giải quyết tranh chấp | Thương lượng; sau đó trọng tài hoặc tòa án |
+| Mặt bằng                     | Bàn giao đúng hạn, lối đi, điện, nước, kho bãi                                                                              |
+| Đơn giá, thanh toán          | Theo khối lượng, giai đoạn; tạm ứng; thời hạn thanh toán sau nghiệm thu                                                     |
+| Tiến độ                      | Các mốc; **gia hạn khi bên giao thầu chậm vật tư, mặt bằng hoặc do thời tiết**                                              |
+| An toàn, bảo hiểm            | Theo B4                                                                                                                     |
+| Nghiệm thu, bảo hành         | Quy trình, thời hạn, tỷ lệ giữ lại                                                                                          |
+| Chấm dứt, phạt               | Mức phạt cân bằng hai phía; có mức trần                                                                                     |
+| Giải quyết tranh chấp        | Thương lượng; sau đó trọng tài hoặc tòa án                                                                                  |
 
 ## 5. Mẫu 2 – Điều khoản bổ sung cho hợp đồng gồm vật tư (Dạng 2)
 
-| Điều khoản | Nội dung cần có |
-|---|---|
-| Danh mục và tiêu chuẩn vật tư | Mác thép, cấp bền bu lông, tiêu chuẩn, nhà cung cấp được chấp thuận |
-| **Hồ sơ chất lượng vật tư** | Công ty (bên cung cấp) nộp CO, CQ, kết quả thử nghiệm khi được yêu cầu |
-| **Điều chỉnh giá vật tư** | Công thức hoặc chỉ số tham chiếu, ngưỡng biến động, thời điểm áp dụng; hoặc giá cố định đến một ngày xác định |
-| Tiến độ cung ứng | Ngày giao, địa điểm, bên nhận; **chậm giao do nhà cung cấp** |
-| Chuyển quyền sở hữu, rủi ro | Khi nào chuyển (khi giao hay khi thanh toán) và ai chịu rủi ro trong kho |
-| Bảo hành vật tư | Thời hạn, điều kiện; **mối quan hệ với bảo hành của nhà cung cấp** |
-| Tạm ứng vật tư | Mức, bảo lãnh tạm ứng (nếu có), điều kiện hoàn ứng |
-| Thuế, hóa đơn | Giá có hay không có VAT; thời điểm xuất hóa đơn vật tư và thi công (D3) |
+| Điều khoản                    | Nội dung cần có                                                                                               |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Danh mục và tiêu chuẩn vật tư | Mác thép, cấp bền bu lông, tiêu chuẩn, nhà cung cấp được chấp thuận                                           |
+| **Hồ sơ chất lượng vật tư**   | Công ty (bên cung cấp) nộp CO, CQ, kết quả thử nghiệm khi được yêu cầu                                        |
+| **Điều chỉnh giá vật tư**     | Công thức hoặc chỉ số tham chiếu, ngưỡng biến động, thời điểm áp dụng; hoặc giá cố định đến một ngày xác định |
+| Tiến độ cung ứng              | Ngày giao, địa điểm, bên nhận; **chậm giao do nhà cung cấp**                                                  |
+| Chuyển quyền sở hữu, rủi ro   | Khi nào chuyển (khi giao hay khi thanh toán) và ai chịu rủi ro trong kho                                      |
+| Bảo hành vật tư               | Thời hạn, điều kiện; **mối quan hệ với bảo hành của nhà cung cấp**                                            |
+| Tạm ứng vật tư                | Mức, bảo lãnh tạm ứng (nếu có), điều kiện hoàn ứng                                                            |
+| Thuế, hóa đơn                 | Giá có hay không có VAT; thời điểm xuất hóa đơn vật tư và thi công (D3)                                       |
 
 ## 6. Rà soát trước khi ký (checklist)
 
-| # | Nội dung | Đạt |
-|---|---|---|
-| 1 | Phạm vi và ranh giới khớp với báo giá | ☐ |
-| 2 | Có điều khoản **vật tư** phù hợp Dạng 1 hoặc Dạng 2 | ☐ |
-| 3 | Điều khoản **an toàn – bảo hiểm** (B4 mục 2, 3, 5) | ☐ |
-| 4 | Điều kiện thanh toán, tạm ứng, thời hạn, **giữ lại bảo hành** | ☐ |
-| 5 | Gia hạn khi chậm mặt bằng, vật tư, thời tiết | ☐ |
-| 6 | Mức phạt, mức trần phạt, bồi thường hợp lý | ☐ |
-| 7 | Quyền dừng việc khi mất an toàn | ☐ |
-| 8 | Nghiệm thu, hồ sơ hoàn công, bảo hành rõ ràng | ☐ |
-| 9 | Luật sư xem điều khoản rủi ro cao (giá trị lớn, phạt cao, vật tư) | ☐ |
-| 10 | Giám đốc phê duyệt ký (C1) | ☐ |
+| #   | Nội dung                                                          | Đạt |
+| --- | ----------------------------------------------------------------- | --- |
+| 1   | Phạm vi và ranh giới khớp với báo giá                             | ☐   |
+| 2   | Có điều khoản **vật tư** phù hợp Dạng 1 hoặc Dạng 2               | ☐   |
+| 3   | Điều khoản **an toàn – bảo hiểm** (B4 mục 2, 3, 5)                | ☐   |
+| 4   | Điều kiện thanh toán, tạm ứng, thời hạn, **giữ lại bảo hành**     | ☐   |
+| 5   | Gia hạn khi chậm mặt bằng, vật tư, thời tiết                      | ☐   |
+| 6   | Mức phạt, mức trần phạt, bồi thường hợp lý                        | ☐   |
+| 7   | Quyền dừng việc khi mất an toàn                                   | ☐   |
+| 8   | Nghiệm thu, hồ sơ hoàn công, bảo hành rõ ràng                     | ☐   |
+| 9   | Luật sư xem điều khoản rủi ro cao (giá trị lớn, phạt cao, vật tư) | ☐   |
+| 10  | Giám đốc phê duyệt ký (C1)                                        | ☐   |
 
 ## 7. Điều kiện huy động
 
@@ -98,19 +98,19 @@ Công ty chỉ **huy động công nhân và vật tư** khi: hợp đồng đã
 
 **Sổ công nợ phải thu:** khách hàng – hợp đồng – đợt thanh toán – giá trị – hạn – đã thu – còn nợ – quá hạn (ngày) – hành động.
 
-| Mức quá hạn | Hành động |
-|---|---|
-| Trước hạn 5 ngày | Nhắc nhẹ |
-| Quá hạn 1–15 ngày | Gửi email chính thức |
-| Quá hạn 16–45 ngày | Giám đốc làm việc trực tiếp; cân nhắc tạm hoãn huy động người mới (nếu hợp đồng cho phép) |
+| Mức quá hạn          | Hành động                                                                                              |
+| -------------------- | ------------------------------------------------------------------------------------------------------ |
+| Trước hạn 5 ngày     | Nhắc nhẹ                                                                                               |
+| Quá hạn 1–15 ngày    | Gửi email chính thức                                                                                   |
+| Quá hạn 16–45 ngày   | Giám đốc làm việc trực tiếp; cân nhắc tạm hoãn huy động người mới (nếu hợp đồng cho phép)              |
 | Quá hạn trên 45 ngày | Hỏi ý kiến luật sư về quyền dừng thi công; việc dừng phải có căn cứ hợp đồng và thông báo bằng văn bản |
 
 Thanh lý hợp đồng khi hoàn thành nghĩa vụ; lập biên bản thanh lý; đánh giá khách hàng (thanh toán, phối hợp, an toàn) để dùng cho lần sau.
 
 ## 10. Biểu mẫu chính thức của Nhà nước áp dụng cùng văn bản này
 
-| Việc | Biểu mẫu |
-|---|---|
+| Việc                        | Biểu mẫu                                                                      |
+| --------------------------- | ----------------------------------------------------------------------------- |
 | Hợp đồng xây dựng, thầu phụ | Mẫu của Bộ Xây dựng hoặc của tổng thầu (bản hiện hành sau Luật Xây dựng 2025) |
 
 ## 11. Căn cứ

@@ -1,12 +1,12 @@
 # B3 – QUY TRÌNH TAI NẠN LAO ĐỘNG VÀ SỰ CỐ
 
-| | |
-|---|---|
-| **Đơn vị ban hành** | {{TEN_CONG_TY}} |
-| **Mã văn bản / Phiên bản** | B3 / 2.0 |
-| **Ngày ban hành** | {{NGAY_BAN_HANH}} |
-| **Người ký ban hành** | Giám đốc {{GIAM_DOC}} |
-| **Rà soát kế tiếp** | 6 tháng kể từ ngày ban hành; ngay khi Luật An toàn, vệ sinh lao động sửa đổi được thông qua; sau mỗi vụ tai nạn nghiêm trọng |
+|                            |                                                                                                                              |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Đơn vị ban hành**        | {{TEN_CONG_TY}}                                                                                                              |
+| **Mã văn bản / Phiên bản** | B3 / 2.0                                                                                                                     |
+| **Ngày ban hành**          | {{NGAY_BAN_HANH}}                                                                                                            |
+| **Người ký ban hành**      | Giám đốc {{GIAM_DOC}}                                                                                                        |
+| **Rà soát kế tiếp**        | 6 tháng kể từ ngày ban hành; ngay khi Luật An toàn, vệ sinh lao động sửa đổi được thông qua; sau mỗi vụ tai nạn nghiêm trọng |
 
 ## 0. Nguyên tắc
 
@@ -16,13 +16,13 @@
 
 ## 1. Phân loại
 
-| Loại | Điều kiện (tóm tắt) | Điều tra |
-|---|---|---|
-| Tai nạn nhẹ | Bị thương không thuộc danh mục chấn thương nặng | Đoàn điều tra **cấp cơ sở** (Công ty) |
-| Tai nạn nặng 1 người | Thuộc danh mục chấn thương nặng (Phụ lục II Nghị định 39/2016) | Cấp cơ sở |
-| Chết người, hoặc từ 02 người bị thương nặng trở lên | | **Cơ quan cấp tỉnh** trực tiếp điều tra |
-| Sự cố mất an toàn trong thi công, sự cố thiết bị (sập, cháy, nổ, hư hỏng nghiêm trọng, ảnh hưởng người ngoài) | Theo Nghị định 207/2026 | Báo cáo chủ đầu tư, tổng thầu và cơ quan quản lý theo quy định (mục 7) |
-| Suýt xảy ra | Không có thương tích | Ghi nhận nội bộ, rút bài học, **không kỷ luật người báo** |
+| Loại                                                                                                          | Điều kiện (tóm tắt)                                            | Điều tra                                                               |
+| ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Tai nạn nhẹ                                                                                                   | Bị thương không thuộc danh mục chấn thương nặng                | Đoàn điều tra **cấp cơ sở** (Công ty)                                  |
+| Tai nạn nặng 1 người                                                                                          | Thuộc danh mục chấn thương nặng (Phụ lục II Nghị định 39/2016) | Cấp cơ sở                                                              |
+| Chết người, hoặc từ 02 người bị thương nặng trở lên                                                           |                                                                | **Cơ quan cấp tỉnh** trực tiếp điều tra                                |
+| Sự cố mất an toàn trong thi công, sự cố thiết bị (sập, cháy, nổ, hư hỏng nghiêm trọng, ảnh hưởng người ngoài) | Theo Nghị định 207/2026                                        | Báo cáo chủ đầu tư, tổng thầu và cơ quan quản lý theo quy định (mục 7) |
+| Suýt xảy ra                                                                                                   | Không có thương tích                                           | Ghi nhận nội bộ, rút bài học, **không kỷ luật người báo**              |
 
 ## 2. Quy trình xử lý
 
@@ -40,11 +40,11 @@
 
 ### Bước 3. Lập hồ sơ nội bộ (trong 24 giờ)
 
-| Mẫu | Nội dung |
-|---|---|
-| B3-01 | Phiếu ghi nhanh (Mẫu B3-A) |
+| Mẫu   | Nội dung                                                   |
+| ----- | ---------------------------------------------------------- |
+| B3-01 | Phiếu ghi nhanh (Mẫu B3-A)                                 |
 | B3-02 | Phiếu thu thập dữ liệu để điền biểu mẫu chính thức (mục 4) |
-| B3-03 | Danh sách nhân chứng và ảnh hiện trường |
+| B3-03 | Danh sách nhân chứng và ảnh hiện trường                    |
 
 ### Bước 4. Điều tra
 
@@ -77,23 +77,23 @@ Gửi biên bản điều tra cho người bị nạn hoặc thân nhân và cho
 
 ## 4. Phiếu thu thập dữ liệu (B3-02) để điền biểu mẫu chính thức
 
-| Nhóm dữ liệu | Thông tin cần có |
-|---|---|
-| Công ty | Tên, địa chỉ, ngành nghề, số lao động, người đại diện |
-| Công trình | Tên, địa điểm, chủ đầu tư, tổng thầu |
-| Người bị nạn | Họ tên, tuổi, giới tính, nghề, hợp đồng, **thời gian làm việc, thẻ an toàn, huấn luyện, khám sức khỏe, BHXH** |
-| Vụ việc | Thời gian, địa điểm, công việc đang làm, **mô tả diễn biến**, thiết bị liên quan, thời tiết |
-| Thiệt hại | Thương tích, nơi điều trị, ngày điều trị, thiệt hại tài sản |
-| Nhân chứng | Họ tên, vị trí, lời kể |
-| Nguyên nhân sơ bộ | Kỹ thuật, tổ chức, người lao động, thiết bị |
-| Biện pháp tức thời | Đã làm gì, ai làm |
-| Cơ quan đã báo | Thời gian, người báo, người nhận |
+| Nhóm dữ liệu       | Thông tin cần có                                                                                              |
+| ------------------ | ------------------------------------------------------------------------------------------------------------- |
+| Công ty            | Tên, địa chỉ, ngành nghề, số lao động, người đại diện                                                         |
+| Công trình         | Tên, địa điểm, chủ đầu tư, tổng thầu                                                                          |
+| Người bị nạn       | Họ tên, tuổi, giới tính, nghề, hợp đồng, **thời gian làm việc, thẻ an toàn, huấn luyện, khám sức khỏe, BHXH** |
+| Vụ việc            | Thời gian, địa điểm, công việc đang làm, **mô tả diễn biến**, thiết bị liên quan, thời tiết                   |
+| Thiệt hại          | Thương tích, nơi điều trị, ngày điều trị, thiệt hại tài sản                                                   |
+| Nhân chứng         | Họ tên, vị trí, lời kể                                                                                        |
+| Nguyên nhân sơ bộ  | Kỹ thuật, tổ chức, người lao động, thiết bị                                                                   |
+| Biện pháp tức thời | Đã làm gì, ai làm                                                                                             |
+| Cơ quan đã báo     | Thời gian, người báo, người nhận                                                                              |
 
 ## 5. Sổ sự cố và suýt xảy ra (mẫu)
 
 | Ngày | Công trình | Mô tả | Loại (tai nạn, sự cố, suýt xảy ra) | Nguyên nhân | Khắc phục | Người chịu trách nhiệm | Hạn | Đóng |
-|---|---|---|---|---|---|---|---|---|
-| | | | | | | | | |
+| ---- | ---------- | ----- | ---------------------------------- | ----------- | --------- | ---------------------- | --- | ---- |
+|      |            |       |                                    |             |           |                        |     |      |
 
 ## 6. Quan hệ với tổng thầu và bảo hiểm
 
@@ -112,69 +112,69 @@ Gửi biên bản điều tra cho người bị nạn hoặc thân nhân và cho
 
 **Mẫu B3-A – Phiếu ghi nhanh**
 
-| Mục | Nội dung |
-|---|---|
-| Thời điểm; địa điểm; công trình; tỉnh | |
-| Người bị nạn (CCCD, nghề, hợp đồng lao động, thẻ an toàn; PPE: ☐ có ☐ không) | |
-| Công việc đang làm; giấy phép làm việc | ☐ có  ☐ không |
-| Diễn biến; thương tích; đưa đến đâu, lúc mấy giờ | |
-| Người chứng kiến (họ tên, điện thoại) | |
-| Phân loại sơ bộ | ☐ nhẹ  ☐ nặng  ☐ chết người  ☐ từ 2 nặng  ☐ sự cố  ☐ suýt xảy ra |
-| Đã báo | ☐ Chỉ huy trưởng  ☐ Giám đốc  ☐ Tổng thầu  ☐ Sở Nội vụ  ☐ Công an  ☐ Thân nhân  ☐ Bảo hiểm |
-| Người lập | |
+| Mục                                                                          | Nội dung                                                                             |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| Thời điểm; địa điểm; công trình; tỉnh                                        |                                                                                      |
+| Người bị nạn (CCCD, nghề, hợp đồng lao động, thẻ an toàn; PPE: ☐ có ☐ không) |                                                                                      |
+| Công việc đang làm; giấy phép làm việc                                       | ☐ có ☐ không                                                                         |
+| Diễn biến; thương tích; đưa đến đâu, lúc mấy giờ                             |                                                                                      |
+| Người chứng kiến (họ tên, điện thoại)                                        |                                                                                      |
+| Phân loại sơ bộ                                                              | ☐ nhẹ ☐ nặng ☐ chết người ☐ từ 2 nặng ☐ sự cố ☐ suýt xảy ra                          |
+| Đã báo                                                                       | ☐ Chỉ huy trưởng ☐ Giám đốc ☐ Tổng thầu ☐ Sở Nội vụ ☐ Công an ☐ Thân nhân ☐ Bảo hiểm |
+| Người lập                                                                    |                                                                                      |
 
 **Mẫu B3-B – Danh bạ khẩn cấp công trình** (điền trước khi khởi công, đưa vào B2-10)
 
-| Đầu mối | Tên, đơn vị | Điện thoại |
-|---|---|---|
-| Thanh tra Sở Nội vụ **nơi xảy ra tai nạn** | | |
-| Thanh tra Sở Nội vụ **nơi đặt trụ sở Công ty** | | |
-| Công an địa phương | | |
-| Bệnh viện gần nhất | | |
-| Tổng thầu (bộ phận HSE) | | |
-| Công ty bảo hiểm | | |
-| Chỉ huy trưởng, an toàn viên, Giám đốc | | |
+| Đầu mối                                        | Tên, đơn vị | Điện thoại |
+| ---------------------------------------------- | ----------- | ---------- |
+| Thanh tra Sở Nội vụ **nơi xảy ra tai nạn**     |             |            |
+| Thanh tra Sở Nội vụ **nơi đặt trụ sở Công ty** |             |            |
+| Công an địa phương                             |             |            |
+| Bệnh viện gần nhất                             |             |            |
+| Tổng thầu (bộ phận HSE)                        |             |            |
+| Công ty bảo hiểm                               |             |            |
+| Chỉ huy trưởng, an toàn viên, Giám đốc         |             |            |
 
 **Mẫu B3-C – Biên bản sự cố**
 
-| Mục | Nội dung |
-|---|---|
-| Số, ngày, công trình | |
-| Mô tả | |
-| Thiệt hại (người, tài sản, môi trường, người ngoài) | |
-| Nguyên nhân sơ bộ | |
-| Biện pháp xử lý ngay | |
-| Khắc phục lâu dài; người chịu trách nhiệm; hạn | |
-| Ký | Chỉ huy trưởng ___  An toàn viên ___  Giám đốc ___  Tổng thầu xác nhận ___ |
+| Mục                                                 | Nội dung                                                                |
+| --------------------------------------------------- | ----------------------------------------------------------------------- |
+| Số, ngày, công trình                                |                                                                         |
+| Mô tả                                               |                                                                         |
+| Thiệt hại (người, tài sản, môi trường, người ngoài) |                                                                         |
+| Nguyên nhân sơ bộ                                   |                                                                         |
+| Biện pháp xử lý ngay                                |                                                                         |
+| Khắc phục lâu dài; người chịu trách nhiệm; hạn      |                                                                         |
+| Ký                                                  | Chỉ huy trưởng **_ An toàn viên _** Giám đốc **_ Tổng thầu xác nhận _** |
 
 **Mẫu B3-D – Sổ thống kê tai nạn lao động**
 
 | STT | Ngày | Công trình | Người bị nạn | Loại | Nguyên nhân | Số ngày nghỉ | Chi phí | Hồ sơ đã gửi |
-|---|---|---|---|---|---|---|---|---|
-| | | | | | | | | |
+| --- | ---- | ---------- | ------------ | ---- | ----------- | ------------ | ------- | ------------ |
+|     |      |            |              |      |             |              |         |              |
 
 ## 9. Phân tích nguyên nhân (nội bộ, song song với điều tra)
 
-| Nhóm | Câu hỏi |
-|---|---|
-| Kỹ thuật | Thiết bị, giàn giáo, rào chắn, điện, cẩu có đạt yêu cầu và đã kiểm định không? |
-| Tổ chức | Biện pháp B2, giấy phép, giám sát, bố trí người có phù hợp không? |
-| Con người | Huấn luyện, thẻ an toàn, PPE, sức khỏe, mệt mỏi, làm thêm giờ? |
-| Hợp đồng | Phân định trách nhiệm với tổng thầu, thông tin nguy cơ, mặt bằng, lưới điện (B4) có rõ không? |
+| Nhóm      | Câu hỏi                                                                                       |
+| --------- | --------------------------------------------------------------------------------------------- |
+| Kỹ thuật  | Thiết bị, giàn giáo, rào chắn, điện, cẩu có đạt yêu cầu và đã kiểm định không?                |
+| Tổ chức   | Biện pháp B2, giấy phép, giám sát, bố trí người có phù hợp không?                             |
+| Con người | Huấn luyện, thẻ an toàn, PPE, sức khỏe, mệt mỏi, làm thêm giờ?                                |
+| Hợp đồng  | Phân định trách nhiệm với tổng thầu, thông tin nguy cơ, mặt bằng, lưới điện (B4) có rõ không? |
 
 ## 10. Danh sách hồ sơ tai nạn cần có
 
-☐ Phiếu ghi nhanh  ☐ Khai báo  ☐ Quyết định lập đoàn điều tra  ☐ Biên bản khám nghiệm, ảnh hiện trường  ☐ Biên bản lấy lời khai  ☐ Biên bản điều tra  ☐ Biên bản họp công bố  ☐ Chứng từ gửi biên bản  ☐ Hồ sơ y tế, giám định  ☐ Hồ sơ bảo hiểm  ☐ Báo cáo khắc phục
+☐ Phiếu ghi nhanh ☐ Khai báo ☐ Quyết định lập đoàn điều tra ☐ Biên bản khám nghiệm, ảnh hiện trường ☐ Biên bản lấy lời khai ☐ Biên bản điều tra ☐ Biên bản họp công bố ☐ Chứng từ gửi biên bản ☐ Hồ sơ y tế, giám định ☐ Hồ sơ bảo hiểm ☐ Báo cáo khắc phục
 
 ## 11. Biểu mẫu chính thức của Nhà nước áp dụng cùng văn bản này
 
-| Mẫu | Nguồn | Dùng ở |
-|---|---|---|
-| Khai báo tai nạn lao động | Phụ lục III, Nghị định 39/2016/NĐ-CP | Bước 2 |
-| Biên bản lấy lời khai | Phụ lục VIII, Nghị định 39/2016/NĐ-CP | Bước 4 |
-| Biên bản điều tra tai nạn lao động | Phụ lục IX, Nghị định 39/2016/NĐ-CP | Bước 4 |
-| Biên bản họp công bố biên bản điều tra | Phụ lục XI, Nghị định 39/2016/NĐ-CP | Bước 4 |
-| Danh mục chấn thương nặng | Phụ lục II, Nghị định 39/2016/NĐ-CP | Phân loại (mục 1) |
+| Mẫu                                    | Nguồn                                 | Dùng ở            |
+| -------------------------------------- | ------------------------------------- | ----------------- |
+| Khai báo tai nạn lao động              | Phụ lục III, Nghị định 39/2016/NĐ-CP  | Bước 2            |
+| Biên bản lấy lời khai                  | Phụ lục VIII, Nghị định 39/2016/NĐ-CP | Bước 4            |
+| Biên bản điều tra tai nạn lao động     | Phụ lục IX, Nghị định 39/2016/NĐ-CP   | Bước 4            |
+| Biên bản họp công bố biên bản điều tra | Phụ lục XI, Nghị định 39/2016/NĐ-CP   | Bước 4            |
+| Danh mục chấn thương nặng              | Phụ lục II, Nghị định 39/2016/NĐ-CP   | Phân loại (mục 1) |
 
 Công ty không sao chép nguyên văn các biểu mẫu này vào bộ văn bản; mỗi mẫu được tải từ nguồn chính thức, tránh sai số phụ lục.
 

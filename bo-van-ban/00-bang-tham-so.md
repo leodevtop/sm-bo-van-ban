@@ -36,7 +36,7 @@
 | Kinh phí công đoàn | 2% quỹ lương làm căn cứ đóng BHXH | Luật Công đoàn 2024 | ◐ |
 | Ngưỡng bắt buộc đóng BHXH theo hợp đồng lao động | Từ đủ 1 tháng trở lên | Luật BHXH 2024 | ✔ |
 | Hình thức chi trả tiền lương | Bắt buộc chuyển khoản qua tài khoản ngân hàng của người lao động (áp dụng thanh toán không dùng tiền mặt) | Luật Thuế TNDN, Luật Quản lý thuế | ✔ |
-| Chế độ kế toán áp dụng | Thông tư 133/2016/TT-BTC (Chế độ kế toán Doanh nghiệp nhỏ và vừa) | Bộ Tài chính | ✔ |
+| Chế độ kế toán áp dụng | Thông tư 133/2016/TT-BTC (doanh nghiệp nhỏ và vừa, được tiếp tục áp dụng). Kế toán xác nhận chế độ đang dùng: giữ Thông tư 133/2016, hoặc chọn Thông tư 99/2025/TT-BTC (từ 01/01/2026), hoặc Thông tư 58/2026/TT-BTC nếu là doanh nghiệp siêu nhỏ (từ 01/07/2026); chỉ đổi từ đầu kỳ kế toán năm sau | Bộ Tài chính | ✔ (quy định) / ◐ (chế độ công ty đang dùng) |
 
 ### II.2. Thuế thu nhập cá nhân (lương, tiền công)
 
@@ -55,7 +55,7 @@
 | Làm thêm giờ | ≤ 50% số giờ làm bình thường trong 1 ngày; nếu quy định giờ làm theo tuần thì tổng giờ bình thường và làm thêm ≤ 12 giờ/ngày; ≤ 40 giờ/tháng; ≤ 200 giờ/năm (≤ 300 giờ/năm chỉ với ngành thuộc danh mục của Chính phủ) | ◐ |
 | Hệ số làm thêm | 150% ngày thường, 200% ngày nghỉ hằng tuần, 300% ngày lễ, Tết (chưa kể lương ngày lễ) | ◐ |
 | Lương làm đêm | Thêm ít nhất 30% lương ngày làm việc bình thường; làm thêm ban đêm cộng thêm 20% | ◐ |
-| Nghỉ lễ | 11 ngày/năm | ◐ |
+| Nghỉ lễ | 12 ngày/năm | ◐ |
 | Nghỉ phép năm | 12 ngày (14 ngày nếu công việc nặng nhọc, độc hại, nguy hiểm), cộng thêm theo thâm niên | ◐ |
 
 ### II.4. An toàn, vệ sinh lao động
@@ -80,14 +80,16 @@
 | Thời hiệu xử lý kỷ luật | 6 tháng kể từ ngày xảy ra vi phạm (12 tháng với vi phạm liên quan tài chính, tài sản, bí mật) | ◐ |
 | Đăng ký nội quy | Trong 10 ngày kể từ ngày ban hành, qua Cổng dịch vụ công quốc gia; có kết quả trong 7 ngày làm việc | ✔ |
 | Hiệu lực nội quy | Sau 15 ngày kể từ ngày cơ quan có thẩm quyền nhận đủ hồ sơ (Điều 121 Bộ luật Lao động) | ◐ |
-| Xử phạt vi phạm lao động, BHXH | Nghị định 283/2026/NĐ-CP (từ 10/09/2026) | ✔ |
+| Xử phạt vi phạm lao động, BHXH | Nghị định 283/2026/NĐ-CP (từ 10/09/2026, thay Nghị định 12/2022/NĐ-CP) | ✔ |
+| Đăng ký lao động | Người lao động thuộc BHXH bắt buộc: tờ khai đăng ký BHXH có bổ sung thông tin việc làm; ngoài diện này: tờ khai điện tử, tự kê khai trực tuyến (Luật Việc làm 2025; Nghị định 318/2025/NĐ-CP, hiệu lực 01/01/2026) | ◐ |
+| Sổ quản lý lao động | Phải lập và cập nhật (Điều 12 Bộ luật Lao động 2019); không lập hoặc lập không đủ nội dung bị xử phạt theo Nghị định 283/2026/NĐ-CP | ◐ |
 
 ### II.6. Bảo hiểm công trường và quyền dừng thi công
 
 | Tham số | Giá trị | Nguồn | Trạng thái |
 |---|---|---|---|
 | Bảo hiểm bắt buộc của nhà thầu thi công | Bảo hiểm cho người lao động thi công trên công trường và bảo hiểm trách nhiệm dân sự với bên thứ ba | Điều 10 Luật Xây dựng 2025 (hiệu lực 01/07/2026) | ✔ |
-| Số tiền bảo hiểm tối thiểu, mức phí, điều kiện | Do Chính phủ quy định chi tiết (khoản 3 Điều 10); cũ: Nghị định 119/2015/NĐ-CP; kiểm tra văn bản mới | | ✔ (nguyên tắc) / ◐ (số tiền) |
+| Số tiền bảo hiểm tối thiểu, mức phí, điều kiện | Do Chính phủ quy định chi tiết (khoản 3 Điều 10): Nghị định 67/2023/NĐ-CP sửa đổi bởi Nghị định 220/2026/NĐ-CP (xác nhận hiệu lực và số tiền tối thiểu); trước đây Nghị định 119/2015/NĐ-CP | | ✔ (nguyên tắc) / ◐ (số tiền) |
 | Quyền dừng thi công của nhà thầu thi công | Các trường hợp nhà thầu có quyền dừng thi công: Điều 61 Luật Xây dựng 2025 (đọc nguyên văn khi soạn B4) | Luật Xây dựng 2025 | ◐ |
 
 ### II.7. Dữ liệu cá nhân và lưu trữ
@@ -104,9 +106,10 @@
 
 | Mục | Tình trạng |
 |---|---|
-| **Luật ATVSLĐ sửa đổi** | Chính phủ thông qua dự án tại Nghị quyết 275/NQ-CP (17/09/2026): giai đoạn 1 là Luật sửa đổi, bổ sung một số điều, trình Quốc hội Kỳ họp thứ Hai (tháng 10/2026) theo trình tự rút gọn; giai đoạn 2 sửa đổi toàn diện, dự kiến trình cuối 2027. ✔ **Khi thông qua, rà soát A2, B1–B4, C2 và Bảng tham số.** |
+| **Luật ATVSLĐ sửa đổi** | Chính phủ thông qua dự án tại Nghị quyết 275/NQ-CP (17/09/2026): giai đoạn 1 là Luật sửa đổi, bổ sung một số điều, trình Quốc hội Kỳ họp thứ Hai (tháng 10/2026) theo trình tự rút gọn; giai đoạn 2 sửa đổi toàn diện, dự kiến trình cuối 2027. ✔ Tại 15/10/2026 chưa xác nhận Quốc hội đã thông qua. **Khi thông qua, rà soát A2, B1–B4, C2 và Bảng tham số.** |
 | Luật sửa đổi Bộ luật Lao động, Luật Việc làm, Luật BHXH | Chính phủ đã thống nhất sự cần thiết xây dựng (phiên họp tháng 8/2026). ✔ Theo dõi. |
-| Thông tư 32/2026/TT-BXD | Hiệu lực 01/07/2026; thay phần ATLĐ (Điều 2–9) của Thông tư 10/2021/TT-BXD ✔ |
+| Thông tư 32/2026/TT-BXD | Ban hành 22/06/2026, hiệu lực 01/07/2026; bãi bỏ Điều 2–9 và Điều 19 của Thông tư 10/2021/TT-BXD ✔ |
+| Nghị định 207/2026/NĐ-CP | Ban hành 15/06/2026, hiệu lực 01/07/2026; thay Nghị định 06/2021/NĐ-CP ✔ |
 | Nghị định 06/2021/NĐ-CP | Hết hiệu lực từ 01/07/2026 ✔ |
 
 ## PHẦN III. THAM SỐ NỘI BỘ DO CÔNG TY QUYẾT ĐỊNH
@@ -162,7 +165,7 @@
 
 | Tham số | Giá trị |
 |---|---|
-| Báo giá và hợp đồng với chủ đầu tư/tổng thầu: Giám đốc duyệt mọi giá trị trên | `{{NGUONG_BAO_GIA}}` đồng **ĐIỀN** (dưới ngưỡng: Trưởng phòng Kinh doanh duyệt, báo cáo Giám đốc hằng tuần) |
+| Báo giá và hợp đồng với chủ đầu tư/tổng thầu: Giám đốc duyệt mọi giá trị trên | `{{NGUONG_BAO_GIA}}` đồng **ĐIỀN** (dưới ngưỡng: Trưởng phòng Dự án (kiêm Kinh doanh) duyệt, báo cáo Giám đốc hằng tuần) |
 | Hợp đồng nhà cung cấp, thầu phụ, thuê thiết bị: Giám đốc ký khi giá trị trên | `{{NGUONG_HOP_DONG_NCC}}` đồng **ĐIỀN** |
 | Khoản chi do Trưởng phòng duyệt khi không vượt | `{{NGUONG_CHI_TRUONG_PHONG}}` đồng **ĐIỀN** (vượt: Kế toán trưởng kiểm tra, Giám đốc duyệt) |
 | Quyết toán tạm ứng | Trong 10 ngày kể từ khi hết hạn hoặc xong việc |
