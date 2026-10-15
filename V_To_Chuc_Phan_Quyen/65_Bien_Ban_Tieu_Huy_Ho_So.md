@@ -6,19 +6,19 @@
 | **Mã văn bản** | `65/BB-THHS-<<CTY_TEN_VT>>` |
 | **Phiên bản** | `1.0` |
 | **Ngày lập biên bản** | `<<VB_NGAY>>/<<VB_THANG>>/<<VB_NAM>>` |
-| **Quyết định thành lập Hội đồng** | Quyết định số `<<QD_SO>>/QD-<<CTY_TEN_VT>>` ngày `<<QD_NGAY>>` của Giám đốc |
+| **Quyết định thành lập Hội đồng** | Quyết định số ........./QĐ-<<CTY_TEN_VT>> ngày ......... của Giám đốc |
 | **Tài liệu tham chiếu** | Quy chế bảo vệ dữ liệu cá nhân và lưu trữ (`64/QC-BVDL-<<CTY_TEN_VT>>`) |
 
 ---
 
-Hôm nay, vào hồi `<<GIO_TIEU_HUY>>` ngày `<<VB_NGAY>>` tháng `<<VB_THANG>>` năm `<<VB_NAM>>`, tại Trụ sở Công ty **<<CTY_TEN>>** (Địa chỉ: `<<CTY_DC>>`), Hội đồng tiêu hủy hồ sơ, tài liệu hết thời hạn lưu trữ đã tiến hành thẩm định và thực hiện quy trình tiêu hủy hồ sơ theo quy định.
+Hôm nay, vào hồi ......... ngày <<VB_NGAY>> tháng <<VB_THANG>> năm <<VB_NAM>>, tại Trụ sở Công ty **<<CTY_TEN>>** (Địa chỉ: `<<CTY_DC>>`), Hội đồng tiêu hủy hồ sơ, tài liệu hết thời hạn lưu trữ đã tiến hành thẩm định và thực hiện quy trình tiêu hủy hồ sơ theo quy định.
 
 ## 1. THÀNH PHẦN HỘI ĐỒNG TIÊU HỦY HỒ SƠ
-1. Ông/Bà: **<<NGUOI_DAI_DIEN_PHAP_LUAT>>** - Giám đốc Công ty - Chủ tịch Hội đồng.
-2. Ông/Bà: `<<TP_HCNS_TEN>>` - Trưởng phòng Hành chính - Nhân sự - Phó Chủ tịch Hội đồng.
-3. Ông/Bà: `<<KTT_TEN>>` - Kế toán trưởng - Ủy viên (Thẩm định hồ sơ tài chính, chứng từ).
-4. Ông/Bà: `<<TP_KT_TEN>>` - Trưởng phòng Kỹ thuật - Thi công - Ủy viên (Thẩm định hồ sơ kỹ thuật).
-5. Ông/Bà: `<<CAN_BO_LUU_TRU>>` - Cán bộ Văn thư - Lưu trữ - Thư ký Hội đồng.
+1. Ông/Bà: **<<CTY_DAI_DIEN>>** - Giám đốc Công ty - Chủ tịch Hội đồng.
+2. Ông/Bà: ......... - Trưởng phòng Hành chính – Nhân sự - Phó Chủ tịch Hội đồng.
+3. Ông/Bà: **<<CTY_KE_TOAN_TRUONG>>** - Kế toán trưởng - Ủy viên (Thẩm định hồ sơ tài chính, chứng từ).
+4. Ông/Bà: ......... - Trưởng phòng Thi công - Ủy viên (Thẩm định hồ sơ kỹ thuật).
+5. Ông/Bà: ......... - Cán bộ Văn thư - Lưu trữ - Thư ký Hội đồng.
 
 ---
 
@@ -55,7 +55,7 @@ Hội đồng đã kiểm tra thực tế, đối chiếu với Quy định th�
 1. Hội đồng tiêu hủy hồ sơ cam kết toàn bộ danh mục tài liệu tiêu hủy nêu trên đã được đối chiếu, phân loại chính xác, không làm thất thoát, hư hỏng các tài liệu lưu trữ vĩnh viễn, chứng từ kế toán bắt buộc lưu trữ 10 năm theo Luật Kế toán hoặc các hồ sơ hoàn công công trình đang trong thời hạn bảo trì, bảo hiểm.
 2. Quá trình tiêu hủy diễn ra an toàn, đảm bảo vệ sinh môi trường, an toàn phòng cháy chữa cháy và bảo mật thông tin tuyệt đối.
 
-Biên bản này được lập thành 03 bản gốc lưu trữ tại: Hồ sơ lưu trữ công ty (lưu vĩnh viễn), Phòng Kế toán và Phòng Hành chính - Nhân sự.
+Biên bản này được lập thành 03 bản gốc lưu trữ tại: Hồ sơ lưu trữ công ty (lưu vĩnh viễn), Phòng Kế toán – Tài chính và Phòng Hành chính – Nhân sự.
 
 ---
 
@@ -71,5 +71,5 @@ Biên bản này được lập thành 03 bản gốc lưu trữ tại: Hồ sơ
 | CÁN BỘ LƯU TRỮ (THƯ KÝ) | KẾ TOÁN TRƯỞNG | TRƯỞNG PHÒNG HC-NS | CHỦ TỊCH HỘI ĐỒNG (GIÁM ĐỐC) |
 | :---: | :---: | :---: | :---: |
 | *(Ký, ghi rõ họ tên)* | *(Ký, ghi rõ họ tên)* | *(Ký, ghi rõ họ tên)* | *(Ký tên và đóng dấu)* |
-| | | | **<<NGUOI_DAI_DIEN_PHAP_LUAT>>** |
-| **<<CAN_BO_LUU_TRU>>** | **<<KTT_TEN>>** | **<<TP_HCNS_TEN>>** | Đại diện pháp luật |
+| | | | **<<CTY_DAI_DIEN>>** |
+| ......... | **<<CTY_KE_TOAN_TRUONG>>** | ......... | Đại diện pháp luật |

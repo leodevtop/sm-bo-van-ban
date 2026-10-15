@@ -7,8 +7,8 @@
 | **Phiên bản** | `1.0` |
 | **Ngày ban hành** | `<<VB_NGAY>>/<<VB_THANG>>/<<VB_NAM>>` |
 | **Chế độ kế toán áp dụng** | **Thông tư số 133/2016/TT-BTC** *(Chế độ kế toán Doanh nghiệp nhỏ và vừa)* |
-| **Người phê duyệt** | Giám đốc / Đại diện pháp luật `<<NGUOI_DAI_DIEN_PHAP_LUAT>>` |
-| **Phạm vi áp dụng** | Phòng Tài chính - Kế toán, Ban Chỉ huy các công trường, Phòng Kỹ thuật, Phòng Kinh doanh |
+| **Người phê duyệt** | Giám đốc / Đại diện pháp luật `<<CTY_DAI_DIEN>>` |
+| **Phạm vi áp dụng** | Phòng Kế toán – Tài chính, Ban Chỉ huy các công trường, Phòng Thi công, Phòng Dự án (kiêm Kinh doanh) |
 
 ---
 
@@ -48,7 +48,7 @@
 ```
 
 ### 2.1. Hạn mức và điều kiện tạm ứng quỹ công trường (Petty Cash)
-1. Chỉ huy trưởng công trường `<<CHT_TEN>>` được cấp một hạn mức quỹ tiền mặt công trường để giải quyết các chi phí khẩn cấp, mua vật tư phụ phát sinh đột xuất, tiếp khách tại hiện trường hoặc chi trả công bốc vác nhỏ lẻ tại địa phương.
+1. Chỉ huy trưởng công trường `<<CT_CHI_HUY_TRUONG>>` được cấp một hạn mức quỹ tiền mặt công trường để giải quyết các chi phí khẩn cấp, mua vật tư phụ phát sinh đột xuất, tiếp khách tại hiện trường hoặc chi trả công bốc vác nhỏ lẻ tại địa phương.
 2. Hạn mức tạm ứng tối đa: Thực hiện **theo Bảng tham số hiện hành** của Công ty (thông thường từ **20.000.000 VNĐ đến 50.000.000 VNĐ** tùy thuộc quy mô dự án và khoảng cách địa lý).
 3. Hình thức giải ngân: Chuyển khoản 100% từ tài khoản công ty sang tài khoản ngân hàng cá nhân chính chủ của Chỉ huy trưởng. Tuyệt đối không giao tiền mặt trực tiếp.
 
@@ -109,8 +109,8 @@ Nhằm tuân thủ tuyệt đối quy định pháp luật về lao động và 
 
 ---
 
-| KẾ TOÁN TRƯỞNG | TRƯỞNG PHÒNG KINH DOANH | ĐẠI DIỆN PHÁP LUẬT DUYỆT BAN HÀNH |
+| KẾ TOÁN TRƯỞNG | TRƯỞNG PHÒNG DỰ ÁN (KIÊM KINH DOANH) | GIÁM ĐỐC CÔNG TY DUYỆT BAN HÀNH |
 | :---: | :---: | :---: |
 | *(Ký, ghi rõ họ tên)* | *(Ký, ghi rõ họ tên)* | *(Ký tên và đóng dấu)* |
-| | | **<<NGUOI_DAI_DIEN_PHAP_LUAT>>** |
-| **<<KTT_TEN>>** | | Giám đốc Công ty |
+| | | **<<CTY_DAI_DIEN>>** |
+| **<<CTY_KE_TOAN_TRUONG>>** | | Giám đốc Công ty |

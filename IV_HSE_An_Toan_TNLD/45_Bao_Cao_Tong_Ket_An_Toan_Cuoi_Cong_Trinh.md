@@ -5,18 +5,18 @@
 | **Đơn vị lập báo cáo** | **<<CTY_TEN>>** |
 | **Công trình / Dự án** | **<<CT_TEN>>** |
 | **Địa điểm thi công** | <<CT_DIA_DIEM>> |
-| **Tổng thầu chính / Chủ đầu tư** | **<<KH_TEN>>** / <<CDT_TEN>> |
+| **Tổng thầu chính / Chủ đầu tư** | **<<KH_TEN>>** |
 | **Mã biểu mẫu** | `45/BC-HSE-<<CTY_TEN_VT>>` |
 | **Phiên bản** | `1.0` |
-| **Thời gian thi công dự án** | Từ ngày `<<NGAY_KHOI_CONG>>` đến ngày `<<NGAY_HOAN_THANH>>` |
+| **Thời gian thi công dự án** | Từ ngày `<<CT_NGAY_KHOI_CONG>>` đến ngày `<<CT_NGAY_HOAN_THANH>>` |
 | **Ngày lập báo cáo** | `<<VB_NGAY>>/<<VB_THANG>>/<<VB_NAM>>` |
-| **Người lập báo cáo** | Kỹ sư An toàn HSE trưởng: `<<HSE_TRUONG_TEN>>` |
+| **Người lập báo cáo** | Kỹ sư An toàn HSE: **<<CT_AT_VIEN>>** |
 
 ---
 
 ## 1. TỔNG QUAN DỰ ÁN VÀ ĐẶC ĐIỂM RỦI RO THI CÔNG
 
-1. **Phạm vi thi công của <<CTY_TEN>>:** Thi công lắp dựng toàn bộ hệ khung kết cấu thép nhà xưởng chính, dầm cầu trục, xà gồ mái - vách và hệ giằng gián tiếp với tổng khối lượng cấu kiện thép lắp dựng đạt `<<TONG_SAN_LUONG_TAN>>` tấn.
+1. **Phạm vi thi công của <<CTY_TEN>>:** Thi công lắp dựng toàn bộ hệ khung kết cấu thép nhà xưởng chính, dầm cầu trục, xà gồ mái - vách và hệ giằng gián tiếp với tổng khối lượng cấu kiện thép lắp dựng đạt `.........` tấn.
 2. **Đặc điểm điều kiện thi công và các mối nguy rủi ro cao:**
    - 100% công tác lắp dựng diễn ra trên cao (từ độ cao +8.0m đến +24.5m so với mặt sàn), tiềm ẩn nguy cơ ngã cao đặc biệt nguy hiểm.
    - Sử dụng đồng thời nhiều thiết bị nâng hạ tải trọng lớn (xe cẩu bánh lốp 50 tấn, 80 tấn, xe nâng người tự hành Boom lift 28m), rủi ro liên quan đến sụt lún chân cẩu, lật cần và đứt cáp treo.
@@ -29,15 +29,15 @@
 
 | STT | Chỉ số đo lường an toàn (HSE KPI) | Kết quả thực hiện tại dự án | Chỉ tiêu kế hoạch ban đầu | Đánh giá kết quả |
 | :---: | :--- | :---: | :---: | :---: |
-| 1 | **Tổng số giờ công làm việc an toàn (Safe Man-hours):** | **<<SO_GIO_AN_TOAN>>** Giờ | <<MUC_TIEU_GIO>> Giờ | **Hoàn thành 100% mục tiêu** |
+| 1 | **Tổng số giờ công làm việc an toàn (Safe Man-hours):** | **.........** Giờ | ......... Giờ | **Hoàn thành 100% mục tiêu** |
 | 2 | Số vụ tai nạn lao động chết người (Fatalities): | **0 vụ** | 0 vụ | Tuyệt đối an toàn |
 | 3 | Số vụ tai nạn lao động nặng (Lost Time Injury - LTI): | **0 vụ** | 0 vụ | Tuyệt đối an toàn |
-| 4 | Số vụ tai nạn lao động nhẹ (Chăm sóc y tế tại chỗ - MTC / FAC): | **<<SO_VU_SO_CUU>>** vụ *(chỉ trầy xước nhẹ)* | $\le$ 02 vụ | Kiểm soát rất tốt |
+| 4 | Số vụ tai nạn lao động nhẹ (Chăm sóc y tế tại chỗ - MTC / FAC): | **0** vụ *(chỉ trầy xước nhẹ)* | $\le$ 02 vụ | Kiểm soát rất tốt |
 | 5 | Tỷ lệ tần suất tai nạn lao động mất thời gian (LTIFR): | **0.00** | 0.00 | Đạt chuẩn quốc tế |
-| 6 | Số sự cố suýt bị nạn (Near-miss) được ghi nhận và xử lý triệt để: | **<<SO_VU_NEARMISS>>** vụ | Báo cáo bắt buộc | Đã khắc phục mối nguy |
+| 6 | Số sự cố suýt bị nạn (Near-miss) được ghi nhận và xử lý triệt để: | **.........** vụ | Báo cáo bắt buộc | Đã khắc phục mối nguy |
 | 7 | Số vụ cháy nổ hoặc sự cố sập đổ kết cấu trong quá trình cẩu: | **0 vụ** | 0 vụ | An toàn tuyệt đối |
 | 8 | Số lần bị Chủ đầu tư / Tổng thầu lập biên bản đình chỉ vi phạm HSE: | **0 lần** | 0 lần | Tuân thủ xuất sắc |
-| 9 | Tỷ lệ công nhân đạt thẻ an toàn nhóm 3 trước khi vào công trường: | **100%** (<<SL_CONG_NHAN>> người) | 100% | Đạt chuẩn pháp luật |
+| 9 | Tỷ lệ công nhân đạt thẻ an toàn nhóm 3 trước khi vào công trường: | **100%** (......... người) | 100% | Đạt chuẩn pháp luật |
 | 10 | Tỷ lệ tham gia họp an toàn đầu giờ (Toolbox Meeting) hàng ngày: | **100%** | 100% | Nghiêm túc duy trì |
 
 ---
@@ -98,5 +98,5 @@ Bộ phận An toàn HSE kính đề nghị Ban Giám đốc Công ty xem xét k
 | KỸ SƯ AN TOÀN HSE LẬP BÁO CÁO | CHỈ HUY TRƯỞNG CÔNG TRƯỜNG | ĐẠI DIỆN PHÁP LUẬT CÔNG TY PHÊ DUYỆT |
 | :---: | :---: | :---: |
 | *(Ký, ghi rõ họ tên)* | *(Ký, ghi rõ họ tên)* | *(Ký tên và đóng dấu)* |
-| | | **<<NGUOI_DAI_DIEN_PHAP_LUAT>>** |
-| **<<HSE_TRUONG_TEN>>** | **<<CHT_TEN>>** | Giám đốc Công ty |
+| | | **<<CTY_DAI_DIEN>>** |
+| **<<CT_AT_VIEN>>** | **<<CT_CHI_HUY_TRUONG>>** | Giám đốc Công ty |

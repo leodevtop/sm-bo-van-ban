@@ -5,7 +5,7 @@
 | :--- | :--- |
 | **Mã văn bản** | `81/HD-DVCN-<<CTY_TEN_VT>>` |
 | **Phiên bản** | `1.0` |
-| **Số hợp đồng** | `<<SO_HD>>/<<VB_NAM>>/HDDV-<<CTY_TEN_VT>>` |
+| **Số hợp đồng** | `........./<<VB_NAM>>/HDDV-<<CTY_TEN_VT>>` |
 | **Ngày ký kết** | Ngày `<<VB_NGAY>>` tháng `<<VB_THANG>>` năm `<<VB_NAM>>` |
 | **Địa điểm ký kết** | Trụ sở Công ty **<<CTY_TEN>>** |
 | **Tài liệu tham chiếu** | Bộ luật Dân sự 2015 (Điều 513 - 521 về Hợp đồng dịch vụ) |
@@ -24,20 +24,20 @@ Hôm nay, ngày `<<VB_NGAY>>` tháng `<<VB_THANG>>` năm `<<VB_NAM>>`, tại Vă
 ### BÊN SỬ DỤNG DỊCH VỤ (BÊN A): **<<CTY_TEN>>**
 - Mã số thuế: `<<CTY_MST>>`
 - Địa chỉ trụ sở: `<<CTY_DC>>`
-- Đại diện theo pháp luật: **<<NGUOI_DAI_DIEN_PHAP_LUAT>>** - Chức vụ: Giám đốc
-- Điện thoại: `<<CTY_SO_DIEN_THOAI>>` - Email: `<<CTY_EMAIL>>`
+- Đại diện theo pháp luật: **<<CTY_DAI_DIEN>>** - Chức vụ: Giám đốc
+- Điện thoại: `<<CTY_DT>>` - Email: `<<CTY_EMAIL>>`
 - Số tài khoản: `<<CTY_STK>>` tại Ngân hàng `<<CTY_NGAN_HANG>>`
 
-### BÊN CUNG CẤP DỊCH VỤ (BÊN B): **<<CHUYEN_GIA_TEN>>**
-- Ngày tháng năm sinh: `<<CHUYEN_GIA_NGAY_SINH>>` - Giới tính: `<<CHUYEN_GIA_GIOI_TINH>>`
+### BÊN CUNG CẤP DỊCH VỤ (BÊN B): **<<NCC_TEN>>**
+- Ngày tháng năm sinh: `.........` - Giới tính: `.........`
 - Quốc tịch: Việt Nam
-- Số CCCD/Hộ chiếu: `<<CHUYEN_GIA_CCCD>>` cấp ngày `<<CHUYEN_GIA_NGAY_CAP>>` tại Cục CSQLHC về TTXH
-- Mã số thuế cá nhân: `<<CHUYEN_GIA_MST>>`
-- Địa chỉ thường trú: `<<CHUYEN_GIA_DIA_CHI_THUONG_TRU>>`
-- Địa chỉ cư trú hiện tại: `<<CHUYEN_GIA_DIA_CHI_HIEN_TAI>>`
-- Điện thoại liên hệ: `<<CHUYEN_GIA_SDT>>` - Email: `<<CHUYEN_GIA_EMAIL>>`
-- Số tài khoản ngân hàng: `<<CHUYEN_GIA_STK>>` tại Ngân hàng `<<CHUYEN_GIA_NGAN_HANG>>`
-- Trình độ chuyên môn / Chứng chỉ hành nghề: `<<CHUYEN_GIA_CHUNG_CHI>>`
+- Số CCCD/Hộ chiếu: `.........` cấp ngày `.........` tại Cục CSQLHC về TTXH
+- Mã số thuế cá nhân: `<<NCC_MST>>`
+- Địa chỉ thường trú: `<<NCC_DC>>`
+- Địa chỉ cư trú hiện tại: `.........`
+- Điện thoại liên hệ: `.........` - Email: `.........`
+- Số tài khoản ngân hàng: `<<NCC_STK>>` tại Ngân hàng `.........`
+- Trình độ chuyên môn / Chứng chỉ hành nghề: `.........`
 
 Hai bên cùng thống nhất ký kết Hợp đồng dịch vụ cá nhân với các điều khoản và điều kiện sau:
 
@@ -60,7 +60,7 @@ Bên A thuê Bên B và Bên B đồng ý cung cấp dịch vụ chuyên môn đ
 
 ## ĐIỀU 2. THỜI HẠN VÀ TIẾN ĐỘ THỰC HIỆN
 
-1. **Thời hạn hợp đồng:** Từ ngày `<<NGAY_BAT_DAU_DV>>` đến ngày `<<NGAY_KET_THUC_DV>>` hoặc kết thúc khi Bên B hoàn thành việc bàn giao các sản phẩm dịch vụ tại Điều 1 và được Bên A nghiệm thu.
+1. **Thời hạn hợp đồng:** Từ ngày `.........` đến ngày `.........` hoặc kết thúc khi Bên B hoàn thành việc bàn giao các sản phẩm dịch vụ tại Điều 1 và được Bên A nghiệm thu.
 2. **Tiến độ cung cấp:**
    - Đợt 1: Hoàn thành thẩm tra sơ đồ cẩu và thuyết minh tính toán trong vòng 07 ngày kể từ ngày nhận đủ hồ sơ thiết kế từ Bên A.
    - Đợt 2: Tham gia hỗ trợ kỹ thuật tại hiện trường trong các ngày lắp dựng khung cứng khóa và dầm chính theo lịch thông báo trước tối thiểu 03 ngày của Bên A.
@@ -70,15 +70,15 @@ Bên A thuê Bên B và Bên B đồng ý cung cấp dịch vụ chuyên môn đ
 ## ĐIỀU 3. PHÍ DỊCH VỤ VÀ PHƯƠNG THỨC THANH TOÁN
 
 1. **Phí dịch vụ trọn gói:**
-   - Tổng giá trị thù lao dịch vụ: **<<PHI_DICH_VU_SO>>** VNĐ *(Bằng chữ: <<PHI_DICH_VU_CHU>>)*.
+   - Tổng giá trị thù lao dịch vụ: **.........** VNĐ *(Bằng chữ: .........)*.
    - Mức phí trên đã bao gồm toàn bộ chi phí đi lại, ăn ở, phương tiện làm việc của Bên B và chưa bao gồm thuế TNCN (hoặc đã bao gồm nghĩa vụ thuế TNCN theo thỏa thuận).
 2. **Khấu trừ thuế Thu nhập cá nhân (TNCN):**
-   - Căn cứ điểm i khoản 1 Điều 25 Thông tư số 111/2013/TT-BTC, do khoản chi trả thù lao dịch vụ cho cá nhân không có hợp đồng lao động có giá trị từ 2.000.000 VNĐ/lần trở lên, Bên A có nghĩa vụ **khấu trừ 10% thuế TNCN** tại nguồn trước khi thực hiện thanh toán cho Bên B, tương đương số tiền: `<<TIEN_THUE_TNCN_10PT>>` VNĐ.
-   - Số tiền thực nhận chuyển khoản của Bên B (Net): `<<SO_TIEN_THUC_NHAN>>` VNĐ.
+   - Căn cứ điểm i khoản 1 Điều 25 Thông tư số 111/2013/TT-BTC, do khoản chi trả thù lao dịch vụ cho cá nhân không có hợp đồng lao động có giá trị từ 2.000.000 VNĐ/lần trở lên, Bên A có nghĩa vụ **khấu trừ 10% thuế TNCN** tại nguồn trước khi thực hiện thanh toán cho Bên B, tương đương số tiền: `.........` VNĐ.
+   - Số tiền thực nhận chuyển khoản của Bên B (Net): `.........` VNĐ.
    - Bên A có trách nhiệm kê khai, nộp số thuế khấu trừ này vào Ngân sách Nhà nước và cấp Chứng từ khấu trừ thuế TNCN điện tử cho Bên B theo quy định pháp luật khi Bên B yêu cầu.
    - *(Trường hợp Bên B chỉ có duy nhất thu nhập tại Bên A và ước tính tổng thu nhập chịu thuế sau khi giảm trừ gia cảnh chưa đến mức phải nộp thuế, Bên B có quyền làm Bản cam kết theo mẫu số 08/CK-TNCN ban hành kèm Thông tư 80/2021/TT-BTC để Bên A tạm thời chưa khấu trừ 10% thuế TNCN. Bên B hoàn toàn tự chịu trách nhiệm trước pháp luật về tính chính xác của bản cam kết).*
 3. **Phương thức thanh toán:**
-   - Tạm ứng: `<<TIEN_TAM_UNG_DV>>` VNĐ sau khi ký hợp đồng.
+   - Tạm ứng: `.........` VNĐ sau khi ký hợp đồng.
    - Thanh toán đợt cuối: Số tiền còn lại được thanh toán trong vòng 05 ngày làm việc sau khi hai bên ký Biên bản nghiệm thu bàn giao toàn bộ sản phẩm dịch vụ.
    - Hình thức thanh toán: Chuyển khoản ngân hàng vào tài khoản cá nhân của Bên B nêu tại phần đầu hợp đồng.
 
@@ -127,5 +127,5 @@ Bên A thuê Bên B và Bên B đồng ý cung cấp dịch vụ chuyên môn đ
 | :---: | :---: |
 | *(Ký và ghi rõ họ tên)* | *(Ký tên và đóng dấu công ty)* |
 | | |
-| **<<CHUYEN_GIA_TEN>>** | **<<NGUOI_DAI_DIEN_PHAP_LUAT>>** |
+| **<<NCC_TEN>>** | **<<CTY_DAI_DIEN>>** |
 | Chuyên gia kỹ thuật độc lập | Giám đốc Công ty |

@@ -6,7 +6,7 @@
 | **Mã văn bản** | `78/QC-DCCS-<<CTY_TEN_VT>>` |
 | **Phiên bản** | `1.0` |
 | **Ngày ban hành** | `<<VB_NGAY>>/<<VB_THANG>>/<<VB_NAM>>` |
-| **Người ký phê duyệt** | Giám đốc / Đại diện pháp luật `<<NGUOI_DAI_DIEN_PHAP_LUAT>>` |
+| **Người ký phê duyệt** | Giám đốc / Đại diện pháp luật `<<CTY_DAI_DIEN>>` |
 | **Đơn vị phối hợp ban hành** | Ban Chấp hành Công đoàn cơ sở / Đại diện tập thể người lao động |
 | **Phạm vi áp dụng** | Toàn bộ cán bộ nhân viên, kỹ sư, chỉ huy trưởng và công nhân lắp dựng tại văn phòng và tất cả các công trường |
 
@@ -22,7 +22,7 @@
    - Đúng thẩm quyền, đúng trình tự, bảo đảm bí mật kinh doanh và an toàn thông tin của Công ty.
 
 ### Điều 2. Đối tượng áp dụng
-1. Người sử dụng lao động (NSDLĐ): Giám đốc Công ty và những người được ủy quyền đại diện quản lý (Phó Giám đốc, Chỉ huy trưởng công trường, Trưởng các phòng ban).
+1. Người sử dụng lao động (NSDLĐ): Giám đốc Công ty và những người được ủy quyền đại diện quản lý (Chỉ huy trưởng công trường, Trưởng các phòng ban).
 2. Người lao động (NLĐ): Toàn bộ người lao động làm việc theo Hợp đồng lao động tại Văn phòng công ty và tại các ban chỉ huy công trường thi công lắp dựng.
 3. Tổ chức đại diện người lao động tại cơ sở: Ban Chấp hành Công đoàn cơ sở **<<CTY_TEN>>** (sau đây gọi tắt là "Công đoàn").
 
@@ -74,9 +74,9 @@ NLĐ có quyền kiểm tra, giám sát việc:
 
 ### Điều 8. Thành phần và số lượng đại diện tham gia đối thoại
 1. **Đại diện bên NSDLĐ:** Tối đa từ 03 đến 05 người do Giám đốc Công ty chỉ định, bao gồm:
-   - Đại diện Ban Giám đốc (Giám đốc hoặc Phó Giám đốc phụ trách khối).
-   - Trưởng phòng Hành chính - Nhân sự.
-   - Trưởng phòng Kỹ thuật - Thi công / Đại diện Chỉ huy trưởng công trường.
+   - Đại diện Ban Giám đốc (Giám đốc Công ty).
+   - Trưởng phòng Hành chính – Nhân sự.
+   - Trưởng phòng Thi công / Đại diện Chỉ huy trưởng công trường.
    - Kế toán trưởng.
 2. **Đại diện bên NLĐ:** Tối đa từ 03 đến 05 người do Ban Chấp hành Công đoàn cử, bao gồm:
    - Chủ tịch hoặc Phó Chủ tịch Công đoàn cơ sở.
@@ -102,7 +102,7 @@ NLĐ có quyền kiểm tra, giám sát việc:
 ## CHƯƠNG V. TỔ CHỨC THỰC HIỆN VÀ ĐIỀU KHOẢN THI HÀNH
 
 ### Điều 10. Trách nhiệm thi hành
-1. **Phòng Hành chính - Nhân sự:** Làm đầu mối tham mưu cho Ban Giám đốc tổ chức đối thoại, lập sổ theo dõi tiếp nhận kiến nghị (`80/SO-KN-<<CTY_TEN_VT>>`), đôn đốc các bộ phận liên quan giải quyết các kết luận đối thoại.
+1. **Phòng Hành chính – Nhân sự:** Làm đầu mối tham mưu cho Ban Giám đốc tổ chức đối thoại, lập sổ theo dõi tiếp nhận kiến nghị (`80/SO-KN-<<CTY_TEN_VT>>`), đôn đốc các bộ phận liên quan giải quyết các kết luận đối thoại.
 2. **Ban Chấp hành Công đoàn cơ sở:** Tuyên truyền, phổ biến quy chế cho toàn thể NLĐ; nắm bắt tâm tư, nguyện vọng chính đáng của công nhân lắp dựng; giám sát quá trình thực hiện các cam kết sau đối thoại.
 3. **Chỉ huy trưởng các công trường:** Đảm bảo quyền được thông tin và tham gia ý kiến của công nhân tại hiện trường; giải quyết ngay tại chỗ các vấn đề liên quan đến điều kiện sinh hoạt lán trại và an toàn lao động.
 
@@ -122,5 +122,5 @@ NLĐ có quyền kiểm tra, giám sát việc:
 | :---: | :---: |
 | *(Ký tên, đóng dấu)* | *(Ký tên, đóng dấu công ty)* |
 | | |
-| **<<CHU_TICH_CONG_DOAN>>** | **<<NGUOI_DAI_DIEN_PHAP_LUAT>>** |
+| **<<CTY_CD_CHU_TICH>>** | **<<CTY_DAI_DIEN>>** |
 | Chủ tịch Công đoàn | Giám đốc Công ty |

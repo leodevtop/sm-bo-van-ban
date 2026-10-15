@@ -6,7 +6,7 @@
 | **Công trình / Dự án** | **<<CT_TEN>>** |
 | **Mã biểu mẫu** | `26/BB-AT-<<CTY_TEN_VT>>` |
 | **Phiên bản** | `1.0` |
-| **Kỳ đánh giá** | Tháng `<<THANG_DANH_GIA>>` năm `<<NAM_DANH_GIA>>` *(hoặc Giai đoạn thi công)* |
+| **Kỳ đánh giá** | Tháng `<<VB_THANG>>` năm `<<VB_NAM>>` *(hoặc Giai đoạn thi công)* |
 | **Ngày lập biên bản** | `<<VB_NGAY>>/<<VB_THANG>>/<<VB_NAM>>` |
 | **Tài liệu tham chiếu** | Sổ tay HSE (`32_So_Tay_HSE.md`) & Quy chế thưởng an toàn lao động |
 
@@ -15,10 +15,10 @@
 Hôm nay, ngày `<<VB_NGAY>>` tháng `<<VB_THANG>>` năm `<<VB_NAM>>`, tại Văn phòng Ban Chỉ huy công trường **<<CT_TEN>>**, Hội đồng đánh giá an toàn công trường đã họp để bình xét và chấm điểm thưởng an toàn lao động cho các tổ đội và cá nhân tham gia thi công lắp dựng trong kỳ.
 
 ## 1. THÀNH PHẦN HỘI ĐỒNG ĐÁNH GIÁ
-1. Ông/Bà: **<<CHT_TEN>>** - Chỉ huy trưởng công trường - Chủ tịch Hội đồng.
-2. Ông/Bà: `<<HSE_TEN>>` - Kỹ sư An toàn HSE chuyên trách - Phó Chủ tịch Hội đồng.
-3. Ông/Bà: `<<ATVSV_TEN>>` - An toàn vệ sinh viên cơ sở / Đại diện Công đoàn - Ủy viên.
-4. Ông/Bà: `<<KT_CT_TEN>>` - Kế toán công trình - Thư ký ghi biên bản.
+1. Ông/Bà: **<<CT_CHI_HUY_TRUONG>>** - Chỉ huy trưởng công trường - Chủ tịch Hội đồng.
+2. Ông/Bà: **<<CT_AT_VIEN>>** - Kỹ sư An toàn HSE chuyên trách - Phó Chủ tịch Hội đồng.
+3. Ông/Bà: `.........` - An toàn vệ sinh viên cơ sở / Đại diện Công đoàn - Ủy viên.
+4. Ông/Bà: `.........` - Kế toán công trình - Thư ký ghi biên bản.
 5. Cùng các Tổ trưởng tổ đội lắp dựng khung kèo, tổ thợ hàn, tổ xà gồ - phụ trợ.
 
 ---
@@ -49,20 +49,20 @@ Hôm nay, ngày `<<VB_NGAY>>` tháng `<<VB_THANG>>` năm `<<VB_NAM>>`, tại Vă
 
 | STT | Tên Tổ đội / Đơn vị | Số lượng lao động | Điểm đạt được | Xếp loại | Mức thưởng đề xuất *(Theo Bảng tham số)* | Tổng số tiền thưởng *(VNĐ)* | Ghi chú & Đóng góp nổi bật |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
-| 1 | **Tổ Lắp dựng số 1 (Tổ trưởng: <<TO_TRUONG_01>>)** | 12 người | 96/100 | Xuất sắc | Mức 1 | `<<THUONG_TO_01>>` | Lắp dựng thành công 06 khung kèo khẩu độ 36m an toàn tuyệt đối, 100% móc cáp an toàn đúng chuẩn. |
-| 2 | **Tổ Hàn kết cấu & Siết bu lông (Tổ trưởng: <<TO_TRUONG_02>>)** | 08 người | 92/100 | Xuất sắc | Mức 1 | `<<THUONG_TO_02>>` | Thu gom 100% que hàn cháy dở, sử dụng đầy đủ bạt chắn xỉ hàn, không làm cháy bạt lót nền. |
-| 3 | **Tổ Lắp đặt xà gồ & Giằng mái (Tổ trưởng: <<TO_TRUONG_03>>)** | 10 người | 84/100 | Tốt | Mức 2 | `<<THUONG_TO_03>>` | Còn 01 lần nhắc nhở thu dọn dây điện chùng trên lối đi, đã khắc phục ngay trong ngày. |
-| 4 | **Cá nhân tiêu biểu: Thợ cẩu <<THO_CAU_01>>** | 01 người | 98/100 | Cá nhân tiêu biểu | Khen thưởng đặc biệt | `<<THUONG_CN_01>>` | Phát hiện chính xác vết lún chân chống cẩu trước khi cẩu vì kèo nặng, kịp thời dừng cẩu kê thêm tà vẹt gỗ. |
-| | **TỔNG CỘNG TIỀN THƯỞNG AN TOÀN TRONG KỲ:** | | | | | **<<TONG_TIEN_THUONG_AT>>** | Chi trả cùng kỳ lương tháng |
+| 1 | **Tổ Lắp dựng số 1 (Tổ trưởng: .........)** | 12 người | 96/100 | Xuất sắc | Mức 1 | `.........` | Lắp dựng thành công 06 khung kèo khẩu độ 36m an toàn tuyệt đối, 100% móc cáp an toàn đúng chuẩn. |
+| 2 | **Tổ Hàn kết cấu & Siết bu lông (Tổ trưởng: .........)** | 08 người | 92/100 | Xuất sắc | Mức 1 | `.........` | Thu gom 100% que hàn cháy dở, sử dụng đầy đủ bạt chắn xỉ hàn, không làm cháy bạt lót nền. |
+| 3 | **Tổ Lắp đặt xà gồ & Giằng mái (Tổ trưởng: .........)** | 10 người | 84/100 | Tốt | Mức 2 | `.........` | Còn 01 lần nhắc nhở thu dọn dây điện chùng trên lối đi, đã khắc phục ngay trong ngày. |
+| 4 | **Cá nhân tiêu biểu: Thợ cẩu .........** | 01 người | 98/100 | Cá nhân tiêu biểu | Khen thưởng đặc biệt | `.........` | Phát hiện chính xác vết lún chân chống cẩu trước khi cẩu vì kèo nặng, kịp thời dừng cẩu kê thêm tà vẹt gỗ. |
+| | **TỔNG CỘNG TIỀN THƯỞNG AN TOÀN TRONG KỲ:** | | | | | **.........** | Chi trả cùng kỳ lương tháng |
 
-*(Số tiền bằng chữ: <<TONG_TIEN_THUONG_AT_CHU>>)*
+*(Số tiền bằng chữ: .....................................................................)*
 
 ---
 
 ## 4. KẾT LUẬN VÀ PHÊ DUYỆT
 
 1. Hội đồng thống nhất thông qua kết quả chấm điểm an toàn và đề xuất Ban Giám đốc Công ty phê duyệt chi trả số tiền thưởng nêu trên cho các tổ đội và cá nhân xứng đáng.
-2. Tiền thưởng an toàn được chuyển khoản cùng kỳ thanh toán tiền lương tháng `<<THANG_DANH_GIA>>` qua tài khoản ngân hàng cá nhân của từng công nhân lao động.
+2. Tiền thưởng an toàn được chuyển khoản cùng kỳ thanh toán tiền lương tháng `<<VB_THANG>>/<<VB_NAM>>` qua tài khoản ngân hàng cá nhân của từng công nhân lao động.
 3. Chỉ huy trưởng công trường và Kỹ sư HSE có trách nhiệm công bố công khai kết quả chấm thưởng tại buổi họp Toolbox Meeting sáng ngày mai để biểu dương tinh thần làm việc an toàn của toàn thể công nhân.
 
 ---
@@ -79,5 +79,5 @@ Hôm nay, ngày `<<VB_NGAY>>` tháng `<<VB_THANG>>` năm `<<VB_NAM>>`, tại Vă
 | KỸ SƯ AN TOÀN HSE | ĐẠI DIỆN TỔ ĐỘI THI CÔNG | CHỈ HUY TRƯỞNG CÔNG TRƯỜNG | GIÁM ĐỐC CÔNG TY PHÊ DUYỆT |
 | :---: | :---: | :---: | :---: |
 | *(Ký, ghi rõ họ tên)* | *(Ký, ghi rõ họ tên)* | *(Ký, ghi rõ họ tên)* | *(Ký tên và đóng dấu)* |
-| | | | **<<NGUOI_DAI_DIEN_PHAP_LUAT>>** |
-| **<<HSE_TEN>>** | | **<<CHT_TEN>>** | Giám đốc Công ty |
+| | | | **<<CTY_DAI_DIEN>>** |
+| **<<CT_AT_VIEN>>** | | **<<CT_CHI_HUY_TRUONG>>** | Giám đốc Công ty |

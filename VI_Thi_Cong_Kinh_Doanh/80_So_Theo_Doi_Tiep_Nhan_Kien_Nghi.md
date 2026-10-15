@@ -6,7 +6,7 @@
 | **Mã văn bản** | `80/SO-KN-<<CTY_TEN_VT>>` |
 | **Phiên bản** | `1.0` |
 | **Ngày ban hành** | `<<VB_NGAY>>/<<VB_THANG>>/<<VB_NAM>>` |
-| **Bộ phận quản lý sổ** | Phòng Hành chính - Nhân sự phối hợp Ban Chấp hành Công đoàn |
+| **Bộ phận quản lý sổ** | Phòng Hành chính – Nhân sự phối hợp Ban Chấp hành Công đoàn |
 | **Phạm vi theo dõi** | Toàn bộ cán bộ nhân viên văn phòng và người lao động trực tiếp tại các công trường |
 
 ---
@@ -21,7 +21,7 @@
 ### 1.2. Các kênh tiếp nhận kiến nghị
 1. **Hòm thư góp ý / Hòm thư kiến nghị:** Đặt tại Văn phòng công ty và tại lán trại/văn phòng Ban Chỉ huy các công trường (được mở định kỳ vào thứ Hai hàng tuần bởi đại diện Công đoàn và Nhân sự).
 2. **Tiếp nhận trực tiếp:** Qua các buổi họp An toàn đầu giờ (Toolbox Meeting), họp giao ban tuần của Ban Chỉ huy công trường, hoặc phản ánh trực tiếp với An toàn viên HSE / Chỉ huy trưởng.
-3. **Kênh trực tuyến:** Gửi email đến hòm thư góp ý nội bộ `<<EMAIL_CONG_DOAN>>` hoặc qua số điện thoại đường dây nóng của Công đoàn / Phòng Nhân sự: `<<HOTLINE_NHAN_SU>>`.
+3. **Kênh trực tuyến:** Gửi email đến hòm thư góp ý nội bộ `<<CTY_EMAIL>>` hoặc qua số điện thoại đường dây nóng của Công đoàn / Phòng Nhân sự: `<<CTY_DT>>`.
 4. *Bảo mật thông tin:* Công ty cam kết giữ bí mật danh tính người phản ánh nếu NLĐ có yêu cầu. Tuyệt đối nghiêm cấm mọi hành vi trù dập, phân biệt đối xử đối với người có ý kiến đóng góp xây dựng.
 
 ### 1.3. Thời hạn giải quyết kiến nghị
@@ -37,11 +37,11 @@
 
 | STT | Ngày tiếp nhận | Họ tên người kiến nghị / Đơn vị | Hình thức tiếp nhận | Nội dung tóm tắt kiến nghị | Bộ phận tiếp nhận & thụ lý | Phương án & Kết quả xử lý cụ thể | Thời hạn hoàn thành | Trạng thái xử lý | Đánh giá của NLĐ *(Hài lòng / Ý kiến khác)* | Ký xác nhận của NLĐ *(nếu có)* |
 | :---: | :---: | :--- | :---: | :--- | :--- | :--- | :---: | :---: | :---: | :---: |
-| 01 | 12/03/2026 | Tổ lắp dựng số 1 (Đại diện: `<<NL_01>>`) | Họp an toàn đầu giờ tại `<<CT_TEN>>` | Lưới an toàn chống rơi tại trục 5-6 bị thủng do xỉ hàn rơi vào, tiềm ẩn rủi ro té ngã khi thao tác trên kèo. | Bộ phận HSE Công trường | Kỹ sư HSE cho dừng thao tác tại trục 5-6, căng thay thế mới 02 tấm lưới an toàn Polyester dệt đôi; cấp thêm bạt chắn xỉ hàn cho thợ hàn. | 12/03/2026 *(Xử lý trong 2 giờ)* | Đã hoàn thành | Rất hài lòng | *(Đã ký)* |
-| 02 | 20/03/2026 | Công nhân `<<NL_02>>` (Tổ thợ siết bu lông) | Hòm thư góp ý công trường | Bảng lương tháng 02/2026 chưa thấy tính tiền phụ cấp công trình xa nhà 04 ngày đi tăng cường dự án khác. | Phòng Kế toán & Phòng HC-NS | Kế toán kiểm tra lại bảng chấm công có xác nhận của Chỉ huy trưởng; xác nhận thiếu sót do nhập liệu; đã chuyển khoản bổ sung tiền phụ cấp vào kỳ lương liền kề ngày 25/03. | 24/03/2026 *(Sau 4 ngày)* | Đã hoàn thành | Hài lòng | *(Đã ký)* |
+| 01 | 12/03/2026 | Tổ lắp dựng số 1 (Đại diện: `.........`) | Họp an toàn đầu giờ tại `<<CT_TEN>>` | Lưới an toàn chống rơi tại trục 5-6 bị thủng do xỉ hàn rơi vào, tiềm ẩn rủi ro té ngã khi thao tác trên kèo. | Bộ phận HSE Công trường | Kỹ sư HSE cho dừng thao tác tại trục 5-6, căng thay thế mới 02 tấm lưới an toàn Polyester dệt đôi; cấp thêm bạt chắn xỉ hàn cho thợ hàn. | 12/03/2026 *(Xử lý trong 2 giờ)* | Đã hoàn thành | Rất hài lòng | *(Đã ký)* |
+| 02 | 20/03/2026 | Công nhân `.........` (Tổ thợ siết bu lông) | Hòm thư góp ý công trường | Bảng lương tháng 02/2026 chưa thấy tính tiền phụ cấp công trình xa nhà 04 ngày đi tăng cường dự án khác. | Phòng Kế toán – Tài chính & Phòng Hành chính – Nhân sự | Kế toán kiểm tra lại bảng chấm công có xác nhận của Chỉ huy trưởng; xác nhận thiếu sót do nhập liệu; đã chuyển khoản bổ sung tiền phụ cấp vào kỳ lương liền kề ngày 25/03. | 24/03/2026 *(Sau 4 ngày)* | Đã hoàn thành | Hài lòng | *(Đã ký)* |
 | 03 | 05/04/2026 | Tập thể công nhân lán trại số 2 | Phản ánh trực tiếp với CHT | Máy bơm nước sinh hoạt tại lán trại bị hỏng từ đêm qua, công nhân không có nước tắm giặt sau giờ thi công. | Ban Chỉ huy công trường | Chỉ huy trưởng điều thợ điện sửa chữa thay tụ bơm ngay trong buổi sáng, đồng thời mua tạm 02 khối nước sinh hoạt sạch chở bằng xe bồn về phục vụ công nhân. | 05/04/2026 *(Xử lý trong 3 giờ)* | Đã hoàn thành | Hài lòng | *(Đã ký)* |
-| 04 | 18/05/2026 | Thợ hàn `<<NL_03>>` | Email gửi Phòng Nhân sự | Đề xuất công ty hỗ trợ kinh phí thi nâng bậc thợ và thi cấp lại chứng chỉ hàn áp lực 4G hết hạn. | Phòng Kế toán & Nhân sự | Phòng Nhân sự đưa vào danh sách đào tạo đợt 2 theo thỏa thuận đào tạo nghề có cam kết phục vụ 12 tháng; Công ty đài thọ 100% học phí. | 25/05/2026 | Đã hoàn thành | Rất hài lòng | *(Đã ký)* |
-| 05 | ... | `<<HO_TEN_NLD>>` | `<<HINH_THUC>>` | `<<NOI_DUNG_KIEN_NGHI>>` | `<<BO_PHAN_XU_LY>>` | `<<KET_QUA_XU_LY>>` | `<<THOI_HAN>>` | `<<TRANG_THAI>>` | `<<DANH_GIA>>` | `<<CHU_KY>>` |
+| 04 | 18/05/2026 | Thợ hàn `.........` | Email gửi Phòng Nhân sự | Đề xuất công ty hỗ trợ kinh phí thi nâng bậc thợ và thi cấp lại chứng chỉ hàn áp lực 4G hết hạn. | Phòng Kế toán – Tài chính & Phòng Hành chính – Nhân sự | Phòng Nhân sự đưa vào danh sách đào tạo đợt 2 theo thỏa thuận đào tạo nghề có cam kết phục vụ 12 tháng; Công ty đài thọ 100% học phí. | 25/05/2026 | Đã hoàn thành | Rất hài lòng | *(Đã ký)* |
+| 05 | ... | ......... | ......... | ......... | ......... | ......... | ......... | ......... | ......... | ......... |
 
 ---
 
@@ -72,7 +72,7 @@
 
 ---
 
-| ĐẠI DIỆN CÔNG ĐOÀN CƠ SỞ | TRƯỞNG PHÒNG HÀNH CHÍNH - NHÂN SỰ | GIÁM ĐỐC CÔNG TY PHÊ DUYỆT |
+| ĐẠI DIỆN CÔNG ĐOÀN CƠ SỞ | TRƯỞNG PHÒNG HÀNH CHÍNH – NHÂN SỰ | GIÁM ĐỐC CÔNG TY PHÊ DUYỆT |
 | :---: | :---: | :---: |
 | *(Ký và ghi rõ họ tên)* | *(Ký và ghi rõ họ tên)* | *(Ký tên và đóng dấu)* |
-| | | **<<NGUOI_DAI_DIEN_PHAP_LUAT>>** |
+| | | **<<CTY_DAI_DIEN>>** |

@@ -5,8 +5,8 @@
 | **Đơn vị tổ chức** | **<<CTY_TEN>>** |
 | **Mã biểu mẫu** | `79/BB-DT-<<CTY_TEN_VT>>` |
 | **Phiên bản** | `1.0` |
-| **Kỳ đối thoại** | Đối thoại định kỳ năm `<<NAM_DOI_THOAI>>` |
-| **Thời gian họp** | Vào lúc `<<GIO_BAT_DAU>>` ngày `<<VB_NGAY>>/<<VB_THANG>>/<<VB_NAM>>` |
+| **Kỳ đối thoại** | Đối thoại định kỳ năm `<<VB_NAM>>` |
+| **Thời gian họp** | Vào lúc `.........` ngày `<<VB_NGAY>>/<<VB_THANG>>/<<VB_NAM>>` |
 | **Địa điểm họp** | Phòng họp Công ty **<<CTY_TEN>>** kết nối trực tuyến với Ban Chỉ huy các công trường |
 | **Tài liệu tham chiếu** | Quy chế thực hiện dân chủ ở cơ sở (`78/QC-DCCS-<<CTY_TEN_VT>>`) |
 
@@ -15,29 +15,29 @@
 ## 1. THÀNH PHẦN THAM DỰ CUỘC HỌP ĐỐI THOẠI
 
 ### A. ĐẠI DIỆN NGƯỜI SỬ DỤNG LAO ĐỘNG (NSDLĐ):
-1. Ông/Bà: **<<NGUOI_DAI_DIEN_PHAP_LUAT>>** - Chức vụ: Giám đốc Công ty (Trưởng đoàn).
-2. Ông/Bà: `<<TP_HCNS_TEN>>` - Chức vụ: Trưởng phòng Hành chính - Nhân sự (Thành viên).
-3. Ông/Bà: `<<TP_KT_TEN>>` - Chức vụ: Trưởng phòng Kỹ thuật - Thi công (Thành viên).
-4. Ông/Bà: `<<KTT_TEN>>` - Chức vụ: Kế toán trưởng (Thành viên).
-5. Ông/Bà: `<<CHT_DAI_DIEN>>` - Chức vụ: Đại diện Chỉ huy trưởng công trường (Thành viên).
+1. Ông/Bà: **<<CTY_DAI_DIEN>>** - Chức vụ: Giám đốc Công ty (Trưởng đoàn).
+2. Ông/Bà: `.........` - Chức vụ: Trưởng phòng Hành chính – Nhân sự (Thành viên).
+3. Ông/Bà: `.........` - Chức vụ: Trưởng phòng Thi công (Thành viên).
+4. Ông/Bà: `<<CTY_KE_TOAN_TRUONG>>` - Chức vụ: Kế toán trưởng (Thành viên).
+5. Ông/Bà: `<<CT_CHI_HUY_TRUONG>>` - Chức vụ: Đại diện Chỉ huy trưởng công trường (Thành viên).
 
 ### B. ĐẠI DIỆN TẬP THỂ NGƯỜI LAO ĐỘNG (NLĐ):
-1. Ông/Bà: **<<CHU_TICH_CONG_DOAN>>** - Chức vụ: Chủ tịch Công đoàn cơ sở (Trưởng đoàn).
-2. Ông/Bà: `<<UV_CD_01>>` - Chức vụ: Phó Chủ tịch / Ủy viên Ban Chấp hành Công đoàn (Thành viên).
-3. Ông/Bà: `<<UV_CD_02>>` - Chức vụ: Ủy viên Ban Chấp hành phụ trách Nữ công (Thành viên).
-4. Ông/Bà: `<<DAI_DIEN_CN_01>>` - Đại diện Tổ trưởng tổ đội lắp dựng công trường `<<CT_TEN>>`.
-5. Ông/Bà: `<<DAI_DIEN_CN_02>>` - Đại diện thợ hàn kết cấu / An toàn vệ sinh viên cơ sở.
+1. Ông/Bà: **<<CTY_CD_CHU_TICH>>** - Chức vụ: Chủ tịch Công đoàn cơ sở (Trưởng đoàn).
+2. Ông/Bà: `.........` - Chức vụ: Phó Chủ tịch / Ủy viên Ban Chấp hành Công đoàn (Thành viên).
+3. Ông/Bà: `.........` - Chức vụ: Ủy viên Ban Chấp hành phụ trách Nữ công (Thành viên).
+4. Ông/Bà: `.........` - Đại diện Tổ trưởng tổ đội lắp dựng công trường `<<CT_TEN>>`.
+5. Ông/Bà: `.........` - Đại diện thợ hàn kết cấu / An toàn vệ sinh viên cơ sở.
 
 ### C. THƯ KÝ CUỘC HỌP:
-- Ông/Bà: `<<THU_KY_HOP>>` - Chức vụ: Chuyên viên Nhân sự.
+- Ông/Bà: `.........` - Chức vụ: Chuyên viên Nhân sự.
 
 ---
 
 ## 2. NỘI DUNG VÀ TIẾN TRÌNH ĐỐI THOẠI
 
 ### Phần I. Đại diện Người sử dụng lao động thông tin tình hình hoạt động
-Ông/Bà **<<NGUOI_DAI_DIEN_PHAP_LUAT>>** trình bày tóm tắt:
-1. **Kết quả sản xuất kinh doanh:** Năm qua công ty đã triển khai thi công an toàn `<<SO_DU_AN>>` dự án nhà xưởng công nghiệp lớn, sản lượng lắp dựng đạt `<<SAN_LUONG_TAN>>` tấn kết cấu thép; hoàn thành đúng tiến độ các gói thầu với Tổng thầu.
+Ông/Bà **<<CTY_DAI_DIEN>>** trình bày tóm tắt:
+1. **Kết quả sản xuất kinh doanh:** Năm qua công ty đã triển khai thi công an toàn `.........` dự án nhà xưởng công nghiệp lớn, sản lượng lắp dựng đạt `.........` tấn kết cấu thép; hoàn thành đúng tiến độ các gói thầu với Tổng thầu.
 2. **Thực hiện chế độ cho người lao động:**
    - 100% người lao động ký hợp đồng xác định thời hạn từ 01 tháng trở lên được tham gia BHXH, BHYT, BHTN đầy đủ theo quy định.
    - Tiền lương bình quân của thợ lắp dựng và thợ hàn đạt mức theo Bảng tham số hiện hành; lương được chi trả đúng hạn định kỳ vào ngày 10 hàng tháng qua tài khoản ngân hàng cá nhân.
@@ -45,7 +45,7 @@
 3. **Định hướng năm tới:** Mở rộng thị trường thi công các nhà xưởng FDI khẩu độ lớn, đầu tư bổ sung trang thiết bị máy móc cẩu lắp hiện đại và nâng cao chất lượng đời sống thợ cơ hữu.
 
 ### Phần II. Ý kiến, kiến nghị của Tập thể người lao động
-Chủ tịch Công đoàn **<<CHU_TICH_CONG_DOAN>>** tổng hợp và trình bày các ý kiến của NLĐ từ Sổ tiếp nhận kiến nghị (`80/SO-KN-<<CTY_TEN_VT>>`):
+Chủ tịch Công đoàn **<<CTY_CD_CHU_TICH>>** tổng hợp và trình bày các ý kiến của NLĐ từ Sổ tiếp nhận kiến nghị (`80/SO-KN-<<CTY_TEN_VT>>`):
 
 | Nhóm vấn đề | Nội dung kiến nghị cụ thể của Người lao động | Ý kiến giải trình & Cam kết của Người sử dụng lao động |
 | :--- | :--- | :--- |
@@ -66,17 +66,17 @@ Chủ tịch Công đoàn **<<CHU_TICH_CONG_DOAN>>** tổng hợp và trình bà
 
 ## 3. KẾT LUẬN VÀ PHÂN CÔNG THỰC HIỆN
 
-1. **Phòng Hành chính - Nhân sự:**
-   - Hoàn thiện thủ tục điều chỉnh Bảng tham số phụ cấp công trình theo kết luận đối thoại trình Giám đốc ký trước ngày `<<HAN_NS>>`.
+1. **Phòng Hành chính – Nhân sự:**
+   - Hoàn thiện thủ tục điều chỉnh Bảng tham số phụ cấp công trình theo kết luận đối thoại trình Giám đốc ký trước ngày `.........`.
    - Lập kế hoạch và danh sách công nhân tham gia khóa đào tạo chứng chỉ an toàn nhóm 3 và thợ hàn kỹ thuật cao.
 2. **Bộ phận An toàn HSE & Ban Chỉ huy công trường:**
-   - Thu hồi toàn bộ trang thiết bị PPE cũ hỏng, cấp phát thiết bị mới có ghi chép vào `43_So_Cap_Phat_PPE.md` trước ngày `<<HAN_HSE>>`.
+   - Thu hồi toàn bộ trang thiết bị PPE cũ hỏng, cấp phát thiết bị mới có ghi chép vào `43_So_Cap_Phat_PPE.md` trước ngày `.........`.
    - Cải tạo khu lán trại công trình đúng tiêu chuẩn an toàn vệ sinh.
 3. **Ban Chấp hành Công đoàn:**
-   - Niêm yết công khai Biên bản này tại bảng tin công ty và gửi cho công nhân các tổ đội trước ngày `<<HAN_CONG_KHAI>>`.
+   - Niêm yết công khai Biên bản này tại bảng tin công ty và gửi cho công nhân các tổ đội trước ngày `.........`.
    - Giám sát tiến độ thực hiện các cam kết của Ban Giám đốc.
 
-Cuộc họp kết thúc vào lúc `<<GIO_KET_THUC>>` cùng ngày. Biên bản đã được đọc lại cho toàn thể thành viên tham dự nghe và nhất trí ký tên dưới đây.
+Cuộc họp kết thúc vào lúc `.........` cùng ngày. Biên bản đã được đọc lại cho toàn thể thành viên tham dự nghe và nhất trí ký tên dưới đây.
 
 ---
 
@@ -93,5 +93,5 @@ Cuộc họp kết thúc vào lúc `<<GIO_KET_THUC>>` cùng ngày. Biên bản �
 | :---: | :---: | :---: |
 | *(Ký tên, đóng dấu Công đoàn)* | *(Ký và ghi rõ họ tên)* | *(Ký tên, đóng dấu công ty)* |
 | | | |
-| **<<CHU_TICH_CONG_DOAN>>** | **<<THU_KY_HOP>>** | **<<NGUOI_DAI_DIEN_PHAP_LUAT>>** |
+| **<<CTY_CD_CHU_TICH>>** | **.........** | **<<CTY_DAI_DIEN>>** |
 | Chủ tịch Công đoàn | Chuyên viên Nhân sự | Giám đốc Công ty |
