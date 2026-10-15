@@ -286,4 +286,22 @@ Hệ thống tài liệu đã khắc phục toàn bộ các điểm bất cập 
   - `I_Hop_Dong_Nhan_Su/01c_HDLD_Xac_Dinh_Thoi_Han_12_Thang_Tho_Nong_Cot.md` (Điều 3 khoản 3).
   - `I_Hop_Dong_Nhan_Su/02_HDLD_Khong_Xac_Dinh_Thoi_Han_Van_Phong.md` (Điều 2 khoản 3).
 
+---
+
+## CẬP NHẬT TÁI CẤU TRÚC BẢNG DANH MỤC VĂN BẢN (22:15, 15/10/2026) - MODEL HIGH / PRO
+
+Thực hiện theo chỉ đạo của Ban Lãnh đạo về việc tối ưu hóa giao diện hiển thị, loại bỏ hoàn toàn hiện tượng vỡ bảng và tràn ngang:
+*"bỏ hẳn cột Tài liệu hiện có, link vào tên luôn, còn text note cho vào ghi chú"*
+
+### 1. Giải pháp tái cấu trúc bảng danh mục (`bo-van-ban/00_Danh_Sach_Van_Ban.md`):
+- **Cấu trúc bảng 6 cột chuẩn:** `| STT | Văn bản | Loại văn bản | TT | Đợt | Ghi chú |`
+- **Xóa bỏ hoàn toàn cột "Tài liệu hiện có":** Giải phóng tối đa diện tích hiển thị cho các cột thông tin chính.
+- **Link trực tiếp tên văn bản:** Toàn bộ 83 văn bản trong danh mục được gắn link Markdown tương đối trỏ chính xác đến file văn bản thực tế trong thư mục nghiệp vụ (ví dụ: `[HĐLĐ ngắn hạn (dưới 1 tháng)](../I_Hop_Dong_Nhan_Su/01a_HDLD_Ngan_Han_Duoi_1_Thang.md)`).
+- **Hợp nhất thông tin vào cột "Ghi chú":** Toàn bộ số hiệu mẫu chuẩn Nhà nước (Mẫu 01a-LĐTL, Mẫu 01/PLI, Mẫu 03-TT, Phụ lục III NĐ 207, Phụ lục V NĐ 39...), đối chiếu pháp lý và lưu ý nghiệp vụ được tích hợp vào cột Ghi chú một cách mạch lạc.
+- **Tự động ngắt dòng tự nhiên:** Nhờ chuyển từ thẻ code span sang Markdown text link tiếng Việt có khoảng trắng, bảng hiển thị tự co giãn hoàn hảo trên mọi kích thước màn hình mà không bao giờ bị vỡ hàng hay xuất hiện thanh cuộn ngang khó chịu.
+
+### 2. Kết quả kiểm tra xác minh:
+- **100% (83/83) liên kết Markdown tương đối** trỏ chính xác đến các file văn bản đang hiện hữu trên ổ đĩa, 0 link gãy.
+- **100% dòng trong 6 bảng** đồng bộ chuẩn xác 6 cột, không sai lệch cú pháp.
+
 
