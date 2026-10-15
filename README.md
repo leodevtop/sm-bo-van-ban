@@ -126,7 +126,7 @@ QL_SM/
 │   └── ...
 │
 ├── I_Hop_Dong_Nhan_Su/                           # Nhóm I: HỢP ĐỒNG & NHÂN SỰ (A1, A4)
-│   ├── 01_HDLD_Xac_Dinh_Thoi_Han_Cong_Nhan_2026.md # HĐLĐ mẫu năm 2026 (STT 1)
+│   ├── 01b_HDLD_Thoi_Vu_Cong_Trinh.md            # HĐLĐ thời vụ theo công trình năm 2026 (STT 1b)
 │   ├── 08_Quy_Che_Dieu_Hanh_Nhan_Su_va_Vong_Doi_Cong_Nhan.md # Quy chế điều hành & vòng đời thợ (STT 8)
 │   ├── 09_Quyet_Dinh_Dieu_Dong_Den_Cong_Truong.md # QĐ điều động công trường (STT 9)
 │   ├── 10_Don_Xin_Nghi_Khong_Huong_Luong.md       # Đơn xin nghỉ không lương (STT 10)

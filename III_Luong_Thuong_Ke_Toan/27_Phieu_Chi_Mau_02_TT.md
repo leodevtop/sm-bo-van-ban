@@ -1,39 +1,58 @@
-| **<<CTY_TEN>>**<br>Địa chỉ: <<CTY_DC>><br>Mã số thuế: <<CTY_MST>> | | **Mẫu số: 02 - TT**<br>*(Ban hành kèm theo Thông tư số 133/2016/TT-BTC<br>ngày 26/8/2016 của Bộ trưởng Bộ Tài chính)* |
+| **Đơn vị:** <<CTY_TEN>><br>**Địa chỉ:** <<CTY_DC>><br>**Mã số thuế:** <<CTY_MST>> | | **Mẫu số 02 - TT**<br>*(Ban hành kèm theo Thông tư số 133/2016/TT-BTC<br>ngày 26/8/2016 của Bộ trưởng Bộ Tài chính)* |
 |---|---|---|
 
 <br>
 
-| Quyển số: <QUYEN_SO><br>**Số: <SO_PHIEU_CHI>**<br>Nợ TK: <TK_NO><br>Có TK: <TK_CO> |
-|---|
+<div align="right">
 
-<br>
+Quyển số: ........................................  
+**Số:** <<VB_SO>>  
+Nợ: .................................................  
+Có: .................................................  
+
+</div>
 
 <div align="center">
 
 # PHIẾU CHI
-*Ngày <NGAY> tháng <THANG> năm 2026*
+*Ngày <<VB_NGAY>> tháng <<VB_THANG>> năm <<VB_NAM>>*
+
+---
 
 </div>
 
 <br>
 
-- **Họ và tên người nhận tiền:** <HO_TEN_NGUOI_NHAN>
-- **Địa chỉ / Bộ phận:** <DIA_CHI_BO_PHAN>
-- **Số CCCD / Điện thoại:** <CCCD_SDT>
-- **Lý do chi:** <LY_DO_CHI>
-- **Số tiền chi:** <SO_TIEN> đồng
-- *(Viết bằng chữ):* *<SO_TIEN_BANG_CHU> đồng ./*
-- **Kèm theo:** <SO_CHUNG_TU_GOC> chứng từ gốc (Hóa đơn, phiếu đề nghị, bảng kê chi phí...).
+- **Họ và tên người nhận tiền:** ....................................................................................................................
+- **Địa chỉ / Bộ phận:** .................................................................................................................................
+- **Số CCCD / Điện thoại:** ...........................................................................................................................
+- **Lý do chi:** ..............................................................................................................................................
+..................................................................................................................................................................
+- **Số tiền chi:** ..................................................... đồng.
+- *(Viết bằng chữ):* ...................................................................................................................................
+...................................................................................................................................................... đồng ./.
+- **Kèm theo:** .................................... chứng từ gốc (hóa đơn, giấy đề nghị thanh toán tạm ứng, bảng kê chi phí...).
 
 <br>
 
-*Ngày …… tháng …… năm 2026*
+*Ngày <<VB_NGAY>> tháng <<VB_THANG>> năm <<VB_NAM>>*
 
-| **GIÁM ĐỐC**<br>*(Ký, họ tên, đóng dấu)*<br><br><br><br><br>**<GIAM_DOC>** | **KẾ TOÁN TRƯỞNG**<br>*(Ký, họ tên)*<br><br><br><br><br>**<KE_TOAN_TRUONG>** | **THỦ QUỸ**<br>*(Ký, họ tên)*<br><br><br><br><br>**<THU_QUY>** | **NGƯỜI LẬP PHIẾU**<br>*(Ký, họ tên)*<br><br><br><br><br>**<NGUOI_LAP>** | **NGƯỜI NHẬN TIỀN**<br>*(Ký, họ tên)*<br><br><br><br><br>**<NGUOI_NHAN>** |
+| **GIÁM ĐỐC**<br>*(Ký, họ tên, đóng dấu)*<br><br><br><br><br>**<<CTY_DAI_DIEN>>** | **KẾ TOÁN TRƯỞNG**<br>*(Ký, họ tên)*<br><br><br><br><br>**<<CTY_KE_TOAN_TRUONG>>** | **THỦ QUỸ**<br>*(Ký, họ tên)*<br><br><br><br><br>.................................... | **NGƯỜI LẬP PHIẾU**<br>*(Ký, họ tên)*<br><br><br><br><br>.................................... | **NGƯỜI NHẬN TIỀN**<br>*(Ký, họ tên)*<br><br><br><br><br>.................................... |
 |:---:|:---:|:---:|:---:|:---:|
 
 <br>
 
-- Đã nhận đủ số tiền *(viết bằng chữ)*: *<SO_TIEN_BANG_CHU> đồng ./*
-- + Tỷ giá ngoại tệ (vàng, bạc, đá quý nếu có): ………………………………………………………
-- + Số tiền quy đổi: …………………………………………………………………………………………
+- Đã nhận đủ số tiền *(viết bằng chữ)*: ....................................................................................................
+...................................................................................................................................................... đồng ./.
+- + Tỷ giá ngoại tệ (vàng bạc, đá quý nếu có): .............................................................................................
+- + Số tiền quy đổi: ...................................................................................................................................
+
+---
+
+## HƯỚNG DẪN KẾ TOÁN & LƯU TRỮ (THEO THÔNG TƯ 133/2016/TT-BTC)
+
+1. **Mục đích của chứng từ:** Phiếu chi nhằm xác định các khoản tiền mặt thực tế xuất quỹ và làm căn cứ để thủ quỹ xuất quỹ, ghi sổ quỹ tiền mặt và kế toán ghi sổ kế toán các tài khoản liên quan.
+2. **Quy định chữ ký:** Phiếu chi phải có đầy đủ chữ ký của Người lập phiếu, Kế toán trưởng, Giám đốc (hoặc người được ủy quyền) và Thủ quỹ trước khi xuất quỹ chi tiền. Sau khi nhận đủ tiền, người nhận tiền phải ký và ghi rõ họ tên, số tiền đã nhận bằng chữ.
+3. **Tuân thủ quy định thanh toán không dùng tiền mặt:**  
+   - Căn cứ Luật Thuế TNDN và quy định quản lý thuế, Phiếu chi tiền mặt chỉ áp dụng đối với các khoản chi dưới 05 triệu đồng hoặc chi mua vật tư nhỏ lẻ, tiếp khách, tạm ứng công tác phí ngắn ngày.  
+   - Các khoản thanh toán tiền lương, thù lao nhân công từ 05 triệu đồng trở lên hoặc thanh toán hóa đơn mua hàng hóa, dịch vụ từ 05 triệu đồng (và ngưỡng 20 triệu đồng theo luật thuế) bắt buộc phải chi trả bằng chuyển khoản ngân hàng qua Ủy nhiệm chi để đảm bảo tính hợp lý, hợp lệ khi quyết toán thuế TNDN.

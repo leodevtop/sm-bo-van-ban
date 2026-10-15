@@ -1,4 +1,4 @@
-| **<<CTY_TEN>><br>ĐOÀN ĐIỀU TRA TNLĐ CƠ SỞ**<br>Số: ……/2026/BB-KNHT | | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*……, ngày …… tháng …… năm 2026* |
+| **<<CTY_TEN>><br>ĐOÀN ĐIỀU TRA TNLĐ CƠ SỞ**<br>**Số: <<VB_SO>>** | | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>**Độc lập – Tự do – Hạnh phúc**<br>*<<CTY_DIA_DANH>>, ngày <<VB_NGAY>> tháng <<VB_THANG>> năm <<VB_NAM>>* |
 |---|---|---|
 
 <br>
@@ -6,76 +6,103 @@
 <div align="center">
 
 # BIÊN BẢN KHÁM NGHIỆM HIỆN TRƯỜNG
-### VỤ TAI NẠN LAO ĐỘNG TRONG THI CÔNG LẮP DỰNG KẾT CẤU THÉP
-*(Mã biểu mẫu: 51-BBKNHT)*
+### VỤ TAI NẠN LAO ĐỘNG / SỰ CỐ THI CÔNG KẾT CẤU THÉP
+*(Mã biểu mẫu: 51/2026/BB-KNHT-<<CTY_TEN_VT>>)*
 
 ---
 
 </div>
 
-Vào hồi …… giờ …… phút, ngày …… tháng …… năm 2026.
-
-Tại Dự án / Công trình: ………………………………………………………………………………………
-
-Vị trí hiện trường xảy ra tai nạn: Trục: …………… / Gian: …………… / Cao độ thao tác: +…………m so với mặt đất.
-
----
-
-### I. THÀNH PHẦN THAM GIA KHÁM NGHIỆM HIỆN TRƯỜNG
-
-Căn cứ Quyết định thành lập Đoàn điều tra TNLĐ cơ sở số ……/2026/QĐ-ĐTTNLĐ của Giám đốc <<CTY_TEN>>, thành phần tham gia khám nghiệm gồm:
-
-1. **Ông/Bà: …………………………………** – Chức vụ: **Giám đốc Công ty** *(Trưởng đoàn điều tra – Chủ trì khám nghiệm)*;
-2. **Ông/Bà: …………………………………** – Chức vụ: **Người phụ trách an toàn lao động** *(Thành viên – Khám nghiệm kỹ thuật an toàn)*;
-3. **Ông/Bà: …………………………………** – Chức vụ: **Chỉ huy trưởng công trình** *(Thành viên kiêm Thư ký – Cung cấp thông tin hiện trường)*;
-4. **Ông/Bà: …………………………………** – Chức vụ: **Đại diện BCH Công đoàn / Đại diện NLĐ** *(Thành viên – Giám sát)*;
-5. **Đơn vị phối hợp:** Đại diện Ban An toàn / Tư vấn giám sát của Tổng thầu:
-   - Ông/Bà: ………………………………………… Chức vụ: ………………………………………………
+Vào hồi ...... giờ ...... phút, ngày <<VB_NGAY>> tháng <<VB_THANG>> năm <<VB_NAM>>.  
+Tại Công trình / Dự án: **<<CT_TEN>>**  
+Địa chỉ công trình: <<CT_DIA_DIEM>>  
+Vị trí khu vực xảy ra sự việc: Trục số ............... / Gian số ............... / Cao độ thao tác: +............ m.
 
 ---
 
-### II. KẾT QUẢ KHÁM NGHIỆM CHI TIẾT TẠI HIỆN TRƯỜNG
+### I. THÀNH PHẦN THAM GIA KHÁM NGHIỆM
 
-#### 1. Điều kiện môi trường thi công lúc xảy ra tai nạn:
-- **Thời tiết:** Trời nắng ☐ / Có mưa ☐ / Mây mù ẩm ướt ☐.
-- **Tốc độ gió đo được tại sàn thao tác:** ………… m/s (Cấp gió: …………). *(Ngưỡng an toàn tối đa cho phép làm việc trên cao là dưới 8 m/s)*.
-- **Điều kiện chiếu sáng:** Đầy đủ ánh sáng tự nhiên ☐ / Thiếu sáng ☐ / Có đèn chiếu sáng ban đêm ☐.
-- **Bề mặt kết cấu:** Khô ráo ☐ / Trơn trượt ☐ / Có đọng dầu mỡ, nước mưa ☐.
+Căn cứ Quyết định thành lập Đoàn điều tra TNLĐ cơ sở của Giám đốc <<CTY_TEN>>, thành phần gồm:
 
-#### 2. Hiện trạng cấu kiện kết cấu thép và vị trí nạn nhân thao tác:
-- **Cấu kiện đang thao tác:** Cột thép ☐ / Dầm chính ☐ / Dầm phụ ☐ / Xà gồ mái ☐ / Tấm tôn sàn deck ☐.
-- **Mã hiệu cấu kiện:** ………………………………………………………………………………
-- **Cao độ vị trí nạn nhân làm việc:** +………… mét.
-- **Điểm tiếp đất / vị trí rơi tự do:** Khoảng cách rơi từ sàn thao tác xuống điểm va chạm là: ………… mét.
-- **Tình trạng liên kết cấu kiện lúc xảy ra tai nạn:** Đang treo móc cẩu ☐ / Đã gá bu lông tạm thời ……% ☐ / Đã siết chặt bu lông chịu lực 100% ☐.
-
-#### 3. Hiện trạng phương tiện bảo vệ cá nhân và hệ thống chống rơi ngã (Fall Protection):
-- **Dây đai an toàn toàn thân (Harness):** Nạn nhân có mang dây đai 2 móc giảm chấn hay không? Có ☐ / Không ☐. Tình trạng dây đai: Còn nguyên vẹn ☐ / Bị đứt, rách ☐.
-- **Tình trạng móc khóa carabiner lúc xảy ra tai nạn:** Đang móc vào dây cứu sinh lifeline ☐ / Móc vào thanh giằng dầm ☐ / Chưa móc vào điểm cố định nào ☐.
-- **Dây cứu sinh (Lifeline):** Đường kính cáp thép: ………… mm. Tình trạng dây cáp và khóa cóc cáp: Chắc chắn ☐ / Bị chùng ☐ / Bị tuột điểm neo ☐.
-- **Lưới an toàn hứng rơi (Safety net):** Có giăng lưới an toàn bên dưới vị trí làm việc hay không? Có ☐ (Cách mặt sàn thao tác: ……m) / Không có ☐.
-- **Các phương tiện PPE khác:** Nón bảo hộ (Còn nguyên quai ☐ / Bị vỡ, bung quai ☐); Giày bảo hộ mũi thép (Đầy đủ ☐ / Không đúng chủng loại ☐).
-
-#### 4. Hiện trạng máy móc thiết bị và công cụ thi công liên quan:
-- Cẩu tháp / Cẩu bánh xích / Xe nâng người: Mã hiệu: ……………………; Tình trạng kiểm định an toàn: Còn hạn đến ……/……/20……; Tình trạng hoạt động: Bình thường ☐ / Hư hỏng ☐.
-- Máy hàn, dây cáp điện, máy siết bu lông: Tình trạng an toàn điện, dây nguồn có bị hở/rò rỉ không: …………………………………………………………………………………………………
-
-#### 5. Dấu vết, vật chứng thu giữ và sơ đồ hiện trường:
-- Thu giữ tại hiện trường gồm: …………………………………………………………………………
-- Ảnh chụp toàn cảnh, cận cảnh và video hiện trường: Gồm …… bức ảnh đính kèm theo Biên bản này.
-- Sơ đồ phác họa mặt bằng và mặt cắt vị trí rơi ngã được lập thành Phụ lục đính kèm.
+1. **Ông/Bà: <<CTY_DAI_DIEN>>** – Chức vụ: **Giám đốc Công ty** *(Trưởng đoàn điều tra – Chủ trì khám nghiệm)*;
+2. **Ông/Bà: <<CTY_NGUOI_AT>>** – Chức vụ: **Người phụ trách an toàn lao động** *(Thành viên khám nghiệm kỹ thuật)*;
+3. **Ông/Bà: <<CT_CHI_HUY_TRUONG>>** – Chức vụ: **Chỉ huy trưởng công trình** *(Thành viên kiêm Thư ký – Báo cáo hiện trường)*;
+4. **Ông/Bà: <<CTY_CD_CHU_TICH>>** – Chức vụ: **Chủ tịch / Đại diện BCH Công đoàn cơ sở** *(Thành viên giám sát)*;
+5. **Đại diện đơn vị phối hợp (Tổng thầu / TVGS nếu có):**  
+   - Ông/Bà: ..................................................... Chức vụ: ............................................................................
 
 ---
 
-### III. KẾT LUẬN SƠ BỘ VÀ KIẾN NGHỊ BAN ĐẦU
+### II. NỘI DUNG KHÁM NGHIỆM TRỌNG TÂM KẾT CẤU THÉP
 
-1. **Nguyên nhân trực tiếp sơ bộ:** Nạn nhân bị (trượt chân / mất thăng bằng / vướng vật cản / cấu kiện va quẹt) trong khi thao tác tại cao độ +……m; tại thời điểm đó (móc khóa dây an toàn chưa được gài vào dây cứu sinh lifeline / điểm neo bị tuột).
-2. **Biện pháp khẩn cấp:** Tiếp tục đình chỉ thi công tại phân đoạn Trục …… đến Trục ……; tổ chức căng lại dây cứu sinh lifeline, kiểm tra toàn bộ điểm neo và lưới an toàn trước khi xem xét cho phép tái thi công.
+#### 1. Điều kiện thời tiết và môi trường lúc xảy ra sự việc:
+- **Thời tiết:** Trời nắng ☐ / Có mưa ☐ / Dông gió ☐ / Tầm nhìn hạn chế ☐.
+- **Tốc độ gió đo tại cao độ làm việc:** ............... m/s (Cấp gió: ...............). *(Quy định dừng cẩu và ngừng làm việc trên cao khi gió ≥ 8 m/s hoặc mưa dông sấm sét)*.
+- **Tình trạng bề mặt kết cấu thép:** Khô ráo ☐ / Trơn trượt do nước mưa, sương mù ☐ / Dính dầu mỡ ☐.
+- **Ánh sáng:** Đủ ánh sáng tự nhiên ☐ / Thiếu sáng ☐ / Đèn chiếu sáng ban đêm ☐.
 
-Biên bản khám nghiệm kết thúc vào hồi …… giờ …… phút cùng ngày. Đã được đọc lại cho toàn thể thành phần tham gia nghe, thống nhất ký tên xác nhận dưới đây./.
+#### 2. Vị trí rơi ngã và hệ thống chống rơi ngã (Fall Protection):
+- **Vị trí thao tác của nạn nhân trước khi ngã:** Trên dầm thép ☐ / Xà gồ mái ☐ / Sàn thao tác giàn giáo ☐ / Xe nâng người (Boom lift) ☐ / Khác: .................................................................................................
+- **Cao độ làm việc:** +............... mét so với mặt sàn/mặt đất.
+- **Khoảng cách rơi tự do và điểm va chạm:** Nạn nhân rơi từ cao độ +............m xuống điểm va chạm tại cao độ +............m (khoảng rơi tự do: ............m).
+- **Hiện trạng dây an toàn toàn thân (Harness):** Có mang dây 2 móc giảm chấn ☐ / Không mang ☐.  
+  Tình trạng dây đai: Còn nguyên vẹn ☐ / Bị đứt, rách chấn động ☐.
+- **Tình trạng móc khóa carabiner lúc xảy ra tai nạn:** Đang móc vào dây cứu sinh lifeline ☐ / Móc vào kết cấu thép ☐ / Chưa móc khóa vào điểm cố định ☐.
+- **Hệ thống dây cứu sinh (Lifeline):** Cáp thép đường kính ............ mm; Neo chắc chắn ☐ / Bị chùng ☐ / Tuột ốc siết cóc cáp ☐.
+- **Lưới an toàn hứng rơi (Safety net):** Có lắp đặt bên dưới ☐ / Không có lưới ☐.
+
+#### 3. Hiện trạng bu lông liên kết và cấu kiện kết cấu thép:
+- **Cấu kiện đang thi công:** Cột thép ☐ / Kèo dầm chính ☐ / Xà gồ mái ☐ / Thanh giằng ☐ / Tôn mái ☐.
+- **Mã hiệu cấu kiện:** ................................................................................................................................
+- **Tình trạng liên kết bu lông:**  
+  + Bu lông neo chân cột: Đủ số lượng ☐ / Thiếu bu lông ☐ / Chưa siết chặt tán ☐.  
+  + Bu lông liên kết dầm – cột: Đang gá tạm thời (đạt ......%) ☐ / Đã siết chặt 100% lực siết quy định ☐.  
+  + Có hiện tượng gãy, tuột bu lông liên kết hay không: Có ☐ / Không ☐.
+
+#### 4. Hiện trạng cáp cẩu và thiết bị nâng hạ:
+- **Thiết bị nâng hạ sử dụng:** Cẩu bánh lốp ☐ / Cẩu bánh xích ☐ / Xe nâng người ☐ / Pa lăng xích ☐.
+- **Mã hiệu / Biển số thiết bị cẩu:** ........................................... Hạn kiểm định an toàn: ....../....../2026.
+- **Hiện trạng cáp cẩu và móc cẩu:** Cáp cẩu nguyên vẹn ☐ / Bị tưa đứt sợi ☐ / Đứt gãy cáp ☐ / Móc cẩu có lưỡi gà an toàn ☐ / Mất lưỡi gà an toàn ☐.
+- **Trọng lượng cấu kiện cẩu:** ............... tấn. Tải trọng cho phép của cẩu tại tầm với đó: ............... tấn.
+
+#### 5. Hiện trạng an toàn điện và thiết bị hàn cắt:
+- **Thiết bị liên quan:** Máy hàn điện ☐ / Máy siết bu lông ☐ / Dây cáp điện nguồn ☐.
+- **Tình trạng dây dẫn điện:** Cách điện tốt ☐ / Bị trầy xước, hở ruột đồng ☐ / Dây điện ngâm trong nước ☐.
+- **Tủ điện thi công:** Có gắn rơ-le chống giật ELCB hoạt động tốt ☐ / Không có rơ-le chống giật ☐.
+
+#### 6. Dấu vết, vật chứng thu giữ và sơ đồ hiện trường:
+- Vật chứng thu giữ tại hiện trường: ..........................................................................................................
+..................................................................................................................................................................
+- Hồ sơ hình ảnh: Đã chụp ............ ảnh hiện trường toàn cảnh và cận cảnh đính kèm.
+- Sơ đồ hiện trường phác họa mặt bằng và mặt cắt vị trí tai nạn được lập thành Phụ lục kèm theo.
+
+---
+
+### III. KẾT LUẬN SƠ BỘ VÀ BIỆN PHÁP XỬ LÝ KHẨN CẤP
+
+1. **Nguyên nhân trực tiếp sơ bộ:** ............................................................................................................
+..................................................................................................................................................................
+2. **Biện pháp xử lý ngay:**  
+   - Tiếp tục cô lập khu vực từ Trục ............ đến Trục ............;  
+   - Tạm dừng sử dụng thiết bị (cẩu/máy hàn/cáp): ....................................................................................;  
+   - Kiểm tra, gia cố lại 100% điểm neo dây cứu sinh lifeline và giàn giáo trước khi đề xuất cho phép thi công trở lại.
+
+Biên bản khám nghiệm kết thúc vào hồi ...... giờ ...... phút cùng ngày. Đã thông qua toàn thể thành phần tham gia nghe và ký xác nhận./.
 
 <br>
 
-| **ĐẠI DIỆN TỔNG THẦU / TVGS**<br>*(Đơn vị phối hợp – Ký, họ tên)*<br><br><br><br>**……………………………………** | **ĐẠI DIỆN BCH CÔNG ĐOÀN / NLĐ**<br>*(Thành viên giám sát – Ký, họ tên)*<br><br><br><br>**……………………………………** |
+| **ĐẠI DIỆN TỔNG THẦU / TVGS**<br>*(Đơn vị phối hợp – Ký, họ tên)*<br><br><br><br><br>.................................................. | **ĐẠI DIỆN BCH CÔNG ĐOÀN CƠ SỞ**<br>*(Thành viên giám sát – Ký, họ tên)*<br><br><br><br><br>**<<CTY_CD_CHU_TICH>>** |
 |:---:|:---:|
-| **NGƯỜI PHỤ TRÁCH AN TOÀN**<br>*(Khám nghiệm kỹ thuật – Ký, họ tên)*<br><br><br><br>**……………………………………** | **CHỦ TRÌ KHÁM NGHIỆM / GIÁM ĐỐC**<br>*(Trưởng đoàn điều tra – Ký, họ tên, đóng dấu)*<br><br><br><br>**<<CTY_DAI_DIEN>>** |
+| **NGƯỜI PHỤ TRÁCH AN TOÀN**<br>*(Khám nghiệm kỹ thuật – Ký, họ tên)*<br><br><br><br><br>**<<CTY_NGUOI_AT>>** | **CHỈ HUY TRƯỞNG CÔNG TRÌNH**<br>*(Thư ký đoàn – Ký, họ tên)*<br><br><br><br><br>**<<CT_CHI_HUY_TRUONG>>** |
+
+<br>
+
+<div align="center">
+
+**TRƯỞNG ĐOÀN ĐIỀU TRA / GIÁM ĐỐC CÔNG TY**  
+*(Chủ trì khám nghiệm – Ký tên, ghi rõ họ tên và đóng dấu)*  
+
+<br><br><br><br>
+**<<CTY_DAI_DIEN>>**
+
+</div>

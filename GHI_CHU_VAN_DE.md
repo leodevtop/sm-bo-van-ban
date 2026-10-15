@@ -98,10 +98,11 @@ Không tạo file nội dung, chỉ ghi chú đường dẫn nguồn trong danh 
 
 | Phần | Subagent | Trạng thái |
 |------|----------|------------|
-| A – Hợp đồng, Nội quy (STT 1a,1c,2,3,4,5,6,7,13,82 + 16,17,18,20,21 + 25) | SA-A | Đang chạy |
-| B – HSE & TNLĐ (STT 32-39, 41-44, 47-48, 59-62, 83) | SA-B | ✅ XONG – 19/19 file |
-| C – Tổ chức (63,64,66) + D – Thi công (68,74,76) + Đợt 2 | SA-C | Chờ SA-A xong |
-| Kiểm tra toàn bộ | SA-QC | Chờ kết quả A+C |
+| A – Hợp đồng, Nội quy (1a, 1c, 2, 3, 4, 5, 6, 7, 13, 82 + 16, 17, 18, 20, 21 + 25) | SA-A & SA-FIX | ✅ HOÀN THÀNH 100% (Đã QC & chuẩn hóa) |
+| B – HSE & TNLĐ (32-39, 41-44, 47-48, 59-62, 83) | SA-B & SA-FIX | ✅ HOÀN THÀNH 100% (Đã QC & chuẩn hóa) |
+| C & D – Tổ chức, Thi công, Kinh doanh (25 văn bản Đợt 1 + 2) | SA-C & SA-FIX-CD | ✅ HOÀN THÀNH 100% (Đã QC & chuẩn hóa) |
+| Hiệu chỉnh 13 văn bản có sẵn (Mục ●) | SA-SUA (High Mode) | ✅ HOÀN THÀNH 100% (Đã chuẩn hóa, đổi 01b, cập nhật luật) |
+| Thu thập & số hóa 12 Mẫu biểu Nhà nước (Mục ■) | SA-MAU (High Mode) | ✅ HOÀN THÀNH 100% (Đã số hóa tại mau-nha-nuoc/) |
 
 ## Chi tiết SA-B – Kết quả (20:15, 15/10/2026)
 - 19 file mới tạo trong IV_HSE_An_Toan_TNLD/
@@ -198,4 +199,42 @@ Hệ thống tài liệu đã khắc phục toàn bộ các điểm bất cập 
 - **Tổng số mã alias còn sót lại trong toàn bộ 25 file:** **0**.
 - **Tổng số placeholder lạ / không có trong `00_Ma_Data.md`:** **0** (100% khớp chuẩn).
 - **Trạng thái sẵn sàng:** Toàn bộ 25 file Nhóm C & D đạt chuẩn Grade A+, hoàn toàn sẵn sàng cho Giám đốc Công ty ký duyệt ban hành chính thức.
+
+---
+
+## CẬP NHẬT TIẾN ĐỘ THU THẬP, BIÊN SOẠN & SỐ HÓA MẪU BIỂU NHÀ NƯỚC (MỤC ■) (21:30, 15/10/2026) - MODEL HIGH / PRO
+
+Đã hoàn thành 100% nhiệm vụ thu thập, đối chiếu căn cứ pháp lý và biên soạn hoàn chỉnh bộ 12 Biểu mẫu quy chuẩn của Nhà nước (ký hiệu ■) theo danh mục `bo-van-ban/00_Danh_Sach_Van_Ban.md`, lưu trữ tại thư mục chuyên biệt `/Users/leo/projects/QL_SM/mau-nha-nuoc/` và đồng bộ mẫu trắng vào các thư mục nghiệp vụ:
+
+### 1. Danh sách 12 biểu mẫu Nhà nước đã số hóa chuẩn xác:
+1. **STT 12: Bảng chấm công công trường** (`mau-nha-nuoc/12_Bang_Cham_Cong_Mau_01a_LDTL_TT133.md`)
+   - Căn cứ: Mẫu số 01a-LĐTL Thông tư số 133/2016/TT-BTC ngày 26/08/2016 của Bộ Tài chính. Đầy đủ hệ thống ký hiệu chấm công chuẩn, bảng quy đổi công và hướng dẫn kế toán.
+2. **STT 14: Báo cáo tình hình sử dụng lao động định kỳ** (`mau-nha-nuoc/14_Bao_Cao_Su_Dung_Lao_Dong_Mau_01_PLI_ND145.md`)
+   - Căn cứ: Mẫu số 01/PLI Phụ lục I Nghị định số 145/2020/NĐ-CP ngày 14/12/2020 của Chính phủ (báo cáo định kỳ 6 tháng và hằng năm qua Cổng DVCQG).
+3. **STT 19: Văn bản đề nghị đăng ký nội quy lao động** (`mau-nha-nuoc/19_Van_Ban_De_Nghi_Dang_Ky_Noi_Quy_Lao_Dong.md`)
+   - Căn cứ: Điều 69 Nghị định số 145/2020/NĐ-CP và biểu mẫu Cổng Dịch vụ công Quốc gia (Mã TTHC 1.002825).
+4. **STT 30: Giấy đề nghị tạm ứng & Giấy thanh toán tạm ứng** (`mau-nha-nuoc/30_Giay_De_Nghi_va_Thanh_Toan_Tam_Ung_Mau_03_04_TT.md`)
+   - Căn cứ: Mẫu số 03-TT & Mẫu số 04-TT Thông tư số 133/2016/TT-BTC. Tích hợp bảng kê chứng từ gốc và hướng dẫn quản trị tạm ứng hiện trường.
+5. **STT 40: Biện pháp bảo đảm an toàn trong thi công xây dựng công trình** (`mau-nha-nuoc/40_Bien_Phap_Bao_Dam_An_Toan_Thi_Cong_Phu_Luc_III_ND207.md`)
+   - Căn cứ: Khung quy định tại Phụ lục III Nghị định số 207/2026/NĐ-CP ngày 15/06/2026 kết hợp QCVN 18:2021/BXD, Thông tư 32/2026/TT-BXD chuyên sâu kết cấu thép.
+6. **STT 49: Khai báo tai nạn lao động** (`mau-nha-nuoc/49_Mau_Khai_Bao_TNLD_Phu_Luc_III_ND39.md`)
+   - Căn cứ: Mẫu Phụ lục III Nghị định số 39/2016/NĐ-CP ngày 15/05/2016 của Chính phủ gửi Thanh tra Sở LĐTBXH trong vòng 24 giờ.
+7. **STT 50: Quyết định thành lập Đoàn điều tra tai nạn lao động cấp cơ sở** (`mau-nha-nuoc/50_Quyet_Dinh_Thanh_Lap_Doan_Dieu_Tra_Phu_Luc_V_ND39.md`)
+   - Căn cứ: Mẫu Phụ lục V Nghị định số 39/2016/NĐ-CP. Đồng bộ cập nhật bản mẫu trắng vào `IV_HSE_An_Toan_TNLD/50_Quyet_Dinh_Thanh_Lap_Doan_Dieu_Tra_TNLD_Co_So.md`.
+8. **STT 53: Biên bản lấy lời khai tai nạn lao động** (`mau-nha-nuoc/53_Bien_Ban_Lay_Loi_Khai_Phu_Luc_VIII_ND39.md`)
+   - Căn cứ: Mẫu Phụ lục VIII Nghị định số 39/2016/NĐ-CP chuẩn mực hỏi - đáp phục vụ điều tra hiện trường.
+9. **STT 54: Biên bản điều tra tai nạn lao động cấp cơ sở** (`mau-nha-nuoc/54_Bien_Ban_Dieu_Tra_TNLD_Phu_Luc_IX_ND39.md`)
+   - Căn cứ: Mẫu Phụ lục IX Nghị định số 39/2016/NĐ-CP. Đã thay thế toàn bộ cốt truyện giả định cũ trong `IV_HSE_An_Toan_TNLD/54_...md` bằng bản mẫu trắng chuẩn mực pháp lý.
+10. **STT 55: Biên bản cuộc họp công bố biên bản điều tra tai nạn lao động** (`mau-nha-nuoc/55_Bien_Ban_Hop_Cong_Bo_Phu_Luc_XI_ND39.md`)
+    - Căn cứ: Mẫu Phụ lục XI Nghị định số 39/2016/NĐ-CP. Đồng bộ cập nhật bản mẫu trắng vào `IV_HSE_An_Toan_TNLD/55_...md`.
+11. **STT 56: Danh mục chấn thương nặng trong tai nạn lao động** (`mau-nha-nuoc/56_Danh_Muc_Chan_Thuong_Nang_Phu_Luc_II_ND39.md`)
+    - Căn cứ: Toàn văn 08 nhóm tổn thương chấn thương nặng theo Phụ lục II Nghị định số 39/2016/NĐ-CP.
+12. **STT 70: Nhật ký thi công xây dựng công trình & Mẫu dấu hoàn công** (`mau-nha-nuoc/70_Nhat_Ky_Thi_Cong_va_Dau_Hoan_Cong_Phu_Luc_II_ND207.md`)
+    - Căn cứ: Phụ lục II (Sổ nhật ký thi công) và Phụ lục IIb (Mẫu dấu bản vẽ hoàn công số 1 và số 2) ban hành kèm theo Nghị định số 207/2026/NĐ-CP.
+
+### 2. Kiểm soát chất lượng & Thể thức văn bản:
+- **Chuẩn hóa placeholder:** 100% khớp bảng mã `00_Ma_Data.md` (`<<CTY_TEN>>`, `<<CTY_DC>>`, `<<CT_TEN>>`, `<<CT_CHI_HUY_TRUONG>>`...).
+- **Không tồn dư từ khóa SAMIN:** 0 phát hiện.
+- **Tính đồng bộ:** Đã liên kết đầy đủ đường dẫn các file mẫu Nhà nước vào danh mục tổng `bo-van-ban/00_Danh_Sach_Van_Ban.md`.
+
 
