@@ -15,20 +15,7 @@
 
 ## CHƯƠNG I. QUY ĐỊNH CHUNG
 
-### Điều 1. Mục đích và nguyên tắc phân phối thu nhập
-1. Quy định thống nhất nguyên tắc, tiêu chuẩn, thang bảng lương, chế độ làm việc ngoài giờ, phụ cấp công trường, tiền thưởng và chế độ đãi ngộ đối với người lao động làm việc tại văn phòng Công ty và các công trường thi công lắp dựng kết cấu thép trên toàn quốc.
-2. Tiền lương gắn liền với vị trí chức danh, kết quả công việc, khối lượng hoàn thành, tiến độ, chất lượng và việc chấp hành nghiêm ngặt an toàn vệ sinh lao động; bảo đảm không thấp hơn mức lương tối thiểu vùng theo quy định của pháp luật.
-3. **Bắt buộc chi trả tiền lương qua tài khoản ngân hàng:** Tiền lương được chuyển khoản 100% vào tài khoản cá nhân chính chủ của người lao động. Mọi khoản chi trả lương, tiền công từng lần từ 05 triệu đồng trở lên bắt buộc thực hiện bằng phương thức thanh toán không dùng tiền mặt qua ngân hàng để bảo đảm tính hợp pháp của chi phí theo Luật Thuế TNDN, Luật Quản lý thuế và minh bạch với cơ quan BHXH.
-4. **Tuyệt đối nghiêm cấm phạt tiền, trừ lương:** Căn cứ Điều 127 Bộ luật Lao động 2019, Công ty nghiêm cấm tuyệt đối việc dùng hình thức phạt tiền, trừ tiền lương hoặc cắt lương để thay thế cho việc xử lý kỷ luật lao động. Việc bồi thường thiệt hại vật chất do làm mất mát, hư hỏng thiết bị, vật tư thi công chỉ được thực hiện khi có lỗi bất cẩn theo Điều 129, 130 BLLĐ 2019 và mức khấu trừ không quá 30% tiền lương thực trả hàng tháng.
-
-### Điều 2. Phạm vi điều chỉnh và cơ cấu tổ chức áp dụng
-Quy chế áp dụng đối với toàn thể người lao động thuộc 04 (bốn) phòng ban chức năng và các ban chỉ huy công trường trực thuộc:
-1. Phòng Thi công (gồm chỉ huy trưởng, an toàn viên, kỹ thuật hiện trường và công nhân thi công lắp dựng);
-2. Phòng Dự án (kiêm Kinh doanh);
-3. Phòng Kế toán – Tài chính;
-4. Phòng Hành chính – Nhân sự (tham gia Quỹ thưởng KPI dự án theo Quy chế số 23/2026/QC-<<CTY_TEN_VT>>).
-
-### Điều 3. Căn cứ pháp lý
+### Điều 1. Căn cứ pháp lý
 - Bộ luật Lao động số 45/2019/QH14 và Nghị định số 145/2020/NĐ-CP;
 - Nghị định số 293/2025/NĐ-CP quy định mức lương tối thiểu đối với người lao động làm việc theo hợp đồng lao động (áp dụng từ 01/01/2026);
 - Luật Bảo hiểm xã hội số 41/2024/QH15 và Luật Việc làm số 74/2025/QH15;
@@ -37,7 +24,21 @@ Quy chế áp dụng đối với toàn thể người lao động thuộc 04 (b
 - Luật Kế toán số 88/2015/QH13 và **Thông tư số 133/2016/TT-BTC** hướng dẫn chế độ kế toán doanh nghiệp nhỏ và vừa;
 - Luật Thuế thu nhập doanh nghiệp và Luật Quản lý thuế;
 - Luật Thuế thu nhập cá nhân số 109/2025/QH15 và Nghị quyết số 110/2025/UBTVQH15 (giảm trừ gia cảnh bản thân 15,5 triệu đồng/tháng, người phụ thuộc 6,2 triệu đồng/tháng);
+- Nghị định số 283/2026/NĐ-CP quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội;
 - Bảng tham số nội bộ (`00-bang-tham-so.md`) và Căn cứ pháp lý chung (`00-can-cu-phap-ly.md`).
+
+### Điều 2. Mục đích và nguyên tắc phân phối thu nhập
+1. Quy định thống nhất nguyên tắc, tiêu chuẩn, thang bảng lương, chế độ làm việc ngoài giờ, phụ cấp công trường, tiền thưởng và chế độ đãi ngộ đối với người lao động làm việc tại văn phòng Công ty và các công trường thi công lắp dựng kết cấu thép trên toàn quốc.
+2. Tiền lương gắn liền với vị trí chức danh, kết quả công việc, khối lượng hoàn thành, tiến độ, chất lượng và việc chấp hành nghiêm ngặt an toàn vệ sinh lao động; bảo đảm không thấp hơn mức lương tối thiểu vùng theo quy định của pháp luật.
+3. **Bắt buộc chi trả tiền lương qua tài khoản ngân hàng:** Tiền lương được chuyển khoản 100% vào tài khoản cá nhân chính chủ của người lao động. Mọi khoản chi trả lương, tiền công từng lần từ 05 triệu đồng trở lên bắt buộc thực hiện bằng phương thức thanh toán không dùng tiền mặt qua ngân hàng để bảo đảm tính hợp pháp của chi phí theo Luật Thuế TNDN, Luật Quản lý thuế và minh bạch với cơ quan BHXH.
+4. **Tuyệt đối nghiêm cấm phạt tiền, trừ lương:** Căn cứ Điều 127 Bộ luật Lao động 2019, Công ty nghiêm cấm tuyệt đối việc dùng hình thức phạt tiền, trừ tiền lương hoặc cắt lương để thay thế cho việc xử lý kỷ luật lao động. Việc bồi thường thiệt hại vật chất do làm mất mát, hư hỏng thiết bị, vật tư thi công chỉ được thực hiện khi có lỗi bất cẩn theo Điều 129, 130 BLLĐ 2019 và mức khấu trừ không quá 30% tiền lương thực trả hàng tháng.
+
+### Điều 3. Phạm vi điều chỉnh và cơ cấu tổ chức áp dụng
+Quy chế áp dụng đối với toàn thể người lao động thuộc 04 (bốn) phòng ban chức năng và các ban chỉ huy công trường trực thuộc:
+1. Phòng Thi công (gồm chỉ huy trưởng, an toàn viên, kỹ thuật hiện trường và công nhân thi công lắp dựng);
+2. Phòng Dự án (kiêm Kinh doanh);
+3. Phòng Kế toán – Tài chính;
+4. Phòng Hành chính – Nhân sự (tham gia Quỹ thưởng KPI dự án theo Quy chế số 23/2026/QC-<<CTY_TEN_VT>>).
 
 ---
 

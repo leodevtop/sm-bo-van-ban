@@ -1,5 +1,6 @@
 # SỔ TAY AN TOÀN – SỨC KHỎE – MÔI TRƯỜNG (HSE)
 ### (ÁP DỤNG CHO HOẠT ĐỘNG THI CÔNG & LẮP DỰNG KẾT CẤU THÉP)
+*(Ban hành kèm theo Quyết định số 32/2026/QĐ-<<CTY_TEN_VT>> ngày <<VB_NGAY>>/<<VB_THANG>>/<<VB_NAM>> của Giám đốc <<CTY_TEN>>)*
 
 | THÔNG TIN QUẢN TRỊ VĂN BẢN | CHI TIẾT |
 |---|---|
@@ -12,14 +13,25 @@
 
 ---
 
-## PHẦN I. MỤC ĐÍCH VÀ PHẠM VI ÁP DỤNG
+## PHẦN I. CĂN CỨ PHÁP LÝ, MỤC ĐÍCH VÀ PHẠM VI ÁP DỤNG
 
-### Điều 1. Mục đích
+### Điều 1. Căn cứ pháp lý
+- Luật An toàn, vệ sinh lao động số 84/2015/QH13 ngày 25 tháng 06 năm 2015;
+- Luật Xây dựng số 135/2025/QH15 (hiệu lực từ ngày 01 tháng 07 năm 2026);
+- Nghị định số 39/2016/NĐ-CP ngày 15 tháng 05 năm 2016 của Chính phủ quy định chi tiết thi hành một số điều của Luật An toàn, vệ sinh lao động;
+- Nghị định số 44/2016/NĐ-CP ngày 15 tháng 05 năm 2016 (được sửa đổi, bổ sung bởi Nghị định số 140/2018/NĐ-CP) quy định chi tiết về hoạt động kiểm định kỹ thuật an toàn, huấn luyện ATVSLĐ;
+- Nghị định số 207/2026/NĐ-CP ngày 15 tháng 06 năm 2026 của Chính phủ về quản lý chất lượng, thi công xây dựng và an toàn lao động trong thi công xây dựng công trình (thay thế Nghị định 06/2021/NĐ-CP);
+- Thông tư số 32/2026/TT-BXD ngày 22 tháng 06 năm 2026 của Bộ Xây dựng hướng dẫn về quản lý an toàn lao động trong thi công xây dựng (bãi bỏ Điều 2-9 và Điều 19 Thông tư 10/2021/TT-BXD);
+- Quy chuẩn kỹ thuật Quốc gia QCVN 18:2021/BXD về An toàn trong thi công xây dựng;
+- Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ năm 2024 và các văn bản hướng dẫn;
+- Căn cứ pháp lý chung (`00-can-cu-phap-ly.md`) và Bảng tham số nội bộ (`00-bang-tham-so.md`).
+
+### Điều 2. Mục đích
 1. Sổ tay An toàn – Sức khỏe – Môi trường (sau đây gọi tắt là **Sổ tay HSE**) là tài liệu quản lý nền tảng quy định các nguyên tắc, tiêu chuẩn kỹ thuật an toàn, quy trình vận hành và trách nhiệm của mọi cá nhân, bộ phận thuộc `<<CTY_TEN>>` trong hoạt động thi công, lắp dựng kết cấu thép nhà xưởng và công trình công nghiệp.
 2. Thiết lập hệ thống kiểm soát rủi ro chủ động nhằm mục tiêu cao nhất: **Không tai nạn lao động, không bệnh nghề nghiệp, không sự cố sập đổ kết cấu và không làm tổn hại môi trường**.
 3. Là căn cứ để phối hợp công tác an toàn với Chủ đầu tư, Tổng thầu thi công và các cơ quan quản lý nhà nước tại mọi công trường trên phạm vi toàn quốc.
 
-### Điều 2. Phạm vi áp dụng
+### Điều 3. Phạm vi áp dụng
 1. Áp dụng bắt buộc đối với toàn bộ cán bộ quản lý, kỹ sư công trường, chỉ huy trưởng, cán bộ an toàn, công nhân kỹ thuật, thợ thời vụ và các nhà thầu phụ, tổ đội thi công làm việc dưới sự điều hành của `<<CTY_TEN>>`.
 2. Áp dụng cho mọi công đoạn thi công: tập kết bốc dỡ cấu kiện, cẩu lắp dầm/cột/kèo thép, siết bu lông, căn chỉnh giằng kết cấu, hàn cắt kim loại, lắp dựng xà gồ, lợp tôn mái/vách và thi công hệ thống điện tạm.
 3. Khi Tổng thầu hoặc Chủ đầu tư có tiêu chuẩn HSE hoặc chứng nhận ISO 45001 riêng với các yêu cầu khắt khe hơn, Công ty áp dụng tiêu chuẩn cao hơn và lập bảng đối chiếu tương đương tại Phụ lục Sổ tay này (không viết lại toàn bộ hệ thống HSE của Tổng thầu).
@@ -60,7 +72,7 @@ Công tác lắp dựng kết cấu thép đặc thù có các rủi ro trọng 
 [Nhận diện mối nguy] ➔ [Đánh giá rủi ro (P x S)] ➔ [Biện pháp kiểm soát (5 cấp)] ➔ [Rà soát & Giám sát]
 ```
 
-### Điều 3. Các mối nguy đặc thù và biện pháp kiểm soát tối thiểu
+### Điều 4. Các mối nguy đặc thù và biện pháp kiểm soát tối thiểu
 
 1. **Làm việc trên cao (ngã cao):**
    - *Mối nguy:* Rơi ngã từ dầm, kèo thép, xà gồ, sàn thao tác tạm, mép sàn mái; ngã qua lỗ thông tầng.
@@ -89,7 +101,7 @@ Công tác lắp dựng kết cấu thép đặc thù có các rủi ro trọng 
 
 ## PHẦN V. CÔNG VIỆC YÊU CẦU NGHIÊM NGẶT VÀ HUẤN LUYỆN ATVSLĐ
 
-### Điều 4. Phân nhóm huấn luyện an toàn
+### Điều 5. Phân nhóm huấn luyện an toàn
 1. **Nhóm 1 (Người quản lý):** Giám đốc, Phó Giám đốc, Chỉ huy trưởng. Huấn luyện tại đơn vị có chức năng, cấp Giấy chứng nhận huấn luyện, thời gian ít nhất 16 giờ.
 2. **Nhóm 2 (Người làm công tác ATVSLĐ):** Cán bộ an toàn chuyên trách/bán thời gian. Cấp Giấy chứng nhận huấn luyện, thời gian ít nhất 48 giờ.
 3. **Nhóm 3 (Công việc yêu cầu nghiêm ngặt về ATLĐ):** Thợ lắp dựng kết cấu thép trên cao, thợ vận hành cẩu, thợ móc cáp tín hiệu, thợ hàn cắt kim loại, thợ điện.
@@ -98,7 +110,7 @@ Công tác lắp dựng kết cấu thép đặc thù có các rủi ro trọng 
    - Huấn luyện định kỳ: Ít nhất 02 năm/lần (thời gian bằng 50% lần đầu).
 4. **Nhóm 4 (Người lao động khác):** Nhân viên phục vụ, thủ kho, bảo vệ, lao động phụ trợ. Thời gian huấn luyện lần đầu ít nhất 16 giờ, cấp Sổ theo dõi huấn luyện.
 
-### Điều 5. Nguyên tắc kiểm soát nhân sự thi công
+### Điều 6. Nguyên tắc kiểm soát nhân sự thi công
 - Duy trì **Tổ nòng cốt** có thẻ an toàn Nhóm 3 còn hiệu lực.
 - **Quy tắc cứng:** Không có HĐLĐ + Không có Thẻ an toàn Nhóm 3 còn hạn + Không có xác nhận bảo hiểm = **TUYỆT ĐỐI KHÔNG BỐ TRÍ LÀM VIỆC TẠI CÔNG TRƯỜNG**.
 
@@ -190,20 +202,7 @@ Công tác lắp dựng kết cấu thép đặc thù có các rủi ro trọng 
 
 | STT | Yêu cầu an toàn của Tổng thầu / ISO 45001 | Quy định tại Sổ tay HSE của Công ty | Đánh giá mức độ | Giải pháp áp dụng |
 |:---:|---|---|---|---|
-| 1 | Hệ thống Giấy phép làm việc (PTW) điện tử/văn bản | Điều 7 Sổ tay HSE | Tương đương | Tuân thủ mẫu Tổng thầu |
+| 1 | Hệ thống Giấy phép làm việc (PTW) điện tử/văn bản | Phần VII Sổ tay HSE | Tương đương | Tuân thủ mẫu Tổng thầu |
 | 2 | Huấn luyện định hướng an toàn trước khi vào cổng | Phần V Sổ tay HSE | Tuân thủ | Tham gia 100% quân số |
 | 3 | Kiểm định thiết bị nâng và chứng chỉ Rigger | Phần VIII Sổ tay HSE | Tương đương | Nộp hồ sơ trước 03 ngày |
 | 4 | Kế hoạch ứng cứu khẩn cấp & sơ cấp cứu y tế | Phần X Sổ tay HSE | Tương đương | Tích hợp vào phương án chung |
-
----
-
-## CĂN CỨ PHÁP LÝ
-
-1. *Luật An toàn, vệ sinh lao động số 84/2015/QH13 ngày 25 tháng 06 năm 2015.*
-2. *Luật Xây dựng số 135/2025/QH15 (có hiệu lực từ ngày 01 tháng 07 năm 2026).*
-3. *Nghị định số 39/2016/NĐ-CP ngày 15 tháng 05 năm 2016 của Chính phủ quy định chi tiết thi hành một số điều của Luật An toàn, vệ sinh lao động.*
-4. *Nghị định số 44/2016/NĐ-CP ngày 15 tháng 05 năm 2016 (được sửa đổi, bổ sung bởi Nghị định số 140/2018/NĐ-CP) quy định chi tiết về hoạt động kiểm định kỹ thuật an toàn, huấn luyện ATVSLĐ.*
-5. *Nghị định số 207/2026/NĐ-CP ngày 15 tháng 06 năm 2026 của Chính phủ về quản lý chất lượng, thi công xây dựng và an toàn lao động trong thi công xây dựng công trình (thay thế Nghị định 06/2021/NĐ-CP).*
-6. *Thông tư số 32/2026/TT-BXD ngày 22 tháng 06 năm 2026 của Bộ Xây dựng hướng dẫn về quản lý an toàn lao động trong thi công xây dựng (bãi bỏ Điều 2-9 và Điều 19 Thông tư 10/2021/TT-BXD).*
-7. *Quy chuẩn kỹ thuật Quốc gia QCVN 18:2021/BXD về An toàn trong thi công xây dựng.*
-8. *Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ năm 2024 và các văn bản hướng dẫn.*

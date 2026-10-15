@@ -24,11 +24,18 @@
 
 ## CHƯƠNG I. QUY ĐỊNH CHUNG
 
-### Điều 1. Mục đích và bản chất khoản KPI
+### Điều 1. Căn cứ pháp lý
+- Bộ luật Lao động số 45/2019/QH14 (Điều 104 về tiền thưởng);
+- Luật Kế toán số 88/2015/QH13 và **Thông tư số 133/2016/TT-BTC** ngày 26/08/2016 của Bộ Tài chính hướng dẫn Chế độ kế toán doanh nghiệp nhỏ và vừa;
+- Luật Thuế thu nhập cá nhân số 109/2025/QH15 và Nghị quyết số 110/2025/UBTVQH15;
+- Quy chế tiền lương, thưởng và phụ cấp số 22/2026/QC-<<CTY_TEN_VT>> của Công ty;
+- Bảng tham số nội bộ (`00-bang-tham-so.md` mục III.4) và Căn cứ pháp lý chung (`00-can-cu-phap-ly.md`).
+
+### Điều 2. Mục đích và bản chất khoản KPI
 1. Quy chế này quy định nguyên tắc trích lập, quản lý và phân bổ quỹ thưởng KPI cho từng hợp đồng/dự án thi công lắp dựng kết cấu thép nhằm gắn kết thu nhập của các bộ phận trực tiếp với tiến độ, chất lượng, kiểm soát chi phí, an toàn lao động và dòng tiền thực thu của dự án.
 2. Căn cứ Điều 104 Bộ luật Lao động 2019, tiền thưởng KPI là khoản chi trả theo kết quả thực hiện công việc và mức độ đóng góp vào hiệu quả kinh doanh của dự án; đây không phải là khoản lương cố định bắt buộc chi trả hàng tháng.
 
-### Điều 2. Phạm vi điều chỉnh và đối tượng tham gia
+### Điều 3. Phạm vi điều chỉnh và đối tượng tham gia
 1. **Phạm vi áp dụng:** Quy chế này áp dụng đối với tất cả 04 phòng ban chức năng của Công ty tham gia vào chu trình thực hiện dự án thi công lắp dựng kết cấu thép, từ khảo sát, báo giá, đàm phán hợp đồng, bóc tách khối lượng, cung ứng vật tư, huy động nhân lực, tổ chức thi công, an toàn vệ sinh lao động đến nghiệm thu, thu hồi dòng tiền và thanh quyết toán dự án.
 2. **Các phòng ban tham gia trích chia Quỹ thưởng KPI dự án:**
    Tất cả 04 phòng ban chức năng đều được đánh giá hiệu suất (KPI) và hưởng quỹ thưởng KPI theo tỷ lệ phân bổ chuẩn hóa gắn với kết quả thu hồi dòng tiền và lợi nhuận gộp thực tế của từng dự án:
@@ -37,13 +44,6 @@
    - **Phòng Kế toán – Tài chính (chiếm 15% quỹ KPI):** Kế toán công trình, kế toán thanh toán trực tiếp kiểm soát dòng tiền, lập hồ sơ thanh toán, kiểm soát chi phí TK 154 và đôn đốc thu hồi công nợ dự án;
    - **Phòng Hành chính – Nhân sự (chiếm 10% quỹ KPI):** Nhân sự phụ trách hoàn thiện hồ sơ lao động, thủ tục đăng ký người lao động, tuyển dụng, điều động nhân lực và hỗ trợ hành chính phục vụ dự án.
    *(Tổng tỷ lệ phân bổ: 50% + 25% + 15% + 10% = 100%).*
-
-### Điều 3. Căn cứ pháp lý
-- Bộ luật Lao động số 45/2019/QH14 (Điều 104 về tiền thưởng);
-- Luật Kế toán số 88/2015/QH13 và **Thông tư số 133/2016/TT-BTC** ngày 26/08/2016 của Bộ Tài chính hướng dẫn Chế độ kế toán doanh nghiệp nhỏ và vừa;
-- Luật Thuế thu nhập cá nhân số 109/2025/QH15 và Nghị quyết số 110/2025/UBTVQH15;
-- Quy chế tiền lương, thưởng và phụ cấp số 22/2026/QC-<<CTY_TEN_VT>> của Công ty;
-- Bảng tham số nội bộ (`00-bang-tham-so.md` mục III.4) và Căn cứ pháp lý chung (`00-can-cu-phap-ly.md`).
 
 ---
 

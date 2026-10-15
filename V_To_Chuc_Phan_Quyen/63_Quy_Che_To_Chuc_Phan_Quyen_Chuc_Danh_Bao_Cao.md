@@ -1,4 +1,5 @@
 # QUY CHẾ TỔ CHỨC, PHÂN QUYỀN, CHỨC DANH CÔNG TRƯỜNG VÀ CHẾ ĐỘ BÁO CÁO NỘI BỘ
+*(Ban hành kèm theo Quyết định số 63/2026/QĐ-<<CTY_TEN_VT>> ngày <<VB_NGAY>>/<<VB_THANG>>/<<VB_NAM>> của Giám đốc <<CTY_TEN>>)*
 
 | THÔNG TIN QUẢN TRỊ | CHI TIẾT |
 |---|---|
@@ -14,12 +15,26 @@
 
 ## CHƯƠNG I. NGUYÊN TẮC CHUNG VÀ CƠ CẤU TỔ CHỨC CÔNG TY
 
-### Điều 1. Mục đích và Phạm vi điều chỉnh
+### Điều 1. Căn cứ pháp lý
+- Bộ luật Dân sự số 91/2015/QH13 ngày 24/11/2015 của Quốc hội;
+- Luật Doanh nghiệp số 59/2020/QH14 ngày 17/06/2020 của Quốc hội;
+- Bộ luật Lao động số 45/2019/QH14 ngày 20/11/2019 của Quốc hội và Nghị định 145/2020/NĐ-CP;
+- Luật Xây dựng số 135/2025/QH15 (hiệu lực từ ngày 01/07/2026);
+- Luật An toàn, vệ sinh lao động số 84/2015/QH13;
+- Luật Việc làm số 74/2025/QH15 và Luật Bảo hiểm xã hội số 41/2024/QH15;
+- Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 và Nghị định số 356/2025/NĐ-CP;
+- Nghị định số 207/2026/NĐ-CP ngày 15/06/2026 của Chính phủ quy định chi tiết về quản lý an toàn và chất lượng trong thi công xây dựng công trình;
+- Thông tư số 32/2026/TT-BXD ngày 22/06/2026 của Bộ Xây dựng hướng dẫn Nghị định 207/2026/NĐ-CP;
+- Thông tư số 133/2016/TT-BTC ngày 26/08/2016 của Bộ Tài chính hướng dẫn chế độ kế toán doanh nghiệp nhỏ và vừa;
+- Căn cứ pháp lý chung (`00-can-cu-phap-ly.md`) và Bảng tham số nội bộ (`00-bang-tham-so.md`);
+- Điều lệ tổ chức và hoạt động của `<<CTY_TEN>>`.
+
+### Điều 2. Mục đích và Phạm vi điều chỉnh
 1. Quy chế này quy định cơ cấu tổ chức bộ máy, chức năng nhiệm vụ của các phòng ban, ranh giới phân quyền ký duyệt tài chính - nghiệp vụ, quyền hạn và trách nhiệm của các chức danh chủ chốt tại công trường, cùng hệ thống chế độ thông tin báo cáo nội bộ trong `<<CTY_TEN>>`.
 2. Đặc thù hoạt động của Công ty là **Nhà thầu phụ chuyên sâu thi công lắp dựng kết cấu thép và tôn bao che nhà xưởng công nghiệp**. Công ty không trực tiếp sản xuất, gia công cơ khí chế tạo tại xưởng mà mua thành phẩm (cấu kiện dầm, cột, kèo thép, xà gồ, bu lông móng, cáp giằng, tôn mái...) từ các nhà sản xuất/nhà cung cấp uy tín để tổ chức cẩu lắp trực tiếp tại công trường của Tổng thầu/Chủ đầu tư.
 3. Quy chế này áp dụng bắt buộc đối với toàn bộ cán bộ, nhân viên, chỉ huy trưởng, kỹ sư, giám sát an toàn và người lao động làm việc theo hợp đồng lao động tại Công ty.
 
-### Điều 2. Sơ đồ cơ cấu tổ chức bộ máy
+### Điều 3. Sơ đồ cơ cấu tổ chức bộ máy
 
 ```
                            ┌──────────────────────────┐
@@ -36,7 +51,7 @@
 └─────────────────┘ └─────────────────┘ └─────────────────────────┘ └─────────────────────┘
 ```
 
-### Điều 3. Chức năng, nhiệm vụ của 04 Phòng ban nghiệp vụ
+### Điều 4. Chức năng, nhiệm vụ của 04 Phòng ban nghiệp vụ
 
 #### 1. Phòng Thi công (Quản lý dự án & điều hành công trường):
 - **Chức năng:** Trực tiếp quản lý, điều hành và tổ chức triển khai thi công lắp dựng kết cấu thép tại toàn bộ các công trường theo đúng hồ sơ thiết kế, biện pháp thi công (B2-03) và tiến độ cam kết với Tổng thầu.
@@ -87,7 +102,7 @@
 
 ## CHƯƠNG II. PHÂN ĐỊNH THẨM QUYỀN KÝ DUYỆT VÀ ỦY QUYỀN
 
-### Điều 4. Thẩm quyền ký duyệt tối cao của Giám đốc Công ty
+### Điều 5. Thẩm quyền ký duyệt tối cao của Giám đốc Công ty
 Giám đốc là Người đại diện theo pháp luật duy nhất của `<<CTY_TEN>>`, có toàn quyền quyết định và ký duyệt các văn bản mang tính pháp lý ràng buộc đối với Công ty:
 1. Ký kết các Hợp đồng kinh tế giao nhận thầu phụ, Hợp đồng thi công trực tiếp với Tổng thầu/Chủ đầu tư (kèm Phụ lục điều khoản an toàn B4-59 và Phụ lục vật tư D2-74);
 2. Ký ban hành các văn bản quy phạm nội bộ: Nội quy lao động, Quy chế lương thưởng KPI, Sổ tay HSE, Quy chế tổ chức phân quyền, Quy chế dữ liệu cá nhân;
@@ -97,7 +112,7 @@ Giám đốc là Người đại diện theo pháp luật duy nhất của `<<CT
 6. Phê duyệt chi tài chính cho các khoản chi vượt hạn mức duyệt của Trưởng phòng hoặc các khoản thanh toán công nợ chuyển khoản lớn;
 7. Ký duyệt các báo cáo chính thức gửi Cơ quan Quản lý Nhà nước (Sở Xây dựng, Sở Nội vụ, Sở Lao động - Thương binh và Xã hội, Cơ quan Thuế, BHXH).
 
-### Điều 5. Thẩm quyền phê duyệt nội bộ của Trưởng phòng nghiệp vụ
+### Điều 6. Thẩm quyền phê duyệt nội bộ của Trưởng phòng nghiệp vụ
 Các Trưởng phòng được Giám đốc trao quyền chủ động điều hành nghiệp vụ và phê duyệt trong phạm vi giới hạn định mức quy định tại Bảng tham số hiện hành (`00-bang-tham-so.md`):
 
 | Nghiệp vụ phê duyệt | Người thẩm tra / Đề xuất | Người phê duyệt nội bộ | Ngưỡng giá trị áp dụng (theo Bảng tham số) | Ghi chú & Trách nhiệm báo cáo |
@@ -111,7 +126,7 @@ Các Trưởng phòng được Giám đốc trao quyền chủ động điều h
 | **Kế hoạch điều động nhân sự nội bộ** | Kỹ sư công trường | Trưởng phòng Thi công | Trong phạm vi công trình đang thi công | Phối hợp Phòng HC-NS cập nhật hồ sơ |
 | **Đề xuất mua sắm PPE, vật tư tiêu hao an toàn** | An toàn viên công trường | Người phụ trách Quản lý an toàn (`<<CTY_NGUOI_AT>>`) | Theo định mức công nhân thực tế | Thủ kho xuất kho hoặc duyệt mua bổ sung |
 
-### Điều 6. Nguyên tắc ủy quyền
+### Điều 7. Nguyên tắc ủy quyền
 1. Việc ủy quyền chỉ được thực hiện bằng Văn bản ủy quyền của Giám đốc, nêu rõ phạm vi công việc, hạn mức tài chính và thời hạn ủy quyền.
 2. Người được ủy quyền không được phép ủy quyền lại cho bên thứ ba, trừ trường hợp có văn bản chấp thuận riêng của Giám đốc.
 3. Tuyệt đối không ủy quyền quyền quyết định dừng thi công khẩn cấp vì lý do an toàn cho bất kỳ cá nhân nào thiếu năng lực chuyên môn về an toàn xây dựng.
@@ -120,7 +135,7 @@ Các Trưởng phòng được Giám đốc trao quyền chủ động điều h
 
 ## CHƯƠNG III. CHỨC DANH VÀ NHIỆM VỤ TẠI CÔNG TRƯỜNG THI CÔNG
 
-### Điều 7. Chỉ huy trưởng công trường (Site Manager)
+### Điều 8. Chỉ huy trưởng công trường (Site Manager)
 1. **Tiêu chuẩn năng lực:** Tốt nghiệp Đại học/Cao đẳng chuyên ngành Xây dựng dân dụng và công nghiệp hoặc Kết cấu thép; có chứng chỉ hành nghề giám sát/chỉ huy trưởng phù hợp theo quy định Luật Xây dựng 2025; đã được huấn luyện an toàn vệ sinh lao động Nhóm 2/Nhóm 3.
 2. **Quyền hạn và Trách nhiệm:**
    - Chịu trách nhiệm toàn diện trước Giám đốc Công ty và trước pháp luật về tiến độ, chất lượng lắp dựng, an toàn lao động và kỷ luật tại công trường;
@@ -131,7 +146,7 @@ Các Trưởng phòng được Giám đốc trao quyền chủ động điều h
    - **Quyền dừng việc khẩn cấp:** Có toàn quyền ra lệnh tạm đình chỉ thi công ngay lập tức khi phát hiện nguy cơ mất an toàn nghiêm trọng (gió $\ge 8$ m/s, mưa dông, sụt lún chân cẩu, vi phạm khoảng cách an toàn điện cao thế);
    - Chủ trì chỉ đạo ứng cứu và sơ cấp cứu ban đầu khi xảy ra sự cố hoặc tai nạn lao động; báo cáo khẩn cấp về Giám đốc trong vòng 60 phút.
 
-### Điều 8. Cán bộ / An toàn viên công trường (Safety Officer - HSE)
+### Điều 9. Cán bộ / An toàn viên công trường (Safety Officer - HSE)
 1. **Tiêu chuẩn:** Có bằng cấp/chứng chỉ chuyên môn về An toàn lao động hoặc Kỹ thuật xây dựng; được cấp Giấy chứng nhận huấn luyện ATVSLĐ Nhóm 2 theo Nghị định 44/2016/NĐ-CP (sửa đổi bổ sung).
 2. **Quyền hạn độc lập:**
    - Hoạt động độc lập về mặt chuyên môn giám sát an toàn so với áp lực tiến độ thi công;
@@ -145,7 +160,7 @@ Các Trưởng phòng được Giám đốc trao quyền chủ động điều h
    - Kiểm tra, ký nháy kiểm soát Giấy phép làm việc đặc biệt nguy hiểm (Mã 41) trước khi trình Chỉ huy trưởng phê duyệt;
    - Ghi chép Sổ theo dõi tai nạn, sự cố, suýt xảy ra (Near-miss - Mã 48) và Phiếu kiểm tra an toàn hằng ngày (Mã 42).
 
-### Điều 9. Thủ kho công trường
+### Điều 10. Thủ kho công trường
 1. **Nhiệm vụ:**
    - Thực hiện kiểm đếm, tiếp nhận vật tư cấu kiện thép, bu lông liên kết, sơn dặm, que hàn và thiết bị thi công chuyển đến công trường theo đúng Biên bản giao nhận vật tư (Mã 68);
    - **Phát hiện và lập biên bản khuyết tật ngay tại thời điểm giao nhận:** Ghi nhận rõ các biến dạng cong vênh, trầy xước sơn, rỉ sét bề mặt, thiếu bu lông liên kết và yêu cầu đại diện bên giao (Nhà xe hoặc Nhà cung cấp) ký xác nhận;
@@ -153,7 +168,7 @@ Các Trưởng phòng được Giám đốc trao quyền chủ động điều h
    - Quản lý cấp phát, thu hồi và kiểm tra định kỳ tình trạng an toàn của Phương tiện bảo vệ cá nhân (dây an toàn 2 móc, khóa hãm trượt, nón, kính hàn) theo Sổ cấp phát PPE (Mã 43);
    - Thực hiện kiểm kê vật tư định kỳ hằng tuần/hằng tháng và phối hợp lập Biên bản quyết toán vật tư công trình (D1-04).
 
-### Điều 10. Tổ trưởng tổ thợ thi công lắp dựng (Foreman)
+### Điều 11. Tổ trưởng tổ thợ thi công lắp dựng (Foreman)
 1. **Nhiệm vụ:**
    - Trực tiếp phân công công việc cụ thể cho từng thành viên trong tổ theo đúng biện pháp thi công được duyệt;
    - Chấm công thực tế hằng ngày của các thợ trong tổ và chuyển Chỉ huy trưởng xác nhận;
@@ -165,7 +180,7 @@ Các Trưởng phòng được Giám đốc trao quyền chủ động điều h
 
 ## CHƯƠNG IV. CHẾ ĐỘ THÔNG TIN BÁO CÁO NỘI BỘ
 
-### Điều 11. Bảng quy định danh mục và chế độ báo cáo nội bộ
+### Điều 12. Bảng quy định danh mục và chế độ báo cáo nội bộ
 
 | Tên báo cáo | Nội dung báo cáo trọng tâm | Người lập | Người tiếp nhận | Kênh gửi / Phương thức | Tần suất báo cáo |
 |---|---|---|---|---|---|
@@ -177,7 +192,7 @@ Các Trưởng phòng được Giám đốc trao quyền chủ động điều h
 | **Tài chính & Dòng tiền** | Doanh thu tích lũy, tiền đã về tài khoản, công nợ Tổng thầu quá hạn, dự toán chi 15 ngày tới | Kế toán trưởng | Giám đốc | Báo cáo tài chính quản trị | Ngày 05 hằng tháng |
 | **Sự cố & Tai nạn khẩn cấp** | Mô tả sơ bộ tai nạn, nạn nhân, vị trí, biện pháp cấp cứu ban đầu, hiện trường | Chỉ huy trưởng & An toàn viên | **Giám đốc Công ty**, Người PT an toàn | Gọi điện trực tiếp + Phiếu ghi nhanh (Mã 47) | **Ngay lập tức** (trong 60 phút) |
 
-### Điều 12. Họp giao ban và Xử lý xung đột điều hành
+### Điều 13. Họp giao ban và Xử lý xung đột điều hành
 1. **Họp giao ban tuần:** Tổ chức vào sáng thứ Hai hằng tuần giữa Ban Giám đốc, các Trưởng phòng ban và Chỉ huy trưởng các công trường (trực tiếp hoặc trực tuyến) để rà soát tiến độ, tài chính và giải quyết vướng mắc.
 2. **Nguyên tắc giải quyết xung đột Tiến độ vs. An toàn:** Khi có sự bất đồng ý kiến giữa Chỉ huy trưởng (yêu cầu tiếp tục cẩu lắp cho kịp mốc bàn giao) và An toàn viên (yêu cầu dừng vì gió giật, thiếu dây cứu sinh hoặc thiếu chiếu sáng):
    - **Mệnh lệnh của An toàn viên về việc dừng cẩu hoặc ngừng việc có hiệu lực tức thì;**
@@ -186,21 +201,11 @@ Các Trưởng phòng được Giám đốc trao quyền chủ động điều h
 
 ---
 
-## CHƯƠNG V. ĐIỀU KHOẢN THI HÀNH VÀ CĂN CỨ PHÁP LÝ
+## CHƯƠNG V. ĐIỀU KHOẢN THI HÀNH
 
-### Điều 13. Hiệu lực thi hành
+### Điều 14. Hiệu lực thi hành
 1. Quy chế này có hiệu lực thi hành kể từ ngày ký ban hành. Toàn bộ các quy định trước đây trái với Quy chế này đều bị bãi bỏ.
 2. Trưởng các phòng ban, Chỉ huy trưởng các công trường có trách nhiệm phổ biến Quy chế này đến từng nhân sự thuộc quyền quản lý và nghiêm túc thực hiện.
-
-### CĂN CỨ PHÁP LÝ BAN HÀNH
-- *Bộ luật Dân sự số 91/2015/QH13 ngày 24/11/2015 của Quốc hội;*
-- *Luật Doanh nghiệp số 59/2020/QH14 ngày 17/06/2020 của Quốc hội;*
-- *Bộ luật Lao động số 45/2019/QH14 ngày 20/11/2019 của Quốc hội;*
-- *Luật Xây dựng số 50/2014/QH13 và Luật Xây dựng số 135/2025/QH15;*
-- *Luật An toàn, vệ sinh lao động số 84/2015/QH13 (◐ rà soát khi Luật sửa đổi có hiệu lực);*
-- *Nghị định số 207/2026/NĐ-CP ngày 15/06/2026 của Chính phủ quy định chi tiết về quản lý an toàn trong thi công xây dựng công trình;*
-- *Thông tư số 133/2016/TT-BTC ngày 26/08/2016 của Bộ Tài chính hướng dẫn chế độ kế toán doanh nghiệp nhỏ và vừa;*
-- *Điều lệ tổ chức và hoạt động của `<<CTY_TEN>>`.*
 
 ---
 

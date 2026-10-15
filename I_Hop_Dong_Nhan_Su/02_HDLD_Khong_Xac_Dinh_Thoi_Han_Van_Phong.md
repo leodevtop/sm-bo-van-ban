@@ -21,6 +21,10 @@
 
 </div>
 
+- *Căn cứ Bộ luật Lao động số 45/2019/QH14 ngày 20/11/2019 của Quốc hội;*
+- *Căn cứ Luật Việc làm số 74/2025/QH15 và Luật Bảo hiểm xã hội số 41/2024/QH15;*
+- *Căn cứ nhu cầu sản xuất kinh doanh của <<CTY_TEN>> và nguyện vọng, năng lực của Người lao động;*
+
 Hôm nay, ngày <<VB_NGAY>> tháng <<VB_THANG>> năm <<VB_NAM>>, tại <<CTY_DIA_DANH>>, chúng tôi gồm các bên:
 
 ### BÊN A – NGƯỜI SỬ DỤNG LAO ĐỘNG:

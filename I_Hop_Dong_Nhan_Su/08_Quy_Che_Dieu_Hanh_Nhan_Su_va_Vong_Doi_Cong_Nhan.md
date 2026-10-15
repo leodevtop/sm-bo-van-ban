@@ -15,27 +15,7 @@
 
 ## CHƯƠNG I. QUY ĐỊNH CHUNG
 
-### Điều 1. Mục đích và phạm vi áp dụng
-1. Quy chế này quy định nguyên tắc tuyển dụng, quản lý, điều động, luân chuyển công tác, kỷ luật lao động và quy trình vòng đời lao động thi công lắp dựng kết cấu thép từ lúc tiếp nhận đến khi kết thúc dự án.
-2. Áp dụng thống nhất đối với toàn bộ cán bộ, nhân viên văn phòng, chỉ huy trưởng, kỹ thuật hiện trường, an toàn viên và công nhân thi công lắp dựng làm việc tại Công ty và các công trường xây dựng trên toàn quốc.
-
-### Điều 2. Cơ cấu tổ chức bộ máy quản lý thực tế
-Cơ cấu bộ máy điều hành của Công ty tại thời điểm hiện tại gồm 04 (bốn) phòng ban chức năng trực thuộc sự lãnh đạo trực tiếp của Giám đốc:
-1. **Phòng Thi công:** Quản lý chỉ huy trưởng, an toàn viên, đội trưởng, tổ đội công nhân lắp dựng; trực tiếp tổ chức thi công, kiểm soát an toàn, biện pháp kỹ thuật và tiến độ hiện trường.
-2. **Phòng Dự án (kiêm Kinh doanh):** Khảo sát hiện trường, báo giá, thương thảo điều khoản hợp đồng thầu phụ, lập tiến độ tổng thể, quản lý tiến độ vật tư và phối hợp nghiệm thu với Chủ đầu tư/Tổng thầu.
-3. **Phòng Kế toán – Tài chính:** Quản lý dòng tiền, hồ sơ thanh toán khối lượng, tạm ứng công trình, tính và chi trả tiền lương qua tài khoản ngân hàng, nghĩa vụ bảo hiểm, thuế và quyết toán chi phí công trình.
-4. **Phòng Hành chính – Nhân sự:** Quản lý hồ sơ nhân sự, hợp đồng lao động, theo dõi số lần ký hợp đồng, thủ tục đăng ký lao động trực tuyến, quản lý dữ liệu cá nhân và bảo mật tài liệu (tham gia 10% Quỹ thưởng KPI dự án theo Quy chế số 23/2026/QC-<<CTY_TEN_VT>>).
-
-### Điều 3. Vai trò của Ban Chấp hành Công đoàn cơ sở
-1. **Tổ chức đại diện:** Ban Chấp hành Công đoàn cơ sở (<<CTY_CD_TEN>>) là tổ chức đại diện hợp pháp của tập thể người lao động tại Công ty, thực hiện chức năng đại diện, chăm lo và bảo vệ quyền, lợi ích hợp pháp, chính đáng của người lao động theo Luật Công đoàn 2024 và Bộ luật Lao động 2019.
-2. **Tham gia quản lý và giám sát:**  
-   - Tham gia góp ý kiến xây dựng, sửa đổi, bổ sung Nội quy lao động, Quy chế quản lý nhân sự, Quy chế tiền lương, thang bảng lương và các định mức an toàn lao động.  
-   - Cử đại diện tham dự các phiên họp xử lý kỷ luật lao động theo quy định tại Điều 122 Bộ luật Lao động 2019.  
-   - Tham gia làm thành viên chính thức trong Đoàn điều tra tai nạn lao động cấp cơ sở theo Điều 35 Luật An toàn, vệ sinh lao động 2015.  
-   - Phối hợp với người sử dụng lao động tổ chức đối thoại định kỳ tại nơi làm việc và giải quyết tranh chấp lao động phát sinh.  
-3. **Chưa áp dụng Thỏa ước lao động tập thể:** Căn cứ quy mô nhân sự và định hướng tổ chức của Công ty (doanh nghiệp quy mô nhỏ, công nhân thời vụ biến động theo dự án), Công ty và Ban Chấp hành Công đoàn cơ sở thống nhất hiện tại chưa tiến hành ký kết Thỏa ước lao động tập thể. Mọi quyền lợi, nghĩa vụ và chế độ của người lao động được xác lập và thực thi nghiêm túc căn cứ trên Hợp đồng lao động, Nội quy lao động, Quy chế nội bộ đã đăng ký/ban hành hợp pháp và các quy định pháp luật hiện hành.
-
-### Điều 4. Căn cứ pháp lý
+### Điều 1. Căn cứ pháp lý
 - Bộ luật Lao động số 45/2019/QH14 và Nghị định số 145/2020/NĐ-CP;
 - Luật Công đoàn số 50/2024/QH15;
 - Luật An toàn, vệ sinh lao động số 84/2015/QH13 và Nghị định số 39/2016/NĐ-CP;
@@ -47,6 +27,26 @@ Cơ cấu bộ máy điều hành của Công ty tại thời điểm hiện t�
 - Nghị quyết số 28/2026/QH16 của Quốc hội về việc xác lập Ngày Văn hóa Việt Nam (24/11 hằng năm) là ngày nghỉ lễ hưởng nguyên lương;
 - Nghị định số 283/2026/NĐ-CP quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội;
 - Bảng tham số nội bộ (`00-bang-tham-so.md`) và Căn cứ pháp lý chung (`00-can-cu-phap-ly.md`).
+
+### Điều 2. Mục đích và phạm vi áp dụng
+1. Quy chế này quy định nguyên tắc tuyển dụng, quản lý, điều động, luân chuyển công tác, kỷ luật lao động và quy trình vòng đời lao động thi công lắp dựng kết cấu thép từ lúc tiếp nhận đến khi kết thúc dự án.
+2. Áp dụng thống nhất đối với toàn bộ cán bộ, nhân viên văn phòng, chỉ huy trưởng, kỹ thuật hiện trường, an toàn viên và công nhân thi công lắp dựng làm việc tại Công ty và các công trường xây dựng trên toàn quốc.
+
+### Điều 3. Cơ cấu tổ chức bộ máy quản lý thực tế
+Cơ cấu bộ máy điều hành của Công ty tại thời điểm hiện tại gồm 04 (bốn) phòng ban chức năng trực thuộc sự lãnh đạo trực tiếp của Giám đốc:
+1. **Phòng Thi công:** Quản lý chỉ huy trưởng, an toàn viên, đội trưởng, tổ đội công nhân lắp dựng; trực tiếp tổ chức thi công, kiểm soát an toàn, biện pháp kỹ thuật và tiến độ hiện trường.
+2. **Phòng Dự án (kiêm Kinh doanh):** Khảo sát hiện trường, báo giá, thương thảo điều khoản hợp đồng thầu phụ, lập tiến độ tổng thể, quản lý tiến độ vật tư và phối hợp nghiệm thu với Chủ đầu tư/Tổng thầu.
+3. **Phòng Kế toán – Tài chính:** Quản lý dòng tiền, hồ sơ thanh toán khối lượng, tạm ứng công trình, tính và chi trả tiền lương qua tài khoản ngân hàng, nghĩa vụ bảo hiểm, thuế và quyết toán chi phí công trình.
+4. **Phòng Hành chính – Nhân sự:** Quản lý hồ sơ nhân sự, hợp đồng lao động, theo dõi số lần ký hợp đồng, thủ tục đăng ký lao động trực tuyến, quản lý dữ liệu cá nhân và bảo mật tài liệu (tham gia 10% Quỹ thưởng KPI dự án theo Quy chế số 23/2026/QC-<<CTY_TEN_VT>>).
+
+### Điều 4. Vai trò của Ban Chấp hành Công đoàn cơ sở
+1. **Tổ chức đại diện:** Ban Chấp hành Công đoàn cơ sở (<<CTY_CD_TEN>>) là tổ chức đại diện hợp pháp của tập thể người lao động tại Công ty, thực hiện chức năng đại diện, chăm lo và bảo vệ quyền, lợi ích hợp pháp, chính đáng của người lao động theo Luật Công đoàn 2024 và Bộ luật Lao động 2019.
+2. **Tham gia quản lý và giám sát:**  
+   - Tham gia góp ý kiến xây dựng, sửa đổi, bổ sung Nội quy lao động, Quy chế quản lý nhân sự, Quy chế tiền lương, thang bảng lương và các định mức an toàn lao động.  
+   - Cử đại diện tham dự các phiên họp xử lý kỷ luật lao động theo quy định tại Điều 122 Bộ luật Lao động 2019.  
+   - Tham gia làm thành viên chính thức trong Đoàn điều tra tai nạn lao động cấp cơ sở theo Điều 35 Luật An toàn, vệ sinh lao động 2015.  
+   - Phối hợp với người sử dụng lao động tổ chức đối thoại định kỳ tại nơi làm việc và giải quyết tranh chấp lao động phát sinh.  
+3. **Chưa áp dụng Thỏa ước lao động tập thể:** Căn cứ quy mô nhân sự và định hướng tổ chức của Công ty (doanh nghiệp quy mô nhỏ, công nhân thời vụ biến động theo dự án), Công ty và Ban Chấp hành Công đoàn cơ sở thống nhất hiện tại chưa tiến hành ký kết Thỏa ước lao động tập thể. Mọi quyền lợi, nghĩa vụ và chế độ của người lao động được xác lập và thực thi nghiêm túc căn cứ trên Hợp đồng lao động, Nội quy lao động, Quy chế nội bộ đã đăng ký/ban hành hợp pháp và các quy định pháp luật hiện hành.
 
 ---
 

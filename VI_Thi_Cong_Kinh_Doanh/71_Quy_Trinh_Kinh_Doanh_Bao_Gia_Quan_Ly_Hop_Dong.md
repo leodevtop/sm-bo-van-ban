@@ -1,4 +1,5 @@
 # QUY TRÌNH KINH DOANH, BÁO GIÁ VÀ QUẢN LÝ HỢP ĐỒNG THI CÔNG LẮP DỰNG
+*(Ban hành kèm theo Quyết định số 71/2026/QĐ-<<CTY_TEN_VT>> ngày <<VB_NGAY>>/<<VB_THANG>>/<<VB_NAM>> của Giám đốc <<CTY_TEN>>)*
 
 | THÔNG TIN QUẢN TRỊ VĂN BẢN | NỘI DUNG CHI TIẾT |
 | :--- | :--- |
@@ -11,20 +12,33 @@
 
 ---
 
-## ĐIỀU 1. MỤC ĐÍCH VÀ PHẠM VI ÁP DỤNG
+## ĐIỀU 1. CĂN CỨ PHÁP LÝ
 
-### 1.1. Mục đích
+1. Bộ luật Dân sự số 91/2015/QH13 ngày 24/11/2015 của Quốc hội và các văn bản hướng dẫn thi hành;
+2. Luật Thương mại số 36/2005/QH11 ngày 14/06/2005 của Quốc hội;
+3. Luật Xây dựng số 135/2025/QH15 (hiệu lực từ ngày 01/07/2026);
+4. Nghị định số 207/2026/NĐ-CP ngày 15/06/2026 của Chính phủ về quản lý chất lượng, thi công xây dựng và an toàn lao động trong thi công xây dựng công trình (thay thế Nghị định 06/2021/NĐ-CP);
+5. Nghị định số 210/2026/NĐ-CP (quy định hồ sơ quyết toán hợp đồng xây dựng) và các quy định pháp luật về hợp đồng xây dựng;
+6. Thông tư số 133/2016/TT-BTC ngày 26/08/2016 của Bộ Tài chính hướng dẫn Chế độ kế toán doanh nghiệp nhỏ và vừa;
+7. Bảng tham số nội bộ (`00-bang-tham-so.md`) và Căn cứ pháp lý chung (`00-can-cu-phap-ly.md`);
+8. Điều lệ tổ chức và hoạt động hiện hành của **<<CTY_TEN>>**.
+
+---
+
+## ĐIỀU 2. MỤC ĐÍCH VÀ PHẠM VI ÁP DỤNG
+
+### 2.1. Mục đích
 1. Chuẩn hóa toàn bộ chu trình kinh doanh từ tiếp nhận thông tin dự án, khảo sát, lập dự toán báo giá, thẩm định rủi ro pháp lý - thương mại, đàm phán ký kết hợp đồng đến bàn giao triển khai thi công và theo dõi thu hồi công nợ.
 2. Kiểm soát chặt chẽ biên lợi nhuận, chi phí huy động xe cẩu - thiết bị nâng hạ, nhân công lắp dựng kết cấu thép và vật tư phụ; ngăn ngừa các rủi ro bất lợi trong hợp đồng thầu phụ với Tổng thầu / Chủ đầu tư.
 3. Đảm bảo tính minh bạch, thống nhất trách nhiệm và phân cấp thẩm quyền phê duyệt giữa các bộ phận trong toàn công ty.
 
-### 1.2. Phạm vi áp dụng
+### 2.2. Phạm vi áp dụng
 - Áp dụng đối với tất cả các hoạt động tìm kiếm cơ hội kinh doanh, báo giá dự thầu, đàm phán ký kết và quản lý thực hiện hợp đồng thi công lắp dựng kết cấu thép nhà xưởng công nghiệp tại **<<CTY_TEN>>**.
 - Không áp dụng cho hoạt động sản xuất, gia công kết cấu thép tại nhà máy (Công ty hoạt động chuyên sâu trong lĩnh vực thi công lắp dựng tại hiện trường, cấu kiện thép gia công hoàn thiện và bu lông neo do Tổng thầu/Chủ đầu tư cấp hoặc Công ty đặt mua từ nhà máy gia công chuyên nghiệp).
 
 ---
 
-## ĐIỀU 2. LƯU ĐỒ QUY TRÌNH TỔNG THỂ
+## ĐIỀU 3. LƯU ĐỒ QUY TRÌNH TỔNG THỂ
 
 ```
 [B1: Tiếp nhận RFQ / Lead]
@@ -48,7 +62,7 @@
 
 ---
 
-## ĐIỀU 3. CÁC BƯỚC THỰC HIỆN CHI TIẾT
+## ĐIỀU 4. CÁC BƯỚC THỰC HIỆN CHI TIẾT
 
 ### Bước 1: Tiếp nhận yêu cầu báo giá (Lead / RFQ)
 1. **Đầu mối tiếp nhận:** Phòng Dự án (kiêm Kinh doanh) tiếp nhận thông tin dự án qua thư mời thầu (RFP/RFQ), email, mối quan hệ đối tác hoặc đăng ký thông tin từ Tổng thầu/Khách hàng `<<KH_TEN>>`.
@@ -85,7 +99,7 @@
      + Lợi nhuận mục tiêu định mức.
 
 ### Bước 4: Thẩm duyệt đơn giá & Phân cấp thẩm quyền phê duyệt
-Mức đơn giá dự thầu và giá trị chào thầu phải tuân thủ hạn mức phân quyền phê duyệt của Công ty (chi tiết quy định theo Điều 5 Quy chế 63 và Bảng tham số hiện hành `00-bang-tham-so.md`):
+Mức đơn giá dự thầu và giá trị chào thầu phải tuân thủ hạn mức phân quyền phê duyệt của Công ty (chi tiết quy định theo Điều 6 Quy chế 63 và Bảng tham số hiện hành `00-bang-tham-so.md`):
 
 | Phân nhóm giá trị gói thầu | Thẩm quyền thẩm định | Thẩm quyền phê duyệt báo giá cuối cùng | Ghi chú & Chế độ báo cáo |
 | :--- | :--- | :--- | :--- |
@@ -140,30 +154,19 @@ Mức đơn giá dự thầu và giá trị chào thầu phải tuân thủ hạ
 
 ---
 
-## ĐIỀU 4. TRÁCH NHIỆM THI HÀNH VÀ BẢNG THAM SỐ ÁP DỤNG
+## ĐIỀU 5. TRÁCH NHIỆM THI HÀNH VÀ BẢNG THAM SỐ ÁP DỤNG
 
-### 4.1. Phân định trách nhiệm
+### 5.1. Phân định trách nhiệm
 1. **Phòng Dự án (kiêm Kinh doanh):** Chịu trách nhiệm toàn diện từ khâu tìm kiếm khách hàng, bóc tách khối lượng kết cấu thép, lập dự toán báo giá, đàm phán thương mại, trình duyệt/ký hợp đồng, thu mua vật tư thép (gói thầu Dạng 2) và phối hợp thu hồi công nợ đến khi thanh lý.
 2. **Phòng Thi công:** Chịu trách nhiệm tiếp nhận mặt bằng, tim mốc, bu lông móng; lập biện pháp thi công chi tiết, phương án cẩu lắp an toàn; điều hành tổ đội thợ, máy móc thiết bị, nghiệm thu kỹ thuật và ghi nhận kịp thời các phát sinh tại công trường.
 3. **Phòng Kế toán – Tài chính:** Chịu trách nhiệm kiểm soát dòng tiền dự án, hạch toán chi phí công trình (TK 154 theo Thông tư 133/2016/TT-BTC), thẩm định năng lực tài chính đối tác, phát hành bảo lãnh, xuất hóa đơn GTGT, đối chiếu công nợ và quyết toán tài chính công trình.
 4. **Ban Chỉ huy công trường:** Trực thuộc Phòng Thi công, đại diện Công ty tại hiện trường tổ chức thi công đúng phạm vi hợp đồng, tuân thủ nghiêm ngặt an toàn lao động, kiểm soát vật tư và ký các biên bản nghiệm thu hiện trường.
 
-### 4.2. Bảng tham số định mức và hạn mức kinh doanh
+### 5.2. Bảng tham số định mức và hạn mức kinh doanh
 *(Các giá trị biến động được điều chỉnh định kỳ theo Quyết định ban hành Bảng tham số hiện hành của Giám đốc Công ty)*:
 - Ngưỡng biên lợi nhuận gộp tối thiểu (Gross Margin Target): Theo Bảng tham số hiện hành (thông thường $\ge 12\% - 15\%$ đối với thầu nhân công + thiết bị; $\ge 8\% - 10\%$ đối với thầu trọn gói cung cấp kết cấu thép và lắp dựng).
 - Tỷ lệ tạm ứng hợp đồng mục tiêu: Theo Bảng tham số hiện hành (khuyến nghị $\ge 15\% - 20\%$).
 - Tỷ lệ phạt chậm thanh toán áp dụng đối với đối tác: Bằng lãi suất nợ quá hạn của ngân hàng thương mại tại thời điểm phát sinh hoặc theo quy định hợp đồng.
-
----
-
-## ĐIỀU 5. CĂN CỨ PHÁP LÝ
-
-1. Luật Dân sự số 91/2015/QH13 ngày 24/11/2015 và các văn bản hướng dẫn thi hành.
-2. Luật Thương mại số 36/2005/QH11 ngày 14/06/2005.
-3. Luật Xây dựng số 50/2014/QH13, Luật sửa đổi số 62/2020/QH14 và Luật Xây dựng sửa đổi bổ sung năm 2025 (Luật số 135/2025/QH15).
-4. Nghị định số 37/2015/NĐ-CP và Nghị định số 50/2021/NĐ-CP của Chính phủ quy định chi tiết về hợp đồng xây dựng.
-5. Nghị định số 207/2026/NĐ-CP của Chính phủ về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng (thay thế Nghị định 06/2021/NĐ-CP từ 01/07/2026).
-6. Điều lệ tổ chức và hoạt động hiện hành của **<<CTY_TEN>>**.
 
 ---
 

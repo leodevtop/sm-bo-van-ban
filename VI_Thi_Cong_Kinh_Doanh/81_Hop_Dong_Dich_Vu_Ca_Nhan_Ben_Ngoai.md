@@ -19,6 +19,10 @@
 
 ---
 
+- *Căn cứ Bộ luật Dân sự số 91/2015/QH13 ngày 24/11/2015 của Quốc hội;*
+- *Căn cứ Luật Thương mại số 36/2005/QH11 ngày 14/06/2005 của Quốc hội;*
+- *Căn cứ nhu cầu và khả năng thực tế của hai bên;*
+
 Hôm nay, ngày `<<VB_NGAY>>` tháng `<<VB_THANG>>` năm `<<VB_NAM>>`, tại Văn phòng Công ty **<<CTY_TEN>>**, chúng tôi gồm có:
 
 ### BÊN SỬ DỤNG DỊCH VỤ (BÊN A): **<<CTY_TEN>>**

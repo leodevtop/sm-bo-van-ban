@@ -1,4 +1,5 @@
 # QUY CHẾ BẢO VỆ DỮ LIỆU CÁ NHÂN, PHÂN QUYỀN HỆ THỐNG VÀ THỜI HẠN LƯU TRỮ HỒ SƠ
+*(Ban hành kèm theo Quyết định số 64/2026/QĐ-<<CTY_TEN_VT>> ngày <<VB_NGAY>>/<<VB_THANG>>/<<VB_NAM>> của Giám đốc <<CTY_TEN>>)*
 
 | THÔNG TIN QUẢN TRỊ | CHI TIẾT |
 |---|---|
@@ -15,7 +16,17 @@
 
 ## CHƯƠNG I. QUY ĐỊNH CHUNG VỀ BẢO VỆ DỮ LIỆU CÁ NHÂN
 
-### Điều 1. Mục đích và Phạm vi thu thập dữ liệu
+### Điều 1. Căn cứ pháp lý
+- Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 ngày 25/06/2025 của Quốc hội;
+- Nghị định số 356/2025/NĐ-CP ngày 31/12/2025 của Chính phủ quy định chi tiết thi hành Luật Bảo vệ dữ liệu cá nhân;
+- Bộ luật Lao động số 45/2019/QH14 ngày 20/11/2019 của Quốc hội và Nghị định 145/2020/NĐ-CP;
+- Luật An toàn, vệ sinh lao động số 84/2015/QH13 và Nghị định số 39/2016/NĐ-CP;
+- Luật Kế toán số 88/2015/QH13 và Thông tư số 133/2016/TT-BTC;
+- Luật Bảo hiểm xã hội số 41/2024/QH15 và Luật Việc làm số 74/2025/QH15;
+- Luật Xây dựng số 135/2025/QH15 và Nghị định số 207/2026/NĐ-CP về quản lý an toàn trong thi công xây dựng;
+- Căn cứ pháp lý chung (`00-can-cu-phap-ly.md`) và Bảng tham số nội bộ (`00-bang-tham-so.md`).
+
+### Điều 2. Mục đích và Phạm vi thu thập dữ liệu
 1. Quy chế này quy định các biện pháp tổ chức, kỹ thuật và quy trình quản trị nội bộ nhằm bảo vệ dữ liệu cá nhân của người lao động, đối tác, khách hàng và thầu phụ; quy định phân quyền khai thác dữ liệu và thời hạn lưu trữ hồ sơ tài liệu tại `<<CTY_TEN>>`.
 2. **Phạm vi chủ thể dữ liệu bao gồm:**
    - Người lao động ký hợp đồng lao động xác định thời hạn, không xác định thời hạn và ngắn hạn theo công trình;
@@ -24,7 +35,7 @@
    - Người đại diện, nhân sự của Nhà cung cấp vật tư thép, đối tác thuê xe cẩu, tổ đội thầu phụ.
 3. **Mục đích xử lý dữ liệu hợp pháp:** Chỉ thu thập và xử lý dữ liệu phục vụ mục đích giao kết và thực hiện hợp đồng lao động, đóng nộp BHXH, BHYT, BHTN, khấu trừ thuế TNCN, đăng ký thông tin người lao động trên cổng thị trường việc làm, mua bảo hiểm công trường, quản lý an toàn thi công và giải quyết chế độ tai nạn lao động. Tuyệt đối không sử dụng dữ liệu vào mục đích thương mại hoặc cung cấp trái phép cho bên thứ ba.
 
-### Điều 2. Phân loại dữ liệu cá nhân
+### Điều 3. Phân loại dữ liệu cá nhân
 Theo quy định của Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 và Điều 3 Nghị định số 356/2025/NĐ-CP, Công ty phân loại dữ liệu thu thập thành hai nhóm:
 
 ```
@@ -57,12 +68,12 @@ Theo quy định của Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15
 
 ## CHƯƠNG II. NGUYÊN TẮC XỬ LÝ VÀ PHÂN QUYỀN TRUY CẬP DỮ LIỆU
 
-### Điều 3. Nguyên tắc xử lý dữ liệu và Sự đồng ý
+### Điều 4. Nguyên tắc xử lý dữ liệu và Sự đồng ý
 1. Việc thu thập dữ liệu cá nhân phải có **Văn bản đồng ý xử lý dữ liệu cá nhân và cam kết bảo mật** (Biểu mẫu Mã 05) được người lao động ký kết khi ký Hợp đồng lao động.
 2. Dữ liệu chỉ được lưu trữ tập trung tại máy chủ/hệ thống lưu trữ số hóa của Công ty; các thiết bị công trường không lưu bản gốc.
 3. Nghiêm cấm chia sẻ hình ảnh căn cước công dân, bảng lương hoặc danh sách người lao động có thông tin cá nhân lên các hội nhóm mạng xã hội (Zalo, Facebook) công cộng mà không được mã hóa hoặc chưa có sự đồng ý.
 
-### Điều 4. Ma trận phân quyền truy cập hệ thống và khai thác dữ liệu
+### Điều 5. Ma trận phân quyền truy cập hệ thống và khai thác dữ liệu
 
 | Nhóm dữ liệu / Hồ sơ | Giám đốc | Phòng HC-NS | Kế toán - TC | Chỉ huy trưởng | An toàn viên | Phòng Dự án |
 |---|---|---|---|---|---|---|
@@ -72,7 +83,7 @@ Theo quy định của Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15
 | **Dữ liệu khách hàng, Tổng thầu, Báo giá** | Toàn quyền | – | Xem (để xuất HĐ) | Xem (bản vẽ, phạm vi) | – | Xem & Chỉnh sửa |
 | **Hợp đồng kinh tế, quyết toán thầu phụ** | Toàn quyền | – | Xem & Lưu trữ | Xem (khối lượng) | – | Xem & Soạn thảo |
 
-### Điều 5. Tiêu chuẩn an toàn công nghệ thông tin
+### Điều 6. Tiêu chuẩn an toàn công nghệ thông tin
 1. Tài khoản truy cập máy tính văn phòng và hệ thống lưu trữ phải được cài đặt mật khẩu mạnh (tối thiểu 8 ký tự, có ký tự đặc biệt, số và chữ hoa) và kích hoạt xác thực hai yếu tố (2FA) đối với tài khoản nhân sự, kế toán.
 2. Thu hồi toàn bộ quyền truy cập tài khoản, xóa quyền truy cập thư mục nội bộ ngay trong ngày người lao động chấm dứt làm việc tại Công ty.
 3. Toàn bộ dữ liệu số hóa của Công ty phải được **sao lưu (backup) tự động hằng ngày** vào ổ cứng độc lập/đám mây; Kế toán và IT tiến hành kiểm tra khả năng phục hồi dữ liệu định kỳ mỗi quý một lần.
@@ -81,7 +92,7 @@ Theo quy định của Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15
 
 ## CHƯƠNG III. QUYỀN CỦA CHỦ THỂ DỮ LIỆU VÀ QUY TRÌNH XỬ LÝ SỰ CỐ
 
-### Điều 6. Xử lý yêu cầu về quyền của Chủ thể dữ liệu
+### Điều 7. Xử lý yêu cầu về quyền của Chủ thể dữ liệu
 Người lao động và các đối tác có quyền gửi yêu cầu thực hiện các quyền của chủ thể dữ liệu (quyền được biết, đồng ý, truy cập, chỉnh sửa, xóa dữ liệu, rút lại sự đồng ý hoặc phản đối xử lý dữ liệu). Quy trình tiếp nhận và xử lý tuân thủ nghiêm ngặt theo Nghị định 356/2025/NĐ-CP:
 
 ```
@@ -98,7 +109,7 @@ Người lao động và các đối tác có quyền gửi yêu cầu thực hi
    - Trường hợp yêu cầu rút lại sự đồng ý hoặc phản đối xử lý dữ liệu mà Công ty phải thông báo cho bên thứ ba (Tổng thầu, Công ty bảo hiểm) dừng xử lý: Thời hạn thực hiện là **20 (hai mươi) ngày**;
    - **Trường hợp từ chối:** Nếu dữ liệu bắt buộc phải lưu trữ theo quy định pháp luật (chứng từ kế toán, hồ sơ tai nạn lao động, dữ liệu đóng BHXH), Công ty có quyền từ chối xóa dữ liệu và phải giải thích rõ lý do pháp lý trong văn bản phản hồi.
 
-### Điều 7. Quy trình xử lý sự cố lộ lọt, mất an toàn dữ liệu
+### Điều 8. Quy trình xử lý sự cố lộ lọt, mất an toàn dữ liệu
 1. **Phát hiện và báo cáo nội bộ:** Bất kỳ cán bộ, nhân viên nào phát hiện sự cố mất máy tính, tấn công mã độc mã hóa dữ liệu (ransomware), hoặc lộ lọt thông tin cá nhân phải báo cáo ngay lập tức cho Người phụ trách bảo vệ dữ liệu (`<<CTY_NGUOI_DL>>`) và Giám đốc trong thời hạn không quá **24 (hai mươi bốn) giờ**.
 2. **Biện pháp khẩn cấp:** Khóa ngay lập tức các tài khoản bị nghi ngờ xâm nhập, ngắt kết nối mạng hệ thống bị nhiễm, đổi toàn bộ mật khẩu quản trị và thiết lập vùng cách ly dữ liệu.
 3. **Báo cáo cơ quan Nhà nước:** Trong thời hạn **72 (bảy mươi hai) giờ** kể từ khi xác nhận xảy ra sự cố lộ lọt dữ liệu cá nhân, Công ty lập thông báo bằng văn bản theo đúng biểu mẫu quy định tại Phụ lục Nghị định 356/2025/NĐ-CP gửi Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao (A05) – Bộ Công an, đồng thời thông báo cho các cá nhân bị ảnh hưởng.
@@ -107,7 +118,7 @@ Người lao động và các đối tác có quyền gửi yêu cầu thực hi
 
 ## CHƯƠNG IV. BẢNG THỜI HẠN LƯU TRỮ HỒ SƠ TÀI LIỆU CÔNG TY
 
-### Điều 8. Bảng chi tiết thời hạn lưu trữ và Căn cứ pháp lý bắt buộc
+### Điều 9. Bảng chi tiết thời hạn lưu trữ và Căn cứ pháp lý bắt buộc
 
 | STT | Danh mục Nhóm hồ sơ tài liệu | Thời hạn lưu trữ tối thiểu | Căn cứ pháp lý & Quy tắc quản trị |
 |---|---|---|---|
@@ -124,7 +135,7 @@ Người lao động và các đối tác có quyền gửi yêu cầu thực hi
 | **11**| **Hồ sơ ứng viên tuyển dụng không trúng tuyển** | **06 (sáu) tháng**, sau đó xóa bỏ | Bảng tham số nội bộ (bảo đảm quyền riêng tư) |
 | **12**| **Dữ liệu hình ảnh CCCD, ảnh chân dung NLĐ** | **Xóa ngay sau khi chấm dứt HĐLĐ** *(khi đã hoàn thành thủ tục chốt sổ BHXH)* | Luật Bảo vệ dữ liệu cá nhân 2025 |
 
-### Điều 9. Nguyên tắc tiêu hủy và Lệnh tạm dừng hủy hồ sơ
+### Điều 10. Nguyên tắc tiêu hủy và Lệnh tạm dừng hủy hồ sơ
 1. **Nguyên tắc thời hạn dài nhất:** Trường hợp một tài liệu chứa đựng nhiều loại thông tin có thời hạn lưu trữ khác nhau, thời hạn lưu trữ được áp dụng theo thời hạn dài nhất.
 2. **Lệnh tạm dừng tiêu hủy hồ sơ (Legal Hold - Mẫu C2-2):** Khi phát sinh tranh chấp lao động, khiếu nại, tố tụng tòa án, thanh tra lao động, thuế hoặc điều tra tai nạn lao động, Giám đốc Công ty sẽ ban hành Lệnh tạm dừng tiêu hủy hồ sơ. Tuyệt đối không được tiêu hủy bất kỳ tài liệu nào thuộc phạm vi điều tra cho đến khi có văn bản giải tỏa chính thức của Giám đốc.
 3. **Quy trình tiêu hủy hồ sơ (Mã 65):**
@@ -156,18 +167,6 @@ Người lao động và các đối tác có quyền gửi yêu cầu thực hi
 | Số VB | Ngày ban hành / đến | Tên loại & Trích yếu nội dung văn bản | Đơn vị phát hành / Nơi gửi | Người ký / Người nhận | Đơn vị lưu bản gốc | File lưu số hóa (Link / Thư mục) |
 |---|---|---|---|---|---|---|
 | | | | | | | |
-
----
-
-## CHƯƠNG VI. CĂN CỨ PHÁP LÝ
-
-- *Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 ngày 25/06/2025 của Quốc hội;*
-- *Nghị định số 356/2025/NĐ-CP ngày 31/12/2025 của Chính phủ quy định chi tiết thi hành Luật Bảo vệ dữ liệu cá nhân;*
-- *Luật An toàn, vệ sinh lao động số 84/2015/QH13 và Nghị định số 39/2016/NĐ-CP ngày 15/05/2016 của Chính phủ;*
-- *Luật Kế toán số 88/2015/QH13 ngày 20/11/2015 của Quốc hội;*
-- *Luật Bảo hiểm xã hội số 41/2024/QH15 ngày 29/06/2024 của Quốc hội;*
-- *Nghị định số 207/2026/NĐ-CP ngày 15/06/2026 của Chính phủ về quản lý an toàn trong thi công xây dựng;*
-- *Thông tư số 133/2016/TT-BTC ngày 26/08/2016 của Bộ Tài chính.*
 
 ---
 

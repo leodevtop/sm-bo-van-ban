@@ -1,4 +1,5 @@
 # QUY TRÌNH THI CÔNG LẮP DỰNG, KIỂM SOÁT CHẤT LƯỢNG VÀ NGHIỆM THU KẾT CẤU THÉP
+*(Ban hành kèm theo Quyết định số 67/2026/QĐ-<<CTY_TEN_VT>> ngày <<VB_NGAY>>/<<VB_THANG>>/<<VB_NAM>> của Giám đốc <<CTY_TEN>>)*
 
 | THÔNG TIN QUẢN TRỊ | CHI TIẾT |
 |---|---|
@@ -14,11 +15,19 @@
 
 ## CHƯƠNG I. QUY ĐỊNH CHUNG VÀ NGUYÊN TẮC CỐT LÕI
 
-### Điều 1. Phạm vi áp dụng và Mục tiêu chất lượng
+### Điều 1. Căn cứ pháp lý
+- Luật Xây dựng số 135/2025/QH15 (hiệu lực từ ngày 01/07/2026);
+- Nghị định số 207/2026/NĐ-CP ngày 15/06/2026 của Chính phủ quy định chi tiết về quản lý an toàn và chất lượng trong thi công xây dựng công trình (thay thế Nghị định 06/2021/NĐ-CP);
+- Thông tư số 32/2026/TT-BXD ngày 22/06/2026 của Bộ Xây dựng hướng dẫn một số nội dung về quản lý an toàn và chất lượng thi công xây dựng (bãi bỏ Điều 2-9 và Điều 19 Thông tư 10/2021/TT-BXD);
+- Tiêu chuẩn quốc gia TCVN 170:2007 về Kết cấu thép – Gia công, lắp ráp và nghiệm thu – Yêu cầu kỹ thuật;
+- Quy chuẩn kỹ thuật quốc gia QCVN 18:2021/BXD về An toàn trong thi công xây dựng;
+- Căn cứ pháp lý chung (`00-can-cu-phap-ly.md`) và Bảng tham số nội bộ (`00-bang-tham-so.md`).
+
+### Điều 2. Phạm vi áp dụng và Mục tiêu chất lượng
 1. Quy trình này quy định các bước chuẩn hóa từ khâu chuẩn bị, tiếp nhận mặt bằng, quy trình kỹ thuật cẩu lắp, kiểm soát sai số dung sai hình học đến công tác nghiệm thu các cấp đối với công trình nhà xưởng kết cấu thép do `<<CTY_TEN>>` thực hiện.
 2. Mục tiêu chất lượng: Đảm bảo độ thẳng đứng của cột, độ vồng của vì kèo, lực siết bu lông liên kết và chất lượng mối hàn đáp ứng 100% hồ sơ thiết kế kỹ thuật thi công và Tiêu chuẩn quốc gia TCVN 170:2007; đảm bảo an toàn tuyệt đối cho người và thiết bị cẩu.
 
-### Điều 2. Nguyên tắc nghiêm ngặt trong nghiệm thu công việc che khuất
+### Điều 3. Nguyên tắc nghiêm ngặt trong nghiệm thu công việc che khuất
 1. **Quy tắc bất di bất dịch:** Tuyệt đối không được phép chuyển bước thi công khi công việc trước đó chưa được kiểm tra và nghiệm thu bằng văn bản.
 2. Đặc biệt đối với các **công việc sẽ bị che khuất** (bu lông neo móng trước khi đổ vữa không co ngót grouting; bu lông liên kết kèo dầm trước khi sơn phủ hoặc lắp tôn; hệ giằng mái trước khi lợp tôn): Kỹ sư hiện trường bắt buộc phải mời Tư vấn giám sát/Tổng thầu nghiệm thu bằng Phiếu nghiệm thu công việc (Mã 69). Nghiêm cấm mọi hành vi lợp tôn hoặc bọc chống cháy khi chưa có chữ ký nghiệm thu khung thép.
 
@@ -60,7 +69,7 @@
 └─────────────────────────────────┘
 ```
 
-### Điều 3. Chi tiết các bước thực hiện
+### Điều 4. Chi tiết các bước thực hiện
 
 #### Bước 1: Tiếp nhận và đối chiếu bản vẽ thiết kế thi công
 - Phòng Dự án tiếp nhận bản vẽ thiết kế kỹ thuật, bản vẽ gia công chế tạo (Shop-drawing) từ Tổng thầu.
@@ -127,7 +136,7 @@ Căn cứ Tiêu chuẩn quốc gia **TCVN 170:2007** (Kết cấu thép - Gia c�
 
 ## CHƯƠNG IV. QUY TRÌNH QUẢN LÝ NHẬT KÝ THI CÔNG VÀ HỒ SƠ HOÀN CÔNG
 
-### Điều 4. Ghi chép Nhật ký thi công theo Nghị định 207/2026/NĐ-CP
+### Điều 5. Ghi chép Nhật ký thi công theo Nghị định 207/2026/NĐ-CP
 1. Chỉ huy trưởng công trường chịu trách nhiệm trực tiếp ghi chép Nhật ký thi công hằng ngày theo đúng mẫu quy định tại **Phụ lục II Nghị định số 207/2026/NĐ-CP**.
 2. **Nội dung bắt buộc phản ánh trong nhật ký:**
    - Tình hình thời tiết từng buổi (nhiệt độ, lượng mưa, tốc độ gió đo được tại đỉnh cột);
@@ -136,7 +145,7 @@ Căn cứ Tiêu chuẩn quốc gia **TCVN 170:2007** (Kết cấu thép - Gia c�
    - Các biên bản kiểm tra an toàn, giấy phép làm việc nguy hiểm cấp trong ngày;
    - Ý kiến chỉ đạo, kiểm tra của Tư vấn giám sát và Tổng thầu; chữ ký xác nhận của đại diện giám sát Tổng thầu.
 
-### Điều 5. Thành phần Hồ sơ hoàn công kết cấu thép
+### Điều 6. Thành phần Hồ sơ hoàn công kết cấu thép
 Khi kết thúc gói thầu, Phòng Dự án và Chỉ huy trưởng lập Hồ sơ hoàn công bàn giao cho Tổng thầu gồm:
 1. Bản vẽ hoàn công kết cấu thép có đóng dấu hoàn công theo mẫu Phụ lục IIb Nghị định 207/2026/NĐ-CP;
 2. Toàn bộ Nhật ký thi công gốc của công trình;
@@ -145,16 +154,6 @@ Khi kết thúc gói thầu, Phòng Dự án và Chỉ huy trưởng lập Hồ 
 5. Biên bản thí nghiệm kiểm tra không phá hủy mối hàn (NDT - siêu âm/chụp phim nếu có);
 6. Biên bản kiểm tra lực siết bu lông và kiểm tra chiều dày sơn;
 7. Báo cáo tổng kết an toàn công trình (Mã 45).
-
----
-
-## CHƯƠNG V. CĂN CỨ PHÁP LÝ
-
-- *Luật Xây dựng số 50/2014/QH13, Luật số 62/2020/QH14 và Luật Xây dựng số 135/2025/QH15;*
-- *Nghị định số 207/2026/NĐ-CP ngày 15/06/2026 của Chính phủ quy định chi tiết về quản lý an toàn và chất lượng trong thi công xây dựng công trình;*
-- *Thông tư số 32/2026/TT-BXD ngày 22/06/2026 của Bộ Xây dựng hướng dẫn một số nội dung về quản lý chất lượng thi công xây dựng;*
-- *TCVN 170:2007: Kết cấu thép – Gia công, lắp ráp và nghiệm thu – Yêu cầu kỹ thuật;*
-- *QCVN 18:2021/BXD: Quy chuẩn kỹ thuật quốc gia về An toàn trong thi công xây dựng.*
 
 ---
 
