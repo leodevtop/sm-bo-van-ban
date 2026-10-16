@@ -115,6 +115,12 @@ Khi có mẫu của Nhà nước, **dùng mẫu của Nhà nước**; các biể
 4. Mỗi văn bản có mã, phiên bản, ngày ban hành, người ký, ngày rà soát kế tiếp (sổ đăng ký).
 5. Nếu tổng thầu có HSE hoặc ISO riêng, chỉ lập bảng đối chiếu (B1 Phụ lục 2), không viết lại.
 6. Kiểm tra trước khi ban hành bất kỳ văn bản nào: có viện dẫn văn bản hết hiệu lực không (Căn cứ pháp lý mục 6); có con số cố định nằm sai chỗ không; Luật An toàn, vệ sinh lao động sửa đổi đã thông qua chưa; các mục ở mục 6 của README này đã được xác nhận chưa.
+7. **Quy tắc tách bạch Bộ Khung (Tầng 0) và Văn bản ban hành (Tầng 1) – Tránh lỗi trộn lẫn hướng dẫn vào văn bản ký kết:**
+   - **Tài liệu thuộc Bộ Khung (`bo-khung/`):** Là nơi quy định toàn bộ nguyên tắc kiến trúc, hướng dẫn quản trị rủi ro, căn cứ lập luận, phân định trách nhiệm phòng ban, sơ đồ luân chuyển chứng từ nội bộ và hướng dẫn cách lập/kiểm soát văn bản.
+   - **Tài liệu thuộc Danh mục văn bản thực thi / ban hành (Tầng 1):** Thuần túy là văn bản có giá trị pháp lý (quyết định, hợp đồng, biên bản nghiệm thu/đối chiếu, phụ lục...) tuân thủ thể thức chuẩn mẫu văn bản hành chính (Nghị định 30/2020/NĐ-CP). **Tuyệt đối không chèn bài viết hướng dẫn nghiệp vụ nội bộ, giải thích lý thuyết hay tutorial vào văn bản ban hành.** Mọi hướng dẫn quản trị phải được chuyển sang tài liệu Bộ Khung tương ứng.
+8. **Tuân thủ pháp luật hiện hành mới nhất và Chuẩn mẫu Nhà nước:**
+   - Mọi văn bản phải được rà soát và đối chiếu với hệ thống pháp luật mới nhất còn hiệu lực tại thời điểm ban hành (Luật Xây dựng 2025 số 135/2025/QH15, Nghị định 207/2026/NĐ-CP, Thông tư 32/2026/TT-BXD, Bộ luật Dân sự 2015, Luật Thương mại 2005, Nghị định 283/2026/NĐ-CP...).
+   - Nếu Nhà nước đã ban hành biểu mẫu chuẩn quy định (ví dụ mẫu phụ lục Nghị định 207/2026, Nghị định 39/2016, Thông tư 133/2016...), bắt buộc sử dụng đúng chuẩn mẫu quy chuẩn; trường hợp nội bộ tự thiết kế phải đảm bảo đầy đủ các chỉ tiêu bắt buộc theo luật định để đảm bảo giá trị pháp lý trước cơ quan Thuế và Tòa án.
 
 ## 9. Chuyển sang Word (.docx)
 

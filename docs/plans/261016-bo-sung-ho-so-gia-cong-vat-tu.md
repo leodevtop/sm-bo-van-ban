@@ -10,6 +10,10 @@
 
 Chuẩn hóa và hoàn thiện bộ văn bản quản trị cho trường hợp **Công ty thuê đối tác bên ngoài gia công cấu kiện/hạng mục dự án** (áp dụng khi Công ty chỉ thi công hoặc cung cấp cả vật tư nhưng không tự gia công cơ khí chế tạo). Đảm bảo tính chặt chẽ về mặt kỹ thuật công trình, quản lý hao hụt vật tư và tính hợp lệ chi phí đối với cơ quan Thuế.
 
+**Yêu cầu điều chỉnh kiến trúc (Phase 2):**
+- Tách bạch tuyệt đối: Phần **hướng dẫn quản trị rủi ro, tạo lập và kiểm soát văn bản** được tích hợp trọn vẹn vào **Bộ Khung** (`bo-van-ban/bo-khung/D1-quy-trinh-thi-cong-vat-tu-nghiem-thu.md`).
+- File thực thi tại [84_Bien_Ban_Doi_Chieu_Vat_Tu_Sau_Gia_Cong.md](file:///Users/leo/projects/QL_SM/VI_Thi_Cong_Kinh_Doanh/84_Bien_Ban_Doi_Chieu_Vat_Tu_Sau_Gia_Cong.md) **chỉ là văn bản ban hành, có giá trị pháp lý** (văn bản giao kết và các biểu mẫu ký kết chính thức, không chứa bài viết hướng dẫn nghiệp vụ nội bộ).
+
 ---
 
 ## 2. Kết quả kiểm tra hiện trạng
@@ -17,65 +21,42 @@ Chuẩn hóa và hoàn thiện bộ văn bản quản trị cho trường hợp 
 Kiểm tra đối chiếu file `bo-van-ban/00_Danh_Sach_Van_Ban.md` và các tài liệu liên quan trong hệ thống:
 
 1. **Danh sách văn bản (`00_Danh_Sach_Van_Ban.md`):**
-   - **CHƯA CÓ** văn bản riêng cho nghiệp vụ *"Biên bản đối chiếu vật tư sau gia công"* hay *"Hồ sơ quản lý gia công ngoài"*.
-   - Mục 68 (`VI_Thi_Cong_Kinh_Doanh/68_Bien_Ban_Giao_Nhan_va_Quyet_Toan_Vat_Tu.md`) hiện chỉ điều chỉnh 2 trường hợp:
-     - Dạng 1: Tổng thầu giao vật tư trực tiếp cho Công ty lắp dựng tại công trường.
-     - Dạng 2: Công ty mua vật tư thành phẩm từ Nhà cung cấp đem đến lắp dựng.
-   - Chưa có biểu mẫu hay quy trình điều chỉnh việc: **Xuất phôi/vật tư cho xưởng gia công $\rightarrow$ Nghiệm thu kỹ thuật tại xưởng $\rightarrow$ Đối chiếu cân đối vật tư (hao hụt, vật tư thừa, phế liệu) $\rightarrow$ Quyết toán dịch vụ gia công.**
-
+   - Đã bổ sung mục 84 (D1-84).
 2. **Bộ khung kiến trúc (`bo-van-ban/bo-khung/`):**
-   - Các file `D1-quy-trinh-thi-cong-vat-tu-nghiem-thu.md`, `D2`, `C1` và `00-README-huong-dan-ban-hanh.md` hiện đều mặc định ghi nhận nguyên tắc: *"Công ty không sản xuất, gia công; vật tư thép, bu lông, phụ kiện được mua thành phẩm"*.
-   - Cần bổ sung phân nhánh nghiệp vụ cho trường hợp thuê ngoài gia công để bộ khung bao quát đúng thực tế vận hành.
+   - Đã bổ sung Mục 2C tại D1, Mục 5B tại D2, Mục 4C tại D3.
 
 ---
 
-## 3. Danh mục tài liệu cần tạo mới và cập nhật
+## 3. Danh mục tài liệu cần điều chỉnh
 
-### A. Tài liệu tạo mới (Biểu mẫu thực thi)
-- **Tên tài liệu:** `84_Bien_Ban_Doi_Chieu_Vat_Tu_Sau_Gia_Cong.md`
-- **Vị trí lưu trữ:** `./VI_Thi_Cong_Kinh_Doanh/84_Bien_Ban_Doi_Chieu_Vat_Tu_Sau_Gia_Cong.md`
-- **Mã hệ thống:** D1-84 / STT 84
-- **Nội dung bao gồm 5 cấu phần trọn gói:**
-  1. *Phần I: Hướng dẫn quản trị rủi ro & Checklist pháp lý thuế gia công* (Hợp đồng gia công vs mua bán; kiểm soát hao hụt định mức; xuất hóa đơn dịch vụ; quy tắc giao thẳng ra công trường).
-  2. *Phần II (Biểu mẫu 01): Biên bản bàn giao vật tư/phôi cho đơn vị gia công* (Quy cách, số lượng, khối lượng, mác thép, CO/CQ kèm theo, tình trạng ngoại quan ban đầu).
-  3. *Phần III (Biểu mẫu 02): Biên bản nghiệm thu kỹ thuật thành phẩm tại xưởng gia công (QC/KCS)* (Kích thước hình học, độ dày sơn, mối hàn, cấu kiện đạt/không đạt xuất xưởng).
-  4. *Phần IV (Biểu mẫu 03): Biên bản đối chiếu và quyết toán vật tư sau gia công* (Bảng cân đối 5 cột: Cấp vào - Định mức tạo thành phẩm - Hao hụt cho phép vs thực tế - Vật tư thừa hoàn trả - Khối lượng phế liệu phát sinh).
-  5. *Phần V (Biểu mẫu 04): Biên bản xử lý vật tư thừa và phế liệu gia công* (Phương án thu hồi về kho hoặc thanh lý cấn trừ chi phí tiền gia công).
+### A. Bộ khung kiến trúc (`bo-van-ban/bo-khung/`)
+- Tích hợp toàn bộ nội dung hướng dẫn quản trị từ Phần I của file 84 vào `bo-van-ban/bo-khung/D1-quy-trinh-thi-cong-vat-tu-nghiem-thu.md` (Mục 2C):
+  + Bản chất pháp lý HĐ gia công vs Mua bán hàng hóa, giải pháp tránh thuế GTGT 2 đầu.
+  + Kiểm soát định mức hao hụt kỹ thuật theo sơ đồ cắt phôi (Nesting Plan) và nguyên tắc bồi hoàn 100%.
+  + Quy tắc phối hợp 3 bên và lưu đồ khi giao hàng thẳng ra công trường.
+  + Checklist 8 thành phần hồ sơ quyết toán thuế dịch vụ gia công hợp lệ.
 
-### B. Cập nhật tài liệu hướng dẫn trong `bo-van-ban/bo-khung/`
-- **`bo-van-ban/bo-khung/D1-quy-trinh-thi-cong-vat-tu-nghiem-thu.md`:**
-  - Cập nhật Mục 0: Mở rộng nguyên tắc quản lý vật tư sang trường hợp ủy thác/thuê xưởng gia công cấu kiện ngoài.
-  - Bổ sung Mục **2C – Quản lý gia công cấu kiện qua đối tác ngoài (Thuê xưởng gia công)**: Quy định rõ luồng giao nhận, kiểm soát định mức hao hụt, KCS xưởng và chốt số liệu đối chiếu vật tư.
-  - Bổ sung mã biểu mẫu D1-08 đến D1-11 vào bảng danh mục biểu mẫu vật tư.
-- **`bo-van-ban/bo-khung/D2-quy-trinh-kinh-doanh-hop-dong.md`:**
-  - Bổ sung quy định về Hợp đồng dịch vụ gia công ngoài trong chu trình dự toán & lựa chọn đối tác chế tạo cấu kiện.
-- **`bo-van-ban/bo-khung/D3-quy-trinh-tai-chinh-ke-toan.md`:**
-  - Bổ sung Mục **4C – Chi phí gia công ngoài**: Hướng dẫn chứng từ hợp lệ (Hợp đồng, Biên bản giao phôi, Biên bản nghiệm thu xưởng, Biên bản đối chiếu vật tư, Hóa đơn GTGT dịch vụ gia công).
-
-### C. Cập nhật các tài liệu danh mục và quản lý
-- **`bo-van-ban/00_Danh_Sach_Van_Ban.md`:**
-  - Thêm STT 84 vào Bảng Nhóm VI (Thi công, Kinh doanh & Dân chủ).
-  - Cập nhật số liệu tổng hợp văn bản (Đợt 1 / Đợt 2, tổng số file).
-- **`bo-van-ban/00-so-dang-ky-van-ban.md`:**
-  - Bổ sung dòng nhật ký rà soát ngày 16/10/2026 về việc chuẩn hóa quy trình gia công ngoài.
-- **`bo-van-ban/00-README-huong-dan-ban-hanh.md`:**
-  - Cập nhật mô tả bổ trợ cho trường hợp Dạng 1 & Dạng 2 có phát sinh công đoạn gia công cấu kiện ngoài.
+### B. Văn bản thực thi ban hành (`VI_Thi_Cong_Kinh_Doanh/`)
+- Tinh giản `84_Bien_Ban_Doi_Chieu_Vat_Tu_Sau_Gia_Cong.md`:
+  + Loại bỏ Phần I (hướng dẫn quản trị nội bộ).
+  + Giữ nguyên và chuẩn hóa các biểu mẫu có giá trị pháp lý để ký ban hành:
+    - Biểu mẫu số 01 (D1-84/BM-01): Biên bản giao nhận vật tư/phôi cho đơn vị gia công.
+    - Biểu mẫu số 02 (D1-84/BM-02): Biên bản nghiệm thu kỹ thuật thành phẩm tại xưởng gia công.
+    - Biểu mẫu số 03 (D1-84/BM-03): Biên bản đối chiếu và quyết toán vật tư sau gia công.
+    - Biểu mẫu số 04 (D1-84/BM-04): Biên bản bàn giao & xử lý vật tư thừa, phế liệu gia công.
+  + Quy định căn cứ pháp lý, hiệu lực thi hành và bảng ký duyệt pháp lý giữa Công ty và Xưởng gia công.
 
 ---
 
 ## 4. Checklist công việc thực hiện (Task Breakdown)
 
+### Phase 1: Xây dựng & Tích hợp sơ bộ (Đã hoàn thành)
 - [x] **Task 1: Cập nhật tài liệu khung kiến trúc D1, D2, D3 tại `bo-van-ban/bo-khung/`**
-  - [x] Bổ sung Mục 2C và danh mục biểu mẫu D1-08..D1-11 vào `D1-quy-trinh-thi-cong-vat-tu-nghiem-thu.md`
-  - [x] Bổ sung quy định HĐ gia công vào `D2-quy-trinh-kinh-doanh-hop-dong.md`
-  - [x] Bổ sung Mục 4C chi phí gia công ngoài vào `D3-quy-trinh-tai-chinh-ke-toan.md`
 - [x] **Task 2: Biên soạn tài liệu thực thi STT 84 tại `VI_Thi_Cong_Kinh_Doanh/`**
-  - [x] Tạo file `84_Bien_Ban_Doi_Chieu_Vat_Tu_Sau_Gia_Cong.md` đầy đủ 5 phần (Hướng dẫn + 4 biểu mẫu)
-  - [x] Chuẩn hóa mã dữ liệu `<<...>>`, căn cứ pháp lý Luật Xây dựng 2025, NĐ 207/2026/NĐ-CP
 - [x] **Task 3: Cập nhật tài liệu danh mục và quản lý**
-  - [x] Cập nhật `bo-van-ban/00_Danh_Sach_Van_Ban.md` (STT 84 và tổng hợp số liệu)
-  - [x] Cập nhật `bo-van-ban/00-so-dang-ky-van-ban.md` (nhật ký rà soát)
-  - [x] Cập nhật `bo-van-ban/00-README-huong-dan-ban-hanh.md`
 - [x] **Task 4: Đánh giá chất lượng & Rà soát độc lập (QA / Review)**
-  - [x] Kiểm tra tính nhất quán mã dữ liệu, căn cứ pháp lý, quy chuẩn đối chiếu số liệu
-  - [x] Đảm bảo không có lỗi định dạng markdown hay xung đột nội dung
+
+### Phase 2: Tinh chỉnh kiến trúc & Tách bạch vai trò văn bản
+- [x] **Task 5: Chuyển toàn bộ nội dung hướng dẫn quản trị vào `bo-van-ban/bo-khung/D1-quy-trinh-thi-cong-vat-tu-nghiem-thu.md`**
+- [x] **Task 6: Tinh gọn file `VI_Thi_Cong_Kinh_Doanh/84_Bien_Ban_Doi_Chieu_Vat_Tu_Sau_Gia_Cong.md` thành văn bản ban hành thuần túy pháp lý**
+- [x] **Task 7: Thẩm định QA độc lập sau tinh chỉnh**
