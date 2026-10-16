@@ -5,6 +5,7 @@
 >   - STT 68: Biên bản giao nhận & quyết toán vật tư (Dạng 1 và 2)
 >   - STT 69: Phiếu yêu cầu & biên bản nghiệm thu lắp dựng
 >   - STT 70: Nhật ký thi công & Mẫu dấu hoàn công
+>   - STT 84: Biên bản đối chiếu vật tư sau gia công (và hồ sơ gia công ngoài)
 
 # D1 – QUY TRÌNH THI CÔNG, VẬT TƯ VÀ NGHIỆM THU
 
@@ -18,12 +19,12 @@
 
 ## 0. Phạm vi và nguyên tắc
 
-1. Quy trình áp dụng cho cả hai dạng hợp đồng của Công ty. Phần **vật tư** chia: **Dạng 1 – Chỉ thi công** (vật tư do chủ đầu tư hoặc tổng thầu cấp) và **Dạng 2 – Gồm vật tư** (Công ty mua và cung cấp). Công ty **không sản xuất, gia công**; vật tư thép, bu lông, phụ kiện được mua thành phẩm.
+1. Quy trình áp dụng cho cả hai dạng hợp đồng của Công ty. Phần **vật tư** chia: **Dạng 1 – Chỉ thi công** (vật tư do chủ đầu tư hoặc tổng thầu cấp) và **Dạng 2 – Gồm vật tư** (Công ty mua và cung cấp). Công ty **không tự tổ chức sản xuất, gia công chế tạo cơ khí/kết cấu thép** tại xưởng nội bộ. Với các cấu kiện/hạng mục dự án cần gia công chế tạo cơ khí/kết cấu thép nhưng Công ty không tự gia công, Công ty **thuê xưởng gia công bên ngoài** thực hiện theo hợp đồng dịch vụ gia công; Công ty quản lý chặt chẽ vật tư/phôi thép, kiểm soát định mức hao hụt kỹ thuật và tổ chức nghiệm thu kỹ thuật xuất xưởng trước khi vận chuyển ra công trường lắp dựng. Vật tư thép, bu lông, phụ kiện được mua thành phẩm hoặc mua phôi cấp cho xưởng gia công.
 2. Nhật ký thi công và hồ sơ hoàn công theo **Phụ lục II Nghị định 207/2026/NĐ-CP**; nội dung kiểm tra và nghiệm thu theo hợp đồng, thiết kế và tiêu chuẩn kỹ thuật áp dụng (ví dụ TCVN về kết cấu thép).
 3. Nhà thầu phụ chịu trách nhiệm phần việc của mình và chịu sự kiểm tra của nhà thầu chính.
 
 ```
-Nhận hợp đồng → Lập kế hoạch + biện pháp (B2-03) → Chuẩn bị nhân lực (A4) + vật tư (mục 3)
+Nhận hợp đồng → Lập kế hoạch + biện pháp (B2-03) → Chuẩn bị nhân lực (A4) + vật tư / gia công ngoài (mục 2)
 → Bàn giao mặt bằng (B2-09) → Thi công + nhật ký → Nghiệm thu từng giai đoạn
 → Nghiệm thu hoàn thành + hoàn công → Thanh toán (D3) → Bảo hành
 ```
@@ -68,16 +69,34 @@ Rủi ro lớn nhất của Dạng 1 là bị quy trách nhiệm cho khuyết t�
 
 **Thép và bu lông cường độ cao** cần chứng từ chất lượng đầy đủ; **không dùng vật tư không rõ nguồn gốc hoặc không có hồ sơ chất lượng**. Giá thép biến động: xem D2 (điều khoản điều chỉnh giá) và D3.
 
+### 2C. Quản lý gia công cấu kiện qua đối tác ngoài (Thuê xưởng gia công)
+
+Áp dụng khi dự án yêu cầu cấu kiện kết cấu thép, chi tiết phi tiêu chuẩn cần chế tạo cơ khí nhưng Công ty không tự gia công. Quy trình quản lý tuân thủ chu trình 7 bước chặt chẽ:
+
+| Bước | Nội dung công việc | Trách nhiệm | Biểu mẫu / Hồ sơ |
+| ---- | ------------------ | ----------- | ---------------- |
+| 1 | **Ký hợp đồng/Đơn đặt gia công & duyệt shop-drawing**: Khảo sát năng lực xưởng gia công; ký Hợp đồng dịch vụ gia công có đầy đủ điều khoản kỹ thuật, dung sai, tỷ lệ hao hụt tối đa, bồi thường hỏng phôi; phê duyệt bản vẽ gia công (shop-drawing) và bảng thống kê cấu kiện. | Dự án, Kỹ sư kết cấu | Hợp đồng gia công, Shop-drawing |
+| 2 | **Giao phôi/vật tư có biên bản giao nhận**: Xuất vật tư (thép hình, thép tấm, phôi phụ kiện) bàn giao cho xưởng gia công; kiểm đếm chủng loại, quy cách, số lượng, khối lượng, mác thép, CO/CQ kèm theo và tình trạng ngoại quan. | Dự án, Kỹ sư, Thủ kho | D1-08 |
+| 3 | **Kiểm soát định mức hao hụt kỹ thuật**: Giám sát việc cắt pha phôi theo sơ đồ cắt (cutting-plan); kiểm soát tỷ lệ hao hụt thực tế không vượt định mức hao hụt kỹ thuật cam kết trong hợp đồng (thường 1,5% – 3% tùy loại phôi). | Kỹ sư giám sát xưởng | Nhật ký theo dõi xưởng, Sơ đồ cắt phôi |
+| 4 | **Nghiệm thu kỹ thuật thành phẩm tại xưởng gia công (QC/KCS)**: Kiểm tra kích thước hình học, độ thẳng, độ cong vênh, dung sai lỗ bu lông liên kết, chất lượng mối hàn (NDT nếu có yêu cầu), độ sạch bề mặt và chiều dày lớp sơn bảo vệ trước khi cho phép xuất xưởng. | Kỹ sư QC, Quản đốc xưởng gia công | D1-09 |
+| 5 | **Lập Biên bản đối chiếu và quyết toán vật tư sau gia công**: Lập bảng cân đối 5 thành phần: (1) Tổng phôi cấp vào; (2) Lượng phôi cấu thành sản phẩm nghiệm thu đạt; (3) Hao hụt cho phép theo định mức; (4) Hao hụt thực tế; (5) Vật tư thừa và phế liệu. Xác định trách nhiệm đền bù nếu hao hụt vượt định mức. | Kỹ sư xưởng, Dự án, Kế toán, Đại diện xưởng | D1-10 |
+| 6 | **Thu hồi vật tư thừa và xử lý phế liệu**: Kiểm đếm thép thừa quy cách dùng được để nhập lại kho Công ty; cân xác định khối lượng thép vụn, phế liệu để thu hồi hoặc bán thanh lý cấn trừ chi phí tiền công gia công. | Kỹ sư, Thủ kho, Kế toán | D1-11 |
+| 7 | **Bàn giao ra công trường lắp dựng**: Vận chuyển cấu kiện đạt chuẩn về công trường; bàn giao cho Chỉ huy trưởng và tổ đội lắp dựng theo mã hiệu cấu kiện, phục vụ lắp dựng theo tiến độ. | Kỹ sư xưởng, Chỉ huy trưởng | D1-01 |
+
 **Biểu mẫu vật tư**
 
-| Mã    | Biểu mẫu                               | Dạng   |
-| ----- | -------------------------------------- | ------ |
-| D1-01 | Biên bản giao nhận vật tư (kèm ảnh)    | 1 và 2 |
-| D1-02 | Sổ theo dõi vật tư theo ngày           | 1 và 2 |
-| D1-03 | Thông báo vật tư sai, thiếu, chậm      | 1      |
-| D1-04 | Biên bản quyết toán và hoàn trả vật tư | 1      |
-| D1-05 | Phiếu nghiệm thu vật tư đầu vào        | 2      |
-| D1-06 | Bảng so sánh báo giá nhà cung cấp      | 2      |
+| Mã    | Biểu mẫu                                                              | Dạng / Nghiệp vụ |
+| ----- | --------------------------------------------------------------------- | ---------------- |
+| D1-01 | Biên bản giao nhận vật tư (kèm ảnh)                                   | 1 và 2           |
+| D1-02 | Sổ theo dõi vật tư theo ngày                                          | 1 và 2           |
+| D1-03 | Thông báo vật tư sai, thiếu, chậm                                     | 1                |
+| D1-04 | Biên bản quyết toán và hoàn trả vật tư                                | 1                |
+| D1-05 | Phiếu nghiệm thu vật tư đầu vào                                       | 2                |
+| D1-06 | Bảng so sánh báo giá nhà cung cấp                                     | 2                |
+| D1-08 | Biên bản bàn giao vật tư/phôi cho đơn vị gia công                     | Gia công ngoài   |
+| D1-09 | Biên bản nghiệm thu kỹ thuật thành phẩm tại xưởng gia công (QC/KCS)   | Gia công ngoài   |
+| D1-10 | Biên bản đối chiếu và quyết toán vật tư sau gia công                  | Gia công ngoài   |
+| D1-11 | Biên bản xử lý vật tư thừa và phế liệu gia công                       | Gia công ngoài   |
 
 **Mẫu D1-01 – Biên bản giao nhận vật tư**
 
@@ -117,6 +136,39 @@ Kết luận: ☐ Nhập kho ☐ Trả nhà cung cấp. Kỹ sư: **\_\_** Thủ
 | Nhà cung cấp | Đơn giá | Tiêu chuẩn, hồ sơ chất lượng | Thời gian giao | Bảo hành | Điều kiện thanh toán | Chọn |
 | ------------ | ------- | ---------------------------- | -------------- | -------- | -------------------- | ---- |
 |              |         |                              |                |          |                      | ☐    |
+
+**Mẫu D1-08 – Biên bản bàn giao vật tư/phôi cho đơn vị gia công**
+
+| STT | Tên vật tư / Phôi thép | Quy cách, mác thép | Đơn vị tính | Khối lượng / Số lượng | CO, CQ kèm theo | Tình trạng ngoại quan | Ghi chú |
+| --- | ---------------------- | ------------------ | ----------- | --------------------- | --------------- | --------------------- | ------- |
+|     |                        |                    |             |                       |                 |                       |         |
+
+Đại diện bên giao (Dự án/Thủ kho ký): **\_\_** Đại diện xưởng gia công (ký): **\_\_** Kỹ sư phụ trách (ký): **\_\_** Ngày: **_/_**/**\_\_**
+
+**Mẫu D1-09 – Biên bản nghiệm thu kỹ thuật thành phẩm tại xưởng gia công (QC/KCS)**
+
+| Cấu kiện / Hạng mục | Bản vẽ duyệt (Shop-dwg) | Kích thước, dung sai | Mối hàn, NDT (nếu có) | Sơn lót/phủ (DFT) | Đạt xuất xưởng |
+| ------------------- | ----------------------- | -------------------- | --------------------- | ----------------- | -------------- |
+|                     |                         |                      |                       |                   | ☐ Đạt  ☐ Sửa   |
+
+Kết luận kiểm tra: ☐ Đủ điều kiện xuất xưởng ☐ Sửa chữa theo yêu cầu trước khi xuất. Kỹ sư QC Công ty: **\_\_** Quản đốc xưởng gia công: **\_\_**
+
+**Mẫu D1-10 – Biên bản đối chiếu và quyết toán vật tư sau gia công**
+
+| Nhóm vật tư / Mác thép | (1) Tổng phôi cấp vào | (2) Tạo thành phẩm nghiệm thu | (3) Hao hụt cho phép (định mức) | (4) Hao hụt thực tế | (5) Thừa thu hồi | (6) Phế liệu thu hồi | Chênh lệch xử lý (4 - 3) |
+| ---------------------- | --------------------- | ----------------------------- | ------------------------------- | ------------------- | ---------------- | -------------------- | ------------------------- |
+|                        |                       |                               |                                 |                     |                  |                      |                           |
+
+Xác nhận: Hao hụt trong định mức ☐ | Vượt định mức (xưởng bồi thường) ☐. Đại diện xưởng (ký): **\_\_** Kỹ sư giám sát (ký): **\_\_** Kế toán (ký): **\_\_**
+
+**Mẫu D1-11 – Biên bản xử lý vật tư thừa và phế liệu gia công**
+
+| Loại vật tư / Phế liệu | Khối lượng (kg) | Hiện trạng quy cách | Phương án xử lý | Đơn giá thanh lý (nếu bán) | Thành tiền cấn trừ/thu hồi |
+| ---------------------- | --------------- | ------------------- | --------------- | -------------------------- | -------------------------- |
+| Thép thừa còn nguyên   |                 | Cây/tấm dài > 1.5m  | ☐ Nhập lại kho Công ty ☐ Chuyển dự án khác | - | - |
+| Phế liệu vụn / đầu mẩu |                 | Ba-via, đầu mẩu vụn | ☐ Bán cấn trừ tiền gia công ☐ Thu hồi |                            |                            |
+
+Đại diện bên nhận phế liệu/xưởng (ký): **\_\_** Kỹ sư giám sát xưởng (ký): **\_\_** Kế toán/Thủ kho (ký): **\_\_** Ngày: **_/_**/**\_\_**
 
 ## 3. Thi công và nhật ký
 

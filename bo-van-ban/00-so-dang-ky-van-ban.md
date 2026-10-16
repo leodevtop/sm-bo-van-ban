@@ -4,7 +4,7 @@
 
 Người giữ sổ: Cán bộ Văn thư / Trưởng phòng Hành chính – Nhân sự. Rà soát toàn bộ **6 tháng một lần**, hoặc khi có sự kiện ở mục 3.
 
-## 1. Sổ đăng ký văn bản lưu hành (73 văn bản nghiệp vụ chính thức)
+## 1. Sổ đăng ký văn bản lưu hành (74 văn bản nghiệp vụ chính thức)
 
 | STT | Mã văn bản | Tên văn bản | Phiên bản | Người soạn | Người duyệt | Kỳ rà soát |
 |:---:|:---:|---|:---:|---|---|:---:|
@@ -81,6 +81,7 @@ Người giữ sổ: Cán bộ Văn thư / Trưởng phòng Hành chính – Nh�
 | 71 | 78 | [Quy chế dân chủ & đối thoại (kèm kế hoạch năm)](../VI_Thi_Cong_Kinh_Doanh/78_Quy_Che_Dan_Chu_va_Doi_Thoai.md) | 2.0 | Hành chính – Nhân sự / BCH CĐ | Giám đốc | 06 tháng |
 | 72 | 79 | [Biên bản đối thoại định kỳ](../VI_Thi_Cong_Kinh_Doanh/79_Bien_Ban_Doi_Thoai_Dinh_Ky.md) | 2.0 | Hành chính – Nhân sự / BCH CĐ | Giám đốc | 06 tháng |
 | 73 | 80 | [Sổ theo dõi tiếp nhận kiến nghị](../VI_Thi_Cong_Kinh_Doanh/80_So_Theo_Doi_Tiep_Nhan_Kien_Nghi.md) | 2.0 | Hành chính – Nhân sự / BCH CĐ | Giám đốc | 06 tháng |
+| 74 | 84 | [Biên bản đối chiếu & quyết toán vật tư sau gia công](../VI_Thi_Cong_Kinh_Doanh/84_Bien_Ban_Doi_Chieu_Vat_Tu_Sau_Gia_Cong.md) | 1.0 | Phòng Dự án – Kỹ thuật / Kế toán | Giám đốc | 06 tháng |
 
 > [!NOTE]
 > **Hệ thống biểu mẫu Nhà nước quy chuẩn (`mau-nha-nuoc/`):**
@@ -94,6 +95,7 @@ Người giữ sổ: Cán bộ Văn thư / Trưởng phòng Hành chính – Nh�
 | 13/10/2026 | Đối chiếu với bộ tham khảo và cập nhật luật (Luật ATVSLĐ sửa đổi, Nghị định 356/2025) | Toàn bộ | Phiên bản 1.1 | Tổ Thư ký |
 | 14/10/2026 | Hoàn thiện bản ban hành | Toàn bộ | Phiên bản 2.0: Chuẩn hóa toàn diện, bổ sung Quyết định ban hành, chuyển tham số nội bộ vào Bảng tham số Phần III | Tổ Thư ký |
 | 15/10/2026 | Chuẩn hóa Quản trị Layer 0 và Kiến trúc 2 tầng | Toàn bộ 73 văn bản và 00-* | Tích hợp Quyết định ban hành cho 7 quy chế cốt lõi (08, 22, 23, 32, 63, 64, 78); độc lập bản in 100%; chuẩn hóa mã `<<MA_DATA>>` | System Governance Specialist |
+| 16/10/2026 | Bổ sung quy trình quản lý gia công ngoài và đối chiếu vật tư sau gia công (STT 84, mã D1-84) | D1, D2, D3, Danh mục văn bản | Thêm Mục 2C vào D1, Mục 5B vào D2, Mục 4C vào D3; ban hành STT 84 phục vụ quản trị thuê xưởng gia công | Dự án, Kế toán |
 
 ## 3. Sự kiện bắt buộc rà soát
 

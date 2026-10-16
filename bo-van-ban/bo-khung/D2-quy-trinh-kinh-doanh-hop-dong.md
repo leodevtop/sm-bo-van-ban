@@ -9,6 +9,7 @@
 >   - STT 76: Checklist thẩm định rủi ro HĐ & điều kiện huy động
 >   - STT 77: Biên bản thanh lý hợp đồng
 >   - STT 81: Hợp đồng dịch vụ (cá nhân bên ngoài)
+>   - STT 84: Biên bản đối chiếu vật tư sau gia công (áp dụng HĐ gia công ngoài)
 
 # D2 – QUY TRÌNH KINH DOANH VÀ HỢP ĐỒNG
 
@@ -50,8 +51,11 @@ Yêu cầu báo giá → Khảo sát hồ sơ → Dự toán → Phê duyệt gi
 3. Dạng 2: báo giá thép có **thời hạn hiệu lực**; ghi rõ điều kiện điều chỉnh khi giá biến động.
 4. Giám đốc duyệt giá theo ngưỡng thẩm quyền (C1 mục 3); lưu bản phê duyệt.
 5. Báo giá ghi rõ **thời hạn hiệu lực, giả định, loại trừ** (mặt bằng, điện nước, thay đổi thiết kế, biến động giá thép, lương tối thiểu).
+6. **Thuê xưởng gia công cấu kiện ngoài (khi dự án có gia công cơ khí/kết cấu thép):**
+   - **Lựa chọn xưởng gia công:** Đánh giá thực tế mặt bằng, hệ thống máy móc (cắt CNC/plasma, máy hàn, uốn, nắn, cẩu trục), quy trình KCS nội bộ của xưởng, chứng chỉ thợ hàn và năng lực thực hiện đúng tiến độ. Lấy tối thiểu 02–03 báo giá gia công cạnh tranh theo Bảng tham số (C1).
+   - **Cơ cấu giá gia công trong dự toán:** Tách bạch đơn giá gia công chế tạo (tính theo kg hoặc tấn cho từng cấu kiện như kèo, cột, xà gồ, giằng, bản mã...) và chi phí vận chuyển trung chuyển (kho/đại lý thép $\rightarrow$ xưởng gia công $\rightarrow$ công trường); dự toán phải tính toán định mức hao hụt kỹ thuật hợp lý (thường 1,5% – 3% tùy loại phôi tấm hay thép hình).
 
-**Bảng dự toán tóm tắt:** nhân công – bảo hiểm (BHXH, bảo hiểm công trường) – **vật tư (Dạng 2)** – thiết bị (cẩu, xe nâng) – vận chuyển – chi phí an toàn (PPE, huấn luyện, rào chắn, kiểm định) – ăn ở, đi lại – chi phí chung, rủi ro – lợi nhuận – tổng.
+**Bảng dự toán tóm tắt:** nhân công – bảo hiểm (BHXH, bảo hiểm công trường) – **vật tư (Dạng 2)** – **dịch vụ gia công ngoài (nếu có)** – thiết bị (cẩu, xe nâng) – vận chuyển – chi phí an toàn (PPE, huấn luyện, rào chắn, kiểm định) – ăn ở, đi lại – chi phí chung, rủi ro – lợi nhuận – tổng.
 
 ## 4. Mẫu 1 – Điều khoản chính của hợp đồng chỉ thi công (Dạng 1)
 
@@ -67,7 +71,9 @@ Yêu cầu báo giá → Khảo sát hồ sơ → Dự toán → Phê duyệt gi
 | Chấm dứt, phạt               | Mức phạt cân bằng hai phía; có mức trần                                                                                     |
 | Giải quyết tranh chấp        | Thương lượng; sau đó trọng tài hoặc tòa án                                                                                  |
 
-## 5. Mẫu 2 – Điều khoản bổ sung cho hợp đồng gồm vật tư (Dạng 2)
+## 5. Mẫu 2 – Điều khoản bổ sung cho hợp đồng gồm vật tư (Dạng 2) và Hợp đồng gia công ngoài
+
+### 5A. Điều khoản cho hợp đồng gồm vật tư (Dạng 2)
 
 | Điều khoản                    | Nội dung cần có                                                                                               |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -79,6 +85,19 @@ Yêu cầu báo giá → Khảo sát hồ sơ → Dự toán → Phê duyệt gi
 | Bảo hành vật tư               | Thời hạn, điều kiện; **mối quan hệ với bảo hành của nhà cung cấp**                                            |
 | Tạm ứng vật tư                | Mức, bảo lãnh tạm ứng (nếu có), điều kiện hoàn ứng                                                            |
 | Thuế, hóa đơn                 | Giá có hay không có VAT; thời điểm xuất hóa đơn vật tư và thi công (D3)                                       |
+
+### 5B. Điều khoản bắt buộc trong Hợp đồng dịch vụ gia công ngoài (thuê xưởng chế tạo)
+
+Khi ký hợp đồng thuê đối tác/xưởng gia công cơ khí, chế tạo kết cấu thép, Hợp đồng dịch vụ gia công bắt buộc phải bao gồm các điều khoản ràng buộc sau:
+
+| Điều khoản bắt buộc | Nội dung cụ thể cần xác lập |
+| ------------------- | --------------------------- |
+| **Cam kết tiêu chuẩn và dung sai kỹ thuật** | Gia công chính xác theo bản vẽ shop-drawing được duyệt; tuân thủ nghiêm ngặt tiêu chuẩn TCVN kết cấu thép về kích thước hình học, độ phẳng, độ thẳng, sai lệch khoảng cách lỗ bu lông liên kết, chất lượng mối hàn (NDT khi có yêu cầu) và chiều dày sơn bảo vệ. |
+| **Tỷ lệ hao hụt tối đa cho phép** | Quy định rõ tỷ lệ hao hụt kỹ thuật tối đa (ví dụ không quá 2,0% – 3,0% đối với thép tấm/thép hình tùy quy cách); mọi phần hao hụt vượt tỷ lệ thỏa thuận này do xưởng gia công tự chịu chi phí. |
+| **Trách nhiệm bồi thường khi làm hỏng phôi thép** | Vật tư/phôi thép bàn giao thuộc sở hữu của Công ty. Nếu xưởng gia công làm sai quy cách, cháy hỏng mép cắt, biến dạng nhiệt không khắc phục được hoặc làm hỏng phôi thép, xưởng phải bồi thường 100% giá trị phôi thép hư hỏng theo giá thị trường tại thời điểm phát sinh hoặc hoàn trả lại phôi thép mới đúng mác thép và quy cách. |
+| **Nghiệm thu tại xưởng trước khi xuất kho** | Toàn bộ cấu kiện phải được kỹ sư QC/đại diện Công ty kiểm tra, nghiệm thu đạt chất lượng tại xưởng gia công và ký Biên bản nghiệm thu kỹ thuật thành phẩm (D1-09) mới được phép xuất kho. Xưởng không được tự ý vận chuyển cấu kiện ra công trường khi chưa có biên bản nghiệm thu xuất xưởng. |
+| **Đối chiếu vật tư và xử lý phế liệu** | Kết thúc đợt gia công, hai bên bắt buộc lập Biên bản đối chiếu và quyết toán vật tư (D1-10) và Biên bản xử lý phế liệu (D1-11). Thép thừa nguyên thanh/tấm được thu hồi về kho Công ty; phế liệu đầu mẩu/ba-via được cân thực tế và cấn trừ tiền gia công theo đơn giá thỏa thuận. |
+| **Bản chất dịch vụ và hóa đơn tài chính** | Xác lập rõ quan hệ là Hợp đồng dịch vụ gia công (không phải mua bán thương mại thép). Xưởng xuất Hóa đơn GTGT dịch vụ gia công, tuyệt đối không xuất hóa đơn bán hàng hóa vật tư đối với lượng phôi do Công ty cấp (khớp quy định D3). |
 
 ## 6. Rà soát trước khi ký (checklist)
 
@@ -94,6 +113,7 @@ Yêu cầu báo giá → Khảo sát hồ sơ → Dự toán → Phê duyệt gi
 | 8   | Nghiệm thu, hồ sơ hoàn công, bảo hành rõ ràng                     | ☐   |
 | 9   | Luật sư xem điều khoản rủi ro cao (giá trị lớn, phạt cao, vật tư) | ☐   |
 | 10  | Giám đốc phê duyệt ký (C1)                                        | ☐   |
+| 11  | HĐ gia công ngoài: đủ dung sai kỹ thuật, trần hao hụt, bồi thường hỏng phôi, KCS tại xưởng | ☐   |
 
 ## 7. Điều kiện huy động
 

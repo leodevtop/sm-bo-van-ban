@@ -16,8 +16,8 @@ Hệ thống văn bản quản lý và vận hành của Công ty được thi�
   - `00_Danh_Sach_Van_Ban.md`: Danh sách chủ toàn bộ văn bản lưu hành thực tế.
   - `00_Ma_Data.md`: Bảng quy chuẩn mã dữ liệu thay thế `<<MA_DATA>>`.
 
-### Tầng 1: 73 văn bản nghiệp vụ chính thức lưu hành
-Hệ thống gồm **73 văn bản nghiệp vụ chính thức** được phân loại và lưu trữ tại các thư mục chuyên môn và thư mục mẫu Nhà nước:
+### Tầng 1: 74 văn bản nghiệp vụ chính thức lưu hành
+Hệ thống gồm **74 văn bản nghiệp vụ chính thức** được phân loại và lưu trữ tại các thư mục chuyên môn và thư mục mẫu Nhà nước:
 - `I_Hop_Dong_Nhan_Su/`: Nhóm I – Hợp đồng lao động, nhân sự và quản lý công nhân.
 - `II_Noi_Quy/`: Nhóm II – Nội quy lao động và nội quy an toàn công trường.
 - `III_Luong_Thuong_Ke_Toan/`: Nhóm III – Tiền lương, thưởng KPI, chấm công và tài chính kế toán.
@@ -40,7 +40,7 @@ Hệ thống gồm **73 văn bản nghiệp vụ chính thức** được phân 
 | Rủi ro chính    | Hư hỏng, thất thoát vật tư nhận bàn giao; chậm vật tư; tai nạn | Biến động giá thép, chất lượng vật tư, công nợ nhà cung cấp, bảo hành vật tư |
 | Văn bản đặc thù | D1 mục 2A, D2 Mẫu 1                                            | D1 mục 2B, D2 Mẫu 2, D3                                                      |
 
-Công ty **không sản xuất, gia công**: vật tư thép, bu lông, phụ kiện được mua thành phẩm.
+Công ty **không sản xuất, gia công**: vật tư thép, bu lông, phụ kiện được mua thành phẩm. Đối với cả hai dạng hợp đồng, nếu có hạng mục cấu kiện cần gia công cơ khí chế tạo mà Công ty không tự gia công tại xưởng nội bộ, Công ty áp dụng quy trình quản trị thuê xưởng gia công ngoài (D1 mục 2C, D2 mục 5B, D3 mục 4C và văn bản STT 84).
 
 ## 3. Cách điền để văn bản hoàn chỉnh
 

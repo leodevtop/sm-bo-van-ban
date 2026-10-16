@@ -1,6 +1,6 @@
 # DANH SÁCH VĂN BẢN LƯU HÀNH (BẢN CẬP NHẬT 15/10/2026)
 
-Đối chiếu pháp luật đến 15/10/2026. Đây là danh sách chủ để lập các văn bản và biểu mẫu; bộ khung kiến trúc A1–D4 lưu tại thư mục bo-khung/ đóng vai trò căn cứ lập luận (nguồn gốc logic 'vì sao như vậy') để thiết kế và đối chiếu 73 văn bản lưu hành. Mã dữ liệu thay đổi dùng dạng <<MA_DATA>>, xem 00_Ma_Data.md.
+Đối chiếu pháp luật đến 15/10/2026. Đây là danh sách chủ để lập các văn bản và biểu mẫu; bộ khung kiến trúc A1–D4 lưu tại thư mục bo-khung/ đóng vai trò căn cứ lập luận (nguồn gốc logic 'vì sao như vậy') để thiết kế và đối chiếu 74 văn bản lưu hành. Mã dữ liệu thay đổi dùng dạng <<MA_DATA>>, xem 00_Ma_Data.md.
 
 **Ký hiệu (phân biệt rõ khi in đen trắng):** ● đã có, giữ và sửa | ▲ lập mới | ■ dùng mẫu Nhà nước, chỉ ghi chú | ◇ hoãn | — gộp hoặc bỏ. Trong ghi chú: ✔ đã đối chiếu nguồn; ◐ cần xác nhận với nguồn chính thức, kế toán hoặc luật sư trước khi ban hành. **Đợt 1:** bắt buộc theo luật hoặc cần để công nhân vào công trình. **Đợt 2:** vận hành, làm sau.
 
@@ -129,12 +129,13 @@
 | 78 | [Quy chế dân chủ & đối thoại (kèm kế hoạch năm)](../VI_Thi_Cong_Kinh_Doanh/78_Quy_Che_Dan_Chu_va_Doi_Thoai.md) | Quy chế (tích hợp Quyết định ban hành) | ▲ | 2 | Đại diện người lao động là BCH công đoàn cơ sở |
 | 79 | [Biên bản đối thoại định kỳ](../VI_Thi_Cong_Kinh_Doanh/79_Bien_Ban_Doi_Thoai_Dinh_Ky.md) | Biên bản | ▲ | 2 |  |
 | 80 | [Sổ theo dõi tiếp nhận kiến nghị](../VI_Thi_Cong_Kinh_Doanh/80_So_Theo_Doi_Tiep_Nhan_Kien_Nghi.md) | Sổ theo dõi | ▲ | 2 |  |
+| 84 | [Biên bản đối chiếu & quyết toán vật tư sau gia công (kèm hồ sơ gia công ngoài)](../VI_Thi_Cong_Kinh_Doanh/84_Bien_Ban_Doi_Chieu_Vat_Tu_Sau_Gia_Cong.md) | Bộ biểu mẫu / Quy trình | ▲ | 1 | Mới; mã D1-84: Quản lý thuê gia công cấu kiện ngoài, gồm BB giao phôi, nghiệm thu KCS xưởng, đối chiếu cân đối vật tư hao hụt và xử lý phế liệu; chứng từ thuế dịch vụ gia công |
 
 ## TỔNG HỢP
 
-- **Đợt 1:** 53 file; **Đợt 2:** 20 file; **tổng 73 file** cần tạo hoặc sửa (trong đó mục 15 là 4 file).
+- **Đợt 1:** 54 file; **Đợt 2:** 20 file; **tổng 74 file** cần tạo hoặc sửa (trong đó mục 15 là 4 file).
 - **Dùng mẫu Nhà nước (■):** 12 mục, đã thu thập, biên soạn và số hóa hoàn chỉnh thành các file mẫu trắng quy chuẩn lưu tại thư mục chuyên biệt `mau-nha-nuoc/`. **Hoãn (◇):** 1 mục. **Gộp hoặc bỏ (—):** 2 mục. **Có sẵn cần sửa (●):** 13 mục.
-- So với bản trước: thêm mục 82 (Sổ quản lý lao động) và 83 (hồ sơ khám sức khỏe), cả hai Đợt 1; chuyển mục 36 từ Đợt 2 sang Đợt 1; sửa ký hiệu hoãn (`||` làm vỡ bảng ở mục 73); đồng bộ chế độ kế toán, đường dẫn tài liệu hiện có và căn cứ pháp lý.
+- So với bản trước: thêm mục 82 (Sổ quản lý lao động), 83 (hồ sơ khám sức khỏe) và 84 (Biên bản đối chiếu & quyết toán vật tư sau gia công kèm hồ sơ gia công ngoài), đều thuộc Đợt 1; chuyển mục 36 từ Đợt 2 sang Đợt 1; sửa ký hiệu hoãn (`||` làm vỡ bảng ở mục 73); đồng bộ chế độ kế toán, đường dẫn tài liệu hiện có và căn cứ pháp lý.
 
 ## NGUỒN MẪU TNLĐ CỦA NHÀ NƯỚC (Nghị định 39/2016/NĐ-CP, 22 phụ lục)
 

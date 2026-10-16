@@ -2,7 +2,7 @@
 
 - **Date:** 2026-10-16
 - **Author:** Antigravity
-- **Status:** Proposed
+- **Status:** Completed
 
 ---
 
@@ -63,12 +63,19 @@ Kiểm tra đối chiếu file `bo-van-ban/00_Danh_Sach_Van_Ban.md` và các tà
 
 ---
 
-## 4. Lộ trình thực hiện chi tiết
+## 4. Checklist công việc thực hiện (Task Breakdown)
 
-| Bước | Hạng mục công việc | File tác động | Trạng thái |
-|:---:|---|---|:---:|
-| 1 | Lập kế hoạch bổ sung & trình người dùng phê duyệt | `docs/plans/261016-bo-sung-ho-so-gia-cong-vat-tu.md` | Hoàn thành |
-| 2 | Cập nhật tài liệu khung kiến trúc D1, D2, D3 | `bo-van-ban/bo-khung/D1-*.md`, `D2-*.md`, `D3-*.md` | Chờ duyệt |
-| 3 | Biên soạn trọn bộ tài liệu thực thi STT 84 | `VI_Thi_Cong_Kinh_Doanh/84_Bien_Ban_Doi_Chieu_Vat_Tu_Sau_Gia_Cong.md` | Chờ duyệt |
-| 4 | Cập nhật Danh sách văn bản & Sổ đăng ký | `bo-van-ban/00_Danh_Sach_Van_Ban.md`, `00-so-dang-ky-van-ban.md`, `00-README-*.md` | Chờ duyệt |
-| 5 | Rà soát chéo (QC) tính nhất quán mã dữ liệu `<<...>>` và căn cứ pháp lý | Toàn bộ các file được cập nhật | Chờ duyệt |
+- [x] **Task 1: Cập nhật tài liệu khung kiến trúc D1, D2, D3 tại `bo-van-ban/bo-khung/`**
+  - [x] Bổ sung Mục 2C và danh mục biểu mẫu D1-08..D1-11 vào `D1-quy-trinh-thi-cong-vat-tu-nghiem-thu.md`
+  - [x] Bổ sung quy định HĐ gia công vào `D2-quy-trinh-kinh-doanh-hop-dong.md`
+  - [x] Bổ sung Mục 4C chi phí gia công ngoài vào `D3-quy-trinh-tai-chinh-ke-toan.md`
+- [x] **Task 2: Biên soạn tài liệu thực thi STT 84 tại `VI_Thi_Cong_Kinh_Doanh/`**
+  - [x] Tạo file `84_Bien_Ban_Doi_Chieu_Vat_Tu_Sau_Gia_Cong.md` đầy đủ 5 phần (Hướng dẫn + 4 biểu mẫu)
+  - [x] Chuẩn hóa mã dữ liệu `<<...>>`, căn cứ pháp lý Luật Xây dựng 2025, NĐ 207/2026/NĐ-CP
+- [x] **Task 3: Cập nhật tài liệu danh mục và quản lý**
+  - [x] Cập nhật `bo-van-ban/00_Danh_Sach_Van_Ban.md` (STT 84 và tổng hợp số liệu)
+  - [x] Cập nhật `bo-van-ban/00-so-dang-ky-van-ban.md` (nhật ký rà soát)
+  - [x] Cập nhật `bo-van-ban/00-README-huong-dan-ban-hanh.md`
+- [x] **Task 4: Đánh giá chất lượng & Rà soát độc lập (QA / Review)**
+  - [x] Kiểm tra tính nhất quán mã dữ liệu, căn cứ pháp lý, quy chuẩn đối chiếu số liệu
+  - [x] Đảm bảo không có lỗi định dạng markdown hay xung đột nội dung

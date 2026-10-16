@@ -29,7 +29,7 @@
 
 **Điều 1. Ban hành Hệ thống văn bản quản lý và vận hành**
 
-Ban hành kèm theo Quyết định này Hệ thống văn bản quản lý và vận hành (phiên bản 2.0, gồm 73 đầu văn bản quy chuẩn lưu tại các thư mục chuyên môn và mau-nha-nuoc/), bao gồm các nhóm nghiệp vụ chính:
+Ban hành kèm theo Quyết định này Hệ thống văn bản quản lý và vận hành (phiên bản 2.0, gồm 74 đầu văn bản quy chuẩn lưu tại các thư mục chuyên môn và mau-nha-nuoc/), bao gồm các nhóm nghiệp vụ chính:
 
 1. **Nhóm I – Hợp đồng & Quản lý nhân sự (`I_Hop_Dong_Nhan_Su/`):** Các mẫu hợp đồng lao động (ngắn hạn theo công trình, thời vụ, thợ nòng cốt, văn phòng), phụ lục hợp đồng, cam kết bảo mật thông tin và bảo vệ dữ liệu cá nhân, quy trình điều động, nghỉ việc, xử lý kỷ luật lao động và sổ quản lý lao động.
 2. **Nhóm II – Nội quy lao động (`II_Noi_Quy/`):** Nội quy lao động Công ty, Quyết định ban hành nội quy, Biên bản lấy ý kiến Ban Chấp hành Công đoàn cơ sở, Phiếu xác nhận phổ biến nội quy và Nội quy an toàn công trường kết cấu thép.

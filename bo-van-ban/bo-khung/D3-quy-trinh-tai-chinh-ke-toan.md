@@ -4,6 +4,7 @@
 >   - STT 29: Quy trình tài chính, kế toán công trình (gồm tạm ứng, thanh toán)
 >   - STT 30: Giấy đề nghị & thanh toán tạm ứng
 >   - STT 31: Bảng tổng hợp quyết toán chi phí công trình
+>   - STT 84: Biên bản đối chiếu vật tư sau gia công (hồ sơ quyết toán chi phí gia công ngoài)
 
 # D3 – QUY TRÌNH TÀI CHÍNH, KẾ TOÁN (TỐI GIẢN)
 
@@ -87,6 +88,26 @@ Tổng tạm ứng: **\_\_** Tổng đã chi: **\_\_** Hoàn trả hoặc chi th
 
 Công ty **không** trả công trực tiếp bằng tiền mặt cho công nhân không có hợp đồng và không có bảng chấm công.
 
+### 4C. Chi phí dịch vụ gia công ngoài
+
+Áp dụng khi Công ty thuê đối tác/xưởng bên ngoài gia công chế tạo cấu kiện kết cấu thép, cơ khí. Chi phí gia công ngoài chỉ được thanh toán và ghi nhận là chi phí hợp lý, hợp lệ khi đáp ứng đầy đủ các điều kiện và bộ hồ sơ chặt chẽ sau:
+
+1. **Nguyên tắc bản chất chi phí và hóa đơn GTGT:**
+   - Hợp đồng xác lập là **Hợp đồng dịch vụ gia công** (không phải hợp đồng mua bán thép). Phôi thép/vật tư do Công ty cấp cho xưởng thuộc sở hữu của Công ty (theo dõi trên tài khoản hàng gửi đi gia công).
+   - Hóa đơn tài chính bắt buộc phải là **Hóa đơn GTGT dịch vụ gia công cấu kiện thép** (tính thuế GTGT trên giá trị dịch vụ gia công). **Tuyệt đối không chấp nhận hóa đơn mua bán hàng hóa vật tư thép** từ xưởng gia công đối với lượng vật tư Công ty đã cấp (nhằm tránh rủi ro vi phạm pháp luật thuế về lập hóa đơn sai bản chất nghiệp vụ kinh tế).
+
+2. **Bộ hồ sơ thanh quyết toán hợp lệ (bắt buộc đầy đủ 7 thành phần):**
+   - **Hợp đồng dịch vụ gia công**: Có đầy đủ các điều khoản kỹ thuật, dung sai, tỷ lệ hao hụt tối đa cho phép và điều khoản bồi thường khi làm hỏng phôi thép (D2 mục 5B).
+   - **Biên bản bàn giao vật tư/phôi thép (Mẫu D1-08)**: Xác nhận chủng loại, mác thép, số lượng, khối lượng phôi đã giao cho xưởng, có ký nhận của đại diện xưởng.
+   - **Biên bản nghiệm thu kỹ thuật thành phẩm tại xưởng gia công (Mẫu D1-09)**: Xác nhận cấu kiện thành phẩm đã qua KCS/QC đạt tiêu chuẩn thiết kế trước khi xuất xưởng.
+   - **Biên bản đối chiếu và quyết toán vật tư sau gia công (Mẫu D1-10)**: Bảng cân đối 5 thành phần (phôi cấp – thành phẩm nghiệm thu – hao hụt định mức vs thực tế – vật tư thừa); xác nhận xử lý bồi thường nếu hao hụt vượt định mức.
+   - **Biên bản xử lý phế liệu và vật tư thừa (Mẫu D1-11)**: Xác nhận thu hồi vật tư thừa về kho và giá trị phế liệu bán cấn trừ vào chi phí tiền công gia công.
+   - **Hóa đơn GTGT dịch vụ gia công**: Xuất đúng giá trị dịch vụ gia công sau khi đã cấn trừ chi phí phế liệu/bồi thường hao hụt (nếu có).
+   - **Chứng từ thanh toán không dùng tiền mặt**: Ủy nhiệm chi chuyển khoản qua ngân hàng từ tài khoản của Công ty sang tài khoản ngân hàng của xưởng gia công.
+
+3. **Chu trình thanh quyết toán chi phí gia công:**
+   - Dự án tổng hợp bộ chứng từ kỹ thuật và đối chiếu vật tư (D1-08, D1-09, D1-10, D1-11) $\rightarrow$ Kế toán kiểm tra đối chiếu định mức hao hụt, trừ phế liệu và kiểm tra hóa đơn GTGT dịch vụ $\rightarrow$ Trưởng phòng/Giám đốc duyệt thanh toán theo hạn mức (C1) $\rightarrow$ Kế toán lập Ủy nhiệm chi chuyển khoản ngân hàng.
+
 ## 5. Quyết toán công trình
 
 | #   | Việc                                                                   | Thời hạn              |
@@ -100,16 +121,17 @@ Công ty **không** trả công trực tiếp bằng tiền mặt cho công nhâ
 
 **Mẫu D3-03 – Quyết toán công trình**
 
-| Khoản mục        | Dự toán | Thực tế | Chênh lệch | Nguyên nhân |
-| ---------------- | ------- | ------- | ---------- | ----------- |
-| Doanh thu        |         |         |            |             |
-| Nhân công        |         |         |            |             |
-| BHXH và bảo hiểm |         |         |            |             |
-| Vật tư (Dạng 2)  |         |         |            |             |
-| Thiết bị         |         |         |            |             |
-| Chi phí an toàn  |         |         |            |             |
-| Chi phí chung    |         |         |            |             |
-| **Lợi nhuận**    |         |         |            |             |
+| Khoản mục                   | Dự toán | Thực tế | Chênh lệch | Nguyên nhân |
+| --------------------------- | ------- | ------- | ---------- | ----------- |
+| Doanh thu                   |         |         |            |             |
+| Nhân công                   |         |         |            |             |
+| BHXH và bảo hiểm            |         |         |            |             |
+| Vật tư (Dạng 2)             |         |         |            |             |
+| Chi phí gia công ngoài (4C) |         |         |            |             |
+| Thiết bị                    |         |         |            |             |
+| Chi phí an toàn             |         |         |            |             |
+| Chi phí chung               |         |         |            |             |
+| **Lợi nhuận**               |         |         |            |             |
 
 ## 6. Công nợ phải trả và tiền
 

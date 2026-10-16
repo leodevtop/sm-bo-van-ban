@@ -2,7 +2,7 @@
 > **TÀI LIỆU HƯỚNG DẪN KỸ THUẬT NỘI BỘ (LAYER 0)**
 > - File này là công cụ tra cứu tham số nguồn và hướng dẫn nghiệp vụ dành riêng cho người quản trị / soạn thảo văn bản nội bộ.
 > - **Không có giá trị pháp lý độc lập ra bên ngoài và không dùng để viện dẫn trực tiếp trong các văn bản giao dịch.**
-> - Mọi quyền, nghĩa vụ và chế độ pháp lý chính thức đối với bên thứ ba, cơ quan Nhà nước và người lao động được xác lập độc lập tại 73 văn bản chính thức quy định tại 00_Danh_Sach_Van_Ban.md.
+> - Mọi quyền, nghĩa vụ và chế độ pháp lý chính thức đối với bên thứ ba, cơ quan Nhà nước và người lao động được xác lập độc lập tại 74 văn bản chính thức quy định tại 00_Danh_Sach_Van_Ban.md.
 
 # DANH MỤC MÃ DỮ LIỆU `<<MA_DATA>>`
 
@@ -126,6 +126,17 @@
 | `<<NCC_DAI_DIEN>>` | Người đại diện          |                |
 | `<<NCC_STK>>`      | Số tài khoản            |                |
 
+## XUONG_GC_ / GC_ – Đơn vị gia công ngoài và Hợp đồng gia công
+
+| Mã                           | Ý nghĩa                                    | Ví dụ, ghi chú |
+| ---------------------------- | ------------------------------------------ | -------------- |
+| `<<XUONG_GC_TEN>>`           | Tên xưởng / đơn vị nhận gia công kết cấu   |                |
+| `<<XUONG_GC_MST>>`           | Mã số thuế đơn vị gia công                 |                |
+| `<<XUONG_GC_DAI_DIEN>>`      | Người đại diện theo pháp luật / Quản đốc   |                |
+| `<<XUONG_GC_DIA_CHI_XUONG>>` | Địa chỉ nhà xưởng gia công                 |                |
+| `<<GC_HD_SO>>`               | Số hợp đồng dịch vụ gia công               |                |
+| `<<GC_HD_NGAY>>`             | Ngày ký hợp đồng dịch vụ gia công          |                |
+
 ## TN\_ – Tai nạn, sự cố (dùng cho phiếu ghi nhanh và quyết định bồi thường)
 
 | Mã                | Ý nghĩa                                              | Ví dụ, ghi chú |
@@ -156,7 +167,7 @@
 ## Dòng tiêu đề CSV để chạy mailing
 
 ```
-CTY_TEN,CTY_TEN_VT,CTY_DC,CTY_MST,CTY_DT,CTY_EMAIL,CTY_STK,CTY_NGAN_HANG,CTY_DAI_DIEN,CTY_CHUC_DANH,CTY_DIA_DANH,CTY_NGUOI_AT,CTY_NGUOI_DL,CTY_KE_TOAN_TRUONG,CTY_CD_TEN,CTY_CD_CHU_TICH,VB_SO,VB_NGAY,VB_THANG,VB_NAM,VB_NGUOI_KY,NLD_MA,NLD_HO_TEN,NLD_GIOI_TINH,NLD_NGAY_SINH,NLD_CCCD,NLD_CCCD_NGAY,NLD_CCCD_NOI,NLD_DC_THUONG_TRU,NLD_DC_TAM_TRU,NLD_DT,NLD_MA_BHXH,NLD_MST,NLD_STK,NLD_NGAN_HANG,NLD_TRINH_DO,NLD_CHUC_DANH,NLD_BO_PHAN,NLD_NGAY_VAO_LAM,NLD_LIEN_HE_KC_TEN,NLD_LIEN_HE_KC_DT,NLD_THE_AT_SO,NLD_THE_AT_HAN,NLD_KSK_HAN,HD_SO,HD_NGAY_KY,HD_LAN_KY,HD_NGAY_BD,HD_NGAY_KT,HD_THU_VIEC_NGAY,HD_LUONG_THU_VIEC,HD_LUONG_CB,HD_LUONG_CB_CHU,HD_DON_GIA_CONG,HD_PHU_CAP,HD_KY_TRA_LUONG,HD_NGAY_TRA_LUONG,HD_DIA_DIEM_LV,HD_PHU_LUC_SO,CT_MA,CT_TEN,CT_DIA_DIEM,CT_TINH,CT_CHI_HUY_TRUONG,CT_AT_VIEN,CT_NGAY_KHOI_CONG,CT_NGAY_HOAN_THANH,CT_BENH_VIEN,CT_BENH_VIEN_DT,KH_TEN,KH_DC,KH_MST,KH_DAI_DIEN,KH_CHUC_DANH,KH_HD_SO,KH_HD_NGAY,NCC_TEN,NCC_DC,NCC_MST,NCC_DAI_DIEN,NCC_STK,TN_NGAY_GIO,TN_DIA_DIEM,TN_LOAI,TN_MO_TA,TS_LUONG_TOI_THIEU_V1,TS_NGUONG_CHUYEN_KHOAN,TS_TL_BHXH_NLD,TS_TL_BHYT_NLD,TS_TL_BHTN_NLD,TS_PHU_CAP_CONG_TRUONG,TS_CONG_TAC_PHI,TS_THUONG_AT,TS_KPI_TL_LNG,TS_KPI_TRAN,TS_NGUONG_BAO_GIA,TS_NGUONG_HD_NCC,TS_NGUONG_CHI_TP
+CTY_TEN,CTY_TEN_VT,CTY_DC,CTY_MST,CTY_DT,CTY_EMAIL,CTY_STK,CTY_NGAN_HANG,CTY_DAI_DIEN,CTY_CHUC_DANH,CTY_DIA_DANH,CTY_NGUOI_AT,CTY_NGUOI_DL,CTY_KE_TOAN_TRUONG,CTY_CD_TEN,CTY_CD_CHU_TICH,VB_SO,VB_NGAY,VB_THANG,VB_NAM,VB_NGUOI_KY,NLD_MA,NLD_HO_TEN,NLD_GIOI_TINH,NLD_NGAY_SINH,NLD_CCCD,NLD_CCCD_NGAY,NLD_CCCD_NOI,NLD_DC_THUONG_TRU,NLD_DC_TAM_TRU,NLD_DT,NLD_MA_BHXH,NLD_MST,NLD_STK,NLD_NGAN_HANG,NLD_TRINH_DO,NLD_CHUC_DANH,NLD_BO_PHAN,NLD_NGAY_VAO_LAM,NLD_LIEN_HE_KC_TEN,NLD_LIEN_HE_KC_DT,NLD_THE_AT_SO,NLD_THE_AT_HAN,NLD_KSK_HAN,HD_SO,HD_NGAY_KY,HD_LAN_KY,HD_NGAY_BD,HD_NGAY_KT,HD_THU_VIEC_NGAY,HD_LUONG_THU_VIEC,HD_LUONG_CB,HD_LUONG_CB_CHU,HD_DON_GIA_CONG,HD_PHU_CAP,HD_KY_TRA_LUONG,HD_NGAY_TRA_LUONG,HD_DIA_DIEM_LV,HD_PHU_LUC_SO,CT_MA,CT_TEN,CT_DIA_DIEM,CT_TINH,CT_CHI_HUY_TRUONG,CT_AT_VIEN,CT_NGAY_KHOI_CONG,CT_NGAY_HOAN_THANH,CT_BENH_VIEN,CT_BENH_VIEN_DT,KH_TEN,KH_DC,KH_MST,KH_DAI_DIEN,KH_CHUC_DANH,KH_HD_SO,KH_HD_NGAY,NCC_TEN,NCC_DC,NCC_MST,NCC_DAI_DIEN,NCC_STK,XUONG_GC_TEN,XUONG_GC_MST,XUONG_GC_DAI_DIEN,XUONG_GC_DIA_CHI_XUONG,GC_HD_SO,GC_HD_NGAY,TN_NGAY_GIO,TN_DIA_DIEM,TN_LOAI,TN_MO_TA,TS_LUONG_TOI_THIEU_V1,TS_NGUONG_CHUYEN_KHOAN,TS_TL_BHXH_NLD,TS_TL_BHYT_NLD,TS_TL_BHTN_NLD,TS_PHU_CAP_CONG_TRUONG,TS_CONG_TAC_PHI,TS_THUONG_AT,TS_KPI_TL_LNG,TS_KPI_TRAN,TS_NGUONG_BAO_GIA,TS_NGUONG_HD_NCC,TS_NGUONG_CHI_TP
 ```
 
 ## Thay thế hàng loạt bằng Python
