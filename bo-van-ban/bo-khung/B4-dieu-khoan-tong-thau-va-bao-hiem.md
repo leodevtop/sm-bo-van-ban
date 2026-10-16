@@ -1,3 +1,11 @@
+> **BẢN THIẾT KẾ KIẾN TRÚC & CĂN CỨ LẬP LUẬN (CORE ARCHITECTURE & DESIGN RATIONALE)**
+> - **Mục đích:** Tài liệu thiết kế nguồn, giải thích nguyên lý "vì sao như vậy" và căn cứ lập luận để xây dựng, đối chiếu và tái lập hệ thống văn bản vận hành của Công ty.
+> - **Văn bản thực thi tương ứng trong Danh mục lưu hành:**
+>   - STT 59: Phụ lục điều khoản an toàn & bảo hiểm với tổng thầu
+>   - STT 60: Thông báo – đề nghị gửi tổng thầu/chủ đầu tư (dừng việc, gia hạn, vật tư sai/thiếu/chậm, phát sinh)
+>   - STT 61: Công văn đề nghị xác nhận bảo hiểm công trường
+>   - STT 62: Checklist bảo hiểm & hồ sơ an toàn nộp tổng thầu
+
 # B4 – ĐIỀU KHOẢN VỚI TỔNG THẦU VÀ BẢO HIỂM CÔNG TRƯỜNG
 
 |                            |                                                                                                                 |

@@ -1,3 +1,15 @@
+> **BẢN THIẾT KẾ KIẾN TRÚC & CĂN CỨ LẬP LUẬN (CORE ARCHITECTURE & DESIGN RATIONALE)**
+> - **Mục đích:** Tài liệu thiết kế nguồn, giải thích nguyên lý "vì sao như vậy" và căn cứ lập luận để xây dựng, đối chiếu và tái lập hệ thống văn bản vận hành của Công ty.
+> - **Văn bản thực thi tương ứng trong Danh mục lưu hành:**
+>   - STT 71: Quy trình kinh doanh, báo giá & quản lý hợp đồng
+>   - STT 72: Mẫu báo giá (Dạng 1 và 2)
+>   - STT 73: Hợp đồng thi công trực tiếp với chủ xưởng – chỉ thi công (hoãn)
+>   - STT 74: Phụ lục vật tư – điều khoản bổ sung (hợp đồng thầu phụ gồm vật tư)
+>   - STT 75: Đơn đặt hàng mua vật tư (Dạng 2)
+>   - STT 76: Checklist thẩm định rủi ro HĐ & điều kiện huy động
+>   - STT 77: Biên bản thanh lý hợp đồng
+>   - STT 81: Hợp đồng dịch vụ (cá nhân bên ngoài)
+
 # D2 – QUY TRÌNH KINH DOANH VÀ HỢP ĐỒNG
 
 |                            |                                                                           |

@@ -1,3 +1,13 @@
+> **BẢN THIẾT KẾ KIẾN TRÚC & CĂN CỨ LẬP LUẬN (CORE ARCHITECTURE & DESIGN RATIONALE)**
+> - **Mục đích:** Tài liệu thiết kế nguồn, giải thích nguyên lý "vì sao như vậy" và căn cứ lập luận để xây dựng, đối chiếu và tái lập hệ thống văn bản vận hành của Công ty.
+> - **Văn bản thực thi tương ứng trong Danh mục lưu hành:**
+>   - STT 16: Nội quy lao động
+>   - STT 17: QĐ ban hành nội quy
+>   - STT 18: Biên bản lấy ý kiến BCH công đoàn cơ sở & người lao động về nội quy
+>   - STT 19: Hồ sơ đăng ký nội quy lao động
+>   - STT 20: Phiếu xác nhận đã nhận và hiểu nội quy
+>   - STT 21: Nội quy an toàn công trường (từng dự án)
+
 # A2 – NỘI QUY LAO ĐỘNG
 
 |                            |                                                                         |

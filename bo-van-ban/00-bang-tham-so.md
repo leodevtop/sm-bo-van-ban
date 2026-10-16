@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> **TÀI LIỆU HƯỚNG DẪN KỸ THUẬT NỘI BỘ (LAYER 0)**
+> - File này là công cụ tra cứu tham số nguồn và hướng dẫn nghiệp vụ dành riêng cho người quản trị / soạn thảo văn bản nội bộ.
+> - **Không có giá trị pháp lý độc lập ra bên ngoài và không dùng để viện dẫn trực tiếp trong các văn bản giao dịch.**
+> - Mọi quyền, nghĩa vụ và chế độ pháp lý chính thức đối với bên thứ ba, cơ quan Nhà nước và người lao động được xác lập độc lập tại 73 văn bản chính thức quy định tại 00_Danh_Sach_Van_Ban.md.
+
 # BẢNG THAM SỐ
 
 **Mã:** 00-TS | **Phiên bản:** 2.0 | **Ngày ban hành:** {{NGAY_BAN_HANH}} | **Người ký:** Giám đốc {{GIAM_DOC}}

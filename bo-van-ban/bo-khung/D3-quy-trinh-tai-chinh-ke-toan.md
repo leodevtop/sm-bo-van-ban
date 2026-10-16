@@ -1,3 +1,10 @@
+> **BẢN THIẾT KẾ KIẾN TRÚC & CĂN CỨ LẬP LUẬN (CORE ARCHITECTURE & DESIGN RATIONALE)**
+> - **Mục đích:** Tài liệu thiết kế nguồn, giải thích nguyên lý "vì sao như vậy" và căn cứ lập luận để xây dựng, đối chiếu và tái lập hệ thống văn bản vận hành của Công ty.
+> - **Văn bản thực thi tương ứng trong Danh mục lưu hành:**
+>   - STT 29: Quy trình tài chính, kế toán công trình (gồm tạm ứng, thanh toán)
+>   - STT 30: Giấy đề nghị & thanh toán tạm ứng
+>   - STT 31: Bảng tổng hợp quyết toán chi phí công trình
+
 # D3 – QUY TRÌNH TÀI CHÍNH, KẾ TOÁN (TỐI GIẢN)
 
 |                            |                                                                                 |

@@ -1,3 +1,10 @@
+> **BẢN THIẾT KẾ KIẾN TRÚC & CĂN CỨ LẬP LUẬN (CORE ARCHITECTURE & DESIGN RATIONALE)**
+> - **Mục đích:** Tài liệu thiết kế nguồn, giải thích nguyên lý "vì sao như vậy" và căn cứ lập luận để xây dựng, đối chiếu và tái lập hệ thống văn bản vận hành của Công ty.
+> - **Văn bản thực thi tương ứng trong Danh mục lưu hành:**
+>   - STT 78: Quy chế dân chủ & đối thoại (kèm kế hoạch năm)
+>   - STT 79: Biên bản đối thoại định kỳ
+>   - STT 80: Sổ theo dõi tiếp nhận kiến nghị
+
 # D4 – QUY CHẾ DÂN CHỦ VÀ ĐỐI THOẠI TẠI NƠI LÀM VIỆC
 
 |                            |                                                                         |

@@ -1,3 +1,15 @@
+> **BẢN THIẾT KẾ KIẾN TRÚC & CĂN CỨ LẬP LUẬN (CORE ARCHITECTURE & DESIGN RATIONALE)**
+> - **Mục đích:** Tài liệu thiết kế nguồn, giải thích nguyên lý "vì sao như vậy" và căn cứ lập luận để xây dựng, đối chiếu và tái lập hệ thống văn bản vận hành của Công ty.
+> - **Văn bản thực thi tương ứng trong Danh mục lưu hành:**
+>   - STT 08: Quy chế điều hành nhân sự & vòng đời công nhân
+>   - STT 09: QĐ điều động nhân sự đến công trường
+>   - STT 10: Đơn xin nghỉ không hưởng lương
+>   - STT 11: QĐ cho nghỉ không hưởng lương
+>   - STT 13: QĐ chỉ định người phụ trách (quản lý an toàn, an toàn viên, bảo vệ dữ liệu)
+>   - STT 14: Báo cáo sử dụng lao động định kỳ
+>   - STT 15a-d: Bộ xử lý kỷ luật (15a: Biên bản vi phạm, 15b: Thông báo họp, 15c: Biên bản họp, 15d: Quyết định kỷ luật)
+>   - STT 82: Sổ quản lý lao động (điện tử hoặc giấy)
+
 # A4 – QUY TRÌNH VÒNG ĐỜI CÔNG NHÂN THỜI VỤ
 
 |                            |                                                                         |

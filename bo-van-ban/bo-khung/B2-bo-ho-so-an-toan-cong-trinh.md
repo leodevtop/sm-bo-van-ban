@@ -1,3 +1,10 @@
+> **BẢN THIẾT KẾ KIẾN TRÚC & CĂN CỨ LẬP LUẬN (CORE ARCHITECTURE & DESIGN RATIONALE)**
+> - **Mục đích:** Tài liệu thiết kế nguồn, giải thích nguyên lý "vì sao như vậy" và căn cứ lập luận để xây dựng, đối chiếu và tái lập hệ thống văn bản vận hành của Công ty.
+> - **Văn bản thực thi tương ứng trong Danh mục lưu hành:**
+>   - STT 40: Biện pháp bảo đảm an toàn trong thi công
+>   - STT 44: Biên bản bàn giao mặt bằng & kiểm tra của tổng thầu
+>   - STT 45: Báo cáo tổng kết an toàn & chi phí an toàn cuối công trình
+
 # B2 – BỘ HỒ SƠ AN TOÀN TỪNG CÔNG TRÌNH (MẪU CHUẨN)
 
 |                            |                                                                         |

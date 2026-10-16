@@ -2,28 +2,33 @@
 
 **Phiên bản 2.0 (bản ban hành)** – đối chiếu pháp luật đến ngày 13/10/2026. Bộ văn bản áp dụng cho công ty lắp dựng kết cấu thép nhà xưởng, hai dạng hợp đồng: **gồm vật tư** và **chỉ thi công**. Đây là bộ văn bản tham khảo hoàn chỉnh; **không thay thế tư vấn pháp lý** (xem mục 6).
 
-## 1. Danh mục văn bản
+## 1. Cấu trúc hệ thống văn bản quản trị (Mô hình 2 tầng)
 
-| Mã     | File                                                                               | Ưu tiên        |
-| ------ | ---------------------------------------------------------------------------------- | -------------- |
-| –      | `00-quyet-dinh-ban-hanh.md` – Quyết định ban hành toàn bộ bộ văn bản               | Ký đầu tiên    |
-| 00-TS  | `00-bang-tham-so.md` – thông tin công ty, tham số pháp luật, tham số nội bộ        | Điền đầu tiên  |
-| 00-CC  | `00-can-cu-phap-ly.md` – căn cứ pháp lý chung, văn bản hết hiệu lực                | –              |
-| 00-SĐK | `00-so-dang-ky-van-ban.md` – sổ đăng ký, nhật ký rà soát, sự kiện bắt buộc rà soát | –              |
-| A1     | `A1-bo-hop-dong-ho-so-nhan-su.md`                                                  | P0             |
-| A2     | `A2-noi-quy-lao-dong.md`                                                           | P0             |
-| A3     | `A3-quy-che-luong-thuong-kpi.md`                                                   | P0             |
-| A4     | `A4-quy-trinh-vong-doi-cong-nhan-thoi-vu.md`                                       | P0             |
-| B1     | `B1-so-tay-HSE.md`                                                                 | P0             |
-| B2     | `B2-bo-ho-so-an-toan-cong-trinh.md`                                                | P0             |
-| B3     | `B3-quy-trinh-tai-nan-su-co.md`                                                    | P0             |
-| B4     | `B4-dieu-khoan-tong-thau-va-bao-hiem.md`                                           | P0             |
-| C1     | `C1-quy-che-to-chuc-phan-quyen.md`                                                 | P0             |
-| C2     | `C2-quy-che-du-lieu-luu-tru.md`                                                    | P0             |
-| D1     | `D1-quy-trinh-thi-cong-vat-tu-nghiem-thu.md`                                       | P1 (1–2 tháng) |
-| D2     | `D2-quy-trinh-kinh-doanh-hop-dong.md`                                              | P1             |
-| D3     | `D3-quy-trinh-tai-chinh-ke-toan.md`                                                | P1             |
-| D4     | `D4-quy-che-dan-chu-doi-thoai.md`                                                  | P1             |
+Hệ thống văn bản quản lý và vận hành của Công ty được thiết kế và vận hành theo mô hình kiến trúc 2 tầng chuẩn mực:
+
+### Tầng 0: Bộ khung thiết kế kiến trúc và Công cụ quản trị tham số
+- **Bộ khung thiết kế kiến trúc (`bo-khung/` gồm A1–D4):** Đóng vai trò căn cứ lập luận, thiết kế hệ thống và nguồn gốc logic nền tảng ("vì sao như vậy") để đối chiếu, xây dựng và hoàn thiện toàn bộ các văn bản lưu hành thực tế.
+- **Công cụ quản trị tham số nguồn & căn cứ chung (Layer 0 lưu tại `bo-van-ban/`):**
+  - `00-quyet-dinh-ban-hanh.md`: Quyết định của Giám đốc ban hành toàn bộ Hệ thống văn bản quản lý và vận hành.
+  - `00-bang-tham-so.md`: Bảng tham số nguồn tập trung (thông tin công ty, tham số pháp luật, tham số nội bộ do Giám đốc quyết định).
+  - `00-can-cu-phap-ly.md`: Hệ thống căn cứ pháp lý chung đối chiếu đến 15/10/2026.
+  - `00-so-dang-ky-van-ban.md`: Sổ đăng ký văn bản, theo dõi phiên bản, kỳ rà soát định kỳ và đột xuất cho toàn bộ hệ thống.
+  - `00_Danh_Sach_Van_Ban.md`: Danh sách chủ toàn bộ văn bản lưu hành thực tế.
+  - `00_Ma_Data.md`: Bảng quy chuẩn mã dữ liệu thay thế `<<MA_DATA>>`.
+
+### Tầng 1: 73 văn bản nghiệp vụ chính thức lưu hành
+Hệ thống gồm **73 văn bản nghiệp vụ chính thức** được phân loại và lưu trữ tại các thư mục chuyên môn và thư mục mẫu Nhà nước:
+- `I_Hop_Dong_Nhan_Su/`: Nhóm I – Hợp đồng lao động, nhân sự và quản lý công nhân.
+- `II_Noi_Quy/`: Nhóm II – Nội quy lao động và nội quy an toàn công trường.
+- `III_Luong_Thuong_Ke_Toan/`: Nhóm III – Tiền lương, thưởng KPI, chấm công và tài chính kế toán.
+- `IV_HSE_An_Toan_TNLD/`: Nhóm IV – Sổ tay HSE, an toàn thi công, thiết bị và giải quyết tai nạn lao động.
+- `V_To_Chuc_Phan_Quyen/`: Nhóm V – Cơ cấu tổ chức, phân quyền điều hành, bảo vệ dữ liệu cá nhân.
+- `VI_Thi_Cong_Kinh_Doanh/`: Nhóm VI – Quy trình thi công, nghiệm thu, kinh doanh, mua sắm vật tư và quy chế dân chủ.
+- `mau-nha-nuoc/`: Bộ biểu mẫu Nhà nước số hóa quy chuẩn (Nghị định 145/2020, TT 133/2016, Nghị định 39/2016, Nghị định 207/2026...).
+
+**Đặc tính vận hành cốt lõi của Tầng 1:**
+- **Độc lập bản in 100%:** Mỗi văn bản khi in ra giấy tờ lưu hành đều mang tính độc lập hoàn toàn, đầy đủ tiêu ngữ, căn cứ pháp lý, nội dung và phần ký duyệt, không phụ thuộc vào bất kỳ file tài liệu tham chiếu nào bên ngoài.
+- **Tích hợp sẵn Quyết định ban hành:** 7 văn bản quy chế cốt lõi (Mục 08, Mục 22, Mục 23, Mục 32, Mục 63, Mục 64, Mục 78) đã được tích hợp sẵn Quyết định ban hành độc lập của Giám đốc ngay ở phần đầu văn bản, đảm bảo giá trị pháp lý nội bộ tức thì khi ký phát hành.
 
 **Chưa nên làm:** thỏa ước lao động tập thể; chứng nhận ISO 45001 (trừ khi tổng thầu bắt buộc); quy trình chi tiết riêng cho từng phòng.
 
@@ -40,17 +45,17 @@ Công ty **không sản xuất, gia công**: vật tư thép, bu lông, phụ ki
 ## 3. Cách điền để văn bản hoàn chỉnh
 
 1. Mở `00-bang-tham-so.md`, điền **Phần I** (thông tin công ty) và các dòng **ĐIỀN** ở **Phần III**.
-2. Trong Word (sau khi chuyển đổi, mục 7), dùng **Tìm và Thay thế** cho từng ký hiệu `{{...}}` ở Phần I, và cho các ký hiệu `{{KPI_...}}`, `{{PHU_CAP_CONG_TRUONG}}`, `{{CONG_TAC_PHI}}`, `{{THUONG_AN_TOAN}}`, `{{NGUONG_...}}`, `{{TON_QUY_TOI_DA}}` ở Phần III. Sau bước này văn bản không còn chỗ trống ngoài các ô biểu mẫu (dòng kẻ, bảng trống) dành cho người dùng điền khi vận hành.
+2. Trong Word (sau khi chuyển đổi, mục 9), dùng **Tìm và Thay thế** cho từng ký hiệu `<<...>>` ở Phần I, và cho các ký hiệu `<<KPI_...>>`, `<<PHU_CAP_CONG_TRUONG>>`, `<<CONG_TAC_PHI>>`, `<<THUONG_AN_TOAN>>`, `<<NGUONG_...>>`, `<<TON_QUY_TOI_DA>>` ở Phần III. Sau bước này văn bản không còn chỗ trống ngoài các ô biểu mẫu (dòng kẻ, bảng trống) dành cho người dùng điền khi vận hành.
 3. Các giá trị mặc định ở Phần III (giờ làm việc, ngưỡng gió 8 m/s, độ cao 2 m, thời hạn lưu hồ sơ, trọng số KPI…) do bộ này đề xuất theo hướng thận trọng; **Giám đốc xem và chấp thuận hoặc đổi** trước khi ký.
 
 **Danh sách Giám đốc phải tự quyết định (không thể điền thay):** tỷ lệ quỹ KPI và tỷ lệ chia ba phòng tham gia KPI; phụ cấp công trường; công tác phí; thưởng an toàn; ba ngưỡng thẩm quyền (báo giá, hợp đồng nhà cung cấp, chi của trưởng phòng); mức tồn quỹ tiền mặt; thang bảng lương cụ thể (A3 Phụ lục 1); người phụ trách quản lý an toàn; người phụ trách dữ liệu cá nhân.
 
 ## 4. Thứ tự ban hành khuyến nghị
 
-1. Điền Bảng tham số; ký **Quyết định ban hành**; ký A1, A2, A3, A4; **nộp đăng ký nội quy (A2) trong 10 ngày kể từ ngày ban hành** qua Cổng dịch vụ công quốc gia.
-2. Chỉ định **người phụ trách quản lý an toàn**; ban hành B1; lập B2 cho công trình đang chạy.
-3. Ký B4 với tổng thầu và có **xác nhận bảo hiểm** cho đúng nhóm công nhân. Quy tắc cứng: _không có hợp đồng lao động + không có thẻ an toàn còn hạn (việc yêu cầu nghiêm ngặt) + không có xác nhận bảo hiểm = không vào công trường_ (A4).
-4. Hoàn thiện B3, C1, C2; sau đó D1 đến D4 trong 1–2 tháng.
+1. Điền Bảng tham số; ký **Quyết định ban hành hệ thống văn bản** (`00-quyet-dinh-ban-hanh.md`); ban hành nhóm Hợp đồng, Nhân sự và Nội quy (Nhóm I, Nhóm II); **nộp đăng ký Nội quy lao động (Mục 16) trong 10 ngày kể từ ngày ban hành** qua Cổng dịch vụ công quốc gia.
+2. Chỉ định **người phụ trách quản lý an toàn** (`<<CTY_NGUOI_AT>>`); ban hành Sổ tay HSE (Mục 32) và thiết lập hồ sơ an toàn cho các công trình đang thi công.
+3. Ký Phụ lục điều khoản an toàn với Tổng thầu (Mục 59) và có **xác nhận bảo hiểm công trường** (Mục 61, 62) cho đúng danh sách công nhân. Quy tắc cứng: _không có hợp đồng lao động + không có thẻ an toàn còn hạn (việc yêu cầu nghiêm ngặt) + không có xác nhận bảo hiểm = không vào công trường_.
+4. Hoàn thiện và vận hành các quy chế tổ chức, phân quyền, bảo vệ dữ liệu (Nhóm V); sau đó triển khai toàn diện các quy trình thi công, nghiệm thu, kinh doanh và dân chủ (Nhóm VI) trong vòng 1–2 tháng.
 
 ## 5. Theo dõi thay đổi pháp luật
 
@@ -113,4 +118,4 @@ Khi có mẫu của Nhà nước, **dùng mẫu của Nhà nước**; các biể
 
 ## 9. Chuyển sang Word (.docx)
 
-Các file dùng Markdown chuẩn (tiêu đề, bảng, danh sách), chuyển được bằng Pandoc, ví dụ: `pandoc A1-bo-hop-dong-ho-so-nhan-su.md -o A1.docx`. Sau khi chuyển: thay các ký hiệu `{{...}}`, chỉnh khổ giấy A4, phông chữ (ví dụ Times New Roman 13) và thêm số trang. Nên dùng một tệp mẫu (reference.docx) để mọi văn bản có cùng định dạng.
+Các file dùng Markdown chuẩn (tiêu đề, bảng, danh sách), chuyển được bằng Pandoc, ví dụ: `pandoc 01b_HDLD_Thoi_Vu_Cong_Trinh.md -o 01b.docx`. Sau khi chuyển: thay các ký hiệu `<<...>>`, chỉnh khổ giấy A4, phông chữ (ví dụ Times New Roman 13) và thêm số trang. Nên dùng một tệp mẫu (reference.docx) để mọi văn bản có cùng định dạng.

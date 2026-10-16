@@ -1,3 +1,14 @@
+> **BẢN THIẾT KẾ KIẾN TRÚC & CĂN CỨ LẬP LUẬN (CORE ARCHITECTURE & DESIGN RATIONALE)**
+> - **Mục đích:** Tài liệu thiết kế nguồn, giải thích nguyên lý "vì sao như vậy" và căn cứ lập luận để xây dựng, đối chiếu và tái lập hệ thống văn bản vận hành của Công ty.
+> - **Văn bản thực thi tương ứng trong Danh mục lưu hành:**
+>   - STT 22: Quy chế tiền lương, thưởng, phụ cấp
+>   - STT 23: Quy chế lương – KPI dự án
+>   - STT 24: Thang bảng lương (tích hợp trong STT 22)
+>   - STT 25: Phiếu đăng ký làm thêm giờ
+>   - STT 26: Biên bản đánh giá & chấm thưởng an toàn
+>   - STT 27: Phiếu chi (Mẫu 02-TT)
+>   - STT 28: Phiếu lương cá nhân
+
 # A3 – QUY CHẾ LƯƠNG, THƯỞNG VÀ KPI
 
 |                            |                                                                                 |

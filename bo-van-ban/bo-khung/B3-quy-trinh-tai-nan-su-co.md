@@ -1,3 +1,20 @@
+> **BẢN THIẾT KẾ KIẾN TRÚC & CĂN CỨ LẬP LUẬN (CORE ARCHITECTURE & DESIGN RATIONALE)**
+> - **Mục đích:** Tài liệu thiết kế nguồn, giải thích nguyên lý "vì sao như vậy" và căn cứ lập luận để xây dựng, đối chiếu và tái lập hệ thống văn bản vận hành của Công ty.
+> - **Văn bản thực thi tương ứng trong Danh mục lưu hành:**
+>   - STT 46: Quy trình xử lý & điều tra TNLĐ, sự cố
+>   - STT 47: Phiếu ghi nhanh TNLĐ / sự cố (kèm bản tường trình)
+>   - STT 48: Sổ theo dõi TNLĐ, sự cố, suýt xảy ra
+>   - STT 49: Khai báo TNLĐ
+>   - STT 50: QĐ thành lập Đoàn điều tra TNLĐ cấp cơ sở
+>   - STT 51: Biên bản khám nghiệm hiện trường
+>   - STT 52: Bản tường trình TNLĐ (gộp vào STT 47)
+>   - STT 53: Biên bản lấy lời khai
+>   - STT 54: Biên bản điều tra TNLĐ cấp cơ sở
+>   - STT 55: Biên bản họp công bố biên bản điều tra
+>   - STT 56: Danh mục chấn thương nặng
+>   - STT 57: QĐ bồi thường / trợ cấp TNLĐ
+>   - STT 58: Checklist hồ sơ TNLĐ & BHXH
+
 # B3 – QUY TRÌNH TAI NẠN LAO ĐỘNG VÀ SỰ CỐ
 
 |                            |                                                                                                                              |

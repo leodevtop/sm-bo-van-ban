@@ -1,3 +1,8 @@
+> **BẢN THIẾT KẾ KIẾN TRÚC & CĂN CỨ LẬP LUẬN (CORE ARCHITECTURE & DESIGN RATIONALE)**
+> - **Mục đích:** Tài liệu thiết kế nguồn, giải thích nguyên lý "vì sao như vậy" và căn cứ lập luận để xây dựng, đối chiếu và tái lập hệ thống văn bản vận hành của Công ty.
+> - **Văn bản thực thi tương ứng trong Danh mục lưu hành:**
+>   - STT 63: Quy chế tổ chức, phân quyền, chức danh công trường, báo cáo nội bộ
+
 # C1 – QUY CHẾ TỔ CHỨC VÀ PHÂN QUYỀN
 
 |                            |                                     |

@@ -1,3 +1,11 @@
+> **BẢN THIẾT KẾ KIẾN TRÚC & CĂN CỨ LẬP LUẬN (CORE ARCHITECTURE & DESIGN RATIONALE)**
+> - **Mục đích:** Tài liệu thiết kế nguồn, giải thích nguyên lý "vì sao như vậy" và căn cứ lập luận để xây dựng, đối chiếu và tái lập hệ thống văn bản vận hành của Công ty.
+> - **Văn bản thực thi tương ứng trong Danh mục lưu hành:**
+>   - STT 67: Quy trình thi công, kiểm soát chất lượng & nghiệm thu
+>   - STT 68: Biên bản giao nhận & quyết toán vật tư (Dạng 1 và 2)
+>   - STT 69: Phiếu yêu cầu & biên bản nghiệm thu lắp dựng
+>   - STT 70: Nhật ký thi công & Mẫu dấu hoàn công
+
 # D1 – QUY TRÌNH THI CÔNG, VẬT TƯ VÀ NGHIỆM THU
 
 |                            |                                                                         |

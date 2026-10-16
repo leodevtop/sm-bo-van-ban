@@ -1,3 +1,16 @@
+> **BẢN THIẾT KẾ KIẾN TRÚC & CĂN CỨ LẬP LUẬN (CORE ARCHITECTURE & DESIGN RATIONALE)**
+> - **Mục đích:** Tài liệu thiết kế nguồn, giải thích nguyên lý "vì sao như vậy" và căn cứ lập luận để xây dựng, đối chiếu và tái lập hệ thống văn bản vận hành của Công ty.
+> - **Văn bản thực thi tương ứng trong Danh mục lưu hành:**
+>   - STT 01a: HĐLĐ ngắn hạn (dưới 1 tháng)
+>   - STT 01b: HĐLĐ xác định thời hạn – thời vụ theo công trình
+>   - STT 01c: HĐLĐ xác định thời hạn 12 tháng – thợ chủ chốt
+>   - STT 02: HĐLĐ không xác định thời hạn (văn phòng)
+>   - STT 03: Thư mời thử việc (văn phòng)
+>   - STT 04: Thỏa thuận chấm dứt HĐLĐ & biên bản thanh lý, quyết toán
+>   - STT 05: Cam kết bảo mật & đồng ý xử lý dữ liệu cá nhân
+>   - STT 06: Phụ lục HĐLĐ
+>   - STT 07: Checklist hồ sơ nhân sự (kèm theo dõi số lần ký HĐ)
+
 # A1 – BỘ HỢP ĐỒNG VÀ HỒ SƠ NHÂN SỰ
 
 |                            |                                                                         |

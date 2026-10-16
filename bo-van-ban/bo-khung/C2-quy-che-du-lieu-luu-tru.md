@@ -1,3 +1,10 @@
+> **BẢN THIẾT KẾ KIẾN TRÚC & CĂN CỨ LẬP LUẬN (CORE ARCHITECTURE & DESIGN RATIONALE)**
+> - **Mục đích:** Tài liệu thiết kế nguồn, giải thích nguyên lý "vì sao như vậy" và căn cứ lập luận để xây dựng, đối chiếu và tái lập hệ thống văn bản vận hành của Công ty.
+> - **Văn bản thực thi tương ứng trong Danh mục lưu hành:**
+>   - STT 64: Quy chế bảo vệ dữ liệu cá nhân & lưu trữ (kèm bảng thời hạn lưu)
+>   - STT 65: Biên bản tiêu hủy hồ sơ (kèm QĐ hội đồng)
+>   - STT 66: Danh mục văn bản & nhật ký rà soát
+
 # C2 – QUY CHẾ DỮ LIỆU CÁ NHÂN VÀ LƯU TRỮ HỒ SƠ
 
 |                            |                                                                         |

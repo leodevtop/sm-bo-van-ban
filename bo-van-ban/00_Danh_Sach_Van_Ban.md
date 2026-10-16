@@ -1,6 +1,6 @@
 # DANH SÁCH VĂN BẢN LƯU HÀNH (BẢN CẬP NHẬT 15/10/2026)
 
-Đối chiếu pháp luật đến 15/10/2026. Đây là danh sách chủ để lập các văn bản và biểu mẫu; bộ khung A1–D4 và các file `00-*` nằm cùng thư mục. Mã dữ liệu thay đổi dùng dạng `<<MA_DATA>>`, xem `00_Ma_Data.md`.
+Đối chiếu pháp luật đến 15/10/2026. Đây là danh sách chủ để lập các văn bản và biểu mẫu; bộ khung kiến trúc A1–D4 lưu tại thư mục bo-khung/ đóng vai trò căn cứ lập luận (nguồn gốc logic 'vì sao như vậy') để thiết kế và đối chiếu 73 văn bản lưu hành. Mã dữ liệu thay đổi dùng dạng <<MA_DATA>>, xem 00_Ma_Data.md.
 
 **Ký hiệu (phân biệt rõ khi in đen trắng):** ● đã có, giữ và sửa | ▲ lập mới | ■ dùng mẫu Nhà nước, chỉ ghi chú | ◇ hoãn | — gộp hoặc bỏ. Trong ghi chú: ✔ đã đối chiếu nguồn; ◐ cần xác nhận với nguồn chính thức, kế toán hoặc luật sư trước khi ban hành. **Đợt 1:** bắt buộc theo luật hoặc cần để công nhân vào công trình. **Đợt 2:** vận hành, làm sau.
 
@@ -28,7 +28,7 @@
 | 5 | [Cam kết bảo mật & đồng ý xử lý dữ liệu cá nhân](../I_Hop_Dong_Nhan_Su/05_Cam_Ket_Bao_Mat_va_Dong_Y_Xu_Ly_Du_Lieu_Ca_Nhan.md) | Bản cam kết | ▲ | 1 | Đối chiếu biểu mẫu tại phụ lục Nghị định 356/2025 |
 | 6 | [Phụ lục HĐLĐ](../I_Hop_Dong_Nhan_Su/06_Phu_Luc_HDLD.md) | Phụ lục | ▲ | 1 | Không dùng để sửa thời hạn hợp đồng |
 | 7 | [Checklist hồ sơ nhân sự (kèm theo dõi số lần ký HĐ)](../I_Hop_Dong_Nhan_Su/07_Checklist_Ho_So_Nhan_Su.md) | Biểu mẫu | ▲ | 1 | Cột số lần ký, ngày hết hạn; chỉ giữ bản sao giấy tờ tùy thân, văn bằng (NĐ 283/2026 xử phạt giữ bản chính); kèm tờ khai đăng ký lao động/BHXH |
-| 8 | [Quy chế điều hành nhân sự & vòng đời công nhân](../I_Hop_Dong_Nhan_Su/08_Quy_Che_Dieu_Hanh_Nhan_Su_va_Vong_Doi_Cong_Nhan.md) | Quy chế | ● | 1 | Bỏ phạt tiền (Điều 18.3), bỏ thỏa ước tập thể; cập nhật căn cứ và công đoàn cơ sở mới lập |
+| 8 | [Quy chế điều hành nhân sự & vòng đời công nhân](../I_Hop_Dong_Nhan_Su/08_Quy_Che_Dieu_Hanh_Nhan_Su_va_Vong_Doi_Cong_Nhan.md) | Quy chế (tích hợp Quyết định ban hành) | ● | 1 | Bỏ phạt tiền (Điều 18.3), bỏ thỏa ước tập thể; cập nhật căn cứ và công đoàn cơ sở mới lập |
 | 9 | [QĐ điều động nhân sự đến công trường](../I_Hop_Dong_Nhan_Su/09_Quyet_Dinh_Dieu_Dong_Den_Cong_Truong.md) | Quyết định | ● | 1 | Khớp HĐLĐ: người lao động đồng ý, báo trước, phụ lục |
 | 10 | [Đơn xin nghỉ không hưởng lương](../I_Hop_Dong_Nhan_Su/10_Don_Xin_Nghi_Khong_Huong_Luong.md) | Đơn | ● | 1 | Giữ |
 | 11 | [QĐ cho nghỉ không hưởng lương](../I_Hop_Dong_Nhan_Su/11_Quyet_Dinh_Cho_Nghi_Khong_Huong_Luong.md) | Quyết định | ● | 1 | Cập nhật căn cứ BHXH |
@@ -54,8 +54,8 @@
 
 | STT | Văn bản | Loại văn bản | TT | Đợt | Ghi chú |
 | --- | --- | --- | --- | --- | --- |
-| 22 | [Quy chế tiền lương, thưởng, phụ cấp](../III_Luong_Thuong_Ke_Toan/22_Quy_Che_Tien_Luong_Thuong_Phu_Cap_2026.md) | Quy chế | ● | 1 | Kèm thang bảng lương làm phụ lục. Bản 2026 (README ghi đã tích hợp thang bảng lương); bỏ điều kiện tăng ca ở phụ cấp chuyên cần; rà soát phụ cấp tính BHXH; tổ đội khoán |
-| 23 | [Quy chế lương – KPI dự án](../III_Luong_Thuong_Ke_Toan/23_Quy_Che_Luong_KPI_Du_An_2026.md) | Quy chế | ● | 1 | Giữ mô hình hiện có (20% lợi nhuận gộp, trần 5% giá trị hợp đồng, 45/45/10); chỉnh căn cứ |
+| 22 | [Quy chế tiền lương, thưởng, phụ cấp](../III_Luong_Thuong_Ke_Toan/22_Quy_Che_Tien_Luong_Thuong_Phu_Cap_2026.md) | Quy chế (tích hợp Quyết định ban hành) | ● | 1 | Kèm thang bảng lương làm phụ lục. Bản 2026 (README ghi đã tích hợp thang bảng lương); bỏ điều kiện tăng ca ở phụ cấp chuyên cần; rà soát phụ cấp tính BHXH; tổ đội khoán |
+| 23 | [Quy chế lương – KPI dự án](../III_Luong_Thuong_Ke_Toan/23_Quy_Che_Luong_KPI_Du_An_2026.md) | Quy chế (tích hợp Quyết định ban hành) | ● | 1 | Giữ mô hình hiện có (20% lợi nhuận gộp, trần 5% giá trị hợp đồng, 45/45/10); chỉnh căn cứ |
 | 24 | Thang bảng lương | Thang bảng lương | — | – | Tích hợp vào mục 22 (phụ lục) |
 | 25 | [Phiếu đăng ký làm thêm giờ](../III_Luong_Thuong_Ke_Toan/25_Phieu_Dang_Ky_Lam_Them_Gio.md) | Biểu mẫu | ▲ | 1 |  |
 | 26 | [Biên bản đánh giá & chấm thưởng an toàn](../III_Luong_Thuong_Ke_Toan/26_Bien_Ban_Danh_Gia_Cham_Thuong_An_Toan.md) | Biên bản | ▲ | 2 |  |
@@ -69,7 +69,7 @@
 
 | STT | Văn bản | Loại văn bản | TT | Đợt | Ghi chú |
 | --- | --- | --- | --- | --- | --- |
-| 32 | [Sổ tay HSE](../IV_HSE_An_Toan_TNLD/32_So_Tay_HSE.md) | Sổ tay / Quy chế | ▲ | 1 |  |
+| 32 | [Sổ tay HSE](../IV_HSE_An_Toan_TNLD/32_So_Tay_HSE.md) | Sổ tay (tích hợp Quyết định ban hành) | ▲ | 1 |  |
 | 33 | [Chính sách An toàn – Sức khỏe – Môi trường](../IV_HSE_An_Toan_TNLD/33_Chinh_Sach_An_Toan_Suc_Khoe_Moi_Truong.md) | Chính sách | ▲ | 1 | Một trang, niêm yết |
 | 34 | [Bảng nhận diện mối nguy & đánh giá rủi ro (kiêm phân tích an toàn công việc)](../IV_HSE_An_Toan_TNLD/34_Bang_Nhan_Dien_Moi_Nguy_Danh_Gia_Rui_Ro.md) | Biểu mẫu kỹ thuật | ▲ | 1 |  |
 | 35 | [Kế hoạch ATVSLĐ hằng năm (kèm kế hoạch huấn luyện)](../IV_HSE_An_Toan_TNLD/35_Ke_Hoach_ATVSLD_Hang_Nam.md) | Kế hoạch | ▲ | 1 |  |
@@ -106,8 +106,8 @@
 
 | STT | Văn bản | Loại văn bản | TT | Đợt | Ghi chú |
 | --- | --- | --- | --- | --- | --- |
-| 63 | [Quy chế tổ chức, phân quyền, chức danh công trường, báo cáo nội bộ](../V_To_Chuc_Phan_Quyen/63_Quy_Che_To_Chuc_Phan_Quyen_Chuc_Danh_Bao_Cao.md) | Quy chế | ▲ | 1 | Bốn phòng: Thi công; Dự án (kiêm Kinh doanh); Kế toán – Tài chính; Hành chính – Nhân sự |
-| 64 | [Quy chế bảo vệ dữ liệu cá nhân & lưu trữ (kèm bảng thời hạn lưu)](../V_To_Chuc_Phan_Quyen/64_Quy_Che_Bao_Ve_Du_Lieu_Ca_Nhan_va_Luu_Tru.md) | Quy chế | ▲ | 1 | Gộp hai mục của bản trước; dữ liệu sức khỏe là dữ liệu nhạy cảm (liên quan mục 83) |
+| 63 | [Quy chế tổ chức, phân quyền, chức danh công trường, báo cáo nội bộ](../V_To_Chuc_Phan_Quyen/63_Quy_Che_To_Chuc_Phan_Quyen_Chuc_Danh_Bao_Cao.md) | Quy chế (tích hợp Quyết định ban hành) | ▲ | 1 | Bốn phòng: Thi công; Dự án (kiêm Kinh doanh); Kế toán – Tài chính; Hành chính – Nhân sự |
+| 64 | [Quy chế bảo vệ dữ liệu cá nhân & lưu trữ (kèm bảng thời hạn lưu)](../V_To_Chuc_Phan_Quyen/64_Quy_Che_Bao_Ve_Du_Lieu_Ca_Nhan_va_Luu_Tru.md) | Quy chế (tích hợp Quyết định ban hành) | ▲ | 1 | Gộp hai mục của bản trước; dữ liệu sức khỏe là dữ liệu nhạy cảm (liên quan mục 83) |
 | 65 | [Biên bản tiêu hủy hồ sơ (kèm QĐ hội đồng)](../V_To_Chuc_Phan_Quyen/65_Bien_Ban_Tieu_Huy_Ho_So.md) | Biên bản / Quyết định | ▲ | 2 |  |
 | 66 | [Danh mục văn bản & nhật ký rà soát](../V_To_Chuc_Phan_Quyen/66_Danh_Muc_Van_Ban_va_Nhat_Ky_Ra_Soat.md) | Biểu mẫu theo dõi | ▲ | 1 | Mới |
 
@@ -126,7 +126,7 @@
 | 75 | [Đơn đặt hàng mua vật tư (Dạng 2)](../VI_Thi_Cong_Kinh_Doanh/75_Don_Dat_Hang_Mua_Vat_Tu.md) | Đơn đặt hàng | ▲ | 2 | Mới |
 | 76 | [Checklist thẩm định rủi ro HĐ & điều kiện huy động](../VI_Thi_Cong_Kinh_Doanh/76_Checklist_Tham_Dinh_Rui_Ro_HD_va_Dieu_Kien_Huy_Dong.md) | Checklist / Biểu mẫu | ▲ | 1 |  |
 | 77 | [Biên bản thanh lý hợp đồng](../VI_Thi_Cong_Kinh_Doanh/77_Bien_Ban_Thanh_Ly_Hop_Dong.md) | Biên bản | ▲ | 2 | Mới |
-| 78 | [Quy chế dân chủ & đối thoại (kèm kế hoạch năm)](../VI_Thi_Cong_Kinh_Doanh/78_Quy_Che_Dan_Chu_va_Doi_Thoai.md) | Quy chế / Kế hoạch | ▲ | 2 | Đại diện người lao động là BCH công đoàn cơ sở |
+| 78 | [Quy chế dân chủ & đối thoại (kèm kế hoạch năm)](../VI_Thi_Cong_Kinh_Doanh/78_Quy_Che_Dan_Chu_va_Doi_Thoai.md) | Quy chế (tích hợp Quyết định ban hành) | ▲ | 2 | Đại diện người lao động là BCH công đoàn cơ sở |
 | 79 | [Biên bản đối thoại định kỳ](../VI_Thi_Cong_Kinh_Doanh/79_Bien_Ban_Doi_Thoai_Dinh_Ky.md) | Biên bản | ▲ | 2 |  |
 | 80 | [Sổ theo dõi tiếp nhận kiến nghị](../VI_Thi_Cong_Kinh_Doanh/80_So_Theo_Doi_Tiep_Nhan_Kien_Nghi.md) | Sổ theo dõi | ▲ | 2 |  |
 

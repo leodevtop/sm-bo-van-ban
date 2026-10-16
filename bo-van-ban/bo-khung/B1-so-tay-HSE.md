@@ -1,3 +1,19 @@
+> **BẢN THIẾT KẾ KIẾN TRÚC & CĂN CỨ LẬP LUẬN (CORE ARCHITECTURE & DESIGN RATIONALE)**
+> - **Mục đích:** Tài liệu thiết kế nguồn, giải thích nguyên lý "vì sao như vậy" và căn cứ lập luận để xây dựng, đối chiếu và tái lập hệ thống văn bản vận hành của Công ty.
+> - **Văn bản thực thi tương ứng trong Danh mục lưu hành:**
+>   - STT 32: Sổ tay HSE
+>   - STT 33: Chính sách An toàn – Sức khỏe – Môi trường
+>   - STT 34: Bảng nhận diện mối nguy & đánh giá rủi ro (kiêm phân tích an toàn công việc)
+>   - STT 35: Kế hoạch ATVSLĐ hằng năm (kèm kế hoạch huấn luyện)
+>   - STT 36: Sổ theo dõi huấn luyện ATVSLĐ (nhóm 3 và nhóm 4)
+>   - STT 37: Danh mục thiết bị yêu cầu nghiêm ngặt & kiểm định
+>   - STT 38: Thông tin công trình & kế hoạch ứng cứu, danh bạ khẩn cấp
+>   - STT 39: Danh sách nhân sự – chứng chỉ – thẻ an toàn
+>   - STT 41: Giấy phép làm việc nguy hiểm
+>   - STT 42: Phiếu an toàn hằng ngày (họp đầu ca, kiểm tra trước ca, nhật ký)
+>   - STT 43: Sổ cấp phát PPE
+>   - STT 83: Hồ sơ theo dõi khám sức khỏe (trước khi bố trí việc, định kỳ)
+
 # B1 – SỔ TAY HSE (AN TOÀN – SỨC KHỎE – MÔI TRƯỜNG)
 
 |                            |                                                                              |
