@@ -9,6 +9,16 @@
 ### QUẢN LÝ VẬT TƯ, ĐỊNH MỨC HAO HỤT, NGHIỆM THU KỸ THUẬT VÀ QUYẾT TOÁN CẤU KIỆN GIA CÔNG NGOÀI
 *(Ban hành và áp dụng chính thức kèm theo Hợp đồng dịch vụ gia công số: `<<GC_HD_SO>>` ký ngày `<<GC_HD_NGAY>>`)*
 
+- *Căn cứ Bộ luật Dân sự số 91/2015/QH13 ngày 24/11/2015 của Quốc hội (Mục 11 Chương XVI – Hợp đồng gia công, từ Điều 542 đến Điều 553);*
+- *Căn cứ Luật Thương mại số 36/2005/QH11 ngày 14/06/2005 của Quốc hội (Mục 5 Chương VI – Gia công trong thương mại, từ Điều 178 đến Điều 184);*
+- *Căn cứ Luật Xây dựng số 50/2014/QH13 và Luật Xây dựng số 135/2025/QH15;*
+- *Căn cứ Luật Quản lý Thuế số 38/2019/QH14 và các quy định pháp luật hiện hành về hóa đơn điện tử, chứng từ chi phí hợp lý được trừ khi xác định nghĩa vụ thuế TNDN;*
+- *Căn cứ Nghị định số 207/2026/NĐ-CP ngày 15/06/2026 của Chính phủ quy định chi tiết về quản lý an toàn và chất lượng trong thi công xây dựng công trình (hiệu lực từ ngày 01/07/2026);*
+- *Căn cứ Thông tư số 32/2026/TT-BXD ngày 22/06/2026 của Bộ Xây dựng;*
+- *Căn cứ Tiêu chuẩn Quốc gia TCVN 170:2007: Kết cấu thép – Gia công, lắp ráp và nghiệm thu – Yêu cầu kỹ thuật;*
+- *Căn cứ Tiêu chuẩn Quốc gia TCVN 5575:2024: Thiết kế kết cấu thép;*
+- *Căn cứ Hợp đồng dịch vụ gia công số `<<GC_HD_SO>>` ký ngày `<<GC_HD_NGAY>>` giữa `<<CTY_TEN>>` và `<<XUONG_GC_TEN>>`;*
+
 ---
 
 </div>
@@ -25,18 +35,6 @@
 | **Căn cứ Hợp đồng dịch vụ GC** | Hợp đồng số: `<<GC_HD_SO>>` ký ngày `<<GC_HD_NGAY>>` |
 
 ---
-
-## MỤC ĐÍCH BAN HÀNH & CĂN CỨ PHÁP LÝ RÀNG BUỘC
-
-- *Căn cứ Bộ luật Dân sự số 91/2015/QH13 ngày 24/11/2015 của Quốc hội (Mục 11 Chương XVI – Hợp đồng gia công, từ Điều 542 đến Điều 553);*
-- *Căn cứ Luật Thương mại số 36/2005/QH11 ngày 14/06/2005 của Quốc hội (Mục 5 Chương VI – Gia công trong thương mại, từ Điều 178 đến Điều 184);*
-- *Căn cứ Luật Xây dựng số 50/2014/QH13 và Luật Xây dựng số 135/2025/QH15;*
-- *Căn cứ Luật Quản lý Thuế số 38/2019/QH14 và các quy định pháp luật hiện hành về hóa đơn điện tử, chứng từ chi phí hợp lý được trừ khi xác định nghĩa vụ thuế TNDN;*
-- *Căn cứ Nghị định số 207/2026/NĐ-CP ngày 15/06/2026 của Chính phủ quy định chi tiết về quản lý an toàn và chất lượng trong thi công xây dựng công trình (hiệu lực từ ngày 01/07/2026);*
-- *Căn cứ Thông tư số 32/2026/TT-BXD ngày 22/06/2026 của Bộ Xây dựng;*
-- *Căn cứ Tiêu chuẩn Quốc gia TCVN 170:2007: Kết cấu thép – Gia công, lắp ráp và nghiệm thu – Yêu cầu kỹ thuật;*
-- *Căn cứ Tiêu chuẩn Quốc gia TCVN 5575:2024: Thiết kế kết cấu thép;*
-- *Căn cứ Hợp đồng dịch vụ gia công số `<<GC_HD_SO>>` ký ngày `<<GC_HD_NGAY>>` giữa `<<CTY_TEN>>` và `<<XUONG_GC_TEN>>`;*
 
 Hai bên thống nhất ban hành và áp dụng Quy định quản lý cùng hệ thống 04 Biểu mẫu ký kết có giá trị pháp lý độc lập với các điều khoản cam kết như sau:
 
@@ -84,6 +82,12 @@ Hai bên thống nhất ban hành và áp dụng Quy định quản lý cùng h�
 # BIÊN BẢN GIAO NHẬN VẬT TƯ / PHÔI CHO ĐƠN VỊ GIA CÔNG
 **DỰ ÁN / CÔNG TRÌNH:** `<<CT_TEN>>` (MÃ CT: `<<CT_MA>>`)  
 *(Ban hành kèm theo Hợp đồng dịch vụ gia công số: `<<GC_HD_SO>>` ngày `<<GC_HD_NGAY>>`)*
+
+- *Căn cứ Bộ luật Dân sự số 91/2015/QH13 và Luật Thương mại số 36/2005/QH11;*
+- *Căn cứ Luật Xây dựng số 135/2025/QH15 và Nghị định số 207/2026/NĐ-CP ngày 15/06/2026;*
+- *Căn cứ Luật Quản lý Thuế số 38/2019/QH14 và Nghị định số 123/2020/NĐ-CP về hóa đơn, chứng từ;*
+- *Căn cứ Hợp đồng dịch vụ gia công số `<<GC_HD_SO>>` ký ngày `<<GC_HD_NGAY>>` giữa `<<CTY_TEN>>` và `<<XUONG_GC_TEN>>`;*
+- *Căn cứ Lệnh điều động nội bộ / Phiếu xuất kho vận chuyển nội bộ số: ................................ ngày ...../...../20...*
 
 *Hôm nay, ngày ..... tháng ..... năm 20..., tại kho / bãi tập kết vật tư của `<<CTY_TEN>>` (hoặc tại xưởng gia công), chúng tôi gồm có:*
 
@@ -152,6 +156,15 @@ Hai bên tiến hành kiểm tra ngoại quan, đo đạc quy cách hình học 
 **DỰ ÁN / CÔNG TRÌNH:** `<<CT_TEN>>` (MÃ CT: `<<CT_MA>>`)  
 *(Ban hành kèm theo Hợp đồng dịch vụ gia công số: `<<GC_HD_SO>>` ngày `<<GC_HD_NGAY>>`)*
 
+- *Căn cứ Luật Xây dựng số 135/2025/QH15 và Nghị định số 207/2026/NĐ-CP ngày 15/06/2026 của Chính phủ;*
+- *Căn cứ Thông tư số 32/2026/TT-BXD ngày 22/06/2026 của Bộ Xây dựng;*
+- *Căn cứ Tiêu chuẩn Quốc gia **TCVN 170:2007**: Kết cấu thép – Gia công, lắp ráp và nghiệm thu – Yêu cầu kỹ thuật;*
+- *Căn cứ Tiêu chuẩn Quốc gia **TCVN 5575:2024**: Thiết kế kết cấu thép;*
+- *Căn cứ Tiêu chuẩn Quốc gia **TCVN 9259-8:2012** và **TCVN 11344:2016** về kiểm tra không phá hủy mối hàn (NDT);*
+- *Căn cứ Tiêu chuẩn Quốc gia **TCVN 8789:2011 / TCVN 8790:2011**: Sơn bảo vệ kết cấu thép – Phương pháp thử;*
+- *Căn cứ Hợp đồng dịch vụ gia công số `<<GC_HD_SO>>` ngày `<<GC_HD_NGAY>>`;*
+- *Căn cứ Bản vẽ thiết kế gia công nhà xưởng (Shop Drawing) số: `................................` được duyệt.*
+
 *Hôm nay, ngày ..... tháng ..... năm 20..., tại Nhà xưởng gia công của `<<XUONG_GC_TEN>>` (Địa chỉ: `<<XUONG_GC_DIA_CHI_XUONG>>`), chúng tôi gồm có:*
 
 </div>
@@ -166,17 +179,9 @@ Hai bên tiến hành kiểm tra ngoại quan, đo đạc quy cách hình học 
 - Ông/Bà: ................................................................ Chức vụ: Trưởng bộ phận KCS/QC Xưởng
 - Ông/Bà: ................................................................ Chức vụ: Đội trưởng Tổ gá hàn / Sơn
 
-### 3. CĂN CỨ TIÊU CHUẨN KỸ THUẬT VÀ TÀI LIỆU NGHIỆM THU:
-- *Căn cứ Hợp đồng dịch vụ gia công số `<<GC_HD_SO>>` ngày `<<GC_HD_NGAY>>`;*
-- *Căn cứ Bản vẽ thiết kế gia công nhà xưởng (Shop Drawing) số: `................................` được duyệt;*
-- *Căn cứ Tiêu chuẩn Quốc gia **TCVN 170:2007**: Kết cấu thép – Gia công, lắp ráp và nghiệm thu – Yêu cầu kỹ thuật;*
-- *Căn cứ Tiêu chuẩn Quốc gia **TCVN 5575:2024**: Thiết kế kết cấu thép;*
-- *Căn cứ Tiêu chuẩn Quốc gia **TCVN 9259-8:2012** và **TCVN 11344:2016** về kiểm tra không phá hủy mối hàn (NDT);*
-- *Căn cứ Tiêu chuẩn Quốc gia **TCVN 8789:2011 / TCVN 8790:2011**: Sơn bảo vệ kết cấu thép – Phương pháp thử.*
-
 Hai bên cùng tiến hành đo kiểm thực tế các thông số kỹ thuật của lô cấu kiện hoàn thiện trước khi cho phép xuất xưởng ra công trường:
 
-### 4. BẢNG CHI TIẾT ĐO KIỂM KỸ THUẬT CẤU KIỆN TẠI XƯỞNG:
+### 3. BẢNG CHI TIẾT ĐO KIỂM KỸ THUẬT CẤU KIỆN TẠI XƯỞNG:
 
 | STT | Ký hiệu mã cấu kiện | Tên cấu kiện & Tiết diện thiết kế *(mm)* | ĐVT | Số lượng kiểm tra | Kích thước hình học & Dung sai theo TCVN 170:2007 *(Dài, Rộng, Cao, Tim lỗ)* | Độ thẳng, độ phẳng bản mã & Độ võng cánh/bụng dầm | Chất lượng mối hàn tổ hợp *(Ngoại quan & Siêu âm UT)* | Chiều dày màng sơn khô trung bình DFT *($\mu m$)* | Đánh giá phân loại *(Đạt / Sửa lại / Hủy)* |
 |:---:|---|---|:---:|:---:|---|---|---|:---:|:---:|
@@ -186,13 +191,13 @@ Hai bên cùng tiến hành đo kiểm thực tế các thông số kỹ thuật
 | 4 | Xà gồ `Z200` | Xà gồ mạ kẽm $Z200 \times 65 \times 20 \times 2.0$; $L=6.500mm$ | Cây | 120 | ☐ Chiều dài $\pm 3mm$ <br> ☐ Lỗ đột Oval đúng cữ tim | ☐ Cạnh thẳng góc, không móp | Phôi mạ kẽm nguội | Lớp mạ kẽm gốc $Z275 \ge 20\mu m$ | **ĐẠT XUẤT XƯỞNG** |
 | 5 | Hệ giằng cáp, giằng góc | Giằng góc $L75 \times 75 \times 6$ kèm bản mã tai giằng | Bộ | 16 | ☐ Kích thước bản mã đạt | ☐ Phẳng, vát mép ba-vớ | ☐ Hàn kín liên tục bản mã | Lớp lót: $60\mu m$ <br> Lớp phủ: $60\mu m$ | **ĐẠT XUẤT XƯỞNG** |
 
-### 5. GHI NHẬN CÁC SAI LỆCH VÀ YÊU CẦU XỬ LÝ KHẮC PHỤC (NẾU CÓ):
+### 4. GHI NHẬN CÁC SAI LỆCH VÀ YÊU CẦU XỬ LÝ KHẮC PHỤC (NẾU CÓ):
 1. **Các cấu kiện chưa đạt yêu cầu kiểm tra lần này:**
    - Mã cấu kiện: ........................................ Khuyết tật phát hiện: .................................................................................................................
    - Biện pháp khắc phục bắt buộc: [ ] Nắn thẳng bằng nhiệt/cơ học; [ ] Tẩy mối hàn lỗi và hàn lại theo WPS; [ ] Xả nhám và sơn dặm lại đạt chiều dày DFT quy định.
    - Thời hạn Bên nhận gia công phải hoàn thành sửa chữa: Trước ngày ...../...../20... và phải mời Kỹ sư QC kiểm tra lại.
 2. **KẾT LUẬN CỦA ĐOÀN NGHIỆM THU:**
-   - [x] **CHẤP THUẬN CHO PHÉP XUẤT XƯỞNG:** Toàn bộ các cấu kiện đạt yêu cầu tại Mục 4 đã được đóng dấu kiểm định (Marking), sơn mã hiệu rõ ràng, cho phép Bên nhận gia công làm thủ tục bốc xếp lên phương tiện vận chuyển để chuyển thẳng ra mặt bằng công trình `<<CT_TEN>>`.
+   - [x] **CHẤP THUẬN CHO PHÉP XUẤT XƯỞNG:** Toàn bộ các cấu kiện đạt yêu cầu tại Mục 3 đã được đóng dấu kiểm định (Marking), sơn mã hiệu rõ ràng, cho phép Bên nhận gia công làm thủ tục bốc xếp lên phương tiện vận chuyển để chuyển thẳng ra mặt bằng công trình `<<CT_TEN>>`.
    - [ ] Nghiêm cấm đưa các cấu kiện chưa được kiểm tra hoặc cấu kiện bị lỗi ra khỏi phạm vi nhà xưởng.
 
 ---
@@ -222,6 +227,11 @@ Hai bên cùng tiến hành đo kiểm thực tế các thông số kỹ thuật
 **DỰ ÁN / CÔNG TRÌNH:** `<<CT_TEN>>` (MÃ CT: `<<CT_MA>>`)  
 *(Ban hành kèm theo Hợp đồng dịch vụ gia công số: `<<GC_HD_SO>>` ngày `<<GC_HD_NGAY>>`)*
 
+- *Căn cứ Hợp đồng dịch vụ gia công số `<<GC_HD_SO>>` ngày `<<GC_HD_NGAY>>`;*
+- *Căn cứ các Biên bản giao nhận phôi/vật tư từ ngày ...../...../20... đến ngày ...../...../20... (Mẫu D1-84/BM-01);*
+- *Căn cứ các Biên bản nghiệm thu kỹ thuật thành phẩm tại xưởng (Mẫu D1-84/BM-02) và Biên bản giao nhận cấu kiện tại công trường `<<CT_TEN>>` (Mẫu D1-68);*
+- *Căn cứ hồ sơ bản vẽ hoàn công gia công chế tạo (As-built Shop Drawing).*
+
 *Hôm nay, ngày ..... tháng ..... năm 20..., tại văn phòng Ban Điều hành Dự án `<<CTY_TEN>>`, chúng tôi gồm có:*
 
 </div>
@@ -237,15 +247,9 @@ Hai bên cùng tiến hành đo kiểm thực tế các thông số kỹ thuật
 - Ông/Bà: ................................................................ Chức vụ: Quản đốc Xưởng gia công
 - Ông/Bà: ................................................................ Chức vụ: Kế toán theo dõi công nợ
 
-### 3. CĂN CỨ THỰC HIỆN ĐỐI CHIẾU VÀ QUYẾT TOÁN:
-- *Căn cứ Hợp đồng dịch vụ gia công số `<<GC_HD_SO>>` ngày `<<GC_HD_NGAY>>`;*
-- *Căn cứ các Biên bản giao nhận phôi/vật tư từ ngày ...../...../20... đến ngày ...../...../20... (Mẫu D1-84/BM-01);*
-- *Căn cứ các Biên bản nghiệm thu kỹ thuật thành phẩm tại xưởng (Mẫu D1-84/BM-02) và Biên bản giao nhận cấu kiện tại công trường `<<CT_TEN>>` (Mẫu D1-68);*
-- *Căn cứ hồ sơ bản vẽ hoàn công gia công chế tạo (As-built Shop Drawing).*
-
 Hai bên tiến hành tổng hợp số liệu, đối chiếu cân đối lượng nguyên vật liệu cấp vào, thành phẩm tạo thành, tỷ lệ hao hụt thực tế và xác định trách nhiệm vật chất theo bảng cân đối dưới đây:
 
-### 4. BẢNG CÂN ĐỐI VÀ QUYẾT TOÁN VẬT TƯ GIA CÔNG CHI TIẾT:
+### 3. BẢNG CÂN ĐỐI VÀ QUYẾT TOÁN VẬT TƯ GIA CÔNG CHI TIẾT:
 
 | STT | (1) Tên chủng loại vật tư, phôi thép cấp | (2) ĐVT | (3) Tổng số lượng / khối lượng cấp vào $(A)$ | (4) Thành phẩm tạo thành đã nghiệm thu $(B)$ | (5) Định mức tiêu hao kỹ thuật $(\%)$ | (6) Khối lượng cấu thành thành phẩm $(C = B)$ | (7) Hao hụt cho phép theo định mức $(D = C \times \%ĐM)$ | (8) Hao hụt thực tế $(E = A - B - G)$ | (9) Chênh lệch thừa / thiếu ngoài định mức $(F = E - D)$ | (10) Khối lượng vật tư thừa thu hồi $(G)$ | (11) Khối lượng phế liệu phát sinh $(H)$ |
 |:---:|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -261,7 +265,7 @@ Hai bên tiến hành tổng hợp số liệu, đối chiếu cân đối lư�
 $$\text{Tổng vật tư cấp vào } (A) = \text{Thành phẩm nghiệm thu } (B) + \text{Vật tư thừa thu hồi } (G) + \text{Hao hụt thực tế } (E)$$  
 *Trong đó: Toàn bộ lượng hao hụt thực tế được thể hiện dưới dạng phế liệu kim loại phát sinh (H) đã được thu gom cân đo thực tế.*
 
-### 5. ĐÁNH GIÁ KẾT QUẢ VÀ TRÁCH NHIỆM BỒI HOÀN VẬT TƯ:
+### 4. ĐÁNH GIÁ KẾT QUẢ VÀ TRÁCH NHIỆM BỒI HOÀN VẬT TƯ:
 1. **Xác nhận về vật tư thừa nguyên dạng và phế liệu:**
    - Tổng khối lượng phôi thép thừa nguyên dạng có thể tái sử dụng (Cột 10): **`3.285` kg** (Được xử lý bàn giao theo Biểu mẫu số 04 - Mẫu `D1-84/BM-04`).
    - Tổng khối lượng phế liệu kim loại phát sinh (Cột 11): **`1.965` kg** (Được xử lý thanh lý hoặc thu hồi theo Biểu mẫu số 04 - Mẫu `D1-84/BM-04`).
@@ -301,8 +305,13 @@ $$\text{Tổng vật tư cấp vào } (A) = \text{Thành phẩm nghiệm thu } (
 
 ### BIỂU MẪU SỐ 04 (Mã: D1-84/BM-04)
 # BIÊN BẢN BÀN GIAO VÀ XỬ LÝ VẬT TƯ THỪA, PHẾ LIỆU GIA CÔNG
+### PHÂN LOẠI THU HỒI VẬT TƯ NGUYÊN DẠNG VÀ THỎA THUẬN THANH LÝ PHẾ LIỆU CẤN TRỪ CÔNG NỢ
 **DỰ ÁN / CÔNG TRÌNH:** `<<CT_TEN>>` (MÃ CT: `<<CT_MA>>`)  
 *(Ban hành kèm theo Hợp đồng dịch vụ gia công số: `<<GC_HD_SO>>` ngày `<<GC_HD_NGAY>>`)*
+
+- *Căn cứ Hợp đồng dịch vụ gia công số `<<GC_HD_SO>>` ngày `<<GC_HD_NGAY>>`;*
+- *Căn cứ Biên bản đối chiếu và quyết toán vật tư sau gia công số `......./BBDC-QT-VT/<<CT_MA>>-<<VB_NAM>>` ngày ...../...../20... (Mẫu D1-84/BM-03);*
+- *Căn cứ Luật Quản lý Thuế số 38/2019/QH14 và các quy định pháp luật hiện hành về quản lý tài sản, xử lý phế liệu.*
 
 *Hôm nay, ngày ..... tháng ..... năm 20..., tại Xưởng gia công `<<XUONG_GC_TEN>>`, chúng tôi gồm có:*
 
@@ -318,7 +327,6 @@ $$\text{Tổng vật tư cấp vào } (A) = \text{Thành phẩm nghiệm thu } (
 - Ông/Bà: ................................................................ Chức vụ: Quản đốc xưởng gia công
 - Ông/Bà: ................................................................ Chức vụ: Thủ kho xưởng
 
-Căn cứ Biên bản đối chiếu và quyết toán vật tư sau gia công số `......./BBDC-QT-VT/<<CT_MA>>-<<VB_NAM>>` ngày ...../...../20...;  
 Hai bên thống nhất lập biên bản bàn giao, phân loại và lựa chọn phương án xử lý đối với toàn bộ khối lượng phôi thép thừa nguyên dạng và phế liệu phát sinh như sau:
 
 ### 3. BẢNG THỐNG KÊ CHI TIẾT VẬT TƯ THỪA VÀ PHẾ LIỆU THU HỒI:

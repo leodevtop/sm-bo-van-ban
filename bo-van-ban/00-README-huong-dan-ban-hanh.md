@@ -110,7 +110,11 @@ Khi có mẫu của Nhà nước, **dùng mẫu của Nhà nước**; các biể
 ## 8. Quy tắc giữ hệ thống nhất quán
 
 1. Văn bản cấp thấp không trái văn bản cấp cao: Nội quy, Quy chế → Quy trình → Biểu mẫu.
-2. **Căn cứ pháp lý** ghi ở cuối mỗi văn bản và tại `00-can-cu-phap-ly.md`; luật đổi thì sửa tại đó.
+2. **Quy cách trình bày Căn cứ pháp lý (Căn cứ ban hành văn bản):**
+   - **Vị trí chuẩn tắc:** Căn cứ pháp lý (căn cứ ban hành văn bản) được đặt **ngay dưới phần tên loại và trích yếu nội dung văn bản** (tức là ở phần đầu văn bản, trước khi vào phần nội dung chi tiết hoặc thành phần tham dự), trình bày bằng chữ in nghiêng theo đúng thể thức văn bản hành chính quy định tại Nghị định 30/2020/NĐ-CP.
+   - **Văn bản Nhà nước (mẫu quy chuẩn ban hành kèm Nghị định/Thông tư):** Giữ nguyên kết cấu và vị trí căn cứ theo đúng mẫu quy chuẩn của cơ quan Nhà nước ban hành.
+   - **Một số văn bản đặc thù (như Quy chế, Nội quy, Hợp đồng, Quy định nội bộ):** Căn cứ pháp lý có thể được đưa vào **Điều đầu tiên (Điều 1 – Căn cứ pháp lý / Căn cứ xác lập)** hoặc phần Mở đầu (Preamble) theo hướng dẫn quy cách của luật chuyên ngành.
+   - Danh mục văn bản pháp luật áp dụng tổng thể được tập trung và đối chiếu tại `00-can-cu-phap-ly.md`; khi luật đổi thì rà soát và sửa tại đó.
 3. **Con số hay thay đổi** (lương tối thiểu, tỷ lệ bảo hiểm, thuế, bảo hiểm công trường) chỉ nằm trong `00-bang-tham-so.md`; văn bản khác ghi "theo Bảng tham số hiện hành". Các quy định ổn định của Bộ luật Lao động (thời giờ làm việc, kỷ luật…) được nêu trực tiếp trong Nội quy để người lao động đọc được, và cập nhật cùng lúc khi luật sửa đổi.
 4. Mỗi văn bản có mã, phiên bản, ngày ban hành, người ký, ngày rà soát kế tiếp (sổ đăng ký).
 5. Nếu tổng thầu có HSE hoặc ISO riêng, chỉ lập bảng đối chiếu (B1 Phụ lục 2), không viết lại.
