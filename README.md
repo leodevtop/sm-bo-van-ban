@@ -15,6 +15,7 @@
 - **Luật ATVSLĐ 2015 vẫn còn hiệu lực** ✔ (văn bản hợp nhất 2024). Luật sửa đổi mới chỉ mới được đưa vào chương trình lập pháp 2026. Bộ văn bản nên có một mốc "rà soát khi luật mới ban hành".
 - **Xử phạt**: Nghị định 283/2026 có hiệu lực từ 10/9/2026 ✔, nên các lỗi lao động và BHXH đang bị xử phạt theo mức mới.
 - **Bổ sung ngày 15/10/2026** ✔: Nghị định 318/2025/NĐ-CP (đăng ký lao động, hiệu lực 01/01/2026); Sổ quản lý lao động vẫn phải lập (Nghị định 283/2026 xử phạt nếu thiếu) ◐; Thông tư 99/2025/TT-BTC thay Thông tư 200/2014 nhưng **không thay** Thông tư 133/2016 (doanh nghiệp nhỏ và vừa chọn một trong hai; doanh nghiệp siêu nhỏ: Thông tư 58/2026/TT-BTC từ 01/07/2026); bảo hiểm bắt buộc trong xây dựng: Nghị định 67/2023/NĐ-CP sửa đổi bởi Nghị định 220/2026/NĐ-CP ◐.
+- **Bổ sung ngày 16/10/2026** ✔: Bộ hồ sơ giao khoán nhân công công trình (STT 85) gồm HĐ giao khoán và 07 biểu mẫu phụ lục, hướng dẫn quản trị rủi ro tại A1 và A3, cơ chế chi trả theo Chương V STT 22, tuân thủ Điều 13 BLLĐ 2019, Điều 10 Luật Xây dựng 2025, NĐ 283/2026, TT 133/2016/TT-BTC.
 
 ## 2. Danh mục tối ưu: 10 văn bản lõi và 4 văn bản làm sau
 
@@ -131,6 +132,7 @@ QL_SM/
 │   ├── 09_Quyet_Dinh_Dieu_Dong_Den_Cong_Truong.md # QĐ điều động công trường (STT 9)
 │   ├── 10_Don_Xin_Nghi_Khong_Huong_Luong.md       # Đơn xin nghỉ không lương (STT 10)
 │   ├── 11_Quyet_Dinh_Cho_Nghi_Khong_Huong_Luong.md # QĐ chấp thuận nghỉ không lương (STT 11)
+│   ├── 85_Bo_Ho_So_Giao_Khoan_Nhan_Cong.md       # Bộ hồ sơ giao khoán nhân công công trình (STT 85)
 │   └── archive/                                  # Thư mục lưu trữ tài liệu lịch sử
 │       └── HDLD_Mau_Cong_Ty_Lap_Dung_2025.md     # Bản lưu lịch sử năm 2025 (NĐ 74/2024 cũ)
 │
@@ -150,7 +152,7 @@ QL_SM/
 │   ├── 57_Quyet_Dinh_Boi_Thuong_Tro_Cap_TNLD.md  # QĐ bồi thường / trợ cấp TNLĐ (STT 57)
 │   └── 58_Checklist_Danh_Muc_Ho_So_TNLD_va_BHXH.md # Bảng kiểm tra hồ sơ TNLĐ & BHXH (STT 58)
 │
-└── bo-van-ban/00_Danh_Sach_Van_Ban.md            # Danh sách và bảng đối chiếu 83 đầu mục văn bản (thay cho bang-doi-chieu.md, không có trong gói)
+└── bo-van-ban/00_Danh_Sach_Van_Ban.md            # Danh sách và bảng đối chiếu 75 đầu mục văn bản lưu hành (thay cho bang-doi-chieu.md, không có trong gói)
 ```
 
 ---
@@ -184,6 +186,6 @@ Bảng đối chiếu chi tiết giữa **Hệ thống văn bản nền tảng (
   - Nhóm I (Hợp đồng & Nhân sự): 05 văn bản hoạt động (HĐLĐ công nhân 2026, Quy chế điều hành nhân sự, QĐ điều động công trường, Đơn và QĐ nghỉ không lương) + 01 bản lưu trữ 2025.
   - Nhóm III (Lương, Thưởng, Kế toán): 04 văn bản chuẩn (Quy chế tiền lương 2026 tích hợp Thang bảng lương chức danh, Quy chế lương KPI dự án 2026, Phiếu chi Mẫu 02-TT theo TT 133/2016, Phiếu lương cá nhân).
   - Nhóm IV (HSE & TNLĐ): 08 văn bản hoàn chỉnh 100% theo các Phụ lục quy chuẩn của Nghị định số 39/2016/NĐ-CP (Quy trình xử lý TNLĐ & sự cố, QĐ thành lập Đoàn điều tra 4 người, Biên bản khám nghiệm hiện trường kết cấu thép, Bản tường trình TT-01, Biên bản điều tra Phụ lục IX, Biên bản họp công bố Phụ lục XI, QĐ bồi thường trợ cấp, Bảng kiểm tra hồ sơ TNLĐ & BHXH).
-- **Văn bản cần lập mới / hoàn thiện tiếp theo:** xem ký hiệu ▲ và cột Đợt trong danh sách (Đợt 1: 53 file; Đợt 2: 20 file; tổng 73 file cần tạo hoặc sửa).
+- **Văn bản cần lập mới / hoàn thiện tiếp theo:** xem ký hiệu ▲ và cột Đợt trong danh sách (Đợt 1: 55 file; Đợt 2: 20 file; tổng 75 file cần tạo hoặc sửa).
 
 Chi tiết tiến độ và phân loại từng mục xem tại: [bo-van-ban/00_Danh_Sach_Van_Ban.md](bo-van-ban/00_Danh_Sach_Van_Ban.md).

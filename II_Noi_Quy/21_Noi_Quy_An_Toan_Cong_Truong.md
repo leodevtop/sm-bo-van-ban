@@ -190,7 +190,7 @@ Chủ đầu tư / Tổng thầu: `<<KH_TEN>>` / `<<KH_TEN>>`
 
 1. **Căn cứ pháp lý hiện hành:**
    - **Luật An toàn, vệ sinh lao động số 84/2015/QH13:** Điều 15 (Chính sách, biện pháp bảo đảm ATVSLĐ); Điều 16 (Trách nhiệm của người sử dụng lao động tại nơi làm việc); Điều 17 (Quyền và nghĩa vụ về ATVSLĐ của người lao động); Điều 23 (Nghĩa vụ chấp hành nội quy an toàn).
-   - **Luật Xây dựng số 50/2014/QH13, Luật số 62/2020/QH14 và Luật Xây dựng sửa đổi số 135/2025/QH15:** Quy định quản lý an toàn trong thi công xây dựng công trình, bảo hiểm bắt buộc người lao động trên công trường.
+   - **Luật Xây dựng số 135/2025/QH15:** Quy định quản lý an toàn trong thi công xây dựng công trình, bảo hiểm bắt buộc người lao động trên công trường (Điều 10, Điều 61).
    - **Nghị định số 207/2026/NĐ-CP và Thông tư số 32/2026/TT-BXD:** Hướng dẫn về quản lý an toàn lao động trong thi công xây dựng công trình.
    - **Quy chuẩn kỹ thuật Quốc gia QCVN 18:2021/BXD:** Quy chuẩn kỹ thuật quốc gia về An toàn trong thi công xây dựng (quy định cụ thể về làm việc trên cao, lắp dựng kết cấu thép và thiết bị nâng).
    - **Tiêu chuẩn Quốc gia TCVN 4244:2005:** Thiết bị nâng – Yêu cầu an toàn trong thiết kế, lắp đặt và sử dụng.

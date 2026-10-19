@@ -8,6 +8,7 @@
 >   - STT 26: Biên bản đánh giá & chấm thưởng an toàn
 >   - STT 27: Phiếu chi (Mẫu 02-TT)
 >   - STT 28: Phiếu lương cá nhân
+>   - STT 85: Bộ hồ sơ giao khoán nhân công công trình (kết nối cơ chế chi trả khoán tại Chương V của STT 22)
 
 # A3 – QUY CHẾ LƯƠNG, THƯỞNG VÀ KPI
 
@@ -26,7 +27,7 @@ Quy chế này gồm thang bảng lương, trả lương, làm thêm giờ, ph�
 1. Công ty không trả lương thấp hơn mức lương tối thiểu theo quy định. **Công ty lấy mức lương tối thiểu vùng I làm sàn chung** cho mọi công nhân, kể cả công trình ở địa bàn có mức thấp hơn, để thống nhất áp dụng.
 2. Công ty trả lương trực tiếp, đầy đủ, đúng hạn; trả qua **tài khoản ngân hàng** khi người lao động đồng ý; trả chậm quá 15 ngày thì phải trả thêm khoản bù theo quy định pháp luật.
 3. Tiền lương làm thêm giờ, làm đêm, làm ngày lễ trả theo Bảng tham số; mỗi kỳ lương có **phiếu lương** gửi người lao động.
-4. Công ty không phạt tiền, không cắt lương thay cho xử lý kỷ luật; việc khấu trừ lương chỉ thực hiện trong giới hạn pháp luật (A2 Điều 18).
+4. Công ty không phạt tiền, không cắt lương thay cho xử lý kỷ luật; việc khấu trừ lương chỉ thực hiện trong giới hạn pháp luật (A2 Điều 18). Đối với hợp đồng giao khoán nhân công tổ đội, nghiêm cấm phạt tiền hoặc trừ tiền khoán trái luật khi vi phạm an toàn; vi phạm an toàn được xử lý bằng tạm đình chỉ công việc và chế tài hợp đồng hợp pháp.
 
 ## CHƯƠNG II. CƠ CẤU THU NHẬP
 
@@ -41,6 +42,27 @@ Quy chế này gồm thang bảng lương, trả lương, làm thêm giờ, ph�
 | Làm thêm giờ, làm đêm    | Theo Bảng tham số                                                                  | Mọi đối tượng                             |
 
 **Điều kiện của lương khoán.** Đơn giá khoán gắn với **điều kiện nghiệm thu chất lượng** và **điều kiện an toàn**. Phần khoán liên quan không được hưởng khi công việc không đạt nghiệm thu hoặc khi có vi phạm an toàn nghiêm trọng; việc này xử lý bằng điều khoản hợp đồng, không phải phạt tiền.
+
+### Quản trị rủi ro và cơ chế thanh toán giao khoán nhân công tổ đội công trường (Dẫn chiếu Chương V STT 22 và STT 85)
+
+1. **Phân định bản chất pháp lý – Phòng tránh rủi ro tái phân loại hợp đồng (Điều 13 BLLĐ 2019):**
+   - Khoán nhân công thi công lắp dựng kết cấu thép chỉ áp dụng cho các gói việc có khối lượng nghiệm thu độc lập (tấn kết cấu lắp dựng, m² tôn lợp/vách, mét xà gồ, cụm liên kết bu lông neo...).
+   - Tổ đội khoán tự chủ tổ chức, phân công nhân lực nội bộ; Công ty giám sát kỹ thuật, nghiệm thu sản phẩm và kiểm soát an toàn, **tuyệt đối không quản lý điều hành, không chấm công theo giờ như nhân sự biên chế**, tránh nguy cơ bị cơ quan BHXH và cơ quan lao động tái phân loại thành HĐLĐ để truy thu BHXH và xử phạt vi phạm hành chính theo Nghị định 283/2026/NĐ-CP.
+
+2. **Quản trị an toàn lao động (HSE) – Tuyệt đối không "khoán trắng" an toàn:**
+   - Công ty giữ quyền kiểm soát an toàn tối cao trên công trường; tuyệt đối không "khoán trắng" trách nhiệm an toàn cho tổ đội khoán.
+   - Điều kiện bắt buộc trước khi tổ khoán vào hiện trường:
+     + 100% thợ trực tiếp thi công của tổ khoán phải có Thẻ an toàn lao động Nhóm 3 còn hiệu lực (theo quy định tại Nghị định 44/2016/NĐ-CP và Nghị định 140/2018/NĐ-CP về an toàn làm việc trên cao, cẩu lắp kết cấu, hàn cắt);
+     + 100% thợ được mua bảo hiểm bắt buộc đối với người lao động thi công trên công trường (theo quy định tại Điều 10 Luật Xây dựng 2025, Nghị định 67/2023/NĐ-CP sửa đổi, bổ sung bởi Nghị định 220/2026/NĐ-CP);
+     + Trang bị đầy đủ và sử dụng phương tiện bảo vệ cá nhân (PPE) chuyên dụng đạt chuẩn (dây an toàn toàn thân 2 móc chống sốc, mũ bảo hộ, giày mũi thép...).
+   - **Chế tài xử lý an toàn hợp pháp:** Nghiêm cấm phạt tiền, trừ tiền khoán trái luật khi vi phạm an toàn. Khi phát hiện vi phạm quy định an toàn, Chỉ huy trưởng hoặc an toàn viên lập biên bản tạm đình chỉ công việc ngay lập tức; việc xử lý tài chính áp dụng theo các chế tài đã thỏa thuận trong hợp đồng kinh tế/dân sự (bồi thường thiệt hại thực tế, phạt vi phạm hợp đồng nếu có thỏa thuận hợp pháp, hoặc đình chỉ thanh toán, chấm dứt hợp đồng).
+
+3. **Yêu cầu kế toán, thuế và thanh toán minh bạch (Thông tư 133/2016/TT-BTC & Luật Thuế TNCN):**
+   - Hợp đồng giao khoán công việc ký với Người đại diện tổ đội khoán bắt buộc kèm **Văn bản ủy quyền hợp pháp có chữ ký xác nhận của 100% thành viên tổ** và bản sao CCCD của từng người.
+   - Khối lượng thanh toán phải có **Biên bản nghiệm thu khối lượng hoàn thành** do Kỹ thuật công trường, Chỉ huy trưởng và Đại diện tổ ký xác nhận.
+   - Bảng kê phân chia tiền công phải ghi rõ họ tên, CCCD, mã số thuế cá nhân, số tài khoản ngân hàng chính chủ và có chữ ký xác nhận của từng thợ trong tổ.
+   - **Khấu trừ thuế TNCN 10%:** Thực hiện khấu trừ 10% thuế TNCN trước khi chi trả cho từng cá nhân thợ đối với khoản thanh toán từ 2.000.000 đồng/lần trở lên, trừ trường hợp cá nhân đủ điều kiện làm Bản cam kết thu nhập (Mẫu 08/CK-TNCN) theo quy định pháp luật thuế.
+   - **Thanh toán không dùng tiền mặt:** 100% chi trả tiền công khoán từ 5.000.000 đồng trở lên phải chuyển khoản qua tài khoản ngân hàng chính chủ của thợ (hoặc đại diện tổ có ủy quyền hợp pháp), tuân thủ nguyên tắc không dùng tiền mặt và đảm bảo tính hợp lệ của chi phí kế toán.
 
 ### Làm thêm giờ
 
@@ -60,6 +82,7 @@ Quy chế này gồm thang bảng lương, trả lương, làm thêm giờ, ph�
 1. Người lao động đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp theo tỷ lệ tại Bảng tham số.
 2. Thuế thu nhập cá nhân khấu trừ theo Luật Thuế thu nhập cá nhân 2025: mức giảm trừ gia cảnh bản thân, người phụ thuộc và biểu thuế lũy tiến 5 bậc theo Bảng tham số. Công nhân thời vụ có hợp đồng dưới 03 tháng thuộc diện khấu trừ riêng theo quy định thuế hiện hành; Kế toán áp dụng theo hướng dẫn của cơ quan thuế.
 3. Công ty cấp **phiếu lương** và chứng từ khấu trừ thuế cho người lao động.
+4. **Thuế TNCN và chứng từ chi trả giao khoán nhân công tổ đội:** Kế toán thực hiện khấu trừ 10% thuế TNCN trước khi chi trả đối với các khoản thanh toán từ 2.000.000 đồng/lần trở lên cho từng cá nhân trong tổ khoán, trừ trường hợp cá nhân đủ điều kiện làm Bản cam kết thu nhập theo Mẫu 08/CK-TNCN (ước tính thu nhập chịu thuế cả năm dưới mức giảm trừ gia cảnh 186.000.000 đồng/năm tương đương 15,5 triệu đồng/tháng theo Nghị quyết số 110/2025/UBTVQH15 áp dụng từ kỳ tính thuế 2026). Toàn bộ chứng từ thanh toán khoán từ 5.000.000 đồng trở lên phải chuyển khoản qua tài khoản ngân hàng để đảm bảo chi phí hợp lý hợp lệ theo Thông tư 133/2016/TT-BTC.
 
 ## CHƯƠNG IV. QUỸ KPI THEO CÔNG TRÌNH
 
@@ -142,7 +165,7 @@ Kế toán lập bảng đơn giá khấu hao theo giá mua và thời gian sử
 
 ## PHỤ LỤC 5 – CĂN CỨ
 
-Bộ luật Lao động 2019 (các điều về tiền lương, thời giờ làm việc, kỷ luật và trách nhiệm vật chất); Nghị định 145/2020/NĐ-CP; Nghị định 293/2025/NĐ-CP; Luật Thuế thu nhập cá nhân 2025. Xem `00-can-cu-phap-ly.md` và `00-bang-tham-so.md`.
+Bộ luật Lao động 2019 (Điều 13, các điều về tiền lương, thời giờ làm việc, kỷ luật và trách nhiệm vật chất); Luật Xây dựng 2025 (Điều 10 về bảo hiểm bắt buộc trên công trường); Luật An toàn, vệ sinh lao động 2015; Luật Thuế thu nhập cá nhân 2025; Nghị định 145/2020/NĐ-CP; Nghị định 293/2025/NĐ-CP; Nghị định 44/2016/NĐ-CP và Nghị định 140/2018/NĐ-CP (huấn luyện an toàn Nhóm 3); Nghị định 67/2023/NĐ-CP sửa đổi bởi Nghị định 220/2026/NĐ-CP; Nghị định 283/2026/NĐ-CP (xử phạt vi phạm hành chính lĩnh vực lao động, BHXH); Thông tư 133/2016/TT-BTC. Xem `00-can-cu-phap-ly.md` và `00-bang-tham-so.md`.
 
 ---
 

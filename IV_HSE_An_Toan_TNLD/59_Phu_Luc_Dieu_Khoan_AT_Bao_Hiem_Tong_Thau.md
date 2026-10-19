@@ -117,7 +117,7 @@ Hai bên thống nhất áp dụng phương án bảo hiểm cho dự án này t
 ---
 
 ## ĐIỀU 6. CĂN CỨ PHÁP LÝ
-1. **Luật Xây dựng 2025** (Luật số 62/2025/QH15): Điều 10 (Bảo hiểm bắt buộc trong xây dựng), Điều 61 (Quyền và nghĩa vụ của nhà thầu thi công).
+1. **Luật Xây dựng 2025** (Luật số 135/2025/QH15): Điều 10 (Bảo hiểm bắt buộc trong xây dựng), Điều 61 (Quyền và nghĩa vụ của nhà thầu thi công).
 2. **Luật An toàn, vệ sinh lao động 2015** (Luật số 84/2015/QH13): Điều 16 (Trách nhiệm của người sử dụng lao động), Điều 34, 35 (Khai báo, điều tra tai nạn).
 3. **Nghị định 207/2026/NĐ-CP** của Chính phủ: Quản lý chất lượng, thi công xây dựng và an toàn lao động trong thi công xây dựng.
 4. **Thông tư 32/2026/TT-BXD** của Bộ Xây dựng: Hướng dẫn chi tiết về an toàn lao động trong thi công xây dựng công trình.

@@ -1,6 +1,6 @@
 # DANH SÁCH VĂN BẢN LƯU HÀNH (BẢN CẬP NHẬT 15/10/2026)
 
-Đối chiếu pháp luật đến 15/10/2026. Đây là danh sách chủ để lập các văn bản và biểu mẫu; bộ khung kiến trúc A1–D4 lưu tại thư mục bo-khung/ đóng vai trò căn cứ lập luận (nguồn gốc logic 'vì sao như vậy') để thiết kế và đối chiếu 74 văn bản lưu hành. Mã dữ liệu thay đổi dùng dạng <<MA_DATA>>, xem 00_Ma_Data.md.
+Đối chiếu pháp luật đến 16/10/2026. Đây là danh sách chủ để lập các văn bản và biểu mẫu; bộ khung kiến trúc A1–D4 lưu tại thư mục bo-khung/ đóng vai trò căn cứ lập luận (nguồn gốc logic 'vì sao như vậy') để thiết kế và đối chiếu 75 văn bản lưu hành. Mã dữ liệu thay đổi dùng dạng <<MA_DATA>>, xem 00_Ma_Data.md.
 
 **Ký hiệu (phân biệt rõ khi in đen trắng):** ● đã có, giữ và sửa | ▲ lập mới | ■ dùng mẫu Nhà nước, chỉ ghi chú | ◇ hoãn | — gộp hoặc bỏ. Trong ghi chú: ✔ đã đối chiếu nguồn; ◐ cần xác nhận với nguồn chính thức, kế toán hoặc luật sư trước khi ban hành. **Đợt 1:** bắt buộc theo luật hoặc cần để công nhân vào công trình. **Đợt 2:** vận hành, làm sau.
 
@@ -38,6 +38,7 @@
 | 15 | [Bộ xử lý kỷ luật](../I_Hop_Dong_Nhan_Su/15a_Bien_Ban_Vi_Pham.md) | Bộ biểu mẫu / Quyết định | ▲ | 2 | Gồm 4 file: 15a (biên bản vi phạm), 15b (thông báo họp), 15c (biên bản họp), 15d (quyết định kỷ luật). Mới; dùng khi phát sinh; thông báo họp ghi rõ báo trước 05 ngày làm việc |
 | 81 | [Hợp đồng dịch vụ (cá nhân bên ngoài)](../VI_Thi_Cong_Kinh_Doanh/81_Hop_Dong_Dich_Vu_Ca_Nhan_Ben_Ngoai.md) | Hợp đồng | ▲ | 2 | Mới; chỉ cho cá nhân độc lập, không thay HĐLĐ: nếu có trả công và chịu quản lý, điều hành, giám sát của công ty thì được coi là HĐLĐ (Điều 13 Bộ luật Lao động 2019); khấu trừ thuế theo quy định |
 | 82 | [Sổ quản lý lao động (điện tử hoặc giấy)](../I_Hop_Dong_Nhan_Su/82_So_Quan_Ly_Lao_Dong.md) | Sổ theo dõi | ▲ | 1 | Mới; Điều 12 Bộ luật Lao động 2019, nội dung theo hướng dẫn Nghị định 145/2020 ◐. Không lập hoặc lập không đủ nội dung bị xử phạt theo NĐ 283/2026 (nguồn thứ cấp: 1–3 triệu đồng ở mức cơ bản ◐) |
+| 85 | [Bộ hồ sơ giao khoán nhân công (kèm HĐ giao khoán và 07 biểu mẫu phụ lục)](../I_Hop_Dong_Nhan_Su/85_Bo_Ho_So_Giao_Khoan_Nhan_Cong.md) | Bộ hồ sơ / Hợp đồng | ▲ | 1 | Mới; mã A1-85/A3-85: Quản lý tổ đội giao khoán nhân công thi công lắp dựng; gồm HĐ giao khoán, Giấy ủy quyền đại diện tổ, Bảng khối lượng & đơn giá, Biên bản nghiệm thu khối lượng, Bảng thanh toán tiền khoán & phân chia tiền công, Biên bản thanh lý, Bản cam kết an toàn & PCCC, Bản cam kết thuế TNCN Mẫu 08/CK-TNCN; tuân thủ Điều 13 BLLĐ 2019, Điều 10 Luật Xây dựng 2025, NĐ 207/2026, NĐ 283/2026 |
 
 ## II. NỘI QUY LAO ĐỘNG
 
@@ -133,9 +134,9 @@
 
 ## TỔNG HỢP
 
-- **Đợt 1:** 54 file; **Đợt 2:** 20 file; **tổng 74 file** cần tạo hoặc sửa (trong đó mục 15 là 4 file).
+- **Đợt 1:** 55 file; **Đợt 2:** 20 file; **tổng 75 file** cần tạo hoặc sửa (trong đó mục 15 là 4 file).
 - **Dùng mẫu Nhà nước (■):** 12 mục, đã thu thập, biên soạn và số hóa hoàn chỉnh thành các file mẫu trắng quy chuẩn lưu tại thư mục chuyên biệt `mau-nha-nuoc/`. **Hoãn (◇):** 1 mục. **Gộp hoặc bỏ (—):** 2 mục. **Có sẵn cần sửa (●):** 13 mục.
-- So với bản trước: thêm mục 82 (Sổ quản lý lao động), 83 (hồ sơ khám sức khỏe) và 84 (Biên bản đối chiếu & quyết toán vật tư sau gia công kèm hồ sơ gia công ngoài), đều thuộc Đợt 1; chuyển mục 36 từ Đợt 2 sang Đợt 1; sửa ký hiệu hoãn (`||` làm vỡ bảng ở mục 73); đồng bộ chế độ kế toán, đường dẫn tài liệu hiện có và căn cứ pháp lý.
+- So với bản trước: thêm mục 82 (Sổ quản lý lao động), 83 (hồ sơ khám sức khỏe), 84 (Biên bản đối chiếu & quyết toán vật tư sau gia công kèm hồ sơ gia công ngoài) và 85 (Bộ hồ sơ giao khoán nhân công công trình kèm HĐ giao khoán và 07 biểu mẫu phụ lục), đều thuộc Đợt 1; chuyển mục 36 từ Đợt 2 sang Đợt 1; sửa ký hiệu hoãn (`||` làm vỡ bảng ở mục 73); đồng bộ chế độ kế toán, đường dẫn tài liệu hiện có và căn cứ pháp lý.
 
 ## NGUỒN MẪU TNLĐ CỦA NHÀ NƯỚC (Nghị định 39/2016/NĐ-CP, 22 phụ lục)
 

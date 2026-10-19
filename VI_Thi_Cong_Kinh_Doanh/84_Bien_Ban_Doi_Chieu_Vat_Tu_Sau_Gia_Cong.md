@@ -11,7 +11,7 @@
 
 - *Căn cứ Bộ luật Dân sự số 91/2015/QH13 ngày 24/11/2015 của Quốc hội (Mục 11 Chương XVI – Hợp đồng gia công, từ Điều 542 đến Điều 553);*
 - *Căn cứ Luật Thương mại số 36/2005/QH11 ngày 14/06/2005 của Quốc hội (Mục 5 Chương VI – Gia công trong thương mại, từ Điều 178 đến Điều 184);*
-- *Căn cứ Luật Xây dựng số 50/2014/QH13 và Luật Xây dựng số 135/2025/QH15;*
+- *Căn cứ Luật Xây dựng số 135/2025/QH15;*
 - *Căn cứ Luật Quản lý Thuế số 38/2019/QH14 và các quy định pháp luật hiện hành về hóa đơn điện tử, chứng từ chi phí hợp lý được trừ khi xác định nghĩa vụ thuế TNDN;*
 - *Căn cứ Nghị định số 207/2026/NĐ-CP ngày 15/06/2026 của Chính phủ quy định chi tiết về quản lý an toàn và chất lượng trong thi công xây dựng công trình (hiệu lực từ ngày 01/07/2026);*
 - *Căn cứ Thông tư số 32/2026/TT-BXD ngày 22/06/2026 của Bộ Xây dựng;*
@@ -403,7 +403,7 @@ Văn bản quy định ban hành này và các biên bản ký kết theo từng
 ### 4. Căn cứ pháp luật & Tiêu chuẩn kỹ thuật áp dụng
 - *Bộ luật Dân sự số 91/2015/QH13 ngày 24/11/2015 của Quốc hội (Mục 11 Chương XVI – Hợp đồng gia công, từ Điều 542 đến Điều 553);*
 - *Luật Thương mại số 36/2005/QH11 ngày 14/06/2005 của Quốc hội (Mục 5 Chương VI – Gia công trong thương mại, từ Điều 178 đến Điều 184);*
-- *Luật Xây dựng số 50/2014/QH13 và Luật Xây dựng số 135/2025/QH15;*
+- *Luật Xây dựng số 135/2025/QH15;*
 - *Luật Quản lý Thuế số 38/2019/QH14 và các quy định pháp luật hiện hành về hóa đơn điện tử, chứng từ chi phí hợp lý được trừ khi xác định nghĩa vụ thuế TNDN;*
 - *Nghị định số 207/2026/NĐ-CP ngày 15/06/2026 của Chính phủ quy định chi tiết về quản lý an toàn và chất lượng trong thi công xây dựng công trình (hiệu lực từ ngày 01/07/2026);*
 - *Thông tư số 32/2026/TT-BXD ngày 22/06/2026 của Bộ Xây dựng;*

@@ -119,7 +119,7 @@ Chúng tôi tiến hành lập Biên bản đối chiếu, quyết toán và ho�
 ---
 
 ### CĂN CỨ PHÁP LÝ
-- *Luật Xây dựng số 50/2014/QH13 và Luật Xây dựng số 135/2025/QH15;*
+- *Luật Xây dựng số 135/2025/QH15;*
 - *Nghị định số 207/2026/NĐ-CP ngày 15/06/2026 của Chính phủ quy định chi tiết về quản lý an toàn và chất lượng trong thi công xây dựng công trình;*
 - *Hợp đồng giao nhận thầu phụ số `<<KH_HD_SO>>` giữa `<<KH_TEN>>` và `<<CTY_TEN>>`.*
 

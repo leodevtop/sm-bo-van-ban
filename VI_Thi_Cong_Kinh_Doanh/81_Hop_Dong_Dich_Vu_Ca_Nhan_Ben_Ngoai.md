@@ -80,7 +80,7 @@ Bên A thuê Bên B và Bên B đồng ý cung cấp dịch vụ chuyên môn đ
    - Căn cứ điểm i khoản 1 Điều 25 Thông tư số 111/2013/TT-BTC, do khoản chi trả thù lao dịch vụ cho cá nhân không có hợp đồng lao động có giá trị từ 2.000.000 VNĐ/lần trở lên, Bên A có nghĩa vụ **khấu trừ 10% thuế TNCN** tại nguồn trước khi thực hiện thanh toán cho Bên B, tương đương số tiền: `.........` VNĐ.
    - Số tiền thực nhận chuyển khoản của Bên B (Net): `.........` VNĐ.
    - Bên A có trách nhiệm kê khai, nộp số thuế khấu trừ này vào Ngân sách Nhà nước và cấp Chứng từ khấu trừ thuế TNCN điện tử cho Bên B theo quy định pháp luật khi Bên B yêu cầu.
-   - *(Trường hợp Bên B chỉ có duy nhất thu nhập tại Bên A và ước tính tổng thu nhập chịu thuế sau khi giảm trừ gia cảnh chưa đến mức phải nộp thuế, Bên B có quyền làm Bản cam kết theo mẫu số 08/CK-TNCN ban hành kèm Thông tư 80/2021/TT-BTC để Bên A tạm thời chưa khấu trừ 10% thuế TNCN. Bên B hoàn toàn tự chịu trách nhiệm trước pháp luật về tính chính xác của bản cam kết).*
+   - *(Trường hợp Bên B chỉ có duy nhất thu nhập tại Bên A và ước tính tổng thu nhập chịu thuế sau khi giảm trừ gia cảnh chưa đến mức phải nộp thuế theo quy định mới nhất tại Nghị quyết 110/2025/UBTVQH15 – mức giảm trừ bản thân 15,5 triệu đồng/tháng tương đương 186 triệu đồng/năm và người phụ thuộc 6,2 triệu đồng/tháng, Bên B có quyền làm Bản cam kết theo mẫu số 08/CK-TNCN ban hành kèm Thông tư 80/2021/TT-BTC để Bên A tạm thời chưa khấu trừ 10% thuế TNCN. Bên B hoàn toàn tự chịu trách nhiệm trước pháp luật về tính chính xác của bản cam kết).*
 3. **Phương thức thanh toán:**
    - Tạm ứng: `.........` VNĐ sau khi ký hợp đồng.
    - Thanh toán đợt cuối: Số tiền còn lại được thanh toán trong vòng 05 ngày làm việc sau khi hai bên ký Biên bản nghiệm thu bàn giao toàn bộ sản phẩm dịch vụ.
@@ -120,7 +120,7 @@ Bên A thuê Bên B và Bên B đồng ý cung cấp dịch vụ chuyên môn đ
 **CĂN CỨ PHÁP LÝ:**
 1. Bộ luật Dân sự số 91/2015/QH13 ngày 24/11/2015 (Điều 513 đến Điều 521).
 2. Bộ luật Lao động số 45/2019/QH14 ngày 20/11/2019 (khoản 1 Điều 13 về phân định hợp đồng lao động).
-3. Luật Thuế thu nhập cá nhân số 04/2007/QH12 và các Luật sửa đổi, bổ sung.
+3. Luật Thuế thu nhập cá nhân số 109/2025/QH15 và Nghị quyết số 110/2025/UBTVQH15.
 4. Thông tư số 111/2013/TT-BTC ngày 15/08/2013 của Bộ Tài chính hướng dẫn thực hiện Luật Thuế TNCN (Điều 25 về khấu trừ thuế 10%).
 5. Thông tư số 80/2021/TT-BTC ngày 29/09/2021 của Bộ Tài chính hướng dẫn thi hành Luật Quản lý thuế.
 6. Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 và Nghị định số 356/2025/NĐ-CP (hiệu lực từ 01/01/2026).

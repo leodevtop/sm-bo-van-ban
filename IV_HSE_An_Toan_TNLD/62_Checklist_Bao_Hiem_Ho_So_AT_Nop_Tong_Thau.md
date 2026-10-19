@@ -94,7 +94,7 @@
 ---
 
 ## PHẦN VI. CĂN CỨ PHÁP LÝ ÁP DỤNG
-1. **Luật Xây dựng 2025** (Luật số 62/2025/QH15): Điều 10 (Bảo hiểm bắt buộc trong hoạt động đầu tư xây dựng); Điều 61 (Trách nhiệm của nhà thầu thi công).
+1. **Luật Xây dựng 2025** (Luật số 135/2025/QH15): Điều 10 (Bảo hiểm bắt buộc trong hoạt động đầu tư xây dựng); Điều 61 (Trách nhiệm của nhà thầu thi công).
 2. **Luật An toàn, vệ sinh lao động 2015** (Luật số 84/2015/QH13): Điều 14 (Huấn luyện an toàn), Điều 16 (Bảo đảm an toàn nơi làm việc).
 3. **Nghị định 207/2026/NĐ-CP** của Chính phủ: Quản lý an toàn trong thi công xây dựng công trình (Phụ lục III về Biện pháp an toàn).
 4. **Nghị định 67/2023/NĐ-CP** và **Nghị định 220/2026/NĐ-CP** ◐ của Chính phủ: Quy định về bảo hiểm bắt buộc trong xây dựng.

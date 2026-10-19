@@ -108,7 +108,7 @@ Công ty **<<CTY_TEN>>** trân trọng gửi tới Quý Khách hàng bảng báo
 
 ## CĂN CỨ PHÁP LÝ
 
-1. Luật Xây dựng số 50/2014/QH13, Luật số 62/2020/QH14 và Luật Xây dựng sửa đổi bổ sung năm 2025 (Luật số 135/2025/QH15).
+1. Luật Xây dựng số 135/2025/QH15 ngày 27/06/2025 của Quốc hội.
 2. TCVN 5575:2024 về Kết cấu thép - Tiêu chuẩn thiết kế.
 3. TCVN 10307:2014 về Kết cấu thép - Gia công, lắp dựng và nghiệm thu - Yêu cầu kỹ thuật.
 4. Quy chuẩn kỹ thuật quốc gia về An toàn trong thi công xây dựng QCVN 18:2021/BXD ban hành kèm Thông tư số 16/2021/TT-BXD.

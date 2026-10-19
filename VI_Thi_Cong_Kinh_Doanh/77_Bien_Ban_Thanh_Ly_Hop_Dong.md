@@ -95,8 +95,8 @@ Căn cứ Hợp đồng gốc, các Phụ lục bổ sung và Bản tổng hợp
 
 1. Bộ luật Dân sự số 91/2015/QH13 ngày 24/11/2015.
 2. Luật Thương mại số 36/2005/QH11 ngày 14/06/2005.
-3. Luật Xây dựng số 50/2014/QH13, Luật số 62/2020/QH14 và Luật Xây dựng sửa đổi bổ sung năm 2025 (Luật số 135/2025/QH15).
-4. Nghị định số 37/2015/NĐ-CP và Nghị định số 50/2021/NĐ-CP của Chính phủ về hợp đồng xây dựng.
+3. Luật Xây dựng số 135/2025/QH15 ngày 27/06/2025 của Quốc hội.
+4. Nghị định số 210/2026/NĐ-CP của Chính phủ quy định về hợp đồng xây dựng và hồ sơ quyết toán hợp đồng xây dựng.
 5. Hợp đồng thi công số `<<HD_SO>>` ký ngày `<<HD_NGAY_KY>>` giữa **<<KH_TEN>>** và **<<CTY_TEN>>**.
 
 ---

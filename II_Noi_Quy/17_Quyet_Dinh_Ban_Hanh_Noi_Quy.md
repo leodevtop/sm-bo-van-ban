@@ -27,7 +27,7 @@ Số: `<<VB_SO>>/QĐ-<<CTY_TEN_VT>>`
 
 - *Căn cứ Bộ luật Lao động số 45/2019/QH14 ngày 20/11/2019 và các văn bản quy định chi tiết thi hành;*
 - *Căn cứ Luật An toàn, vệ sinh lao động số 84/2015/QH13 ngày 25/06/2015;*
-- *Căn cứ Luật Xây dựng số 50/2014/QH13, Luật số 62/2020/QH14 và Luật Xây dựng số 135/2025/QH15;*
+- *Căn cứ Luật Xây dựng số 135/2025/QH15;*
 - *Căn cứ Nghị định số 145/2020/NĐ-CP ngày 14/12/2020 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Bộ luật Lao động về điều kiện lao động và quan hệ lao động;*
 - *Căn cứ Nghị định số 283/2026/NĐ-CP ngày 10/09/2026 của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội;*
 - *Căn cứ Điều lệ tổ chức và hoạt động của `<<CTY_TEN>>`;*

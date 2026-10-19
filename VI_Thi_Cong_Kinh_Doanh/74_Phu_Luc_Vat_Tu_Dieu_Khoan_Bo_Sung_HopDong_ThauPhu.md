@@ -98,7 +98,7 @@ Do đặc thù giá thép nguyên liệu biến động phức tạp trên thị
 ### CĂN CỨ PHÁP LÝ
 - *Bộ luật Dân sự số 91/2015/QH13 ngày 24/11/2015 của Quốc hội;*
 - *Luật Thương mại số 36/2005/QH11 của Quốc hội;*
-- *Luật Xây dựng số 50/2014/QH13 và Luật Xây dựng số 135/2025/QH15;*
+- *Luật Xây dựng số 135/2025/QH15;*
 - *Nghị định số 207/2026/NĐ-CP ngày 15/06/2026 của Chính phủ về quản lý chất lượng và thi công xây dựng công trình;*
 - *TCVN 170:2007: Kết cấu thép - Gia công, lắp ráp và nghiệm thu - Yêu cầu kỹ thuật.*
 

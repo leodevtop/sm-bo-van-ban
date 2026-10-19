@@ -112,6 +112,6 @@ Trân trọng cảm ơn sự phối hợp của Quý đơn vị!
 ---
 
 ## PHẦN V. CĂN CỨ PHÁP LÝ ÁP DỤNG
-1. **Luật Xây dựng 2025** (Luật số 62/2025/QH15): Khoản 2 Điều 61 (Quyền dừng thi công xây dựng khi có nguy cơ mất an toàn lao động, sự cố công trình).
+1. **Luật Xây dựng 2025** (Luật số 135/2025/QH15): Khoản 2 Điều 61 (Quyền dừng thi công xây dựng khi có nguy cơ mất an toàn lao động, sự cố công trình).
 2. **Nghị định 207/2026/NĐ-CP** của Chính phủ: Quản lý an toàn trong thi công xây dựng; trách nhiệm phối hợp giữa tổng thầu và nhà thầu phụ.
 3. **QCVN 18:2021/BXD**: Quy chuẩn kỹ thuật quốc gia về An toàn trong thi công xây dựng (quy định điều kiện an toàn khi nâng chuyển vật liệu và làm việc trên cao).

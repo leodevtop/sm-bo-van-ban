@@ -10,6 +10,7 @@
 >   - STT 05: Cam kết bảo mật & đồng ý xử lý dữ liệu cá nhân
 >   - STT 06: Phụ lục HĐLĐ
 >   - STT 07: Checklist hồ sơ nhân sự (kèm theo dõi số lần ký HĐ)
+>   - STT 85: Bộ hồ sơ giao khoán nhân công công trình (Hợp đồng giao khoán việc, Giấy ủy quyền, Bảng khối lượng & đơn giá, Biên bản nghiệm thu, Bảng thanh toán tiền khoán & phân chia tiền công, Biên bản thanh lý, Bản cam kết an toàn & PCCC, Bản cam kết thuế TNCN Mẫu 08/CK-TNCN)
 
 # A1 – BỘ HỢP ĐỒNG VÀ HỒ SƠ NHÂN SỰ
 
@@ -23,14 +24,15 @@
 
 ## 1. Phạm vi và nguyên tắc
 
-1. Văn bản này áp dụng cho mọi người lao động của Công ty: nhân sự văn phòng, chỉ huy công trình, kỹ thuật và công nhân theo công trình.
+1. Văn bản này áp dụng cho mọi nhân sự của Công ty: nhân sự văn phòng, chỉ huy công trình, kỹ thuật, công nhân thi công theo công trình và xác lập nguyên tắc quản trị rủi ro pháp lý đối với các tổ đội giao khoán nhân công xây lắp kết cấu thép.
 2. Hợp đồng lao động phải có các nội dung chủ yếu theo Điều 21 Bộ luật Lao động 2019: người sử dụng lao động; người lao động; công việc và địa điểm làm việc; thời hạn; tiền lương, hình thức trả lương, phụ cấp; thời giờ làm việc, nghỉ ngơi; trang bị bảo hộ lao động; bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp; đào tạo, bồi dưỡng. Pháp luật không có mẫu hợp đồng lao động bắt buộc, vì vậy các mẫu dưới đây do Công ty xây dựng theo Điều 21.
 3. Công ty **không giữ bản chính** giấy tờ tùy thân, văn bằng, chứng chỉ của người lao động và **không thu tiền đặt cọc** dưới bất kỳ hình thức nào.
 4. Hợp đồng xác định thời hạn có thời hạn tối đa 36 tháng và chỉ được ký liên tiếp tối đa 02 lần. Từ lần thứ ba, nếu người lao động vẫn tiếp tục làm việc thì phải ký hợp đồng không xác định thời hạn. **Phụ lục hợp đồng không được dùng để sửa thời hạn hợp đồng**; muốn kéo dài thời hạn phải ký hợp đồng mới và tính vào số lần ký.
 5. Mọi công nhân công trường đều ký **hợp đồng bằng văn bản**, kể cả hợp đồng dưới 01 tháng (pháp luật cho phép giao kết bằng lời nói, nhưng Công ty yêu cầu văn bản để làm bằng chứng khi có tai nạn hoặc tranh chấp).
-6. Công ty ký hợp đồng **riêng với từng người**. Không ký đại diện nhóm qua đội trưởng.
+6. Công ty ký hợp đồng **riêng với từng người** đối với Hợp đồng lao động; không ký đại diện nhóm qua đội trưởng để tránh rủi ro tranh chấp quyền lợi cá nhân. Đối với công việc giao khoán nhân công theo khối lượng độc lập cho tổ đội công trường, Công ty áp dụng Hợp đồng giao khoán công việc (STT 85) ký với Người đại diện tổ đội kèm Giấy ủy quyền của 100% thành viên tổ, tuân thủ hướng dẫn quản trị rủi ro tại Mục 8a và Chương V của STT 22.
 7. Hợp đồng từ đủ 01 tháng trở lên thuộc diện đóng bảo hiểm xã hội bắt buộc. Từ ngày 01/01/2026, Công ty đăng ký thông tin người lao động theo Luật Việc làm 2025 (thực hiện theo A4).
 8. Không phân công người dưới 18 tuổi, lao động nữ mang thai hoặc đang nuôi con dưới 12 tháng tuổi làm công việc trên cao, nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ quản lý ngành ban hành hiện hành.
+9. **Ranh giới pháp lý giữa HĐLĐ và Hợp đồng giao khoán (Điều 13 Bộ luật Lao động 2019):** Tuyệt đối không giao khoán để che giấu quan hệ lao động thực tế. Khoán chỉ áp dụng cho sản phẩm/khối lượng hoàn thành độc lập (tấn kết cấu, m² tôn/xà gồ, cụm liên kết...), tổ đội tự phân công nhân lực, Công ty giám sát kỹ thuật, tiến độ và an toàn, không quản lý điều hành thời gian làm việc như nhân sự biên chế nhằm phòng ngừa rủi ro bị cơ quan BHXH và cơ quan thanh tra lao động tái phân loại thành HĐLĐ để truy thu BHXH và xử phạt vi phạm hành chính theo Nghị định 283/2026/NĐ-CP.
 
 ## 2. Chọn loại hợp đồng
 
@@ -42,6 +44,7 @@
 | Thử việc                                       | Thư mời thử việc                                                                                                                                                 | Mẫu 3            |
 | Hoàn thành công trình trước hạn                | Thỏa thuận chấm dứt hợp đồng                                                                                                                                     | Mẫu 4            |
 | Đổi lương, chức danh, công trình               | Phụ lục hợp đồng                                                                                                                                                 | Mẫu 6            |
+| Tổ đội thi công theo khối lượng độc lập (lắp xà gồ, bắn tôn, cân chỉnh bu lông...) | Hợp đồng giao khoán nhân công theo khối lượng hoàn thành (ký với Người đại diện kèm Giấy ủy quyền của 100% thành viên tổ) | STT 85 (Mục 8a) |
 
 Nếu công trình kéo dài quá ngày kết thúc ghi trong hợp đồng, phải ký hợp đồng mới (tính vào số lần ký). Vì vậy ngày kết thúc dự kiến phải **cộng dự phòng tiến độ** (khuyến nghị thêm 01 đến 02 tháng), và dùng Mẫu 4 khi hoàn thành sớm.
 
@@ -180,6 +183,30 @@ Hiệu lực từ ngày **_/_**/**\_\_**. Các nội dung khác giữ nguyên. *
 
 Bên A ký, đóng dấu: ******\_\_****** Bên B ký, ghi rõ họ tên: ******\_\_******
 
+## 8a. Hướng dẫn quản trị rủi ro giao khoán nhân công tổ đội công trường (Văn bản thực thi STT 85)
+
+Áp dụng cho các hạng mục công việc thi công xây lắp kết cấu thép nhà xưởng mang tính độc lập theo khối lượng (lắp dựng xà gồ, bắn tôn mái/vách, cân chỉnh bu lông móng/cụm liên kết...). Đồng bộ và dẫn chiếu trực tiếp tới Chương V của `III_Luong_Thuong_Ke_Toan/22_Quy_Che_Tien_Luong_Thuong_Phu_Cap_2026.md` và Bộ hồ sơ thực thi STT 85 (`I_Hop_Dong_Nhan_Su/85_Bo_Ho_So_Giao_Khoan_Nhan_Cong.md`).
+
+### 1. Bản chất pháp lý & Phòng ngừa rủi ro tái phân loại hợp đồng (Điều 13 BLLĐ 2019)
+- **Ranh giới rõ ràng với HĐLĐ:** Hợp đồng giao khoán nhân công là hợp đồng mang bản chất dịch vụ/khoán việc theo khối lượng sản phẩm hoàn thành (tính theo tấn kết cấu, m² tôn lợp, mét xà gồ, cụm liên kết neo). 
+- **Quyền tự chủ của tổ đội:** Tổ đội khoán tự chịu trách nhiệm tuyển chọn, bố trí, điều phối và phân công nhân lực nội bộ để hoàn thành khối lượng đúng mốc tiến độ thỏa thuận. Công ty chỉ thực hiện nghiệm thu chất lượng kỹ thuật theo tiêu chuẩn bản vẽ và giám sát an toàn công trường, **tuyệt đối không chấm công theo giờ, không quản lý điều hành phân công trực tiếp từng người như lao động thuộc biên chế**.
+- **Chống rủi ro truy thu BHXH và phạt vi phạm:** Việc phân định minh bạch bản chất quan hệ là cơ sở pháp lý vững chắc bảo vệ Công ty trước các đợt thanh tra, tránh rủi ro bị cơ quan chức năng tái phân loại hợp đồng khoán thành HĐLĐ dẫn tới truy thu BHXH và xử phạt vi phạm hành chính theo Nghị định 283/2026/NĐ-CP.
+
+### 2. Quản trị an toàn lao động (HSE) – Tuyệt đối không "khoán trắng"
+- **Trách nhiệm an toàn không thể chuyển giao:** Dù áp dụng hình thức giao khoán khối lượng, Công ty tuyệt đối không "khoán trắng" an toàn lao động cho tổ đội. Lắp dựng kết cấu thép là ngành nghề nguy cơ cao (làm việc trên cao, lắp ghép cấu kiện tải trọng lớn, sử dụng thiết bị cẩu nâng, hàn cắt trên cao, điện thi công).
+- **Điều kiện an toàn bắt buộc trước khi vào công trường:**
+  + 100% thợ trong tổ khoán phải có Thẻ an toàn lao động Nhóm 3 còn hiệu lực (theo quy định tại Nghị định 44/2016/NĐ-CP và Nghị định 140/2018/NĐ-CP).
+  + 100% nhân sự tham gia thi công được tham gia bảo hiểm bắt buộc đối với người lao động thi công trên công trường (theo Điều 10 Luật Xây dựng 2025, Nghị định 67/2023/NĐ-CP sửa đổi bởi Nghị định 220/2026/NĐ-CP).
+  + Trang bị đầy đủ và bắt buộc sử dụng phương tiện bảo vệ cá nhân (PPE) chuyên dụng: dây an toàn toàn thân 2 móc chống sốc đạt chuẩn, mũ bảo hộ quai cài 3 điểm, giày bảo hộ mũi lót thép, lưới hứng rơi và dây cứu sinh độc lập.
+- **Xử lý vi phạm an toàn:** Nghiêm cấm mọi hành vi phạt tiền hoặc trừ tiền khoán trái luật khi phát hiện vi phạm an toàn. Khi thợ của tổ khoán vi phạm quy định HSE, Chỉ huy trưởng/an toàn viên lập biên bản vi phạm, ra lệnh tạm đình chỉ ngay công việc của người vi phạm hoặc cả tổ thợ; mọi xử lý tài chính chỉ được thực hiện theo đúng chế tài đã thỏa thuận trong hợp đồng kinh tế (bồi thường thiệt hại thực tế do lỗi vi phạm gây ra, phạt vi phạm nghĩa vụ hợp đồng nếu có thỏa thuận hợp lệ, hoặc chấm dứt hợp đồng khoán).
+
+### 3. Điều kiện kế toán, thuế và thanh toán minh bạch
+- **Tính pháp lý của hồ sơ:** Ký kết Hợp đồng giao khoán công việc giữa Giám đốc Công ty và Người đại diện tổ đội khoán (Tổ trưởng) bắt buộc phải đính kèm **Văn bản ủy quyền hợp pháp có chữ ký xác nhận của 100% thành viên tổ** và bản sao CCCD của từng cá nhân.
+- **Nghiệm thu khối lượng:** Căn cứ thanh toán là **Biên bản nghiệm thu khối lượng hoàn thành** có chữ ký kiểm tra của Kỹ thuật công trường, phê duyệt của Chỉ huy trưởng và xác nhận của Đại diện tổ khoán.
+- **Bảng kê chia tiền công:** Phải lập **Bảng kê phân chia tiền công** có đầy đủ thông tin: họ tên, CCCD, mã số thuế (MST) cá nhân, số tài khoản (STK) ngân hàng và chữ ký xác nhận của từng thành viên.
+- **Khấu trừ thuế TNCN 10%:** Kế toán Công ty thực hiện khấu trừ 10% thuế TNCN trước khi chi trả tiền công cho các khoản thanh toán từ 2.000.000 đồng/lần trở lên đối với cá nhân vãng lai, trừ trường hợp cá nhân đủ điều kiện làm Bản cam kết thu nhập theo Mẫu 08/CK-TNCN theo quy định pháp luật thuế hiện hành (ước tính tổng thu nhập chịu thuế cả năm dưới mức giảm trừ gia cảnh 186.000.000 đồng/năm tương đương 15,5 triệu đồng/tháng theo Nghị quyết số 110/2025/UBTVQH15 áp dụng từ kỳ tính thuế 2026).
+- **Thanh toán không tiền mặt:** 100% thanh toán chi trả tiền công khoán từ 5.000.000 đồng trở lên phải thực hiện bằng hình thức chuyển khoản qua tài khoản ngân hàng chính chủ của người lao động (hoặc người đại diện được ủy quyền hợp pháp) theo Thông tư 133/2016/TT-BTC.
+
 ## 9. Checklist hồ sơ nhân sự
 
 Mỗi người có **một hồ sơ số duy nhất**, dùng xuyên suốt các công trình. Hành chính – Nhân sự kiểm tra trước khi cho vào làm việc.
@@ -205,6 +232,22 @@ Mỗi người có **một hồ sơ số duy nhất**, dùng xuyên suốt các 
 
 Người kiểm tra: ******\_\_****** Ngày: **_/_**/**\_\_** Kết luận: ☐ Đủ ☐ Thiếu: ******\_\_******
 
+### Hồ sơ bắt buộc đối với Tổ đội khoán nhân công (Bộ hồ sơ STT 85)
+
+| #   | Hồ sơ tổ đội khoán                                                   | Tình trạng | Ghi chú                                   |
+| --- | -------------------------------------------------------------------- | ---------- | ----------------------------------------- |
+| 1   | Hợp đồng giao khoán nhân công theo khối lượng (STT 85)               | ☐          | Giám đốc ký                               |
+| 2   | Giấy ủy quyền của 100% thành viên tổ kèm bản sao CCCD                | ☐          | Đầy đủ chữ ký 100% thợ (Phụ lục 01)       |
+| 3   | Bảng khối lượng, đơn giá và tiến độ cam kết                          | ☐          | Phụ lục 02 STT 85                         |
+| 4   | Thẻ an toàn lao động Nhóm 3 còn hạn của 100% thợ                     | ☐          | NĐ 44/2016 & NĐ 140/2018                  |
+| 5   | Chứng nhận bảo hiểm công trường cho người lao động                   | ☐          | Điều 10 Luật Xây dựng 2025                |
+| 6   | Bản cam kết tuân thủ an toàn lao động, VSMT và PCCC                 | ☐          | Phụ lục 06 STT 85                         |
+| 7   | Biên bản nghiệm thu khối lượng hoàn thành                            | ☐          | Kỹ thuật, CHT và Tổ trưởng ký (Phụ lục 03)|
+| 8   | Bảng thanh toán tiền khoán & phân chia tiền công (CCCD, MST, STK)    | ☐          | Phụ lục 04 STT 85                         |
+| 9   | Chứng từ khấu trừ thuế TNCN 10% hoặc Bản cam kết 08/CK-TNCN          | ☐          | Phụ lục 07 STT 85 (Kế toán thực hiện)     |
+| 10  | Ủy nhiệm chi chuyển khoản ngân hàng (không dùng tiền mặt từ 5 triệu) | ☐          | Chứng từ ngân hàng                        |
+| 11  | Biên bản thanh lý hợp đồng giao khoán                                | ☐          | Phụ lục 05 STT 85                         |
+
 ## 10. Kiểm soát nội bộ
 
 1. Hành chính – Nhân sự lập **Bảng theo dõi hợp đồng** (ngày hết hạn, số lần ký) và nhắc hết hạn theo thời hạn tại Bảng tham số.
@@ -223,4 +266,4 @@ Người kiểm tra: ******\_\_****** Ngày: **_/_**/**\_\_** Kết luận: ☐ 
 
 ## 12. Căn cứ
 
-Bộ luật Lao động 2019 (Điều 21 và các điều về hợp đồng, thử việc); Luật Bảo hiểm xã hội 2024; Luật Việc làm 2025; Luật Bảo vệ dữ liệu cá nhân 2025 và Nghị định 356/2025/NĐ-CP. Xem `00-can-cu-phap-ly.md` và `00-bang-tham-so.md`.
+Bộ luật Lao động 2019 (Điều 13, Điều 21 và các điều về hợp đồng, thử việc); Luật Xây dựng 2025 (Điều 10 về bảo hiểm bắt buộc trên công trường); Luật An toàn, vệ sinh lao động 2015; Luật Bảo hiểm xã hội 2024; Luật Việc làm 2025; Luật Bảo vệ dữ liệu cá nhân 2025 và Nghị định 356/2025/NĐ-CP; Nghị định 44/2016/NĐ-CP và Nghị định 140/2018/NĐ-CP (huấn luyện ATVSLĐ Nhóm 3); Nghị định 67/2023/NĐ-CP sửa đổi bởi Nghị định 220/2026/NĐ-CP; Nghị định 283/2026/NĐ-CP (xử phạt vi phạm hành chính trong lĩnh vực lao động, BHXH); Thông tư 133/2016/TT-BTC. Xem `00-can-cu-phap-ly.md` và `00-bang-tham-so.md`.

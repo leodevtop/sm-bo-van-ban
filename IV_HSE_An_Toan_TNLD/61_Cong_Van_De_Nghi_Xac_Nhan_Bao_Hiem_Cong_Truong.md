@@ -84,6 +84,6 @@ Xin trân trọng cảm ơn sự hợp tác của Quý đơn vị!
 ---
 
 ## PHẦN IV. CĂN CỨ PHÁP LÝ ÁP DỤNG
-1. **Luật Xây dựng 2025** (Luật số 62/2025/QH15): Điều 10 về bảo hiểm bắt buộc trong hoạt động đầu tư xây dựng.
+1. **Luật Xây dựng 2025** (Luật số 135/2025/QH15): Điều 10 về bảo hiểm bắt buộc trong hoạt động đầu tư xây dựng.
 2. **Nghị định 67/2023/NĐ-CP** và **Nghị định 220/2026/NĐ-CP** ◐ của Chính phủ: Quy định về điều kiện, mức phí và mức trách nhiệm bảo hiểm bắt buộc đối với người lao động thi công trên công trường và trách nhiệm dân sự đối với bên thứ ba.
 3. **Nghị định 207/2026/NĐ-CP** của Chính phủ: Quản lý an toàn trong thi công xây dựng công trình.
